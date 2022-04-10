@@ -1,0 +1,1246 @@
+ *******************************************************************************
+ ** Site#: 9602  E-mail support:    MrMOPAC@ATT.net    Version 18.053W 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 18.053W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 174**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Thu Feb 22 16:06:16 2018  *
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "REACTANT (PROP-2-ENAL ANION PLUS C5H5N-CH3 CATION).ARC"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "PRODUCT (PROP-2-ENAL PLUS C5H6N-CH3).ARC"
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = 0
+ *
+ *
+ *
+ *  EPS= 78.40 - USE ANDREAS KLAMT'S COSMO IMPLICIT SOLVATION MODEL
+ *  LOCATE-TS  - LOCATE A TRANSITION STATE USING REACTANTS AND PRODUCTS
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *  HTML(NORES)- SUPPRESS LIST OF RESIDUES IN HTML FILE
+ *******************************************************************************
+GEO_DAT="Reactant (prop-2-enal anion plus C5H5N-CH3 cation).arc" +
+GEO_REF="Product (prop-2-enal plus C5H6N-CH3).arc" +
+eps=78.4 HTML(nores) locate-TS=(C:5,10,30,30,60,60,100,100,150,150,200,300,300;set=2) charge=0
+ Attempt to locate the transition state for the reaction [CHO-CH-CH3]^(-) + [C5H5N-CH3]^(+)
+
+   ATOM                 CHEMICAL                   X               Y               Z
+  NUMBER                 SYMBOL               (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       O(HETATM    1  O   HET A   1)   -0.17692269  *   0.03842988  *  -0.00321269  *
+     2       C(HETATM    2  C   HET B   2)    3.39945679  *  -0.01446246  *   0.01091775  *
+     3       C(HETATM    3  C   HET C   1)   -0.18286913  *   1.30146635  *   0.09899906  *
+     4       C(HETATM    4  C1  HET D   2)    2.89491100  *   1.47139644  *   1.78622699  *
+     5       N(HETATM    5  N   HET D   2)    2.87157723  *   0.22296474  *   1.24305349  *
+     6       C(HETATM    6  C2  HET D   2)    3.47207291  *   2.52908863  *   1.08756623  *
+     7       C(HETATM    7  C3  HET D   2)    4.03113350  *   2.30572926  *  -0.17010321  *
+     8       C(HETATM    8  C4  HET D   2)    3.99362743  *   1.02056619  *  -0.70829176  *
+     9       H(HETATM    9  H   HET E   1)   -0.62186618  *   1.66136579  *   1.04344131  *
+    10       C(HETATM   11  C   HET F   2)    2.21581137  *  -0.86840258  *   1.96653730  *
+    11       H(HETATM   12 1H1  HET K   1)    1.90421988  *   2.22775450  *  -2.20525555  *
+    12       H(HETATM   13 2H1  HET K   1)    1.03559744  *   0.69469796  *  -2.14484584  *
+    13       H(HETATM   14 3H1  HET K   1)    0.31728647  *   2.08609436  *  -2.97931049  *
+    14       H(HETATM   15  H2  HET K   1)    0.21431848  *   3.25064427  *  -0.64055069  *
+    15       H(HETATM   16  H1  HET D   2)    2.45564186  *   1.61273857  *   2.78866581  *
+    16       H(HETATM   17  H2  HET D   2)    3.47780490  *   3.52936556  *   1.53416831  *
+    17       H(HETATM   18  H3  HET D   2)    4.49262150  *   3.12855510  *  -0.72787485  *
+    18       H(HETATM   19  H4  HET D   2)    4.42119381  *   0.81255064  *  -1.69541639  *
+    19       H(HETATM   24 1H   HET F   2)    2.23729561  *  -0.71044710  *   3.06258213  *
+    20       H(HETATM   25 2H   HET F   2)    2.70619068  *  -1.84213387  *   1.76992318  *
+    21       H(HETATM   26 3H   HET F   2)    1.14799825  *  -0.94214636  *   1.64612148  *
+    22       C(HETATM   27  C1  HET K   1)    0.90433256  *   1.78428079  *  -2.10286308  *
+    23       C(HETATM   28  C2  HET K   1)    0.25894765  *   2.19587724  *  -0.82996553  *
+    24       H(HETATM   26  H   HET B   2)    3.34283701  *  -1.04131872  *  -0.39019765  *
+ 
+
+                        After docking
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.580   3.036  -0.999        1.91         1.91
+            (HETATM   16  H2  HET D   2)   3.030   3.509   1.387        0.66         2.57
+            (HETATM   17  H3  HET D   2)   5.056   2.758  -0.073        0.61         3.18
+            (HETATM   13 3H1  HET K   1)   1.168   2.184  -2.874        0.53         3.71
+            (HETATM    1  O   HET A   1)  -0.531   0.238   0.095        0.52         4.23
+            (HETATM   22  C1  HET K   1)   0.787   1.629  -2.023        0.49         4.72
+            (HETATM   14  H2  HET K   1)   0.054   3.286  -0.900        0.48         5.20
+            (HETATM   12 2H1  HET K   1)   0.944   0.559  -2.105        0.44         5.64
+            (HETATM    6  C2  HET D   2)   3.253   2.499   1.061        0.38         6.01
+            (HETATM    7  C3  HET D   2)   4.019   2.376  -0.218        0.34         6.35
+            (HETATM    5  N   HET D   2)   3.197   0.103   1.385        0.33         6.68
+            (HETATM   19 1H   HET F   2)   2.376  -1.002   2.987        0.33         7.01
+            (HETATM    9  H   HET E   1)  -0.413   1.940   1.139        0.32         7.33
+            (HETATM   23  C2  HET K   1)   0.195   2.206  -0.974        0.31         7.64
+            (HETATM   20 2H   HET F   2)   2.504  -1.916   1.463        0.31         7.95
+            (HETATM   21 3H   HET F   2)   1.212  -0.706   1.658        0.29         8.24
+            (HETATM    3  C   HET C   1)  -0.280   1.425   0.175        0.27         8.51
+            (HETATM   18  H4  HET D   2)   4.465   0.812  -1.698        0.26         8.78
+            (HETATM   24  H   HET B   2)   3.650  -1.105  -0.302        0.23         9.01
+            (HETATM    8  C4  HET D   2)   4.063   0.961  -0.702        0.20         9.21
+            (HETATM   15  H1  HET D   2)   2.315   1.504   2.712        0.20         9.40
+            (HETATM    2  C   HET B   2)   3.629  -0.068   0.047        0.16         9.56
+            (HETATM    4  C1  HET D   2)   2.862   1.426   1.768        0.15         9.71
+            (HETATM   10  C   HET F   2)   2.268  -0.927   1.890        0.12         9.84
+
+   Difference between GEO_DAT and GEO_REF:   9.835 = total,  0.4098 = Average,  0.5343 = RMS, in Angstroms
+
+    The rotated-translated input geometry will be written to: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\Reactant (prop-2-enal anion plus C5H5N-CH3 cation).new'
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C9 H13 N O  =    24 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+   Ion Atom No.           Label               Charge (Distances are between charged sites predicted by Lewis structure theory)
+ 
+    1   C    7   (HETATM    7  C3  HET D   2)   +1  (4.8 Angstroms from anion  O    1, Label: HETATM    1  O   HET A   1)
+ 
+    1   O    1   (HETATM    1  O   HET A   1)   -1  (4.8 Angstroms from cation  C    7, Label: HETATM    7  C3  HET D   2)
+
+ Set 1: Atoms involved in covalent bond-breaking and bond-making                  Connectivity of atoms
+
+                                                                             Data-set                  Reference
+                                     (PDB labels from GEO-REF)
+   1    Atom:   C     7  PDB Label: (HETATM    7  C3  HET D   2)           6     8    17              6     8    11    17
+   2    Atom:   H    11  PDB Label: (HETATM   11 1H1  HET K   1)          22                          7
+   3    Atom:   C    22  PDB Label: (HETATM   22  C1  HET K   1)          11    12    13    23       12    13    23
+
+ Set 2 : Atoms involved in covalent bond-breaking and bond-making, plus nearest neighbors
+
+   1    Atom:   C     7  PDB Label: (HETATM    7  C3  HET D   2 )
+   2    Atom:   H    11  PDB Label: (HETATM   11 1H1  HET K   1 )
+   3    Atom:   C    22  PDB Label: (HETATM   22  C1  HET K   1 )
+   4    Atom:   C     6  PDB Label: (HETATM    6  C2  HET D   2 )
+   5    Atom:   C     8  PDB Label: (HETATM    8  C4  HET D   2 )
+   6    Atom:   H    17  PDB Label: (HETATM   17  H3  HET D   2 )
+   7    Atom:   H    12  PDB Label: (HETATM   12 2H1  HET K   1 )
+   8    Atom:   H    13  PDB Label: (HETATM   13 3H1  HET K   1 )
+   9    Atom:   C    23  PDB Label: (HETATM   23  C2  HET K   1 )
+
+          Set 2 selected by keywork 'SET' within keyword 'LOCATE-TS'
+
+          Constraining constant: 5.00 Kcal/mol/Angstrom^2
+
+
+          Current value of GEO_REF constraint:                5.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    9.84  Angstroms
+
+          Heat of formation of the first geometry:           -0.965 Kcal/mol
+          Heat of formation of the second geometry:          -2.742 Kcal/mol
+          Contribution to heat of formation due to stress:   68.52  Kcal/mol
+          Gradient arising from first geometry:              52.29  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             53.09  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   177.24  degrees
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    37.542 HEAT:  64.81726
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    37.421 HEAT:  65.12378
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    37.419 HEAT:  65.11675
+ CYCLE:     4 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   140.727 HEAT:  63.80530
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    54.134 HEAT:  56.28801
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    38.138 HEAT:  57.32533
+ CYCLE:     7 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    18.179 HEAT:  56.94450
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    19.195 HEAT:  55.91507
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    22.079 HEAT:  54.65862
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    92.417 HEAT:  54.00788
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    16.443 HEAT:  52.51755
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.510 HEAT:  52.95663
+ CYCLE:    13 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    17.075 HEAT:  52.96069
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    22.004 HEAT:  52.75348
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    37.644 HEAT:  52.15208
+ CYCLE:    16 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    17.832 HEAT:  51.59556
+ CYCLE:    17 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    21.045 HEAT:  50.68759
+ CYCLE:    18 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    23.485 HEAT:  49.87410
+ CYCLE:    19 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    45.471 HEAT:  49.30359
+ CYCLE:    20 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    18.033 HEAT:  48.69108
+ CYCLE:    21 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.745 HEAT:  48.64997
+ CYCLE:    22 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    19.105 HEAT:  48.76722
+ CYCLE:    23 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    29.452 HEAT:  48.74902
+ CYCLE:    24 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    15.010 HEAT:  48.58778
+ CYCLE:    25 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    11.765 HEAT:  48.18761
+ CYCLE:    26 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.235 HEAT:  47.90701
+ CYCLE:    27 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    17.178 HEAT:  47.57775
+ CYCLE:    28 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    22.133 HEAT:  47.47485
+ CYCLE:    29 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.330 HEAT:  47.47576
+ CYCLE:    30 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.475 HEAT:  47.55967
+ CYCLE:    31 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    12.662 HEAT:  47.49119
+ CYCLE:    32 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    18.542 HEAT:  47.17349
+ CYCLE:    33 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    29.760 HEAT:  46.71593
+ CYCLE:    34 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    13.374 HEAT:  46.34961
+ CYCLE:    35 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.640 HEAT:  46.12695
+ CYCLE:    36 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    14.507 HEAT:  45.87038
+ CYCLE:    37 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    24.910 HEAT:  45.33857
+ CYCLE:    38 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    39.010 HEAT:  44.79571
+ CYCLE:    39 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    16.049 HEAT:  44.36216
+ CYCLE:    40 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.816 HEAT:  44.27726
+ CYCLE:    41 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.581 HEAT:  43.89591
+ CYCLE:    42 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    13.472 HEAT:  43.59644
+ CYCLE:    43 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.607 HEAT:  43.29047
+ CYCLE:    44 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.768 HEAT:  43.15778
+ CYCLE:    45 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.635 HEAT:  43.02086
+ CYCLE:    46 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    12.230 HEAT:  42.91944
+ CYCLE:    47 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.483 HEAT:  42.87870
+ CYCLE:    48 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.779 HEAT:  42.81312
+ CYCLE:    49 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.629 HEAT:  42.72703
+ CYCLE:    50 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.733 HEAT:  42.62357
+ CYCLE:    51 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.511 HEAT:  42.50770
+ CYCLE:    52 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.693 HEAT:  42.46260
+ CYCLE:    53 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.718 HEAT:  42.34529
+ CYCLE:    54 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    20.065 HEAT:  42.21148
+ CYCLE:    55 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    11.895 HEAT:  41.97629
+ CYCLE:    56 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     9.256 HEAT:  41.77796
+ CYCLE:    57 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     9.931 HEAT:  41.65400
+ CYCLE:    58 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.349 HEAT:  41.46832
+ CYCLE:    59 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    18.139 HEAT:  41.27056
+ CYCLE:    60 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    16.625 HEAT:  41.14942
+ CYCLE:    61 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    20.636 HEAT:  41.00422
+ CYCLE:    62 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.462 HEAT:  40.94012
+ CYCLE:    63 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.200 HEAT:  40.95059
+ CYCLE:    64 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.260 HEAT:  40.88337
+ CYCLE:    65 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    97.791 HEAT:  41.62336
+ CYCLE:    66 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.100 HEAT:  40.77767
+ CYCLE:    67 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.547 HEAT:  40.62563
+ CYCLE:    68 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    57.429 HEAT:  40.87582
+ CYCLE:    69 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.799 HEAT:  40.56168
+ CYCLE:    70 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.088 HEAT:  40.44443
+ CYCLE:    71 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.654 HEAT:  40.40274
+ CYCLE:    72 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    24.147 HEAT:  40.27343
+ CYCLE:    73 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    23.975 HEAT:  40.32456
+ CYCLE:    74 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.437 HEAT:  40.19704
+ CYCLE:    75 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     5.577 HEAT:  40.13493
+ CYCLE:    76 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.986 HEAT:  40.11832
+ CYCLE:    77 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.382 HEAT:  39.96357
+ CYCLE:    78 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    26.037 HEAT:  39.95418
+ CYCLE:    79 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     2.243 HEAT:  39.86813
+
+     GRADIENT =  2.24324 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 5.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 5p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 5.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 5p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:                5.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    7.80  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.406   2.815  -1.090        1.26         1.26
+            (HETATM   17  H3  HET D   2)   4.916   2.586  -0.177        0.56         1.82
+            (HETATM   16  H2  HET D   2)   2.962   3.309   1.347        0.53         2.35
+            (HETATM   13 3H1  HET K   1)   1.375   2.598  -2.743        0.51         2.86
+            (HETATM   14  H2  HET K   1)   0.315   3.685  -0.732        0.42         3.28
+            (HETATM   22  C1  HET K   1)   1.029   2.038  -1.883        0.40         3.68
+            (HETATM    1  O   HET A   1)  -0.281   0.620   0.225        0.38         4.06
+            (HETATM    6  C2  HET D   2)   3.150   2.300   1.000        0.33         4.39
+            (HETATM    5  N   HET D   2)   3.076  -0.096   1.316        0.33         4.72
+            (HETATM    9  H   HET E   1)  -0.181   2.312   1.275        0.32         5.03
+            (HETATM   12 2H1  HET K   1)   1.202   0.972  -1.965        0.31         5.35
+            (HETATM    7  C3  HET D   2)   3.888   2.180  -0.296        0.31         5.66
+            (HETATM   21 3H   HET F   2)   1.088  -0.918   1.575        0.29         5.95
+            (HETATM   23  C2  HET K   1)   0.442   2.605  -0.828        0.28         6.23
+            (HETATM   19 1H   HET F   2)   2.236  -1.189   2.918        0.26         6.49
+            (HETATM   20 2H   HET F   2)   2.393  -2.117   1.404        0.22         6.71
+            (HETATM   24  H   HET B   2)   3.512  -1.300  -0.379        0.20         6.91
+            (HETATM   18  H4  HET D   2)   4.355   0.615  -1.762        0.20         7.11
+            (HETATM    8  C4  HET D   2)   3.941   0.764  -0.771        0.15         7.26
+            (HETATM    3  C   HET C   1)  -0.033   1.807   0.310        0.14         7.40
+            (HETATM    2  C   HET B   2)   3.504  -0.265  -0.023        0.12         7.52
+            (HETATM   15  H1  HET D   2)   2.211   1.305   2.655        0.12         7.64
+
+          Heat of formation of the first geometry:            1.609 Kcal/mol
+          Heat of formation of the second geometry:          -0.549 Kcal/mol
+          Contribution to heat of formation due to stress:   38.81  Kcal/mol
+          Gradient arising from first geometry:              19.54  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             20.15  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   174.60  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 5.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 5p0 average.mop'
+
+
+          Constraining constant: 10.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    48.099 HEAT:  75.68233
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    47.937 HEAT:  75.85373
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    47.932 HEAT:  75.84035
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   170.383 HEAT:  71.81360
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    76.646 HEAT:  60.77313
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    41.891 HEAT:  62.44629
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    19.984 HEAT:  62.30910
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    19.496 HEAT:  61.06949
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    25.539 HEAT:  59.78985
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    30.771 HEAT:  58.87509
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.502 HEAT:  58.52815
+ CYCLE:    12 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.107 HEAT:  58.85025
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.201 HEAT:  58.96610
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    17.885 HEAT:  59.05149
+ CYCLE:    15 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.412 HEAT:  58.83584
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.386 HEAT:  58.54754
+ CYCLE:    17 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.688 HEAT:  58.25752
+ CYCLE:    18 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.831 HEAT:  57.88498
+ CYCLE:    19 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.190 HEAT:  57.75454
+ CYCLE:    20 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.271 HEAT:  57.75003
+ CYCLE:    21 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.003 HEAT:  57.75981
+ CYCLE:    22 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    17.053 HEAT:  57.84190
+ CYCLE:    23 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.946 HEAT:  57.71521
+ CYCLE:    24 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.574 HEAT:  57.33607
+ CYCLE:    25 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.402 HEAT:  57.00753
+ CYCLE:    26 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.723 HEAT:  56.71267
+ CYCLE:    27 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    21.284 HEAT:  56.60413
+ CYCLE:    28 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.325 HEAT:  56.61233
+ CYCLE:    29 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.712 HEAT:  56.62769
+ CYCLE:    30 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.944 HEAT:  56.70494
+ CYCLE:    31 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    12.436 HEAT:  56.82807
+ CYCLE:    32 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.913 HEAT:  56.62868
+ CYCLE:    33 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.123 HEAT:  56.54339
+ CYCLE:    34 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.476 HEAT:  56.42072
+ CYCLE:    35 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.485 HEAT:  56.29353
+ CYCLE:    36 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.597 HEAT:  56.26299
+ CYCLE:    37 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.241 HEAT:  56.04333
+ CYCLE:    38 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.806 HEAT:  56.03461
+ CYCLE:    39 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     2.952 HEAT:  55.98799
+
+     GRADIENT =  2.95207 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 10.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 10p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 10.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 10p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:               10.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    6.36  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.292   2.770  -1.143        1.00         1.00
+            (HETATM   13 3H1  HET K   1)   1.417   2.655  -2.677        0.44         1.44
+            (HETATM   17  H3  HET D   2)   4.845   2.612  -0.275        0.44         1.88
+            (HETATM   16  H2  HET D   2)   2.987   3.289   1.345        0.40         2.27
+            (HETATM   22  C1  HET K   1)   1.116   2.091  -1.805        0.36         2.64
+            (HETATM    7  C3  HET D   2)   3.832   2.165  -0.345        0.34         2.98
+            (HETATM    5  N   HET D   2)   3.029  -0.116   1.276        0.30         3.28
+            (HETATM    1  O   HET A   1)  -0.180   0.637   0.289        0.30         3.58
+            (HETATM    6  C2  HET D   2)   3.132   2.281   0.973        0.29         3.87
+            (HETATM   14  H2  HET K   1)   0.423   3.723  -0.616        0.29         4.17
+            (HETATM    9  H   HET E   1)  -0.113   2.315   1.351        0.28         4.45
+            (HETATM   12 2H1  HET K   1)   1.310   1.030  -1.890        0.24         4.69
+            (HETATM   21 3H   HET F   2)   1.039  -0.957   1.516        0.23         4.92
+            (HETATM   23  C2  HET K   1)   0.535   2.643  -0.739        0.22         5.14
+            (HETATM   20 2H   HET F   2)   2.363  -2.139   1.382        0.19         5.33
+            (HETATM   19 1H   HET F   2)   2.167  -1.191   2.880        0.19         5.51
+            (HETATM   18  H4  HET D   2)   4.330   0.595  -1.792        0.17         5.69
+            (HETATM    8  C4  HET D   2)   3.898   0.746  -0.809        0.15         5.84
+            (HETATM   24  H   HET B   2)   3.449  -1.314  -0.427        0.14         5.98
+
+          Heat of formation of the first geometry:            3.244 Kcal/mol
+          Heat of formation of the second geometry:           1.627 Kcal/mol
+          Contribution to heat of formation due to stress:   51.12  Kcal/mol
+          Gradient arising from first geometry:              32.13  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             31.21  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   174.52  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 10.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 10p0 average.mop'
+
+
+          Constraining constant: 30.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:   118.485 HEAT:  154.2409
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   117.810 HEAT:  154.2460
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   117.775 HEAT:  154.1657
+ CYCLE:     4 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   212.271 HEAT:  124.4133
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   243.029 HEAT:  103.4443
+ CYCLE:     6 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    65.396 HEAT:  97.54213
+ CYCLE:     7 TIME:   0.066 TIME LEFT:  2.00D  GRAD.:    31.660 HEAT:  101.0922
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    31.172 HEAT:  100.1493
+ CYCLE:     9 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    29.596 HEAT:  97.99467
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    74.260 HEAT:  96.99908
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    13.596 HEAT:  95.98637
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.966 HEAT:  96.27713
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.203 HEAT:  96.44045
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.031 HEAT:  96.34818
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.707 HEAT:  96.23731
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.697 HEAT:  95.96365
+ CYCLE:    17 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.709 HEAT:  95.54144
+ CYCLE:    18 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.257 HEAT:  95.20623
+ CYCLE:    19 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.485 HEAT:  95.24294
+ CYCLE:    20 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    12.595 HEAT:  95.20976
+ CYCLE:    21 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.474 HEAT:  95.14657
+ CYCLE:    22 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.308 HEAT:  94.92324
+ CYCLE:    23 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.090 HEAT:  94.50795
+ CYCLE:    24 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    24.593 HEAT:  94.07797
+ CYCLE:    25 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.725 HEAT:  94.04721
+ CYCLE:    26 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    22.529 HEAT:  93.94493
+ CYCLE:    27 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    16.117 HEAT:  93.71823
+ CYCLE:    28 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.205 HEAT:  93.64510
+ CYCLE:    29 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.543 HEAT:  93.68618
+ CYCLE:    30 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.408 HEAT:  93.82500
+ CYCLE:    31 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.105 HEAT:  93.80175
+ CYCLE:    32 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.289 HEAT:  93.55083
+ CYCLE:    33 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.253 HEAT:  93.44598
+ CYCLE:    34 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.180 HEAT:  93.31707
+ CYCLE:    35 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.523 HEAT:  93.21319
+ CYCLE:    36 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.828 HEAT:  93.19649
+ CYCLE:    37 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.341 HEAT:  93.21352
+ CYCLE:    38 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.156 HEAT:  93.17197
+ CYCLE:    39 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.739 HEAT:  93.06296
+ CYCLE:    40 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.095 HEAT:  93.04504
+ CYCLE:    41 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.908 HEAT:  92.94657
+
+     GRADIENT =  3.90815 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:               30.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    4.29  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.168   2.700  -1.195        0.70         0.70
+            (HETATM    7  C3  HET D   2)   3.793   2.131  -0.394        0.34         1.04
+            (HETATM   22  C1  HET K   1)   1.176   2.194  -1.722        0.34         1.38
+            (HETATM    5  N   HET D   2)   2.988  -0.157   1.231        0.28         1.66
+            (HETATM   13 3H1  HET K   1)   1.396   2.757  -2.616        0.27         1.92
+            (HETATM   17  H3  HET D   2)   4.775   2.640  -0.401        0.26         2.19
+            (HETATM    6  C2  HET D   2)   3.145   2.238   0.952        0.21         2.40
+            (HETATM    1  O   HET A   1)  -0.101   0.686   0.343        0.21         2.61
+            (HETATM   16  H2  HET D   2)   3.059   3.241   1.356        0.19         2.80
+            (HETATM    9  H   HET E   1)  -0.100   2.348   1.418        0.19         2.99
+            (HETATM   23  C2  HET K   1)   0.604   2.726  -0.640        0.15         3.14
+            (HETATM   14  H2  HET K   1)   0.510   3.803  -0.482        0.14         3.28
+            (HETATM   12 2H1  HET K   1)   1.405   1.139  -1.804        0.14         3.43
+            (HETATM   21 3H   HET F   2)   1.000  -1.034   1.446        0.13         3.56
+            (HETATM    8  C4  HET D   2)   3.879   0.709  -0.843        0.13         3.69
+            (HETATM   20 2H   HET F   2)   2.358  -2.184   1.372        0.11         3.80
+
+          Heat of formation of the first geometry:            9.725 Kcal/mol
+          Heat of formation of the second geometry:           8.385 Kcal/mol
+          Contribution to heat of formation due to stress:   74.84  Kcal/mol
+          Gradient arising from first geometry:              67.41  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             67.06  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   176.40  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 average.mop'
+
+
+          Constraining constant: 30.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:    64.417 HEAT:  83.38261
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    63.890 HEAT:  83.52534
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    63.874 HEAT:  83.50027
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   104.953 HEAT:  77.69857
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    70.048 HEAT:  71.55418
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    27.463 HEAT:  71.43047
+ CYCLE:     7 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    19.988 HEAT:  71.20800
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    21.071 HEAT:  69.55263
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    72.719 HEAT:  68.81909
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.281 HEAT:  68.31296
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.663 HEAT:  68.52936
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.526 HEAT:  68.70329
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.296 HEAT:  68.83707
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     5.643 HEAT:  68.76377
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.915 HEAT:  68.70134
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.276 HEAT:  68.58195
+ CYCLE:    17 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    13.082 HEAT:  68.47865
+ CYCLE:    18 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.954 HEAT:  68.49326
+ CYCLE:    19 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.997 HEAT:  68.56487
+ CYCLE:    20 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.212 HEAT:  68.65323
+ CYCLE:    21 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.573 HEAT:  68.67524
+ CYCLE:    22 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.472 HEAT:  68.59884
+ CYCLE:    23 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.238 HEAT:  68.53069
+ CYCLE:    24 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     8.316 HEAT:  68.50330
+ CYCLE:    25 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    31.073 HEAT:  68.61795
+ CYCLE:    26 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.896 HEAT:  68.56803
+ CYCLE:    27 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.686 HEAT:  68.45335
+
+     GRADIENT =  3.68555 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:               30.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    3.40  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.112   2.654  -1.179        0.64         0.64
+            (HETATM    7  C3  HET D   2)   3.795   2.114  -0.397        0.34         0.97
+            (HETATM   22  C1  HET K   1)   1.162   2.237  -1.722        0.33         1.30
+            (HETATM    5  N   HET D   2)   2.985  -0.172   1.224        0.25         1.55
+            (HETATM   17  H3  HET D   2)   4.754   2.659  -0.458        0.19         1.74
+            (HETATM   13 3H1  HET K   1)   1.354   2.799  -2.624        0.19         1.92
+            (HETATM    6  C2  HET D   2)   3.181   2.221   0.962        0.17         2.09
+            (HETATM    1  O   HET A   1)  -0.104   0.704   0.327        0.15         2.24
+            (HETATM    9  H   HET E   1)  -0.150   2.363   1.412        0.14         2.38
+            (HETATM   23  C2  HET K   1)   0.593   2.757  -0.630        0.12         2.51
+            (HETATM    8  C4  HET D   2)   3.899   0.693  -0.838        0.12         2.62
+            (HETATM   16  H2  HET D   2)   3.122   3.222   1.378        0.11         2.73
+
+          Heat of formation of the first geometry:            7.570 Kcal/mol
+          Heat of formation of the second geometry:           5.980 Kcal/mol
+          Contribution to heat of formation due to stress:   54.90  Kcal/mol
+          Gradient arising from first geometry:              57.22  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             57.30  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   176.20  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 30.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 30p0 average.mop'
+
+
+          Constraining constant: 60.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:   113.386 HEAT:  119.8601
+ CYCLE:     2 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:   112.235 HEAT:  119.8855
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   112.169 HEAT:  119.7965
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   116.446 HEAT:  103.3273
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   141.272 HEAT:  91.88951
+ CYCLE:     6 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    41.597 HEAT:  90.37469
+ CYCLE:     7 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    22.199 HEAT:  92.09940
+ CYCLE:     8 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    21.616 HEAT:  91.78958
+ CYCLE:     9 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    23.455 HEAT:  90.79912
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    36.389 HEAT:  90.07460
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.683 HEAT:  89.72706
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.701 HEAT:  89.83384
+ CYCLE:    13 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.520 HEAT:  89.86960
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.805 HEAT:  89.86431
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.408 HEAT:  89.83311
+ CYCLE:    16 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.816 HEAT:  89.76994
+
+     GRADIENT =  3.81646 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:               60.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    2.43  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   3.027   2.609  -1.178        0.50         0.50
+            (HETATM    7  C3  HET D   2)   3.789   2.108  -0.398        0.31         0.82
+            (HETATM   22  C1  HET K   1)   1.185   2.255  -1.710        0.30         1.12
+            (HETATM    5  N   HET D   2)   2.963  -0.171   1.210        0.20         1.32
+            (HETATM    6  C2  HET D   2)   3.205   2.217   0.970        0.11         1.43
+            (HETATM   13 3H1  HET K   1)   1.343   2.813  -2.621        0.11         1.54
+            (HETATM   17  H3  HET D   2)   4.719   2.694  -0.512        0.11         1.66
+            (HETATM    1  O   HET A   1)  -0.079   0.700   0.316        0.0985       1.75
+            (HETATM    8  C4  HET D   2)   3.910   0.691  -0.835        0.0896       1.84
+            (HETATM   23  C2  HET K   1)   0.614   2.764  -0.612        0.0861       1.93
+
+          Heat of formation of the first geometry:           11.600 Kcal/mol
+          Heat of formation of the second geometry:          10.059 Kcal/mol
+          Contribution to heat of formation due to stress:   68.11  Kcal/mol
+          Gradient arising from first geometry:              90.81  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             90.68  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   177.77  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 average.mop'
+
+
+          Constraining constant: 60.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    58.989 HEAT:  84.95041
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    58.304 HEAT:  85.12757
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    58.274 HEAT:  85.09782
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    70.388 HEAT:  81.17960
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    42.147 HEAT:  77.39707
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    17.384 HEAT:  77.95601
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.111 HEAT:  78.13554
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.113 HEAT:  77.45853
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    40.027 HEAT:  76.77239
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.848 HEAT:  76.66132
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.301 HEAT:  76.71948
+ CYCLE:    12 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.102 HEAT:  76.73290
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.090 HEAT:  76.84521
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.521 HEAT:  76.89546
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.758 HEAT:  76.85367
+
+     GRADIENT =  3.75816 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:               60.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    2.06  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.991   2.579  -1.165        0.46         0.46
+            (HETATM    7  C3  HET D   2)   3.788   2.101  -0.397        0.30         0.76
+            (HETATM   22  C1  HET K   1)   1.193   2.266  -1.706        0.28         1.05
+            (HETATM    5  N   HET D   2)   2.949  -0.171   1.201        0.17         1.22
+            (HETATM    6  C2  HET D   2)   3.221   2.214   0.975        0.0877       1.30
+            (HETATM   17  H3  HET D   2)   4.695   2.711  -0.546        0.0840       1.39
+            (HETATM   13 3H1  HET K   1)   1.349   2.827  -2.616        0.0828       1.47
+            (HETATM    1  O   HET A   1)  -0.068   0.702   0.310        0.0761       1.55
+            (HETATM    8  C4  HET D   2)   3.923   0.686  -0.830        0.0736       1.62
+            (HETATM   23  C2  HET K   1)   0.619   2.770  -0.605        0.0715       1.69
+
+          Heat of formation of the first geometry:           11.352 Kcal/mol
+          Heat of formation of the second geometry:           9.654 Kcal/mol
+          Contribution to heat of formation due to stress:   55.85  Kcal/mol
+          Gradient arising from first geometry:              82.16  Kcal/mol/Angstrom
+          Gradient arising from second geometry:             82.03  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   177.33  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 60.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 60p0 average.mop'
+
+
+          Constraining constant: 100.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:   106.089 HEAT:  112.1848
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   104.566 HEAT:  112.2151
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   104.464 HEAT:  112.1159
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    76.075 HEAT:  100.9497
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    92.233 HEAT:  92.81795
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    26.484 HEAT:  92.85528
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.968 HEAT:  94.11976
+ CYCLE:     8 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    14.445 HEAT:  94.16377
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    17.339 HEAT:  93.69551
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    31.691 HEAT:  93.09831
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.417 HEAT:  92.81426
+ CYCLE:    12 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.777 HEAT:  92.75953
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.334 HEAT:  92.65897
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.062 HEAT:  92.75527
+ CYCLE:    15 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.246 HEAT:  92.78724
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.542 HEAT:  92.72151
+
+     GRADIENT =  3.54236 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              100.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    1.61  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.936   2.546  -1.166        0.38         0.38
+            (HETATM    7  C3  HET D   2)   3.789   2.093  -0.395        0.26         0.64
+            (HETATM   22  C1  HET K   1)   1.216   2.279  -1.695        0.25         0.89
+            (HETATM    5  N   HET D   2)   2.929  -0.169   1.189        0.13         1.03
+            (HETATM    6  C2  HET D   2)   3.236   2.210   0.979        0.0593       1.08
+            (HETATM   23  C2  HET K   1)   0.631   2.778  -0.595        0.0585       1.14
+            (HETATM   13 3H1  HET K   1)   1.360   2.839  -2.608        0.0575       1.20
+            (HETATM   17  H3  HET D   2)   4.670   2.729  -0.579        0.0570       1.26
+            (HETATM    3  C   HET C   1)   0.123   1.902   0.455        0.0560       1.31
+            (HETATM    1  O   HET A   1)  -0.054   0.705   0.306        0.0540       1.37
+
+          Heat of formation of the first geometry:           15.189 Kcal/mol
+          Heat of formation of the second geometry:          13.733 Kcal/mol
+          Contribution to heat of formation due to stress:   63.80  Kcal/mol
+          Gradient arising from first geometry:             113.08  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            112.81  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.12  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 average.mop'
+
+
+          Constraining constant: 100.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    53.444 HEAT:  89.92180
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    52.590 HEAT:  90.09607
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    52.547 HEAT:  90.06064
+ CYCLE:     4 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    44.542 HEAT:  86.37555
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    29.389 HEAT:  83.81463
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.899 HEAT:  84.38823
+ CYCLE:     7 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.029 HEAT:  84.63632
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    12.094 HEAT:  84.52349
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    18.295 HEAT:  84.06413
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.255 HEAT:  83.84024
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.328 HEAT:  83.79115
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.224 HEAT:  83.74218
+ CYCLE:    13 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.313 HEAT:  83.78362
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.915 HEAT:  83.84009
+ CYCLE:    15 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.671 HEAT:  83.86795
+
+     GRADIENT =  3.67106 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              100.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    1.44  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.912   2.523  -1.159        0.35         0.35
+            (HETATM    7  C3  HET D   2)   3.789   2.085  -0.395        0.24         0.60
+            (HETATM   22  C1  HET K   1)   1.226   2.288  -1.690        0.24         0.83
+            (HETATM    5  N   HET D   2)   2.918  -0.168   1.181        0.11         0.94
+            (HETATM   23  C2  HET K   1)   0.631   2.783  -0.591        0.0545       1.00
+            (HETATM    3  C   HET C   1)   0.118   1.908   0.457        0.0526       1.05
+            (HETATM   17  H3  HET D   2)   4.648   2.740  -0.605        0.0483       1.10
+            (HETATM   13 3H1  HET K   1)   1.376   2.854  -2.599        0.0475       1.14
+            (HETATM    6  C2  HET D   2)   3.246   2.207   0.980        0.0467       1.19
+            (HETATM    1  O   HET A   1)  -0.048   0.709   0.306        0.0454       1.24
+
+          Heat of formation of the first geometry:           15.448 Kcal/mol
+          Heat of formation of the second geometry:          14.218 Kcal/mol
+          Contribution to heat of formation due to stress:   54.20  Kcal/mol
+          Gradient arising from first geometry:             104.27  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            104.44  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.01  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 100.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 100p0 average.mop'
+
+
+          Constraining constant: 150.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   100.636 HEAT:  109.6255
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    98.810 HEAT:  109.6484
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    98.667 HEAT:  109.5396
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    51.658 HEAT:  100.6718
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    61.275 HEAT:  93.78260
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    19.851 HEAT:  94.12704
+ CYCLE:     7 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    11.378 HEAT:  95.17030
+ CYCLE:     8 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    10.486 HEAT:  95.39327
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.186 HEAT:  95.17244
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    19.219 HEAT:  94.52116
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.822 HEAT:  94.46710
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.158 HEAT:  94.37983
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.476 HEAT:  94.25536
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.410 HEAT:  94.32760
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.874 HEAT:  94.52147
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.774 HEAT:  94.45421
+
+     GRADIENT =  3.77365 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              150.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    1.19  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.873   2.502  -1.164        0.29         0.29
+            (HETATM    7  C3  HET D   2)   3.791   2.078  -0.392        0.21         0.50
+            (HETATM   22  C1  HET K   1)   1.247   2.297  -1.680        0.21         0.71
+            (HETATM    5  N   HET D   2)   2.904  -0.166   1.171        0.0835       0.79
+            (HETATM   23  C2  HET K   1)   0.637   2.788  -0.584        0.0506       0.84
+            (HETATM    3  C   HET C   1)   0.116   1.913   0.457        0.0481       0.89
+            (HETATM   13 3H1  HET K   1)   1.389   2.864  -2.590        0.0363       0.93
+            (HETATM   17  H3  HET D   2)   4.628   2.750  -0.628        0.0351       0.96
+            (HETATM    1  O   HET A   1)  -0.041   0.712   0.307        0.0349       1.00
+            (HETATM    6  C2  HET D   2)   3.254   2.204   0.981        0.0344       1.03
+
+          Heat of formation of the first geometry:           19.173 Kcal/mol
+          Heat of formation of the second geometry:          18.138 Kcal/mol
+          Contribution to heat of formation due to stress:   57.14  Kcal/mol
+          Gradient arising from first geometry:             131.11  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            130.75  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.46  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 average.mop'
+
+
+          Constraining constant: 150.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    50.388 HEAT:  92.40919
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    49.386 HEAT:  92.57899
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    49.329 HEAT:  92.53818
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    30.947 HEAT:  89.69557
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    21.890 HEAT:  87.13370
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.505 HEAT:  87.65310
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.637 HEAT:  87.97637
+ CYCLE:     8 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     9.953 HEAT:  87.92357
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.624 HEAT:  87.64679
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.155 HEAT:  87.39915
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.993 HEAT:  87.33669
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.950 HEAT:  87.22339
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.881 HEAT:  87.24947
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.131 HEAT:  87.31727
+
+     GRADIENT =  3.13148 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              150.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    1.09  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.855   2.487  -1.162        0.27         0.27
+            (HETATM    7  C3  HET D   2)   3.790   2.072  -0.393        0.20         0.46
+            (HETATM   22  C1  HET K   1)   1.257   2.304  -1.675        0.19         0.65
+            (HETATM    5  N   HET D   2)   2.896  -0.166   1.165        0.0683       0.72
+            (HETATM   23  C2  HET K   1)   0.636   2.792  -0.581        0.0488       0.77
+            (HETATM    3  C   HET C   1)   0.112   1.917   0.457        0.0445       0.82
+            (HETATM   13 3H1  HET K   1)   1.405   2.877  -2.581        0.0323       0.85
+            (HETATM   17  H3  HET D   2)   4.608   2.757  -0.648        0.0308       0.88
+            (HETATM    8  C4  HET D   2)   3.959   0.669  -0.819        0.0306       0.91
+            (HETATM    1  O   HET A   1)  -0.038   0.715   0.308        0.0304       0.94
+
+          Heat of formation of the first geometry:           19.717 Kcal/mol
+          Heat of formation of the second geometry:          19.002 Kcal/mol
+          Contribution to heat of formation due to stress:   48.60  Kcal/mol
+          Gradient arising from first geometry:             120.52  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            120.89  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.45  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 150.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 150p0 average.mop'
+
+
+          Constraining constant: 200.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    84.456 HEAT:  102.5134
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    82.633 HEAT:  102.5592
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    82.477 HEAT:  102.4651
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    34.675 HEAT:  96.44347
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    37.802 HEAT:  91.31935
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    15.420 HEAT:  91.78628
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.293 HEAT:  92.54412
+ CYCLE:     8 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.564 HEAT:  92.70951
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.092 HEAT:  92.62641
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    15.147 HEAT:  92.07112
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.431 HEAT:  92.11981
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.681 HEAT:  92.08480
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.854 HEAT:  91.91444
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.485 HEAT:  91.97567
+
+     GRADIENT =  3.48497 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 200.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 200p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 200.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 200p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              200.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    0.93  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.828   2.475  -1.167        0.23         0.23
+            (HETATM    7  C3  HET D   2)   3.791   2.066  -0.391        0.17         0.40
+            (HETATM   22  C1  HET K   1)   1.274   2.309  -1.667        0.17         0.56
+            (HETATM    5  N   HET D   2)   2.886  -0.164   1.159        0.0537       0.61
+            (HETATM   23  C2  HET K   1)   0.638   2.795  -0.576        0.0467       0.66
+            (HETATM    3  C   HET C   1)   0.109   1.921   0.456        0.0410       0.70
+            (HETATM    8  C4  HET D   2)   3.963   0.666  -0.817        0.0267       0.73
+            (HETATM   13 3H1  HET K   1)   1.416   2.885  -2.574        0.0266       0.76
+            (HETATM    6  C2  HET D   2)   3.264   2.200   0.979        0.0260       0.78
+            (HETATM    1  O   HET A   1)  -0.034   0.717   0.310        0.0246       0.81
+
+          Heat of formation of the first geometry:           22.443 Kcal/mol
+          Heat of formation of the second geometry:          22.161 Kcal/mol
+          Contribution to heat of formation due to stress:   47.37  Kcal/mol
+          Gradient arising from first geometry:             137.60  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            137.31  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.57  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 200.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 200p0 average.mop'
+
+
+          Constraining constant: 300.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:   137.917 HEAT:  114.3337
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   134.435 HEAT:  114.1241
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    45.157 HEAT:  101.6863
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   118.944 HEAT:  105.7697
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   129.435 HEAT:  113.7151
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   114.069 HEAT:  112.3504
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    81.432 HEAT:  108.3251
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    60.987 HEAT:  102.0901
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    51.032 HEAT:  100.3078
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    49.422 HEAT:  100.1356
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    47.155 HEAT:  100.0045
+ CYCLE:    12 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:    48.301 HEAT:  100.3283
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    47.722 HEAT:  100.1659
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    46.351 HEAT:  99.87566
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    46.515 HEAT:  99.74044
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    44.307 HEAT:  99.66287
+ CYCLE:    17 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    36.773 HEAT:  97.75403
+ CYCLE:    18 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    31.664 HEAT:  96.39165
+ CYCLE:    19 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    18.624 HEAT:  95.68381
+ CYCLE:    20 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:     7.431 HEAT:  96.44561
+ CYCLE:    21 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.170 HEAT:  96.09150
+ CYCLE:    22 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.903 HEAT:  96.18425
+
+     GRADIENT =  3.90348 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              300.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    0.73  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.794   2.463  -1.180        0.17         0.17
+            (HETATM    7  C3  HET D   2)   3.795   2.057  -0.388        0.13         0.30
+            (HETATM   22  C1  HET K   1)   1.295   2.317  -1.657        0.13         0.43
+            (HETATM   23  C2  HET K   1)   0.639   2.800  -0.570        0.0427       0.48
+            (HETATM    5  N   HET D   2)   2.877  -0.163   1.153        0.0387       0.51
+            (HETATM    3  C   HET C   1)   0.108   1.926   0.455        0.0352       0.55
+            (HETATM    8  C4  HET D   2)   3.967   0.664  -0.816        0.0230       0.57
+            (HETATM    6  C2  HET D   2)   3.267   2.197   0.976        0.0225       0.60
+            (HETATM   17  H3  HET D   2)   4.571   2.770  -0.686        0.0196       0.61
+            (HETATM    1  O   HET A   1)  -0.029   0.720   0.313        0.0191       0.63
+
+          Heat of formation of the first geometry:           26.564 Kcal/mol
+          Heat of formation of the second geometry:          27.007 Kcal/mol
+          Contribution to heat of formation due to stress:   42.61  Kcal/mol
+          Gradient arising from first geometry:             159.37  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            159.23  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.42  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 average.mop'
+
+
+          Constraining constant: 300.00 Kcal/mol/Angstrom^2
+
+ CYCLE:     1 TIME:   0.059 TIME LEFT:  2.00D  GRAD.:    67.073 HEAT:  93.84757
+ CYCLE:     2 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    65.196 HEAT:  93.89092
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    65.031 HEAT:  93.81692
+ CYCLE:     4 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    19.659 HEAT:  90.66702
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    20.805 HEAT:  87.52331
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.451 HEAT:  87.74898
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.883 HEAT:  88.38873
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.247 HEAT:  88.53746
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.849 HEAT:  88.39185
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.747 HEAT:  87.80782
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.109 HEAT:  88.04896
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.087 HEAT:  87.95254
+ CYCLE:    13 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.014 HEAT:  87.95541
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.751 HEAT:  87.99590
+
+     GRADIENT =  3.75125 IS LESS THAN CUTOFF =  4.00000
+
+
+
+          First geometry (derived from data-set) after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the reference geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 first.mop'
+
+
+          Second geometry (derived from reference geometry)after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 second.mop'
+
+
+          Job name: 'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine'
+          Current value of GEO_REF constraint:              300.00  Kcal/mol/Angstrom^2
+          Distance between the geometries:                    0.65  Angstroms
+
+                     Atoms that move a lot
+
+                     Atom Label             GEO_REF Coordinates       Movement    Integral
+
+            (HETATM   11 1H1  HET K   1)   2.779   2.456  -1.182        0.15         0.15
+            (HETATM    7  C3  HET D   2)   3.793   2.052  -0.388        0.12         0.26
+            (HETATM   22  C1  HET K   1)   1.309   2.322  -1.651        0.11         0.38
+            (HETATM   23  C2  HET K   1)   0.639   2.802  -0.567        0.0397       0.42
+            (HETATM    3  C   HET C   1)   0.105   1.930   0.454        0.0319       0.45
+            (HETATM    5  N   HET D   2)   2.870  -0.162   1.148        0.0312       0.48
+            (HETATM    8  C4  HET D   2)   3.969   0.661  -0.816        0.0211       0.50
+            (HETATM    6  C2  HET D   2)   3.268   2.196   0.973        0.0205       0.52
+            (HETATM   13 3H1  HET K   1)   1.441   2.905  -2.557        0.0176       0.54
+            (HETATM    4  C1  HET D   2)   2.746   1.136   1.638        0.0174       0.56
+
+          Heat of formation of the first geometry:           27.184 Kcal/mol
+          Heat of formation of the second geometry:          27.997 Kcal/mol
+          Contribution to heat of formation due to stress:   32.81  Kcal/mol
+          Gradient arising from first geometry:             140.80  Kcal/mol/Angstrom
+          Gradient arising from second geometry:            140.78  Kcal/mol/Angstrom
+          Angle between gradient vectors:                   178.71  degrees
+
+          Average of first and second geometries after optimization subject to 
+          GEO_REF constraint of 300.0 Kcal/mol/Angstrom^2 towards the data-set geometry written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine 300p0 average.mop'
+
+  Loop:   1  Energy minimization, excluding active site, using L-BFGS
+
+ CYCLE:     1 TIME:   0.109 TIME LEFT:  2.00D  GRAD.:    14.321 HEAT:  35.62519
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    13.211 HEAT:  35.60390
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.357 HEAT:  35.56223
+ CYCLE:     4 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:    12.829 HEAT:  35.58994
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.083 HEAT:  35.49053
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     7.738 HEAT:  35.44487
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     6.907 HEAT:  35.39265
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.805 HEAT:  35.33964
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    11.961 HEAT:  35.25392
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    14.168 HEAT:  35.20938
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.477 HEAT:  35.15719
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    11.318 HEAT:  35.14542
+ CYCLE:    13 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.906 HEAT:  35.02386
+ CYCLE:    14 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.834 HEAT:  35.16366
+ CYCLE:    15 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.001 HEAT:  35.14211
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.026 HEAT:  35.13401
+ CYCLE:    17 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    31.531 HEAT:  35.24155
+ CYCLE:    18 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.213 HEAT:  35.07919
+
+
+          CURRENT BEST VALUE OF HEAT OF FORMATION =     35.030026
+ 
+*
+* This job fails to locate a transition state because the slopes on
+* both sides of the TS are very different.  LOCATE-TS works by moving up
+* the reaction barrier from both sides, but because the slopes on each side
+* of the barrier are very different, the transition-state refinement in
+* LOCATE-TS fails on the gradient minimization step.
+*
+ eps=78.4 HTML(nores) charge=0 MOZYME
+ Attempt to locate the transition state for the reaction [CHO-CH-CH3]^(-) + [C5H5N-CH3]^(+)
+
+  O(HETATM    1  O   HET A   1)   0.00051758 +1   0.71734050 +1   0.32676668 +1
+  C(HETATM    2  C   HET B   2)   3.40741739 +1  -0.35964245 +1  -0.12023906 +1
+  C(HETATM    3  C   HET C   1)   0.10223545 +1   1.94584734 +1   0.44144557 +1
+  C(HETATM    4  C1  HET D   2)   2.72767619 +1   1.13211324 +1   1.62824189 +1
+  N(HETATM    5  N   HET D   2)   2.78099834 +1  -0.13751278 +1   1.09416374 +1
+  C(HETATM    6  C2  HET D   2)   3.27298655 +0   2.19724500 +0   0.96423221 +0
+  C(HETATM    7  C3  HET D   2)   3.83245906 +0   2.02924866 +0  -0.35141952 +0
+  C(HETATM    8  C4  HET D   2)   3.96835424 +0   0.67167201 +0  -0.81502291 +0
+  H(HETATM    9  H   HET E   1)  -0.28169594 +1   2.38214209 +1   1.37719934 +1
+  C(HETATM   10  C   HET F   2)   2.03315414 +1  -1.22172326 +1   1.73590321 +1
+  H(HETATM   11 1H1  HET K   1)   2.71359374 +0   2.46347120 +0  -1.21670319 +0
+  H(HETATM   12 2H1  HET K   1)   1.39543332 +0   1.24810262 +0  -1.81924021 +0
+  H(HETATM   13 3H1  HET K   1)   1.43256156 +0   2.90272565 +0  -2.55870914 +0
+  H(HETATM   14  H2  HET K   1)   0.50719599 +1   3.86730989 +1  -0.41959076 +1
+  H(HETATM   15  H1  HET D   2)   2.26603207 +1   1.22934270 +1   2.62047804 +1
+  H(HETATM   16  H2  HET D   2)   3.26398163 +1   3.19061073 +1   1.40394525 +1
+  H(HETATM   17  H3  HET D   2)   4.55036340 +0   2.77595346 +0  -0.70373305 +0
+  H(HETATM   18  H4  HET D   2)   4.50214226 +1   0.48873060 +1  -1.74496484 +1
+  H(HETATM   19 1H   HET F   2)   2.11175347 +1  -1.16097666 +1   2.83689138 +1
+  H(HETATM   20 2H   HET F   2)   2.41707903 +1  -2.21131385 +1   1.43080977 +1
+  H(HETATM   21 3H   HET F   2)   0.96009270 +1  -1.16451251 +1   1.46005802 +1
+  C(HETATM   22  C1  HET K   1)   1.36588009 +0   2.32402905 +0  -1.64428116 +0
+  C(HETATM   23  C2  HET K   1)   0.62623457 +0   2.80062718 +0  -0.55144836 +0
+  H(HETATM   24  H   HET B   2)   3.45426959 +1  -1.40110366 +1  -0.46302818 +1
+ 
+ 
+  Loop:   1  Gradient minimization of atoms in the active site using TS
+
+          Transition state on cycle 1 written to file:
+          'M:\OpenMOPAC_NET\Manual\Individual JSmol paths\Hydride transfer to C4 on N-methyl pyridinium\LOCATE-TS for hydride transfer from propenal anion to N-methylpyridine Loop1.mop'
+
+
+          HESSIAN CALCULATED NUMERICALLY
+
+ CYCLE:     1 TIME:   0.844 TIME LEFT:  2.00D  GRAD.:    31.328 HEAT:  35.02625
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    13.695 HEAT:  33.89777
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.813 HEAT:  33.64849
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.563 HEAT:  33.62509
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.439 HEAT:  33.62769
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.351 HEAT:  33.62749
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.424 HEAT:  33.63153
+ CYCLE:     7 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    10.296 HEAT:  33.63302
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.235 HEAT:  33.63685
+ CYCLE:     8 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.499 HEAT:  33.64092
+ CYCLE:     9 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:     9.336 HEAT:  33.63515
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.816 HEAT:  33.62864
+ NUMERICAL PROBLEMS IN BRACKETING LAMDA  -27628013.4778248     
+  -27628013477.8248       -27628013.4778525        27515419117.4778     
+   25441267.0302772     
+  GOING FOR FIXED STEP SIZE....
+ CYCLE:    11 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     8.864 HEAT:  33.62058
+ NUMERICAL PROBLEMS IN BRACKETING LAMDA  -2338409636333.44     
+ -2.338409636333443E+015  -2338409636335.78       1.796741386166766E+015
+   2338409636309.99     
+  GOING FOR FIXED STEP SIZE....
+ CYCLE:    12 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     9.053 HEAT:  33.60824
+ CALCULATION IS TERMINATED TO AVOID ZERO DIVIDE
+
+          in FORMD
+
+
+   Gradient minimization failed.  The best geometry at this point will be output to ARC file
+
+
+  Loop:   2  Energy minimization, excluding active site, using L-BFGS
+
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * in FORMD                                                                   *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:            14.84 SECONDS
+
+ == MOPAC DONE ==

@@ -1,0 +1,20 @@
+ symmetry precise
+ Optimize the PF5 Berry pseudorotation transition state
+
+  P     0.0 +0    0.0 +0    0.0 +0     0     0     0
+  F     2.0 +1    0.0 +0    0.0 +0     0     0     0
+  F     1.6 +1   60.0 +1    0.0 +0     1     2     0
+  F     1.6 +0   60.0 +0   90.0 +0     1     2     3
+  F     1.6 +0   60.0 +0  180.0 +0     1     2     3
+  F     1.6 +0   60.0 +0  -90.0 +0     1     2     3
+ 
+   3  1    4    5    6
+   3  2    4    5    6
+
+oldgeo force isotope opt
+Verify that the C4v geometry of the PF5 transition state is a true transition state 
+
+oldgeo restart IRC=-1* HTML T-Priority=2    precise drc cycles=60 gnorm=0 
+DRC of Phosphorus pentafluoride Berry pseudorotation (Total time = 240 femtoseconds)
+Click on "Common" At the start the axial fluorine atoms have blue halos, at the end the axial atoms have red halos.
+

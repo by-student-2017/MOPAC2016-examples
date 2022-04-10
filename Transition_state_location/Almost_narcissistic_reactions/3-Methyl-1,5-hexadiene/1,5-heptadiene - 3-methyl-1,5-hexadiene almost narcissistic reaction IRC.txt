@@ -1,0 +1,3 @@
+#
+# Script for use with the HTML file "1,5-heptadiene - 3-methyl-1,5-hexadiene almost narcissistic reaction IRC.html"
+#

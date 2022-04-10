@@ -1,0 +1,3 @@
+geo_ref="Isochorismic acid.arc" geo_dat="Pyruvic acid plus salicylic acid.arc" ++
+locate_ts=(C:10,10;)
+Use a small bias to move the reactants and products near to each other.

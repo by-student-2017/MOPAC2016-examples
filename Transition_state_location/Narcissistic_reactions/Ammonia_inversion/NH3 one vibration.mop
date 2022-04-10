@@ -1,0 +1,11 @@
+DRC  HTML T-priority=0.5 precise  bigcycles=1 irc=1* gnorm=0 kinetic=3
+  DRC of one complete vibration of Ammonia inverting.
+
+  N     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  H     0.97231410 +1    0.0000000 +0    0.0000000 +0     1     0     0
+  H     0.97231410 +0  120.0000000 +0    0.0000000 +0     1     2     0
+  H     0.97231410 +0  120.0000000 +0  180.0000000 +0     1     2     3
+ 
+
+ 
+ 

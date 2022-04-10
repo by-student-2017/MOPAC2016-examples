@@ -1,0 +1,864 @@
+ *******************************************************************************
+ ** Site#: 37037        For non-commercial use only           Version 21.158W **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.158W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 361**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Jun 11 10:22:49 2021  *
+ *  SYMMETRY   - SYMMETRY CONDITIONS TO BE IMPOSED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+
+
+
+                    PARAMETER DEPENDENCE DATA
+
+        REFERENCE ATOM      FUNCTION NO.    DEPENDENT ATOM(S)
+            5                  1               6
+
+             DESCRIPTIONS OF THE FUNCTIONS USED
+   1      BOND LENGTH    IS SET EQUAL TO THE REFERENCE BOND LENGTH   
+ 
+ HTML symmetry
+ Locate the transition state  for the reaction Butane + butyl <=> butyl + butane
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(HETATM    1  C1  HET A   1)    0.00000000       0.0000000       0.0000000   
+     2       C(HETATM    2  C2  HET A   1)    1.52846800  *    0.0000000       0.0000000        1     0     0
+     3       C(HETATM    3  C3  HET A   1)    1.53691400  *  111.0460208  *    0.0000000        2     1     0
+     4       C(HETATM    4  C4  HET A   1)    1.46510900  *  112.8052436  * -175.5190420  *     3     2     1
+     5       H(HETATM    5 1H4  HET B   2)    1.80000000  *  129.9022296  *  -97.5253111  *     4     3     2
+     6       C(HETATM    6  C4  HET B   2)    1.80000000     169.8360877  *  -88.8734899  *     5     4     3
+     7       C(HETATM    7  C1  HET B   2)    3.88031160  *   99.7501220  *   83.2210863  *     6     5     4
+     8       C(HETATM    8  C2  HET B   2)    1.52870300  *   21.5799421  *   57.7231021  *     7     6     5
+     9       C(HETATM    9  C3  HET B   2)    1.52858700  *  111.3107421  *   64.0006734  *     6     5     4
+    10       H(HETATM   10 1H1  HET A   1)    1.09545300  *  111.5737812  *  -57.0955530  *     1     2     3
+    11       H(HETATM   11 2H1  HET A   1)    1.09552100  *  111.4743867  *   63.1790129  *     1     2     3
+    12       H(HETATM   12 3H1  HET A   1)    1.09596199  *  111.2268139  * -177.0371819  *     1     2     3
+    13       H(HETATM   13 1H2  HET A   1)    1.10631100  *  110.1394949  *  121.8737290  *     2     1     3
+    14       H(HETATM   14 2H2  HET A   1)    1.10640001  *  109.9259280  * -121.8014630  *     2     1     3
+    15       H(HETATM   15 1H3  HET A   1)    1.11428200  *  109.6873090  *  -52.6696662  *     3     2     1
+    16       H(HETATM   16 2H3  HET A   1)    1.11433000  *  109.6968481  *   61.5534072  *     3     2     1
+    17       H(HETATM   17 1H4  HET A   1)    1.06405300  *  121.8336372  *   -0.6412509  *     4     3     2
+    18       H(HETATM   18 2H4  HET A   1)    1.06550300  *  120.5722320  *  178.8119601  *     4     3     2
+    19       H(HETATM   19 1H1  HET B   2)    1.09529201  *   99.4619710  * -176.3577375  *     7     6     5
+    20       H(HETATM   20 2H1  HET B   2)    1.09559600  *  100.0068208  *  -66.5362796  *     7     6     5
+    21       H(HETATM   21 3H1  HET B   2)    1.09556899  *  132.8192304  *   58.9412176  *     7     6     5
+    22       H(HETATM   22 1H2  HET B   2)    1.10619000  *  110.0004099  *  122.6501741  *     8     7     6
+    23       H(HETATM   23 2H2  HET B   2)    1.10645599  *  110.0597399  * -121.1350513  *     8     7     6
+    24       H(HETATM   24 1H3  HET B   2)    1.10601400  *  110.0610170  *  -60.1366903  *     9     6     5
+    25       H(HETATM   25 2H3  HET B   2)    1.10614500  *  110.0857111  * -176.4541298  *     9     6     5
+    26       H(HETATM   26 2H4  HET B   2)    1.09550699  *  107.4923410  * -173.6978509  *     6     5     4
+    27       H(HETATM   27 3H4  HET B   2)    1.09524301  *  107.5692341  *  -58.1698119  *     6     5     4
+ 
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C8 H19  =    27 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+          UHF CALCULATION, NO. OF ALPHA ELECTRONS =   26
+                           NO. OF BETA  ELECTRONS =   25
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   101.989 HEAT:  46.97131
+ CYCLE:     2 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:   123.467 HEAT:  35.96529
+ CYCLE:     3 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:   147.819 HEAT:  21.86502
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:   158.967 HEAT:  17.00388
+ CYCLE:     5 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    99.684 HEAT:  7.547391
+ CYCLE:     6 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    47.354 HEAT:  3.368412
+ CYCLE:     7 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    45.262 HEAT:  1.192566
+ CYCLE:     8 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    23.524 HEAT: 0.4160006
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.077 HEAT: 0.7171818E-01
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     5.268 HEAT:-0.2353625
+ CYCLE:    11 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     5.599 HEAT:-0.3061706
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.791 HEAT:-0.4530073
+ CYCLE:    13 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.375 HEAT:-0.5234356
+ CYCLE:    14 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.145 HEAT:-0.5757270
+ CYCLE:    15 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.289 HEAT:-0.5920178
+ CYCLE:    16 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.005 HEAT:-0.6184766
+ CYCLE:    17 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.695 HEAT:-0.6389927
+ CYCLE:    18 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.051 HEAT:-0.6785376
+ CYCLE:    19 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.059 HEAT:-0.6977615
+ CYCLE:    20 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.018 HEAT:-0.7213623
+ CYCLE:    21 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.858 HEAT:-0.7392623
+ CYCLE:    22 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.527 HEAT:-0.7750921
+ CYCLE:    23 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.334 HEAT:-0.7829885
+ CYCLE:    24 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.981 HEAT:-0.7842022
+ CYCLE:    25 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.898 HEAT:-0.8147562
+ CYCLE:    26 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.771 HEAT:-0.8276085
+ CYCLE:    27 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.387 HEAT:-0.8493144
+ CYCLE:    28 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.651 HEAT:-0.8858552
+ CYCLE:    29 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.817 HEAT:-0.8991871
+ CYCLE:    30 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.359 HEAT:-0.9187050
+ CYCLE:    31 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.202 HEAT:-0.9279476
+ CYCLE:    32 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     2.770 HEAT:-0.9405198
+ CYCLE:    33 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.950 HEAT:-0.9506060
+ CYCLE:    34 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.114 HEAT:-0.9596893
+ CYCLE:    35 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.029 HEAT:-0.9786198
+ CYCLE:    36 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.264 HEAT:-0.9998547
+ CYCLE:    37 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.856 HEAT: -1.021169
+ CYCLE:    38 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.887 HEAT: -1.044050
+ CYCLE:    39 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.735 HEAT: -1.061727
+ CYCLE:    40 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.275 HEAT: -1.076579
+ CYCLE:    41 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.646 HEAT: -1.083656
+ CYCLE:    42 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.219 HEAT: -1.091722
+ CYCLE:    43 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.596 HEAT: -1.101385
+ CYCLE:    44 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     0.729 HEAT: -1.103236
+
+     GRADIENT =  0.72925 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ HTML symmetry
+ Locate the transition state  for the reaction Butane + butyl <=> butyl + butane
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 21.158W)
+                                                       Fri Jun 11 10:22:50 2021
+                                                       No. of days remaining = 361
+
+
+
+
+          FINAL HEAT OF FORMATION =         -1.10324 KCAL/MOL =      -4.61595 KJ/MOL
+
+
+          TOTAL ENERGY            =      -1237.98718 EV
+          ELECTRONIC ENERGY       =      -6949.21042 EV  POINT GROUP:     C1  
+          CORE-CORE REPULSION     =       5711.22324 EV
+          COSMO AREA              =        192.43 SQUARE ANGSTROMS
+          COSMO VOLUME            =        201.88 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =          0.72925 = 0.14034 PER ATOM
+          IONIZATION POTENTIAL    =          8.264123 EV
+          ALPHA SOMO LUMO (EV)    =         -8.264  4.163
+          BETA  SOMO LUMO (EV)    =        -10.655  0.104
+          NO. OF ALPHA ELECTRONS  =         26
+          NO. OF BETA  ELECTRONS  =         25
+          MOLECULAR WEIGHT        =        115.2381
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            H    25    H    11     6.87994
+            H    21    H    17     6.38311
+            H    18    H    26     3.05920
+
+
+          SCF CALCULATIONS        =         49
+ 
+          WALL-CLOCK TIME         =          0.703 SECONDS
+          COMPUTATION TIME        =          2.516 SECONDS
+
+
+
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(HETATM    1  C1  HET A   1)    0.00000000       0.0000000       0.0000000   
+     2       C(HETATM    2  C2  HET A   1)    1.52820455  *    0.0000000       0.0000000        1     0     0
+     3       C(HETATM    3  C3  HET A   1)    1.53676311  *  111.0214636  *    0.0000000        2     1     0
+     4       C(HETATM    4  C4  HET A   1)    1.49972480  *  111.5305830  *  172.4554224  *     3     2     1
+     5       H(HETATM    5 1H4  HET B   2)    1.34993857  *  107.5120806  *  -68.6207407  *     4     3     2
+     6       C(HETATM    6  C4  HET B   2)    1.34993857     170.9217516  * -111.7617175  *     5     4     3
+     7       C(HETATM    7  C1  HET B   2)    3.86532272  *  100.6624622  *   88.8311856  *     6     5     4
+     8       C(HETATM    8  C2  HET B   2)    1.52839554  *   22.1407390  *   78.2095548  *     7     6     5
+     9       C(HETATM    9  C3  HET B   2)    1.50113633  *  107.9471312  *   68.0411576  *     6     5     4
+    10       H(HETATM   10 1H1  HET A   1)    1.09587521  *  111.4899209  *  -62.4262489  *     1     2     3
+    11       H(HETATM   11 2H1  HET A   1)    1.09564180  *  111.4366517  *   57.6613041  *     1     2     3
+    12       H(HETATM   12 3H1  HET A   1)    1.09556025  *  111.2379021  *  177.6322404  *     1     2     3
+    13       H(HETATM   13 1H2  HET A   1)    1.10687910  *  110.0442768  *  122.0043386  *     2     1     3
+    14       H(HETATM   14 2H2  HET A   1)    1.10614077  *  110.1280709  * -121.8420761  *     2     1     3
+    15       H(HETATM   15 1H3  HET A   1)    1.10966112  *  109.6563247  *  -65.5245066  *     3     2     1
+    16       H(HETATM   16 2H3  HET A   1)    1.10936820  *  109.9255020  *   49.7137805  *     3     2     1
+    17       H(HETATM   17 1H4  HET A   1)    1.08086879  *  116.1419981  *   43.8590670  *     4     3     2
+    18       H(HETATM   18 2H4  HET A   1)    1.08144616  *  115.5323300  *  178.9120042  *     4     3     2
+    19       H(HETATM   19 1H1  HET B   2)    1.09569034  *   99.7379797  * -157.4977531  *     7     6     5
+    20       H(HETATM   20 2H1  HET B   2)    1.09538131  *   99.1460512  *  -47.7634455  *     7     6     5
+    21       H(HETATM   21 3H1  HET B   2)    1.09559932  *  133.2701527  *   77.0103903  *     7     6     5
+    22       H(HETATM   22 1H2  HET B   2)    1.10603345  *  110.0735596  *  125.9713851  *     8     7     6
+    23       H(HETATM   23 2H2  HET B   2)    1.10728693  *  109.9741335  * -117.8808265  *     8     7     6
+    24       H(HETATM   24 1H3  HET B   2)    1.10855487  *  110.3077950  *  -45.5229950  *     9     6     5
+    25       H(HETATM   25 2H3  HET B   2)    1.11031887  *  109.7841831  * -161.1166242  *     9     6     5
+    26       H(HETATM   26 2H4  HET B   2)    1.08075429  *  101.1801843  * -169.5205252  *     6     5     4
+    27       H(HETATM   27 3H4  HET B   2)    1.08133224  *  101.2159550  *  -53.5933124  *     6     5     4
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.528204551     0.000000000     0.000000000
+   3    C        2.079468608     1.434485549     0.000000000
+   4    C        3.567860820     1.452143936     0.183170116
+   5    H        3.826853126     1.044642648     1.443804807
+   6    C        4.150072606     0.838127384     2.738105680
+   7    C        0.815443239     1.757035579     4.463380858
+   8    C        1.819010464     0.908151163     3.683482791
+   9    C        3.181389682     1.610557033     3.585699985
+  10    H       -0.401460239     0.472005307     0.903871202
+  11    H       -0.400426727     0.545540099    -0.861670112
+  12    H       -0.396857100    -1.020282765    -0.042187409
+  13    H        1.907583169    -0.551094446     0.881786885
+  14    H        1.908849430    -0.547935964    -0.882282869
+  15    H        1.809232778     1.938214031    -0.951093058
+  16    H        1.585589013     2.029307062     0.795592930
+  17    H        4.127029582     0.727279250    -0.391441770
+  18    H        4.026958816     2.431267732     0.174719009
+  19    H        1.185260284     1.993942424     5.467197484
+  20    H        0.611391042     2.705119142     3.954106399
+  21    H       -0.139531944     1.232711421     4.579331020
+  22    H        1.938623135    -0.078954173     4.167864736
+  23    H        1.429740371     0.699871165     2.668016109
+  24    H        3.049605584     2.634922814     3.182957380
+  25    H        3.600346382     1.748174004     4.604692053
+  26    H        4.084819963    -0.238812780     2.801128070
+  27    H        5.171255479     1.193126154     2.759101818
+
+
+           Empirical Formula: C8 H19  =    27 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+          ALPHA EIGENVALUES  
+ -29.21816 -28.14442 -25.94656 -24.82772 -21.76383 -20.84739 -20.09210 -19.55978
+ -16.58966 -15.57749 -14.97646 -14.85108 -14.68467 -14.50718 -14.20669 -13.39349
+ -13.00510 -12.82677 -12.18927 -12.14636 -12.00238 -11.56279 -11.49908 -11.36606
+ -11.06526  -8.26412   4.16308   4.19176   4.54316   4.57097   4.90962   4.96463
+   5.31385   5.54065   5.58871   5.87528   5.90116   5.91276   5.94501   6.15065
+   6.16622   6.24296   6.25868   6.59972   6.69818   6.72951   6.76166   6.89436
+   6.93936   7.08211   7.09120
+
+
+           BETA EIGENVALUES 
+ -29.17262 -28.12055 -25.87231 -24.76417 -21.67879 -20.78210 -20.04558 -19.46505
+ -16.47478 -15.52030 -14.89693 -14.78461 -14.60428 -14.44204 -13.92408 -13.26847
+ -12.91543 -12.75327 -12.13257 -11.94048 -11.83450 -11.49758 -11.46357 -11.31376
+ -10.65546   0.10428   4.19811   4.22849   4.56091   4.58850   5.01941   5.08753
+   5.39914   5.57561   5.72032   5.89344   5.91094   5.92987   6.06324   6.21912
+   6.26150   6.30046   6.30779   6.61611   6.73220   6.77979   6.81438   6.92971
+   7.06076   7.08578   7.12787
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.                 TYPE                        CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C(HETATM    1  C1  HET A   1)          -0.442142        4.4421     1.05227     3.38987
+    2          C(HETATM    2  C2  HET A   1)          -0.250319        4.2503     1.05595     3.19437
+    3          C(HETATM    3  C3  HET A   1)          -0.264046        4.2640     1.05287     3.21118
+    4          C(HETATM    4  C4  HET A   1)          -0.396440        4.3964     1.09789     3.29855
+    5          H(HETATM    5 1H4  HET B   2)           0.205270        0.7947     0.79473
+    6          C(HETATM    6  C4  HET B   2)          -0.396820        4.3968     1.09824     3.29858
+    7          C(HETATM    7  C1  HET B   2)          -0.440581        4.4406     1.05209     3.38849
+    8          C(HETATM    8  C2  HET B   2)          -0.256004        4.2560     1.05641     3.19960
+    9          C(HETATM    9  C3  HET B   2)          -0.260333        4.2603     1.05244     3.20790
+   10          H(HETATM   10 1H1  HET A   1)           0.142165        0.8578     0.85784
+   11          H(HETATM   11 2H1  HET A   1)           0.142821        0.8572     0.85718
+   12          H(HETATM   12 3H1  HET A   1)           0.141105        0.8589     0.85890
+   13          H(HETATM   13 1H2  HET A   1)           0.135884        0.8641     0.86412
+   14          H(HETATM   14 2H2  HET A   1)           0.134393        0.8656     0.86561
+   15          H(HETATM   15 1H3  HET A   1)           0.140610        0.8594     0.85939
+   16          H(HETATM   16 2H3  HET A   1)           0.142031        0.8580     0.85797
+   17          H(HETATM   17 1H4  HET A   1)           0.136747        0.8633     0.86325
+   18          H(HETATM   18 2H4  HET A   1)           0.134902        0.8651     0.86510
+   19          H(HETATM   19 1H1  HET B   2)           0.142443        0.8576     0.85756
+   20          H(HETATM   20 2H1  HET B   2)           0.141210        0.8588     0.85879
+   21          H(HETATM   21 3H1  HET B   2)           0.140150        0.8598     0.85985
+   22          H(HETATM   22 1H2  HET B   2)           0.133420        0.8666     0.86658
+   23          H(HETATM   23 2H2  HET B   2)           0.142359        0.8576     0.85764
+   24          H(HETATM   24 1H3  HET B   2)           0.139663        0.8603     0.86034
+   25          H(HETATM   25 2H3  HET B   2)           0.139898        0.8601     0.86010
+   26          H(HETATM   26 2H4  HET B   2)           0.137276        0.8627     0.86272
+   27          H(HETATM   27 3H4  HET B   2)           0.134338        0.8657     0.86566
+
+          NET CHARGE ON RESIDUES
+
+      Residue         Charge  Anion or
+                              Cation?
+      HET A   1       -0.102
+      HET B   2       +0.102
+ 
+
+
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -0.216     0.049     0.015     0.222
+ HYBRID        -0.035     0.047     0.028     0.065
+ SUM           -0.251     0.096     0.043     0.272
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+                   Atom                  s        px        py        pz   
+   C(HETATM    1  C1  HET A   1)   1.05227   1.04497   1.17073   1.17416
+   C(HETATM    2  C2  HET A   1)   1.05595   0.99647   1.03682   1.16108
+   C(HETATM    3  C3  HET A   1)   1.05287   1.01224   1.04223   1.15671
+   C(HETATM    4  C4  HET A   1)   1.09789   1.03371   1.14525   1.11959
+   H(HETATM    5 1H4  HET B   2)   0.79473
+   C(HETATM    6  C4  HET B   2)   1.09824   1.09453   1.11922   1.08483
+   C(HETATM    7  C1  HET B   2)   1.05209   1.11388   1.13410   1.14051
+   C(HETATM    8  C2  HET B   2)   1.05641   0.99894   1.07453   1.12613
+   C(HETATM    9  C3  HET B   2)   1.05244   1.00894   1.08917   1.10978
+   H(HETATM   10 1H1  HET A   1)   0.85784
+   H(HETATM   11 2H1  HET A   1)   0.85718
+   H(HETATM   12 3H1  HET A   1)   0.85890
+   H(HETATM   13 1H2  HET A   1)   0.86412
+   H(HETATM   14 2H2  HET A   1)   0.86561
+   H(HETATM   15 1H3  HET A   1)   0.85939
+   H(HETATM   16 2H3  HET A   1)   0.85797
+   H(HETATM   17 1H4  HET A   1)   0.86325
+   H(HETATM   18 2H4  HET A   1)   0.86510
+   H(HETATM   19 1H1  HET B   2)   0.85756
+   H(HETATM   20 2H1  HET B   2)   0.85879
+   H(HETATM   21 3H1  HET B   2)   0.85985
+   H(HETATM   22 1H2  HET B   2)   0.86658
+   H(HETATM   23 2H2  HET B   2)   0.85764
+   H(HETATM   24 1H3  HET B   2)   0.86034
+   H(HETATM   25 2H3  HET B   2)   0.86010
+   H(HETATM   26 2H4  HET B   2)   0.86272
+   H(HETATM   27 3H4  HET B   2)   0.86566
+
+
+                    (SZ)    =    0.500000
+                    (S**2)  =    0.772494
+
+
+          ATOMIC ORBITAL SPIN POPULATIONS
+
+    Atom   Total    s     px     py     pz   
+         Atomic
+    1  C -0.0005 -0.000 -0.000 -0.000  0.000
+    2  C  0.0027  0.000  0.001  0.002  0.000
+    3  C -0.0238 -0.003 -0.015 -0.002 -0.003
+    4  C  0.5941  0.047  0.026  0.064  0.457
+    5  H -0.1291 -0.129
+    6  C  0.5961  0.048  0.063  0.040  0.445
+    7  C -0.0005 -0.000 -0.000 -0.000 -0.000
+    8  C  0.0018  0.000  0.001  0.000  0.000
+    9  C -0.0239 -0.003 -0.007 -0.007 -0.007
+   10  H  0.0000  0.000
+   11  H  0.0000  0.000
+   12  H  0.0000  0.000
+   13  H -0.0002 -0.000
+   14  H -0.0001 -0.000
+   15  H  0.0179  0.018
+   16  H  0.0058  0.006
+   17  H -0.0157 -0.016
+   18  H -0.0166 -0.017
+   19  H  0.0000  0.000
+   20  H  0.0000  0.000
+   21  H  0.0000  0.000
+   22  H -0.0001 -0.000
+   23  H -0.0002 -0.000
+   24  H  0.0076  0.008
+   25  H  0.0168  0.017
+   26  H -0.0158 -0.016
+   27  H -0.0163 -0.016
+ *******************************************************************************
+ ** Site#: 37037        For non-commercial use only           Version 21.158W **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.158W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 361**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Jun 11 10:22:50 2021  *
+ *  KINETIC=   -     0.100 KCAL KINETIC ENERGY ADDED TO DRC
+ *  IRC=N      - INTRINSIC REACTION COORDINATE  1 DEFINED
+ *  OLDGEO     - PREVIOUS GEOMETRY TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  HTML       - WRITE HTML SCRIPT TO GENERATE ANIMATION USING JSMOL
+ *             - TO DISPLAY IN PDB FORMAT, ADD "PDBOUT"
+ *  X-PRIOR    - GEOMETRY CHANGES TAKE PRIORITY IN DRC
+ *******************************************************************************
+oldgeo IRC=1* x-priority=0.1 html kinetic=0.1
+ Generate the IRC for the reaction: Butane + butyl radical <=> butyl radical + butane
+ (Click on "Common" to orientate the system to see the reaction better.)
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(HETATM    1  C1  HET A   1)    0.00000000       0.0000000       0.0000000   
+     2       C(HETATM    2  C2  HET A   1)    1.52820455  *    0.0000000       0.0000000        1     0     0
+     3       C(HETATM    3  C3  HET A   1)    1.53676311  *  111.0214636  *    0.0000000        2     1     0
+     4       C(HETATM    4  C4  HET A   1)    1.49972480  *  111.5305830  *  172.4554224  *     3     2     1
+     5       H(HETATM    5 1H4  HET B   2)    1.34993857  *  107.5120806  *  -68.6207407  *     4     3     2
+     6       C(HETATM    6  C4  HET B   2)    1.34993857     170.9217516  * -111.7617175  *     5     4     3
+     7       C(HETATM    7  C1  HET B   2)    3.86532272  *  100.6624622  *   88.8311856  *     6     5     4
+     8       C(HETATM    8  C2  HET B   2)    1.52839554  *   22.1407390  *   78.2095548  *     7     6     5
+     9       C(HETATM    9  C3  HET B   2)    1.50113633  *  107.9471312  *   68.0411576  *     6     5     4
+    10       H(HETATM   10 1H1  HET A   1)    1.09587521  *  111.4899209  *  -62.4262489  *     1     2     3
+    11       H(HETATM   11 2H1  HET A   1)    1.09564180  *  111.4366517  *   57.6613041  *     1     2     3
+    12       H(HETATM   12 3H1  HET A   1)    1.09556025  *  111.2379021  *  177.6322404  *     1     2     3
+    13       H(HETATM   13 1H2  HET A   1)    1.10687910  *  110.0442768  *  122.0043386  *     2     1     3
+    14       H(HETATM   14 2H2  HET A   1)    1.10614077  *  110.1280709  * -121.8420761  *     2     1     3
+    15       H(HETATM   15 1H3  HET A   1)    1.10966112  *  109.6563247  *  -65.5245066  *     3     2     1
+    16       H(HETATM   16 2H3  HET A   1)    1.10936820  *  109.9255020  *   49.7137805  *     3     2     1
+    17       H(HETATM   17 1H4  HET A   1)    1.08086879  *  116.1419981  *   43.8590670  *     4     3     2
+    18       H(HETATM   18 2H4  HET A   1)    1.08144616  *  115.5323300  *  178.9120042  *     4     3     2
+    19       H(HETATM   19 1H1  HET B   2)    1.09569034  *   99.7379797  * -157.4977531  *     7     6     5
+    20       H(HETATM   20 2H1  HET B   2)    1.09538131  *   99.1460512  *  -47.7634455  *     7     6     5
+    21       H(HETATM   21 3H1  HET B   2)    1.09559932  *  133.2701527  *   77.0103903  *     7     6     5
+    22       H(HETATM   22 1H2  HET B   2)    1.10603345  *  110.0735596  *  125.9713851  *     8     7     6
+    23       H(HETATM   23 2H2  HET B   2)    1.10728693  *  109.9741335  * -117.8808265  *     8     7     6
+    24       H(HETATM   24 1H3  HET B   2)    1.10855487  *  110.3077950  *  -45.5229950  *     9     6     5
+    25       H(HETATM   25 2H3  HET B   2)    1.11031887  *  109.7841831  * -161.1166242  *     9     6     5
+    26       H(HETATM   26 2H4  HET B   2)    1.08075429  *  101.1801843  * -169.5205252  *     6     5     4
+    27       H(HETATM   27 3H4  HET B   2)    1.08133224  *  101.2159550  *  -53.5933124  *     6     5     4
+ 
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C8 H19  =    27 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+          UHF CALCULATION, NO. OF ALPHA ELECTRONS =   26
+                           NO. OF BETA  ELECTRONS =   25
+
+
+          HEAT OF FORMATION =      -1.103283 KCALS/MOLE
+
+
+          GRADIENT NORM =   1.85577
+
+
+          TIME FOR SCF CALCULATION =    0.02
+
+          TIME FOR DERIVATIVES     =    0.00
+
+          MOLECULAR WEIGHT =  115.24
+
+
+          ESTIMATED TIME TO COMPLETE CALCULATION =        2.53 SECONDS
+
+    FOR POINT-GROUP C1   THERE ARE   1 UNIQUE SYMMETRY FUNCTIONS.
+
+ STEP:   1 TIME =     0.02 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.97
+ STEP:   2 TIME =     0.02 SECS, INTEGRAL =      0.03 TIME LEFT: 172799.95
+ STEP:   3 TIME =     0.02 SECS, INTEGRAL =      0.05 TIME LEFT: 172799.94
+ STEP:   4 TIME =     0.02 SECS, INTEGRAL =      0.06 TIME LEFT: 172799.92
+ STEP:   5 TIME =     0.02 SECS, INTEGRAL =      0.08 TIME LEFT: 172799.91
+ STEP:   6 TIME =     0.03 SECS, INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:   7 TIME =     0.02 SECS, INTEGRAL =      0.12 TIME LEFT: 172799.86
+ STEP:   8 TIME =     0.02 SECS, INTEGRAL =      0.14 TIME LEFT: 172799.84
+ STEP:   9 TIME =     0.02 SECS, INTEGRAL =      0.16 TIME LEFT: 172799.83
+ STEP:  10 TIME =     0.02 SECS, INTEGRAL =      0.17 TIME LEFT: 172799.81
+ STEP:  11 TIME =     0.02 SECS, INTEGRAL =      0.19 TIME LEFT: 172799.80
+ STEP:  12 TIME =     0.02 SECS, INTEGRAL =      0.20 TIME LEFT: 172799.78
+ STEP:  13 TIME =     0.02 SECS, INTEGRAL =      0.22 TIME LEFT: 172799.77
+ STEP:  14 TIME =     0.02 SECS, INTEGRAL =      0.23 TIME LEFT: 172799.75
+ STEP:  15 TIME =     0.02 SECS, INTEGRAL =      0.25 TIME LEFT: 172799.73
+ STEP:  16 TIME =     0.02 SECS, INTEGRAL =      0.27 TIME LEFT: 172799.72
+ STEP:  17 TIME =     0.02 SECS, INTEGRAL =      0.28 TIME LEFT: 172799.70
+ STEP:  18 TIME =     0.02 SECS, INTEGRAL =      0.30 TIME LEFT: 172799.69
+ STEP:  19 TIME =     0.02 SECS, INTEGRAL =      0.31 TIME LEFT: 172799.67
+ STEP:  20 TIME =     0.02 SECS, INTEGRAL =      0.33 TIME LEFT: 172799.66
+ STEP:  21 TIME =     0.02 SECS, INTEGRAL =      0.34 TIME LEFT: 172799.64
+ STEP:  22 TIME =     0.02 SECS, INTEGRAL =      0.36 TIME LEFT: 172799.62
+ STEP:  23 TIME =     0.02 SECS, INTEGRAL =      0.38 TIME LEFT: 172799.61
+ STEP:  24 TIME =     0.03 SECS, INTEGRAL =      0.41 TIME LEFT: 172799.58
+ STEP:  25 TIME =     0.02 SECS, INTEGRAL =      0.42 TIME LEFT: 172799.56
+ STEP:  26 TIME =     0.02 SECS, INTEGRAL =      0.44 TIME LEFT: 172799.55
+ STEP:  27 TIME =     0.02 SECS, INTEGRAL =      0.45 TIME LEFT: 172799.53
+ STEP:  28 TIME =     0.02 SECS, INTEGRAL =      0.47 TIME LEFT: 172799.52
+ STEP:  29 TIME =     0.02 SECS, INTEGRAL =      0.48 TIME LEFT: 172799.50
+ STEP:  30 TIME =     0.02 SECS, INTEGRAL =      0.50 TIME LEFT: 172799.48
+ STEP:  31 TIME =     0.02 SECS, INTEGRAL =      0.52 TIME LEFT: 172799.47
+ STEP:  32 TIME =     0.02 SECS, INTEGRAL =      0.53 TIME LEFT: 172799.45
+ STEP:  33 TIME =     0.02 SECS, INTEGRAL =      0.55 TIME LEFT: 172799.44
+ STEP:  34 TIME =     0.02 SECS, INTEGRAL =      0.56 TIME LEFT: 172799.42
+ STEP:  35 TIME =     0.02 SECS, INTEGRAL =      0.58 TIME LEFT: 172799.41
+ STEP:  36 TIME =     0.02 SECS, INTEGRAL =      0.59 TIME LEFT: 172799.39
+ STEP:  37 TIME =     0.02 SECS, INTEGRAL =      0.61 TIME LEFT: 172799.38
+ STEP:  38 TIME =     0.02 SECS, INTEGRAL =      0.62 TIME LEFT: 172799.36
+ STEP:  39 TIME =     0.02 SECS, INTEGRAL =      0.64 TIME LEFT: 172799.34
+ STEP:  40 TIME =     0.02 SECS, INTEGRAL =      0.66 TIME LEFT: 172799.33
+ STEP:  41 TIME =     0.02 SECS, INTEGRAL =      0.67 TIME LEFT: 172799.31
+ STEP:  42 TIME =     0.02 SECS, INTEGRAL =      0.69 TIME LEFT: 172799.30
+ STEP:  43 TIME =     0.03 SECS, INTEGRAL =      0.72 TIME LEFT: 172799.27
+ STEP:  44 TIME =     0.02 SECS, INTEGRAL =      0.73 TIME LEFT: 172799.25
+ STEP:  45 TIME =     0.02 SECS, INTEGRAL =      0.75 TIME LEFT: 172799.23
+ STEP:  46 TIME =     0.02 SECS, INTEGRAL =      0.77 TIME LEFT: 172799.22
+ STEP:  47 TIME =     0.03 SECS, INTEGRAL =      0.80 TIME LEFT: 172799.19
+ STEP:  48 TIME =     0.03 SECS, INTEGRAL =      0.83 TIME LEFT: 172799.16
+ STEP:  49 TIME =     0.03 SECS, INTEGRAL =      0.86 TIME LEFT: 172799.12
+ STEP:  50 TIME =     0.02 SECS, INTEGRAL =      0.88 TIME LEFT: 172799.11
+ STEP:  51 TIME =     0.02 SECS, INTEGRAL =      0.89 TIME LEFT: 172799.09
+ STEP:  52 TIME =     0.02 SECS, INTEGRAL =      0.91 TIME LEFT: 172799.08
+ STEP:  53 TIME =     0.02 SECS, INTEGRAL =      0.92 TIME LEFT: 172799.06
+ STEP:  54 TIME =     0.02 SECS, INTEGRAL =      0.94 TIME LEFT: 172799.05
+ STEP:  55 TIME =     0.02 SECS, INTEGRAL =      0.95 TIME LEFT: 172799.03
+ STEP:  56 TIME =     0.02 SECS, INTEGRAL =      0.97 TIME LEFT: 172799.02
+ STEP:  57 TIME =     0.02 SECS, INTEGRAL =      0.98 TIME LEFT: 172799.00
+ STEP:  58 TIME =     0.02 SECS, INTEGRAL =      1.00 TIME LEFT: 172798.98
+ STEP:  59 TIME =     0.03 SECS, INTEGRAL =      1.03 TIME LEFT: 172798.95
+ STEP:  60 TIME =     0.02 SECS, INTEGRAL =      1.05 TIME LEFT: 172798.94
+ STEP:  61 TIME =     0.02 SECS, INTEGRAL =      1.06 TIME LEFT: 172798.92
+ STEP:  62 TIME =     0.02 SECS, INTEGRAL =      1.08 TIME LEFT: 172798.91
+ STEP:  63 TIME =     0.03 SECS, INTEGRAL =      1.11 TIME LEFT: 172798.88
+ STEP:  64 TIME =     0.02 SECS, INTEGRAL =      1.12 TIME LEFT: 172798.86
+ STEP:  65 TIME =     0.02 SECS, INTEGRAL =      1.14 TIME LEFT: 172798.84
+ STEP:  66 TIME =     0.02 SECS, INTEGRAL =      1.16 TIME LEFT: 172798.83
+ STEP:  67 TIME =     0.03 SECS, INTEGRAL =      1.19 TIME LEFT: 172798.80
+ STEP:  68 TIME =     0.02 SECS, INTEGRAL =      1.20 TIME LEFT: 172798.78
+ STEP:  69 TIME =     0.02 SECS, INTEGRAL =      1.22 TIME LEFT: 172798.77
+ STEP:  70 TIME =     0.02 SECS, INTEGRAL =      1.23 TIME LEFT: 172798.75
+ STEP:  71 TIME =     0.02 SECS, INTEGRAL =      1.25 TIME LEFT: 172798.73
+ STEP:  72 TIME =     0.02 SECS, INTEGRAL =      1.27 TIME LEFT: 172798.72
+ STEP:  73 TIME =     0.02 SECS, INTEGRAL =      1.28 TIME LEFT: 172798.70
+ STEP:  74 TIME =     0.02 SECS, INTEGRAL =      1.30 TIME LEFT: 172798.69
+ STEP:  75 TIME =     0.02 SECS, INTEGRAL =      1.31 TIME LEFT: 172798.67
+ STEP:  76 TIME =     0.02 SECS, INTEGRAL =      1.33 TIME LEFT: 172798.66
+ STEP:  77 TIME =     0.02 SECS, INTEGRAL =      1.34 TIME LEFT: 172798.64
+ STEP:  78 TIME =     0.02 SECS, INTEGRAL =      1.36 TIME LEFT: 172798.62
+ STEP:  79 TIME =     0.02 SECS, INTEGRAL =      1.38 TIME LEFT: 172798.61
+ STEP:  80 TIME =     0.02 SECS, INTEGRAL =      1.39 TIME LEFT: 172798.59
+ STEP:  81 TIME =     0.02 SECS, INTEGRAL =      1.41 TIME LEFT: 172798.58
+
+
+           EXCESS KINETIC ENERGY ENTERED INTO SYSTEM =    0.100000
+           INITIAL VELOCITY IN DRC (Angstroms/Femtosecond)
+         0.00009         0.00015        -0.00009
+         0.00003         0.00007        -0.00001
+         0.00490        -0.00188         0.00482
+        -0.01138         0.01278        -0.03938
+         0.13159        -0.13878         0.58624
+        -0.00683         0.00327        -0.04229
+        -0.00031         0.00006         0.00002
+        -0.00027         0.00006         0.00001
+        -0.00136         0.00221         0.00631
+        -0.00158        -0.00050         0.00024
+        -0.00066        -0.00035         0.00002
+         0.00002        -0.00018         0.00024
+        -0.00002        -0.00017         0.00087
+        -0.00036        -0.00080         0.00018
+         0.00320         0.00308         0.00053
+         0.00146         0.00082         0.00265
+         0.01039        -0.02485         0.06269
+         0.00777        -0.01321         0.05653
+        -0.00082        -0.00014         0.00001
+         0.00031        -0.00003         0.00031
+        -0.00005        -0.00003         0.00014
+         0.00074         0.00041         0.00022
+         0.00037        -0.00012         0.00109
+        -0.00205        -0.00048         0.00370
+        -0.00435        -0.00138         0.00146
+         0.02149        -0.00899         0.06541
+         0.01288        -0.01340         0.05893
+
+ GEOMETRY PRIORITY, STEP = 0.1000 ANGSTROMS
+
+
+
+     POINT   POTENTIAL  +  ENERGY LOST   =   TOTAL      ERROR    REF%   MOVEMENT
+       1      -1.10324      0.00000         -1.10324   0.00000     1   %  0.0000
+       2      -3.16439      0.00000         -3.16439  -2.06115     2   %  0.1923
+      11      -5.37115      1.49922         -3.87193  -0.70754     3   %  0.2835
+      42      -7.29126      3.42552         -3.86574  -0.70135     4   %  0.3709
+      73      -8.77902      4.91930         -3.85972  -0.69533     5   %  0.4626
+      96      -9.97976      6.12451         -3.85525  -0.69086     6   %  0.5529
+     113     -11.05008      7.19821         -3.85187  -0.68748     7   %  0.6391
+     129     -12.04415      8.19527         -3.84888  -0.68449     8   %  0.7228
+     143     -12.98067      9.13459         -3.84608  -0.68169     9   %  0.8067
+     156     -13.87026     10.02682         -3.84344  -0.67905    10   %  0.8924
+     169     -14.72168     10.88077         -3.84092  -0.67653    11   %  0.9800
+     182     -15.53962     11.70114         -3.83847  -0.67408    12   %  1.0679
+     194     -16.32493     12.48884         -3.83609  -0.67170    13   %  1.1553
+     206     -17.07294     13.23918         -3.83376  -0.66937    14   %  1.2416
+     217     -17.76165     13.93011         -3.83154  -0.66715    15   %  1.3247
+     228     -18.38878     14.55935         -3.82943  -0.66504    16   %  1.4045
+     238     -18.95999     15.13256         -3.82743  -0.66304    17   %  1.4812
+     248     -19.48300     15.65751         -3.82550  -0.66111    18   %  1.5554
+     257     -19.96374     16.14011         -3.82363  -0.65924    19   %  1.6275
+     266     -20.40674     16.58492         -3.82181  -0.65743    20   %  1.6979
+     275     -20.81553     16.99549         -3.82004  -0.65565    21   %  1.7667
+     284     -21.19293     17.37462         -3.81831  -0.65392    22   %  1.8344
+     293     -21.54122     17.72461         -3.81661  -0.65222    23   %  1.9012
+     301     -21.86227     18.04733         -3.81494  -0.65055    24   %  1.9673
+     310     -22.15786     18.34455         -3.81331  -0.64892    25   %  2.0331
+     318     -22.42941     18.61771         -3.81170  -0.64731    26   %  2.0988
+     326     -22.67835     18.86822         -3.81013  -0.64574    27   %  2.1646
+     334     -22.90596     19.09736         -3.80860  -0.64421    28   %  2.2308
+     341     -23.11344     19.30635         -3.80709  -0.64271    29   %  2.2977
+     349     -23.30217     19.49652         -3.80566  -0.64127    30   %  2.3658
+     356     -23.47301     19.66872         -3.80429  -0.63990    31   %  2.4358
+     362     -23.62694     19.82403         -3.80291  -0.63852    32   %  2.5084
+     368     -23.76761     19.96595         -3.80166  -0.63727    33   %  2.5855
+     374     -23.89064     20.09019         -3.80044  -0.63605    34   %  2.6632
+     380     -24.00333     20.20404         -3.79929  -0.63490    35   %  2.7445
+     385     -24.10287     20.30461         -3.79826  -0.63387    36   %  2.8258
+     391     -24.19191     20.39479         -3.79712  -0.63273    37   %  2.9081
+     396     -24.27133     20.47521         -3.79613  -0.63174    38   %  2.9914
+     401     -24.34215     20.54697         -3.79518  -0.63079    39   %  3.0768
+     406     -24.40519     20.61137         -3.79381  -0.62942    40   %  3.1661
+     413     -24.46145     20.66980         -3.79165  -0.62726    41   %  3.2587
+     420     -24.51238     20.72165         -3.79073  -0.62634    42   %  3.3524
+     427     -24.55746     20.76991         -3.78755  -0.62316    43   %  3.4453
+     434     -24.59861     20.81137         -3.78723  -0.62284    44   %  3.5382
+     444     -24.63522     20.85278         -3.78244  -0.61805    45   %  3.6284
+     448     -24.66459     20.88363         -3.78096  -0.61657    46   %  3.7087
+     460     -24.69871     20.92336         -3.77534  -0.61095    47   %  3.8033
+     472     -24.72711     20.96239         -3.76472  -0.60033    48   %  3.8890
+     475     -24.75070     20.98618         -3.76452  -0.60013    49   %  3.9673
+     488     -24.77740     21.02429         -3.75311  -0.58872    50   %  4.0537
+     501     -24.79976     21.06248         -3.73728  -0.57289    51   %  4.1343
+     514     -24.82159     21.09897         -3.72261  -0.55822    52   %  4.2161
+     528     -24.84212     21.13638         -3.70574  -0.54135    53   %  4.2972
+     543     -24.86130     21.17742         -3.68389  -0.51950    54   %  4.3770
+     558     -24.87964     21.21105         -3.66860  -0.50421    55   %  4.4573
+     573     -24.89710     21.24359         -3.65351  -0.48912    56   %  4.5378
+     588     -24.91391     21.27442         -3.63949  -0.47510    57   %  4.6173
+     603     -24.92875     21.30418         -3.62457  -0.46018    58   %  4.6903
+     618     -24.94128     21.35043         -3.59085  -0.42646    59   %  4.7637
+     633     -24.94978     21.37828         -3.57150  -0.40712    60   %  4.8469
+     657     -24.96881     21.43747         -3.53134  -0.36695    61   %  4.9223
+     674     -24.98225     21.46763         -3.51462  -0.35023    62   %  5.0046
+     697     -24.99385     21.52748         -3.46637  -0.30198    63   %  5.0812
+     717     -25.00608     21.56447         -3.44161  -0.27722    64   %  5.1639
+     744     -25.01727     21.60751         -3.40976  -0.24537    65   %  5.2438
+     763     -25.02737     21.63597         -3.39140  -0.22701    66   %  5.3257
+     791     -25.03857     21.69054         -3.34803  -0.18364    67   %  5.4047
+     814     -25.04859     21.76236         -3.28623  -0.12184    68   %  5.4855
+     838     -25.05645     21.79117         -3.26528  -0.10089    69   %  5.5672
+     866     -25.06693     21.84392         -3.22301  -0.05862    70   %  5.6403
+     894     -25.07888     21.89564         -3.18324  -0.01886    71   %  5.7276
+     923     -25.08535     21.95471         -3.13063   0.03375    72   %  5.8063
+     953     -25.09405     22.01472         -3.07933   0.08506    73   %  5.8891
+     984     -25.10200     22.07534         -3.02666   0.13773    74   %  5.9679
+    1012     -25.10889     22.13396         -2.97493   0.18946    75   %  6.0371
+    1043     -25.10381     22.18118         -2.92263   0.24176    76   %  6.1261
+    1084     -25.12475     22.27628         -2.84847   0.31592    77   %  6.2040
+    1116     -25.13199     22.34605         -2.78594   0.37845    78   %  6.2839
+    1148     -25.13817     22.39474         -2.74343   0.42096    79   %  6.3548
+    1189     -25.14568     22.48570         -2.65999   0.50440    80   %  6.4413
+    1230     -25.15229     22.56897         -2.58332   0.58107    81   %  6.5205
+    1267     -25.15874     22.64870         -2.51004   0.65435    82   %  6.5996
+    1311     -25.16497     22.71180         -2.45317   0.71121    83   %  6.6785
+    1354     -25.17106     22.78997         -2.38109   0.78330    84   %  6.7574
+    1400     -25.17698     22.86178         -2.31520   0.84919    85   %  6.8363
+    1445     -25.18276     22.94255         -2.24021   0.92418    86   %  6.9152
+    1491     -25.18799     23.00258         -2.18540   0.97899    87   %  6.9889
+    1537     -25.19308     23.08315         -2.10993   1.05446    88   %  7.0625
+    1594     -25.19897     23.18728         -2.01169   1.15270    89   %  7.1484
+    1646     -25.20421     23.29634         -1.90787   1.25652    90   %  7.2277
+    1696     -25.20878     23.37566         -1.83312   1.33127    91   %  7.3006
+    1763     -25.21424     23.49104         -1.72320   1.44119    92   %  7.3857
+    1816     -25.21856     23.56868         -1.64988   1.51451    93   %  7.4585
+    1888     -25.22383     23.68293         -1.54090   1.62349    94   %  7.5449
+    1951     -25.22847     23.82165         -1.40682   1.75757    95   %  7.6249
+    2022     -25.23298     23.93628         -1.29670   1.86769    96   %  7.7051
+    2089     -25.23713     24.03409         -1.20304   1.96134    97   %  7.7847
+    2163     -25.24173     24.15948         -1.08226   2.08213    98   %  7.8662
+    2238     -25.24573     24.29548         -0.95025   2.21414    99   %  7.9439
+    2314     -25.25117     24.40772         -0.84345   2.32094   100   %  8.0255
+    2391     -25.25343     24.51785         -0.73558   2.42881   101   %  8.0986
+    2470     -25.25683     24.66715         -0.58968   2.57470   102   %  8.1688
+    2558     -25.26048     24.79971         -0.46077   2.70362   103   %  8.2464
+    2649     -25.26409     24.92371         -0.34038   2.82401   104   %  8.3262
+    2741     -25.26764     25.08226         -0.18537   2.97902   105   %  8.4050
+    2831     -25.27072     25.21197         -0.05875   3.10564   106   %  8.4756
+    2929     -25.27423     25.42444          0.15021   3.31460   107   %  8.5578
+    3033     -25.27746     25.57259          0.29513   3.45952   108   %  8.6355
+    3136     -25.28047     25.73324          0.45277   3.61715   109   %  8.7095
+    3242     -25.28313     25.88758          0.60445   3.76884   110   %  8.7857
+    3359     -25.28757     26.07871          0.79114   3.95553   111   %  8.8655
+    3472     -25.28564     26.24983          0.96420   4.12859   112   %  8.9407
+
+
+ IRC CALCULATION COMPLETE 
+
+
+           EXCESS KINETIC ENERGY ENTERED INTO SYSTEM =    0.100000
+           INITIAL VELOCITY IN DRC (Angstroms/Femtosecond)
+        -0.00009        -0.00015         0.00009
+        -0.00003        -0.00007         0.00001
+        -0.00490         0.00188        -0.00482
+         0.01138        -0.01278         0.03938
+        -0.13159         0.13878        -0.58624
+         0.00683        -0.00327         0.04229
+         0.00031        -0.00006        -0.00002
+         0.00027        -0.00006        -0.00001
+         0.00136        -0.00221        -0.00631
+         0.00158         0.00050        -0.00024
+         0.00066         0.00035        -0.00002
+        -0.00002         0.00018        -0.00024
+         0.00002         0.00017        -0.00087
+         0.00036         0.00080        -0.00018
+        -0.00320        -0.00308        -0.00053
+        -0.00146        -0.00082        -0.00265
+        -0.01039         0.02485        -0.06269
+        -0.00777         0.01321        -0.05653
+         0.00082         0.00014        -0.00001
+        -0.00031         0.00003        -0.00031
+         0.00005         0.00003        -0.00014
+        -0.00074        -0.00041        -0.00022
+        -0.00037         0.00012        -0.00109
+         0.00205         0.00048        -0.00370
+         0.00435         0.00138        -0.00146
+        -0.02149         0.00899        -0.06541
+        -0.01288         0.01340        -0.05893
+
+ GEOMETRY PRIORITY, STEP = 0.1000 ANGSTROMS
+
+
+
+     POINT   POTENTIAL  +  ENERGY LOST   =   TOTAL      ERROR    REF%   MOVEMENT
+       1      -1.10328      0.00000         -1.10328   0.00000     1   %  0.0000
+      10      -5.26214      0.92667         -4.33548  -0.76563     2   %  0.2891
+      42      -7.17851      2.84949         -4.32901  -0.75917     3   %  0.3744
+      75      -8.65423      4.33169         -4.32254  -0.75270     4   %  0.4646
+     100      -9.81981      5.50214         -4.31767  -0.74782     5   %  0.5549
+     119     -10.84982      6.53586         -4.31396  -0.74412     6   %  0.6422
+     136     -11.80424      7.49355         -4.31068  -0.74084     7   %  0.7268
+     152     -12.70022      8.39258         -4.30765  -0.73780     8   %  0.8106
+     166     -13.55042      9.24562         -4.30480  -0.73495     9   %  0.8960
+     180     -14.36656     10.06446         -4.30210  -0.73225    10   %  0.9837
+     193     -15.15618     10.85668         -4.29951  -0.72966    11   %  1.0722
+     206     -15.91797     11.62096         -4.29701  -0.72716    12   %  1.1606
+     218     -16.62819     12.33353         -4.29465  -0.72481    13   %  1.2460
+     229     -17.27692     12.98446         -4.29246  -0.72261    14   %  1.3268
+     240     -17.87275     13.58235         -4.29040  -0.72055    15   %  1.4036
+     250     -18.42361     14.13518         -4.28843  -0.71858    16   %  1.4768
+     259     -18.93515     14.64862         -4.28653  -0.71668    17   %  1.5472
+     269     -19.41153     15.12684         -4.28469  -0.71484    18   %  1.6154
+     278     -19.85588     15.57298         -4.28290  -0.71305    19   %  1.6817
+     287     -20.27060     15.98946         -4.28114  -0.71130    20   %  1.7468
+     295     -20.65758     16.37817         -4.27942  -0.70957    21   %  1.8109
+     304     -21.01846     16.74073         -4.27773  -0.70788    22   %  1.8744
+     312     -21.35449     17.07843         -4.27606  -0.70622    23   %  1.9375
+     321     -21.66695     17.39253         -4.27443  -0.70458    24   %  2.0004
+     329     -21.95687     17.68406         -4.27282  -0.70297    25   %  2.0635
+     337     -22.22533     17.95410         -4.27123  -0.70139    26   %  2.1273
+     345     -22.47334     18.20366         -4.26968  -0.69984    27   %  2.1941
+     353     -22.70189     18.43373         -4.26816  -0.69831    28   %  2.2671
+     360     -22.91193     18.64527         -4.26667  -0.69682    29   %  2.3445
+     368     -23.10449     18.83928         -4.26521  -0.69536    30   %  2.4241
+     375     -23.28046     19.01667         -4.26378  -0.69394    31   %  2.5060
+     382     -23.44083     19.17843         -4.26240  -0.69255    32   %  2.5906
+     389     -23.58657     19.32552         -4.26105  -0.69121    33   %  2.6784
+     396     -23.71866     19.45891         -4.25975  -0.68990    34   %  2.7688
+     402     -23.83804     19.57955         -4.25849  -0.68865    35   %  2.8611
+     409     -23.94576     19.68848         -4.25729  -0.68744    36   %  2.9548
+     415     -24.04262     19.78648         -4.25613  -0.68629    37   %  3.0496
+     420     -24.12905     19.87401         -4.25504  -0.68520    38   %  3.1445
+     426     -24.20594     19.95192         -4.25402  -0.68417    39   %  3.2392
+     431     -24.27443     20.02136         -4.25307  -0.68322    40   %  3.3335
+     435     -24.33563     20.08345         -4.25218  -0.68233    41   %  3.4273
+     440     -24.39042     20.13906         -4.25136  -0.68152    42   %  3.5206
+     448     -24.44026     20.19110         -4.24916  -0.67931    43   %  3.6138
+     452     -24.47864     20.23032         -4.24832  -0.67847    44   %  3.6925
+     462     -24.52625     20.28129         -4.24496  -0.67511    45   %  3.7975
+     470     -24.56430     20.32547         -4.23883  -0.66898    46   %  3.8890
+     476     -24.59916     20.36066         -4.23850  -0.66866    47   %  3.9789
+     486     -24.63148     20.40294         -4.22854  -0.65869    48   %  4.0675
+     490     -24.66164     20.43327         -4.22837  -0.65853    49   %  4.1548
+     502     -24.69015     20.47532         -4.21483  -0.64498    50   %  4.2421
+     511     -24.71643     20.51593         -4.20049  -0.63065    51   %  4.3265
+     518     -24.74046     20.53890         -4.20156  -0.63171    52   %  4.4099
+     532     -24.76609     20.58070         -4.18539  -0.61554    53   %  4.4939
+     545     -24.78881     20.61897         -4.16984  -0.60000    54   %  4.5792
+     559     -24.81008     20.65965         -4.15044  -0.58059    55   %  4.6603
+     570     -24.83048     20.70714         -4.12335  -0.55350    56   %  4.7417
+     577     -24.85016     20.72704         -4.12312  -0.55327    57   %  4.8242
+     592     -24.86788     20.77715         -4.09074  -0.52089    58   %  4.9000
+     608     -24.88487     20.82243         -4.06244  -0.49259    59   %  4.9787
+     624     -24.90307     20.85524         -4.04783  -0.47798    60   %  5.0600
+     639     -24.91689     20.89282         -4.02407  -0.45422    61   %  5.1322
+     655     -24.93048     20.93922         -3.99126  -0.42141    62   %  5.2122
+     670     -24.94374     20.96658         -3.97716  -0.40732    63   %  5.2831
+     698     -24.95992     21.03414         -3.92578  -0.35593    64   %  5.3744
+     716     -24.97253     21.07088         -3.90166  -0.33181    65   %  5.4524
+     741     -24.98582     21.13628         -3.84954  -0.27970    66   %  5.5378
+     759     -24.99606     21.16261         -3.83345  -0.26360    67   %  5.6079
+     787     -25.00816     21.22562         -3.78254  -0.21270    68   %  5.6939
+     816     -25.01964     21.27446         -3.74518  -0.17534    69   %  5.7804
+     836     -25.02238     21.31273         -3.70964  -0.13980    70   %  5.8611
+     864     -25.04087     21.37574         -3.66512  -0.09528    71   %  5.9417
+     898     -25.04892     21.44677         -3.60215  -0.03231    72   %  6.0261
+     935     -25.05821     21.49289         -3.56532   0.00452    73   %  6.1105
+     968     -25.06715     21.54012         -3.52703   0.04282    74   %  6.1954
+    1000     -25.07469     21.60800         -3.46669   0.10315    75   %  6.2738
+    1033     -25.07846     21.70030         -3.37816   0.19168    76   %  6.3645
+    1075     -25.09048     21.75626         -3.33422   0.23563    77   %  6.4450
+    1118     -25.09865     21.84049         -3.25816   0.31169    78   %  6.5351
+    1163     -25.10537     21.90643         -3.19894   0.37090    79   %  6.6192
+    1207     -25.11165     21.96666         -3.14499   0.42485    80   %  6.6970
+    1252     -25.11810     22.03582         -3.08228   0.48757    81   %  6.7796
+    1298     -25.12420     22.10443         -3.01977   0.55008    82   %  6.8606
+    1344     -25.13041     22.18579         -2.94462   0.62522    83   %  6.9438
+    1375     -25.13429     22.27179         -2.86250   0.70734    84   %  6.9982
+    1432     -25.14274     22.37042         -2.77233   0.79752    85   %  7.0927
+    1490     -25.14663     22.47442         -2.67222   0.89763    86   %  7.1721
+    1548     -25.15298     22.56301         -2.58997   0.97987    87   %  7.2559
+    1607     -25.15772     22.65884         -2.49888   1.07096    88   %  7.3345
+    1657     -25.15938     22.74267         -2.41671   1.15313    89   %  7.4130
+    1717     -25.16776     22.82451         -2.34325   1.22659    90   %  7.4890
+    1789     -25.17383     22.97175         -2.20207   1.36777    91   %  7.5779
+    1846     -25.18017     23.08189         -2.09828   1.47157    92   %  7.6582
+    1905     -25.18342     23.16397         -2.01946   1.55039    93   %  7.7267
+    1977     -25.18866     23.28313         -1.90553   1.66432    94   %  7.8091
+    2037     -25.19308     23.37577         -1.81731   1.75253    95   %  7.8805
+    2106     -25.19792     23.50118         -1.69674   1.87311    96   %  7.9572
+    2169     -25.20217     23.58815         -1.61402   1.95582    97   %  8.0311
+    2244     -25.20780     23.70475         -1.50305   2.06679    98   %  8.1129
+    2302     -25.21134     23.81402         -1.39732   2.17252    99   %  8.1794
+    2387     -25.21647     23.94804         -1.26843   2.30142   100   %  8.2653
+
+
+ IRC CALCULATION COMPLETE 
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:            62.00 SECONDS
+
+ == MOPAC DONE ==

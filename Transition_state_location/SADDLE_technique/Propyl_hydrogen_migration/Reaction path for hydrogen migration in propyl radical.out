@@ -1,0 +1,878 @@
+ *******************************************************************************
+ ** Site#: 29054        For non-commercial use only    Version 18.025W 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 18.025W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 364**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Jan 26 10:33:06 2018  *
+ *  SYMMETRY   - SYMMETRY CONDITIONS TO BE IMPOSED
+ *  STEP       - STEP-SIZE IN PATH =   0.050
+ *  POINT      - NUMBER OF POINTS IN PATH = 20
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  HTML       - WRITE HTML SCRIPT TO GENERATE ANIMATION USING JSMOL
+ *             - TO DISPLAY IN PDB FORMAT, ADD "PDBOUT"
+ *******************************************************************************
+
+
+
+                    PARAMETER DEPENDENCE DATA
+
+        REFERENCE ATOM      FUNCTION NO.    DEPENDENT ATOM(S)
+        " xx   HET A   1"            1          "  C2  HET A   1"
+
+             DESCRIPTIONS OF THE FUNCTIONS USED
+   1      BOND LENGTH    IS SET EQUAL TO THE REFERENCE BOND LENGTH   
+ 
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(HETATM    1  C1  HET A   1)   -0.00740321  *    0.1133711  *    0.0176252  *
+     2       C(HETATM    3  C3  HET A   1)    2.13683039  *    1.5172014  *   -0.0273627  *
+     3       H(HETATM    4 1H1  HET A   1)   -0.67987432  *   -0.4711827  *    0.6199115  *
+     4       H(HETATM    5 2H1  HET A   1)   -0.51630346  *    0.8339663  *   -0.5981249  *
+     5       H(HETATM    7  H2  HET A   1)    1.73455283  *   -0.1565867  *    1.3383530  *
+     6       H(HETATM    8 1H3  HET A   1)    1.77502871  *    1.8893730  *   -0.9951722  *
+     7       H(HETATM    9 2H3  HET A   1)    2.07940715  *    2.3650354  *    0.6759750  *
+     8       H(HETATM   10 3H3  HET A   1)    3.20071646  *    1.2661854  *   -0.1435455  *
+     9      XX(HETATM   11 xx   HET A   1)    1.78348427  *   72.4224082  *  -21.9533443  *     1     2     8
+    10       C(HETATM    2  C2  HET A   1)    1.78348427      48.2516695  *   30.8283410  *     9     1     2
+    11       H(HETATM    6 3H1  HET A   1)   -0.50000000  +  180.0000000       0.0000000        9     1     2
+ 
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C3 H7  =    10 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+          UHF CALCULATION, NO. OF ALPHA ELECTRONS =   10
+                           NO. OF BETA  ELECTRONS =    9
+  ABOUT TO ENTER EF FROM PATHK
+
+          Geometry optimization using EF
+
+     GRADIENT =  0.71261  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.50000       39.806580
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00740321 +1    0.1133711 +1    0.0176252 +1
+  C(HETATM    3  C3  HET A   1)   2.13683039 +1    1.5172014 +1   -0.0273627 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67987432 +1   -0.4711827 +1    0.6199115 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51630346 +1    0.8339663 +1   -0.5981249 +1
+  H(HETATM    7  H2  HET A   1)   1.73455283 +1   -0.1565867 +1    1.3383530 +1
+  H(HETATM    8 1H3  HET A   1)   1.77502871 +1    1.8893730 +1   -0.9951722 +1
+  H(HETATM    9 2H3  HET A   1)   2.07940715 +1    2.3650354 +1    0.6759750 +1
+  H(HETATM   10 3H3  HET A   1)   3.20071646 +1    1.2661854 +1   -0.1435455 +1
+ XX(HETATM   11 xx   HET A   1)   1.78348427 +1   72.4224082 +1  -21.9533443 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.78348427 +0   48.2516695 +1   30.8283410 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.50000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    23.769 HEAT:  41.10958
+ CYCLE:     2 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    41.399 HEAT:  41.08150
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.629 HEAT:  40.81870
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.899 HEAT:  40.76739
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.974 HEAT:  40.71402
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.794 HEAT:  40.70771
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.982 HEAT:  40.70433
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.289 HEAT:  40.70341
+ CYCLE:     9 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.813 HEAT:  40.70254
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.025 HEAT:  40.70131
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.846 HEAT:  40.70112
+
+     GRADIENT =  0.84630  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.45000       40.701117
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00782342 +1    0.1146543 +1    0.0193793 +1
+  C(HETATM    3  C3  HET A   1)   2.13630819 +1    1.5172423 +1   -0.0282129 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67981835 +1   -0.4716548 +1    0.6204101 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51641050 +1    0.8326578 +1   -0.5989166 +1
+  H(HETATM    7  H2  HET A   1)   1.73436353 +1   -0.1559024 +1    1.3372735 +1
+  H(HETATM    8 1H3  HET A   1)   1.77681878 +1    1.8899086 +1   -0.9954020 +1
+  H(HETATM    9 2H3  HET A   1)   2.07916291 +1    2.3631189 +1    0.6766637 +1
+  H(HETATM   10 3H3  HET A   1)   3.20035342 +1    1.2673386 +1   -0.1435359 +1
+ XX(HETATM   11 xx   HET A   1)   1.74242363 +1   72.0910248 +1  -21.8184282 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.74242363 +0   49.3989918 +1   30.8868585 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.45000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    23.654 HEAT:  42.01217
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    40.585 HEAT:  41.98346
+ CYCLE:     3 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     9.774 HEAT:  41.72566
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.222 HEAT:  41.67640
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.931 HEAT:  41.62217
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.583 HEAT:  41.61511
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.307 HEAT:  41.61222
+ CYCLE:     8 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     2.445 HEAT:  41.61132
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.827 HEAT:  41.61011
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.227 HEAT:  41.60919
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.667 HEAT:  41.60869
+
+     GRADIENT =  0.66723  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.40000       41.608694
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00825568 +1    0.1164744 +1    0.0214777 +1
+  C(HETATM    3  C3  HET A   1)   2.13650487 +1    1.5166857 +1   -0.0288666 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67955357 +1   -0.4721412 +1    0.6205990 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51651319 +1    0.8315410 +1   -0.6000825 +1
+  H(HETATM    7  H2  HET A   1)   1.73426888 +1   -0.1553639 +1    1.3365560 +1
+  H(HETATM    8 1H3  HET A   1)   1.77766918 +1    1.8907792 +1   -0.9958153 +1
+  H(HETATM    9 2H3  HET A   1)   2.07813230 +1    2.3616353 +1    0.6774104 +1
+  H(HETATM   10 3H3  HET A   1)   3.20070178 +1    1.2677528 +1   -0.1436194 +1
+ XX(HETATM   11 xx   HET A   1)   1.70166922 +1   71.7277956 +1  -21.6828781 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.70166922 +0   50.5967245 +1   30.9458117 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.40000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    23.211 HEAT:  42.91062
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    38.205 HEAT:  42.87420
+ CYCLE:     3 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     9.514 HEAT:  42.63364
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.055 HEAT:  42.58589
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.631 HEAT:  42.53246
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.577 HEAT:  42.53239
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.632 HEAT:  42.52282
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.037 HEAT:  42.52346
+ CYCLE:     9 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     0.931 HEAT:  42.51974
+
+     GRADIENT =  0.93050  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.35000       42.519738
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00896389 +1    0.1180893 +1    0.0237591 +1
+  C(HETATM    3  C3  HET A   1)   2.13670871 +1    1.5164023 +1   -0.0293560 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67891969 +1   -0.4721508 +1    0.6205222 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51607569 +1    0.8306597 +1   -0.6013041 +1
+  H(HETATM    7  H2  HET A   1)   1.73413129 +1   -0.1550319 +1    1.3359476 +1
+  H(HETATM    8 1H3  HET A   1)   1.77823658 +1    1.8915973 +1   -0.9964677 +1
+  H(HETATM    9 2H3  HET A   1)   2.07700873 +1    2.3597670 +1    0.6778048 +1
+  H(HETATM   10 3H3  HET A   1)   3.20082854 +1    1.2680303 +1   -0.1432465 +1
+ XX(HETATM   11 xx   HET A   1)   1.66123243 +1   71.3598216 +1  -21.5615412 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.66123243 +0   51.8635118 +1   31.0040997 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.35000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    22.859 HEAT:  43.79439
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    35.195 HEAT:  43.74812
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.185 HEAT:  43.53126
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     8.770 HEAT:  43.48489
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.009 HEAT:  43.43466
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.420 HEAT:  43.42828
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.574 HEAT:  43.42509
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.627 HEAT:  43.42132
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.282 HEAT:  43.42203
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.079 HEAT:  43.42038
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.131 HEAT:  43.42033
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.213 HEAT:  43.41985
+
+     GRADIENT =  0.21333  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.30000       43.419853
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00926804 +1    0.1204967 +1    0.0260039 +1
+  C(HETATM    3  C3  HET A   1)   2.13708006 +1    1.5156177 +1   -0.0300955 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67906288 +1   -0.4729369 +1    0.6203570 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51611706 +1    0.8294882 +1   -0.6021517 +1
+  H(HETATM    7  H2  HET A   1)   1.73405707 +1   -0.1543170 +1    1.3355134 +1
+  H(HETATM    8 1H3  HET A   1)   1.77907603 +1    1.8923202 +1   -0.9969679 +1
+  H(HETATM    9 2H3  HET A   1)   2.07559487 +1    2.3580067 +1    0.6786518 +1
+  H(HETATM   10 3H3  HET A   1)   3.20159455 +1    1.2686878 +1   -0.1436518 +1
+ XX(HETATM   11 xx   HET A   1)   1.62212808 +1   70.9753967 +1  -21.3880565 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.62212808 +0   53.1305991 +1   31.0848743 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.30000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    22.349 HEAT:  44.66159
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    33.365 HEAT:  44.60807
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.989 HEAT:  44.40254
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     8.590 HEAT:  44.35702
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.601 HEAT:  44.30689
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.695 HEAT:  44.30660
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.120 HEAT:  44.30619
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.931 HEAT:  44.29934
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.680 HEAT:  44.29817
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.366 HEAT:  44.29527
+ CYCLE:    11 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.660 HEAT:  44.29376
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.473 HEAT:  44.29303
+
+     GRADIENT =  0.47279  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.25000       44.293026
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.00978525 +1    0.1227678 +1    0.0284468 +1
+  C(HETATM    3  C3  HET A   1)   2.13737146 +1    1.5150668 +1   -0.0307966 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67872979 +1   -0.4734312 +1    0.6199993 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51573481 +1    0.8284136 +1   -0.6030884 +1
+  H(HETATM    7  H2  HET A   1)   1.73383274 +1   -0.1536988 +1    1.3351165 +1
+  H(HETATM    8 1H3  HET A   1)   1.77968458 +1    1.8930765 +1   -0.9974567 +1
+  H(HETATM    9 2H3  HET A   1)   2.07427751 +1    2.3559415 +1    0.6793037 +1
+  H(HETATM   10 3H3  HET A   1)   3.20203816 +1    1.2692271 +1   -0.1438653 +1
+ XX(HETATM   11 xx   HET A   1)   1.58368253 +1   70.6037087 +1  -21.2218277 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.58368253 +0   54.4541230 +1   31.1594872 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.25000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    22.000 HEAT:  45.48016
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    31.374 HEAT:  45.41861
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.810 HEAT:  45.22583
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     8.405 HEAT:  45.18020
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.707 HEAT:  45.13125
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     6.680 HEAT:  45.12764
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.705 HEAT:  45.11980
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.086 HEAT:  45.12062
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.157 HEAT:  45.11691
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.605 HEAT:  45.11747
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.329 HEAT:  45.11633
+
+     GRADIENT =  0.32884  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.20000       45.116326
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01012780 +1    0.1251701 +1    0.0310450 +1
+  C(HETATM    3  C3  HET A   1)   2.13753901 +1    1.5143560 +1   -0.0316634 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67839454 +1   -0.4740634 +1    0.6201896 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51522914 +1    0.8276738 +1   -0.6046381 +1
+  H(HETATM    7  H2  HET A   1)   1.73359031 +1   -0.1531429 +1    1.3344737 +1
+  H(HETATM    8 1H3  HET A   1)   1.78023326 +1    1.8937101 +1   -0.9974771 +1
+  H(HETATM    9 2H3  HET A   1)   2.07283340 +1    2.3538542 +1    0.6799275 +1
+  H(HETATM   10 3H3  HET A   1)   3.20251011 +1    1.2698055 +1   -0.1441980 +1
+ XX(HETATM   11 xx   HET A   1)   1.54566397 +1   70.2237552 +1  -21.0767147 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.54566397 +0   55.8230920 +1   31.2444804 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.20000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    21.345 HEAT:  46.21837
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    29.181 HEAT:  46.15045
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.665 HEAT:  45.97125
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    18.416 HEAT:  45.96622
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     6.810 HEAT:  45.88242
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     6.229 HEAT:  45.87259
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.552 HEAT:  45.86542
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.847 HEAT:  45.86593
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.973 HEAT:  45.86274
+
+     GRADIENT =  0.97303  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.15000       45.862735
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01079835 +1    0.1274142 +1    0.0339107 +1
+  C(HETATM    3  C3  HET A   1)   2.13782591 +1    1.5139287 +1   -0.0323141 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67780299 +1   -0.4742520 +1    0.6200421 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51452487 +1    0.8267219 +1   -0.6060121 +1
+  H(HETATM    7  H2  HET A   1)   1.73328831 +1   -0.1525408 +1    1.3341601 +1
+  H(HETATM    8 1H3  HET A   1)   1.78074942 +1    1.8940936 +1   -0.9977572 +1
+  H(HETATM    9 2H3  HET A   1)   2.07136748 +1    2.3516047 +1    0.6798973 +1
+  H(HETATM   10 3H3  HET A   1)   3.20284972 +1    1.2703930 +1   -0.1442677 +1
+ XX(HETATM   11 xx   HET A   1)   1.50875349 +1   69.8476682 +1  -20.9346706 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.50875349 +0   57.2486480 +1   31.3231619 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.15000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    21.192 HEAT:  46.85821
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    26.646 HEAT:  46.77848
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.677 HEAT:  46.61368
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    16.700 HEAT:  46.58904
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     6.952 HEAT:  46.51734
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.772 HEAT:  46.50518
+ CYCLE:     7 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     4.527 HEAT:  46.50335
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.031 HEAT:  46.49969
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.493 HEAT:  46.49975
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.384 HEAT:  46.49841
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.575 HEAT:  46.49827
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.215 HEAT:  46.49754
+
+     GRADIENT =  0.21547  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.10000       46.497539
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01147354 +1    0.1301407 +1    0.0367096 +1
+  C(HETATM    3  C3  HET A   1)   2.13841025 +1    1.5129246 +1   -0.0334727 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67791672 +1   -0.4750342 +1    0.6199309 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51406153 +1    0.8256161 +1   -0.6071452 +1
+  H(HETATM    7  H2  HET A   1)   1.73318509 +1   -0.1517017 +1    1.3341867 +1
+  H(HETATM    8 1H3  HET A   1)   1.78144171 +1    1.8946053 +1   -0.9985072 +1
+  H(HETATM    9 2H3  HET A   1)   2.06947750 +1    2.3493229 +1    0.6809016 +1
+  H(HETATM   10 3H3  HET A   1)   3.20389186 +1    1.2714896 +1   -0.1449445 +1
+ XX(HETATM   11 xx   HET A   1)   1.47150173 +1   69.4254336 +1  -20.7247481 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.47150173 +0   58.7753962 +1   31.4264790 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.10000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    20.638 HEAT:  47.33720
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    25.623 HEAT:  47.25514
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.382 HEAT:  47.09508
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    17.284 HEAT:  47.07754
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.047 HEAT:  47.00466
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.373 HEAT:  46.99151
+ CYCLE:     7 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     4.875 HEAT:  46.99068
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.291 HEAT:  46.98705
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.887 HEAT:  46.98744
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.005 HEAT:  46.98504
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.441 HEAT:  46.98517
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.185 HEAT:  46.98451
+
+     GRADIENT =  0.18493  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.05000       46.984511
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01231881 +1    0.1328808 +1    0.0397380 +1
+  C(HETATM    3  C3  HET A   1)   2.13890911 +1    1.5121471 +1   -0.0344883 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67767340 +1   -0.4756891 +1    0.6198995 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51345436 +1    0.8245440 +1   -0.6085461 +1
+  H(HETATM    7  H2  HET A   1)   1.73298316 +1   -0.1509323 +1    1.3340223 +1
+  H(HETATM    8 1H3  HET A   1)   1.78211238 +1    1.8950319 +1   -0.9989818 +1
+  H(HETATM    9 2H3  HET A   1)   2.06768025 +1    2.3468459 +1    0.6814612 +1
+  H(HETATM   10 3H3  HET A   1)   3.20471629 +1    1.2725351 +1   -0.1454453 +1
+ XX(HETATM   11 xx   HET A   1)   1.43514335 +1   69.0096763 +1  -20.5298120 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.43514335 +0   60.3624213 +1   31.5225849 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.05000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    20.307 HEAT:  47.63821
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    24.148 HEAT:  47.54926
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.705 HEAT:  47.36603
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    12.174 HEAT:  47.34144
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.670 HEAT:  47.29844
+ CYCLE:     6 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.778 HEAT:  47.28861
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.438 HEAT:  47.28980
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.955 HEAT:  47.28428
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.735 HEAT:  47.28573
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.781 HEAT:  47.28277
+
+     GRADIENT =  0.78131  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :        -0.00000       47.282768
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01342740 +1    0.1357881 +1    0.0428585 +1
+  C(HETATM    3  C3  HET A   1)   2.13947266 +1    1.5111158 +1   -0.0356181 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67728526 +1   -0.4762439 +1    0.6200858 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51271881 +1    0.8235719 +1   -0.6102031 +1
+  H(HETATM    7  H2  HET A   1)   1.73285107 +1   -0.1504553 +1    1.3336726 +1
+  H(HETATM    8 1H3  HET A   1)   1.78262793 +1    1.8956639 +1   -0.9997687 +1
+  H(HETATM    9 2H3  HET A   1)   2.06594775 +1    2.3443737 +1    0.6824938 +1
+  H(HETATM   10 3H3  HET A   1)   3.20548671 +1    1.2735493 +1   -0.1458614 +1
+ XX(HETATM   11 xx   HET A   1)   1.39903702 +1   68.5825992 +1  -20.3642312 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.39903702 +0   62.0472936 +1   31.6139902 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)  -0.00000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    19.863 HEAT:  47.71049
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    22.330 HEAT:  47.61415
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.398 HEAT:  47.43885
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.772 HEAT:  47.40456
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.973 HEAT:  47.37636
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.818 HEAT:  47.36607
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.713 HEAT:  47.35364
+ CYCLE:     8 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     5.256 HEAT:  47.35668
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.810 HEAT:  47.35405
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.335 HEAT:  47.35318
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.726 HEAT:  47.35109
+
+     GRADIENT =  0.72635  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.05000       47.351093
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01454486 +1    0.1388907 +1    0.0462527 +1
+  C(HETATM    3  C3  HET A   1)   2.14000580 +1    1.5106025 +1   -0.0364126 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67741506 +1   -0.4769328 +1    0.6205264 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51200640 +1    0.8222792 +1   -0.6124146 +1
+  H(HETATM    7  H2  HET A   1)   1.73276933 +1   -0.1498122 +1    1.3330785 +1
+  H(HETATM    8 1H3  HET A   1)   1.78334920 +1    1.8962449 +1   -0.9997513 +1
+  H(HETATM    9 2H3  HET A   1)   2.06412385 +1    2.3412292 +1    0.6828171 +1
+  H(HETATM   10 3H3  HET A   1)   3.20667280 +1    1.2748619 +1   -0.1464368 +1
+ XX(HETATM   11 xx   HET A   1)   1.36340848 +1   68.1071724 +1  -20.0945012 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.36340848 +0   63.8338435 +1   31.7402105 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.05000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.029 HEAT:  47.52543
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    22.098 HEAT:  47.42429
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.235 HEAT:  47.24373
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     9.851 HEAT:  47.20303
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    11.977 HEAT:  47.19244
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     6.886 HEAT:  47.17260
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.638 HEAT:  47.16613
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.743 HEAT:  47.15535
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.800 HEAT:  47.15975
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     0.779 HEAT:  47.15413
+
+     GRADIENT =  0.77939  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.10000       47.154126
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01634357 +1    0.1419511 +1    0.0495504 +1
+  C(HETATM    3  C3  HET A   1)   2.14084111 +1    1.5097495 +1   -0.0377748 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67709791 +1   -0.4773033 +1    0.6200231 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51097456 +1    0.8209408 +1   -0.6142277 +1
+  H(HETATM    7  H2  HET A   1)   1.73284183 +1   -0.1494549 +1    1.3333061 +1
+  H(HETATM    8 1H3  HET A   1)   1.78386417 +1    1.8967993 +1   -1.0002088 +1
+  H(HETATM    9 2H3  HET A   1)   2.06232772 +1    2.3384161 +1    0.6841437 +1
+  H(HETATM   10 3H3  HET A   1)   3.20749589 +1    1.2762648 +1   -0.1471526 +1
+ XX(HETATM   11 xx   HET A   1)   1.32807774 +1   67.6168269 +1  -19.8629286 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.32807774 +0   65.7534328 +1   31.8370231 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.10000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.731 HEAT:  47.04643
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.668 HEAT:  46.93591
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.537 HEAT:  46.76144
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.157 HEAT:  46.71387
+ CYCLE:     5 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    12.258 HEAT:  46.70362
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     9.822 HEAT:  46.69050
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.618 HEAT:  46.67213
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.471 HEAT:  46.67152
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.684 HEAT:  46.66567
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.478 HEAT:  46.66693
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.355 HEAT:  46.66430
+
+     GRADIENT =  0.35490  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.15000       46.664297
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01790633 +1    0.1452780 +1    0.0530551 +1
+  C(HETATM    3  C3  HET A   1)   2.14158016 +1    1.5089954 +1   -0.0385248 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67733706 +1   -0.4782957 +1    0.6205775 +1
+  H(HETATM    5 2H1  HET A   1)  -0.51027550 +1    0.8199636 +1   -0.6164724 +1
+  H(HETATM    7  H2  HET A   1)   1.73300175 +1   -0.1489563 +1    1.3328407 +1
+  H(HETATM    8 1H3  HET A   1)   1.78467408 +1    1.8970934 +1   -1.0008298 +1
+  H(HETATM    9 2H3  HET A   1)   2.06030747 +1    2.3354122 +1    0.6846964 +1
+  H(HETATM   10 3H3  HET A   1)   3.20891010 +1    1.2778728 +1   -0.1476831 +1
+ XX(HETATM   11 xx   HET A   1)   1.29306704 +1   67.0762745 +1  -19.5323137 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.29306704 +0   67.7956283 +1   31.9741307 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.15000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    19.850 HEAT:  46.26183
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.350 HEAT:  46.14714
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     7.530 HEAT:  45.97033
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.746 HEAT:  45.96807
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.723 HEAT:  45.89515
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.358 HEAT:  45.87864
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.459 HEAT:  45.87421
+ CYCLE:     8 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.731 HEAT:  45.87029
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.668 HEAT:  45.87175
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.671 HEAT:  45.86887
+
+     GRADIENT =  0.67138  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.20000       45.868868
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.01988499 +1    0.1485991 +1    0.0567078 +1
+  C(HETATM    3  C3  HET A   1)   2.14235906 +1    1.5082513 +1   -0.0397919 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67687867 +1   -0.4793148 +1    0.6201212 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50948729 +1    0.8193758 +1   -0.6176100 +1
+  H(HETATM    7  H2  HET A   1)   1.73324121 +1   -0.1485971 +1    1.3329344 +1
+  H(HETATM    8 1H3  HET A   1)   1.78559635 +1    1.8966286 +1   -1.0017353 +1
+  H(HETATM    9 2H3  HET A   1)   2.05795897 +1    2.3328618 +1    0.6850173 +1
+  H(HETATM   10 3H3  HET A   1)   3.21005006 +1    1.2795587 +1   -0.1479839 +1
+ XX(HETATM   11 xx   HET A   1)   1.25828084 +1   66.4993270 +1  -19.2540973 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.25828084 +0   69.9991279 +1   32.1103312 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.20000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.481 HEAT:  45.16009
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.296 HEAT:  45.04306
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.051 HEAT:  44.87535
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    11.348 HEAT:  44.83278
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.405 HEAT:  44.79826
+ CYCLE:     6 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     8.753 HEAT:  44.78782
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.900 HEAT:  44.77333
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.462 HEAT:  44.77443
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.828 HEAT:  44.76964
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.693 HEAT:  44.77001
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.603 HEAT:  44.76866
+
+     GRADIENT =  0.60323  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.25000       44.768665
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.02195722 +1    0.1519759 +1    0.0601592 +1
+  C(HETATM    3  C3  HET A   1)   2.14333290 +1    1.5073539 +1   -0.0407186 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67679570 +1   -0.4806796 +1    0.6206168 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50914618 +1    0.8188546 +1   -0.6189774 +1
+  H(HETATM    7  H2  HET A   1)   1.73353826 +1   -0.1479811 +1    1.3323549 +1
+  H(HETATM    8 1H3  HET A   1)   1.78674350 +1    1.8966905 +1   -1.0026974 +1
+  H(HETATM    9 2H3  HET A   1)   2.05549609 +1    2.3296175 +1    0.6854385 +1
+  H(HETATM   10 3H3  HET A   1)   3.21174304 +1    1.2815317 +1   -0.1485163 +1
+ XX(HETATM   11 xx   HET A   1)   1.22530790 +1   65.8857196 +1  -18.9169765 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.22530790 +0   72.2691301 +1   32.2553688 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.25000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.015 HEAT:  43.78933
+ CYCLE:     2 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    40.074 HEAT:  43.77986
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    35.235 HEAT:  43.66594
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    33.377 HEAT:  43.55491
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    18.481 HEAT:  43.47087
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    11.568 HEAT:  43.41483
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.367 HEAT:  43.40015
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.904 HEAT:  43.38891
+ CYCLE:     9 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     3.555 HEAT:  43.38376
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.286 HEAT:  43.38205
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.449 HEAT:  43.38194
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.349 HEAT:  43.38116
+
+     GRADIENT =  0.34927  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.30000       43.381162
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.02417592 +1    0.1552693 +1    0.0639471 +1
+  C(HETATM    3  C3  HET A   1)   2.14404744 +1    1.5064220 +1   -0.0421096 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67651433 +1   -0.4821234 +1    0.6209066 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50866404 +1    0.8189401 +1   -0.6195289 +1
+  H(HETATM    7  H2  HET A   1)   1.73467786 +1   -0.1479257 +1    1.3311556 +1
+  H(HETATM    8 1H3  HET A   1)   1.78751117 +1    1.8965284 +1   -1.0033637 +1
+  H(HETATM    9 2H3  HET A   1)   2.05298904 +1    2.3265105 +1    0.6861364 +1
+  H(HETATM   10 3H3  HET A   1)   3.21308348 +1    1.2837422 +1   -0.1494840 +1
+ XX(HETATM   11 xx   HET A   1)   1.19271186 +1   65.2514766 +1  -18.5747220 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.19271186 +0   74.6755286 +1   32.4089553 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.30000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.603 HEAT:  42.13859
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    39.715 HEAT:  42.12641
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    40.835 HEAT:  42.08691
+ CYCLE:     4 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    36.509 HEAT:  41.93711
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    20.884 HEAT:  41.84009
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    12.649 HEAT:  41.77143
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.436 HEAT:  41.76065
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.157 HEAT:  41.74389
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.072 HEAT:  41.73872
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.380 HEAT:  41.73649
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.777 HEAT:  41.73666
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.346 HEAT:  41.73548
+
+     GRADIENT =  0.34585  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.35000       41.735476
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.02633989 +1    0.1584899 +1    0.0675119 +1
+  C(HETATM    3  C3  HET A   1)   2.14475654 +1    1.5054767 +1   -0.0435667 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67597695 +1   -0.4832931 +1    0.6216890 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50818554 +1    0.8192329 +1   -0.6199268 +1
+  H(HETATM    7  H2  HET A   1)   1.73572679 +1   -0.1479875 +1    1.3298990 +1
+  H(HETATM    8 1H3  HET A   1)   1.78827651 +1    1.8964899 +1   -1.0044441 +1
+  H(HETATM    9 2H3  HET A   1)   2.05025205 +1    2.3229761 +1    0.6866949 +1
+  H(HETATM   10 3H3  HET A   1)   3.21444521 +1    1.2859786 +1   -0.1501975 +1
+ XX(HETATM   11 xx   HET A   1)   1.16192445 +1   64.6062274 +1  -18.2339407 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.16192445 +0   77.1483194 +1   32.5673765 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.35000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.627 HEAT:  40.27157
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    39.690 HEAT:  40.25097
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    17.503 HEAT:  39.98751
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    11.544 HEAT:  39.93861
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.754 HEAT:  39.90137
+ CYCLE:     6 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     5.620 HEAT:  39.89091
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.940 HEAT:  39.87622
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.564 HEAT:  39.87285
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.055 HEAT:  39.87011
+ CYCLE:    10 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.087 HEAT:  39.86995
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.465 HEAT:  39.86938
+
+     GRADIENT =  0.46537  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.40000       39.869381
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.02854728 +1    0.1616255 +1    0.0708407 +1
+  C(HETATM    3  C3  HET A   1)   2.14550156 +1    1.5043772 +1   -0.0451127 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67542452 +1   -0.4842822 +1    0.6228740 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50783816 +1    0.8198865 +1   -0.6202194 +1
+  H(HETATM    7  H2  HET A   1)   1.73672861 +1   -0.1481669 +1    1.3282805 +1
+  H(HETATM    8 1H3  HET A   1)   1.78943438 +1    1.8963898 +1   -1.0058135 +1
+  H(HETATM    9 2H3  HET A   1)   2.04699290 +1    2.3191241 +1    0.6873639 +1
+  H(HETATM   10 3H3  HET A   1)   3.21610723 +1    1.2884095 +1   -0.1505539 +1
+ XX(HETATM   11 xx   HET A   1)   1.13285814 +1   63.9426894 +1  -17.9085217 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.13285814 +0   79.6722076 +1   32.7346418 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.40000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    19.771 HEAT:  38.22520
+ CYCLE:     2 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:    19.532 HEAT:  38.10038
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    10.748 HEAT:  37.93801
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:    17.979 HEAT:  37.92138
+ CYCLE:     5 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     8.410 HEAT:  37.85564
+ CYCLE:     6 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     4.582 HEAT:  37.84097
+ CYCLE:     7 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.416 HEAT:  37.83299
+ CYCLE:     8 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.794 HEAT:  37.82943
+ CYCLE:     9 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     2.009 HEAT:  37.82834
+ CYCLE:    10 TIME:   0.016 TIME LEFT:  2.00D  GRAD.:     1.217 HEAT:  37.82653
+ CYCLE:    11 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     1.087 HEAT:  37.82632
+ CYCLE:    12 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.505 HEAT:  37.82590
+
+     GRADIENT =  0.50494  IS LESS THAN CUTOFF =  1.00000
+
+
+
+          VARIABLE        FUNCTION
+ :         0.45000       37.825902
+ symmetry html  step=0.05 points=20
+ Locate the transition state for hydrogen atom migration in propyl radical, using a symmetry-defined dummy atom
+
+  C(HETATM    1  C1  HET A   1)  -0.03048255 +1    0.1646801 +1    0.0738951 +1
+  C(HETATM    3  C3  HET A   1)   2.14638277 +1    1.5032335 +1   -0.0466346 +1
+  H(HETATM    4 1H1  HET A   1)  -0.67450854 +1   -0.4847885 +1    0.6239133 +1
+  H(HETATM    5 2H1  HET A   1)  -0.50731350 +1    0.8204691 +1   -0.6201543 +1
+  H(HETATM    7  H2  HET A   1)   1.73715595 +1   -0.1479392 +1    1.3272682 +1
+  H(HETATM    8 1H3  HET A   1)   1.79086577 +1    1.8957589 +1   -1.0071467 +1
+  H(HETATM    9 2H3  HET A   1)   2.04318304 +1    2.3149051 +1    0.6875203 +1
+  H(HETATM   10 3H3  HET A   1)   3.21767179 +1    1.2910444 +1   -0.1510018 +1
+ XX(HETATM   11 xx   HET A   1)   1.10564664 +1   63.3104781 +1  -17.5358606 +1 "  C1  HET A   1" "  C3  HET A   1" " 3H3  HET A   1" =  1  2  8
+  C(HETATM    2  C2  HET A   1)   1.10564664 +0   82.2309195 +1   32.8840881 +1 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+  H(HETATM    6 3H1  HET A   1)   0.45000000 -1  180.0000000 +0    0.0000000 +0 " xx   HET A   1" "  C1  HET A   1" "  C3  HET A   1" =  9  1  2
+ 
+ " xx   HET A   1"  1  "  C2  HET A   1"
+ 
+
+                POINTS ON REACTION PATH 
+                AND CORRESPONDING HEATS
+
+
+      -0.50000000      -0.45000000      -0.40000000      -0.35000000      -0.30000000      -0.25000000      -0.20000000      -0.15000000
+      39.80658004      40.70111690      41.60869379      42.51973793      43.41985280      44.29302628      45.11632610      45.86273537
+      -0.10000000      -0.05000000      -0.00000000       0.05000000       0.10000000       0.15000000       0.20000000       0.25000000
+      46.49753894      46.98451070      47.28276756      47.35109326      47.15412560      46.66429698      45.86886823      44.76866464
+       0.30000000       0.35000000       0.40000000       0.45000000
+      43.38116245      41.73547636      39.86938132      37.82590155
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:             0.62 SECONDS
+
+ == MOPAC DONE ==

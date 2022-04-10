@@ -1,0 +1,9 @@
+TS xyz geo_dat="SADDLE for C4H10 plus C4H9 - C4H9 plus C4H10.arc"
+Narcissistic reaction: Butane + butyl radical <=> butyl radical + butane
+ Refine transition state from a SADDLE calculation 
+oldgeo FORCE isotope
+Calculate force constants and normal modes for the refined transition state
+
+oldgeo IRC=1* restart T-priority=0.5 html kinetic=0.1 DRC cycles=100
+Generate the DRC for the reaction: Butane + butyl radical <=> butyl radical + butane
+(Click on "Common" to orientate the system to see the reaction better.) 

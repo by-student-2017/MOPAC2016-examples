@@ -1,0 +1,21 @@
+  charge=-1 eps=78.4 symmetry precise
+     [F - CH3 - Br](-)
+
+ Br(HETATM    1  Br  HET A   1)   0.00000000 +0    0.0000000 +0    0.0000000 +0
+  C(HETATM    2  C   HET A   1)   1.82380532 +1    0.0000000 +0    0.0000000 +0     1     0     0
+  H(HETATM    3  H   HET A   1)   1.09052435 +1  107.0678886 +1    0.0000000 +0     2     1     0
+  H(HETATM    4  H   HET A   1)   1.09034719 +1  107.0799202 +1  119.7443349 +1     2     1     3
+  H(HETATM    5  H   HET A   1)   1.08976747 +1  107.3487476 +1  120.2044802 +1     2     1     4
+  F(HETATM    6  F   HET A   1)   2.62032749 +0   73.0199118 +1 -179.9746857 +1     2     5     1
+
+2 1 6
+
+oldgeo opt ts eps=78.4 charge=-1 precise
+Refine the transition state geometry
+
+oldgeo force eps=78.4 charge=-1 isotope 
+Verify that the system is a transition state
+
+oldgeo irc=-1* x-priority=0.1 restart html eps=78.4 charge=-1 
+Generate the Intrinsic Reaction Coordinate for F(-) + CH3Br => CH3F + Br(-)
+ 

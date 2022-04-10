@@ -1,0 +1,4 @@
+geo-dat="Reactant (prop-2-enal anion plus C5H5N-CH3 cation).arc" +
+geo-ref="Product (prop-2-enal plus C5H6N-CH3).arc" +
+eps=78.4 HTML(nores) saddle 
+Locate the transition state for the reaction [CHO-CH-CH3]^(-) + [C5H5N-CH3]^(+) => CHO-CH=CH2 + C5H6N-CH3

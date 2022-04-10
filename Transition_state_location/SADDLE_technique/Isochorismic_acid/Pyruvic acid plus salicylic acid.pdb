@@ -1,0 +1,31 @@
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/Isochorismic ac
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:58
+REMARK  Heat of Formation = -247.182 Kcal/mol
+HETATM    1  C1  HET A   1      -0.034   0.029  -0.022  1.00 -0.34      PROT C 
+HETATM    2  C2  HET A   1      -1.197  -0.758  -0.040  1.00  0.01      PROT C 
+HETATM    3  C3  HET A   1      -1.163  -2.067   0.409  1.00 -0.26      PROT C 
+HETATM    4  C4  HET A   1       0.035  -2.618   0.892  1.00 -0.02      PROT C 
+HETATM    5  C5  HET A   1       1.198  -1.869   0.925  1.00 -0.29      PROT C 
+HETATM    6  C6  HET A   1       1.157  -0.543   0.464  1.00  0.38      PROT C 
+HETATM    7  C7  HET A   1      -0.034   1.405  -0.489  1.00  0.68      PROT C 
+HETATM    8  O1  HET A   1       0.916   2.166  -0.507  1.00 -0.58      PROT O 
+HETATM    9  O2  HET A   1      -1.240   1.827  -0.934  1.00 -0.53      PROT O 
+HETATM   10  O3  HET A   1       2.315   0.135   0.517  1.00 -0.49      PROT O 
+HETATM   11  O4  HET A   1       4.017  -3.237   2.298  1.00 -0.38      PROT O 
+HETATM   12  C8  HET A   1       4.966  -2.515   2.423  1.00  0.45      PROT C 
+HETATM   13  C9  HET A   1       5.055  -1.101   1.992  1.00 -0.55      PROT C 
+HETATM   14  C10 HET A   1       6.246  -3.065   3.055  1.00  0.53      PROT C 
+HETATM   15  O5  HET A   1       7.150  -3.628   2.507  1.00 -0.46      PROT O 
+HETATM   16  O6  HET A   1       6.245  -2.796   4.379  1.00 -0.54      PROT O 
+HETATM   17 1H2  HET A   1      -2.129  -0.324  -0.415  1.00  0.17      PROT H 
+HETATM   18 1H3  HET A   1      -2.064  -2.675   0.392  1.00  0.16      PROT H 
+HETATM   19  H4  HET A   1       0.047  -3.652   1.245  1.00  0.16      PROT H 
+HETATM   20  H5  HET A   1       2.135  -2.285   1.299  1.00  0.20      PROT H 
+HETATM   21 1H6  HET A   1       5.255  -0.425   2.840  1.00  0.19      PROT H 
+HETATM   22 2H2  HET A   1      -1.222   2.768  -1.253  1.00  0.36      PROT H 
+HETATM   23 2H3  HET A   1       2.209   1.080   0.168  1.00  0.38      PROT H 
+HETATM   24 1H9  HET A   1       5.854  -0.940   1.250  1.00  0.19      PROT H 
+HETATM   25 2H9  HET A   1       4.114  -0.753   1.522  1.00  0.21      PROT H 
+HETATM   26 2H6  HET A   1       7.037  -3.146   4.862  1.00  0.36      PROT H 
+END

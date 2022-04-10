@@ -1,0 +1,2587 @@
+MODEL      1
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.442 Kcal/mol
+HETATM    1  I   HET A   1      -0.781  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.359   0.001  -0.001  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.710   1.036   0.005  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.712  -0.522   0.892  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.711  -0.511  -0.901  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.085   0.005   0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      2
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.494 Kcal/mol
+HETATM    1  I   HET A   1      -0.779  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.361   0.000  -0.001  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.711   1.036   0.004  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.713  -0.522   0.893  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.712  -0.512  -0.901  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.069   0.005   0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      3
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.360 Kcal/mol
+HETATM    1  I   HET A   1      -0.776  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.363   0.000  -0.001  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.712   1.037   0.003  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.714  -0.522   0.894  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.713  -0.513  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.051   0.005   0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      4
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.191 Kcal/mol
+HETATM    1  I   HET A   1      -0.774  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.364   0.000  -0.001  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.714   1.037   0.003  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.715  -0.521   0.894  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.714  -0.514  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.034   0.005   0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      5
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.011 Kcal/mol
+HETATM    1  I   HET A   1      -0.772  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.366   0.000  -0.001  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.715   1.037   0.002  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.716  -0.521   0.895  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.715  -0.515  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.017   0.005   0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      6
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -145.764 Kcal/mol
+HETATM    1  I   HET A   1      -0.769  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.368   0.000  -0.000  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.716   1.037   0.002  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.717  -0.521   0.896  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.716  -0.516  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       4.000   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      7
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -145.547 Kcal/mol
+HETATM    1  I   HET A   1      -0.767  -0.001   0.000  1.00 -0.17      PROT I
+HETATM    2  C   HET A   1       1.370   0.000  -0.000  1.00 -0.37      PROT C
+HETATM    3  H   HET A   1       1.717   1.038   0.001  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.718  -0.520   0.896  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.717  -0.516  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.983   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      8
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -145.348 Kcal/mol
+HETATM    1  I   HET A   1      -0.765  -0.001   0.000  1.00 -0.18      PROT I
+HETATM    2  C   HET A   1       1.372   0.000  -0.000  1.00 -0.36      PROT C
+HETATM    3  H   HET A   1       1.718   1.038   0.001  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.719  -0.520   0.897  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.719  -0.517  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.968   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL      9
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -145.292 Kcal/mol
+HETATM    1  I   HET A   1      -0.763  -0.001   0.000  1.00 -0.18      PROT I
+HETATM    2  C   HET A   1       1.377   0.000  -0.000  1.00 -0.36      PROT C
+HETATM    3  H   HET A   1       1.720   1.038   0.001  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.721  -0.520   0.898  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.721  -0.518  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.955   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     10
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -145.118 Kcal/mol
+HETATM    1  I   HET A   1      -0.763  -0.001   0.000  1.00 -0.18      PROT I
+HETATM    2  C   HET A   1       1.382   0.000  -0.000  1.00 -0.36      PROT C
+HETATM    3  H   HET A   1       1.723   1.039   0.001  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.724  -0.520   0.899  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.724  -0.518  -0.900  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.945   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     11
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.961 Kcal/mol
+HETATM    1  I   HET A   1      -0.762  -0.001   0.000  1.00 -0.19      PROT I
+HETATM    2  C   HET A   1       1.388   0.000  -0.000  1.00 -0.35      PROT C
+HETATM    3  H   HET A   1       1.726   1.040   0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.728  -0.520   0.899  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.727  -0.519  -0.901  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.938   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     12
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.791 Kcal/mol
+HETATM    1  I   HET A   1      -0.762  -0.001   0.000  1.00 -0.19      PROT I
+HETATM    2  C   HET A   1       1.395   0.000  -0.000  1.00 -0.35      PROT C
+HETATM    3  H   HET A   1       1.730   1.040   0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.732  -0.520   0.900  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.731  -0.519  -0.901  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.932   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     13
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.631 Kcal/mol
+HETATM    1  I   HET A   1      -0.762  -0.001   0.000  1.00 -0.20      PROT I
+HETATM    2  C   HET A   1       1.403  -0.000  -0.000  1.00 -0.34      PROT C
+HETATM    3  H   HET A   1       1.734   1.041   0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.735  -0.521   0.901  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.735  -0.520  -0.902  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.927   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     14
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.435 Kcal/mol
+HETATM    1  I   HET A   1      -0.762  -0.001   0.000  1.00 -0.20      PROT I
+HETATM    2  C   HET A   1       1.411  -0.000  -0.000  1.00 -0.33      PROT C
+HETATM    3  H   HET A   1       1.738   1.042   0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.739  -0.521   0.902  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.739  -0.520  -0.902  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.922   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     15
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.193 Kcal/mol
+HETATM    1  I   HET A   1      -0.762  -0.001   0.000  1.00 -0.21      PROT I
+HETATM    2  C   HET A   1       1.419  -0.000  -0.000  1.00 -0.33      PROT C
+HETATM    3  H   HET A   1       1.742   1.043  -0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.744  -0.521   0.902  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.743  -0.521  -0.903  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.918   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     16
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.046 Kcal/mol
+HETATM    1  I   HET A   1      -0.763  -0.001   0.000  1.00 -0.21      PROT I
+HETATM    2  C   HET A   1       1.428  -0.000  -0.000  1.00 -0.32      PROT C
+HETATM    3  H   HET A   1       1.746   1.044  -0.000  1.00  0.18      PROT H
+HETATM    4  H   HET A   1       1.748  -0.522   0.903  1.00  0.18      PROT H
+HETATM    5  H   HET A   1       1.747  -0.522  -0.904  1.00  0.18      PROT H
+HETATM    6  F   HET A   1       3.914   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     17
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -143.881 Kcal/mol
+HETATM    1  I   HET A   1      -0.763  -0.001   0.000  1.00 -0.22      PROT I
+HETATM    2  C   HET A   1       1.435  -0.000  -0.000  1.00 -0.31      PROT C
+HETATM    3  H   HET A   1       1.750   1.045  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.752  -0.522   0.904  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.751  -0.522  -0.905  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.911   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     18
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -143.590 Kcal/mol
+HETATM    1  I   HET A   1      -0.764  -0.001   0.000  1.00 -0.22      PROT I
+HETATM    2  C   HET A   1       1.444  -0.000  -0.000  1.00 -0.30      PROT C
+HETATM    3  H   HET A   1       1.754   1.045  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.756  -0.522   0.905  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.755  -0.523  -0.905  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.908   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     19
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -143.241 Kcal/mol
+HETATM    1  I   HET A   1      -0.764  -0.001   0.000  1.00 -0.23      PROT I
+HETATM    2  C   HET A   1       1.453  -0.000  -0.000  1.00 -0.30      PROT C
+HETATM    3  H   HET A   1       1.758   1.046  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.760  -0.523   0.906  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.760  -0.523  -0.906  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.905   0.005  -0.000  1.00 -1.00      PROT F
+END
+ENDMDL
+MODEL     20
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -142.838 Kcal/mol
+HETATM    1  I   HET A   1      -0.765  -0.001   0.000  1.00 -0.24      PROT I
+HETATM    2  C   HET A   1       1.462  -0.000  -0.000  1.00 -0.29      PROT C
+HETATM    3  H   HET A   1       1.763   1.048  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.764  -0.524   0.907  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.764  -0.524  -0.907  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.902   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     21
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -142.451 Kcal/mol
+HETATM    1  I   HET A   1      -0.765  -0.001   0.000  1.00 -0.24      PROT I
+HETATM    2  C   HET A   1       1.471  -0.000  -0.000  1.00 -0.28      PROT C
+HETATM    3  H   HET A   1       1.767   1.049  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.768  -0.524   0.908  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.768  -0.524  -0.908  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.899   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     22
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -142.003 Kcal/mol
+HETATM    1  I   HET A   1      -0.766  -0.001   0.000  1.00 -0.25      PROT I
+HETATM    2  C   HET A   1       1.481  -0.000  -0.000  1.00 -0.27      PROT C
+HETATM    3  H   HET A   1       1.771   1.050  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.772  -0.525   0.909  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.772  -0.525  -0.909  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.897   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     23
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -141.546 Kcal/mol
+HETATM    1  I   HET A   1      -0.766  -0.001   0.000  1.00 -0.26      PROT I
+HETATM    2  C   HET A   1       1.490  -0.000  -0.000  1.00 -0.26      PROT C
+HETATM    3  H   HET A   1       1.775   1.051  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.776  -0.525   0.910  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.776  -0.526  -0.910  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.894   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     24
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -141.137 Kcal/mol
+HETATM    1  I   HET A   1      -0.767  -0.001   0.000  1.00 -0.27      PROT I
+HETATM    2  C   HET A   1       1.500  -0.000  -0.000  1.00 -0.25      PROT C
+HETATM    3  H   HET A   1       1.779   1.052  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.780  -0.526   0.911  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.780  -0.526  -0.911  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.891   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     25
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -140.622 Kcal/mol
+HETATM    1  I   HET A   1      -0.768  -0.001   0.000  1.00 -0.28      PROT I
+HETATM    2  C   HET A   1       1.510  -0.000  -0.000  1.00 -0.24      PROT C
+HETATM    3  H   HET A   1       1.783   1.053  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.784  -0.527   0.912  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.783  -0.527  -0.912  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.889   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     26
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -140.193 Kcal/mol
+HETATM    1  I   HET A   1      -0.768  -0.001   0.000  1.00 -0.29      PROT I
+HETATM    2  C   HET A   1       1.520  -0.000  -0.000  1.00 -0.23      PROT C
+HETATM    3  H   HET A   1       1.786   1.054  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.788  -0.528   0.913  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.787  -0.527  -0.913  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.886   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     27
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -139.345 Kcal/mol
+HETATM    1  I   HET A   1      -0.769  -0.001   0.000  1.00 -0.30      PROT I
+HETATM    2  C   HET A   1       1.530  -0.000  -0.000  1.00 -0.22      PROT C
+HETATM    3  H   HET A   1       1.790   1.056  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.792  -0.528   0.914  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.791  -0.528  -0.914  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.883   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     28
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -139.055 Kcal/mol
+HETATM    1  I   HET A   1      -0.769  -0.001   0.000  1.00 -0.31      PROT I
+HETATM    2  C   HET A   1       1.539  -0.000  -0.000  1.00 -0.21      PROT C
+HETATM    3  H   HET A   1       1.793   1.057  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.795  -0.529   0.915  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.794  -0.529  -0.915  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.881   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     29
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -138.432 Kcal/mol
+HETATM    1  I   HET A   1      -0.770  -0.001   0.000  1.00 -0.32      PROT I
+HETATM    2  C   HET A   1       1.550  -0.000  -0.000  1.00 -0.20      PROT C
+HETATM    3  H   HET A   1       1.797   1.058  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.799  -0.530   0.916  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.798  -0.529  -0.917  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.878   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     30
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -137.813 Kcal/mol
+HETATM    1  I   HET A   1      -0.771  -0.001   0.000  1.00 -0.33      PROT I
+HETATM    2  C   HET A   1       1.560  -0.000  -0.000  1.00 -0.18      PROT C
+HETATM    3  H   HET A   1       1.800   1.060  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.802  -0.530   0.917  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.801  -0.530  -0.918  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.876   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     31
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -137.050 Kcal/mol
+HETATM    1  I   HET A   1      -0.772  -0.001   0.000  1.00 -0.35      PROT I
+HETATM    2  C   HET A   1       1.572  -0.000  -0.000  1.00 -0.17      PROT C
+HETATM    3  H   HET A   1       1.804   1.061  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.805  -0.531   0.919  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.805  -0.531  -0.919  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.873   0.005  -0.000  1.00 -0.99      PROT F
+END
+ENDMDL
+MODEL     32
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -136.157 Kcal/mol
+HETATM    1  I   HET A   1      -0.772  -0.001   0.000  1.00 -0.36      PROT I
+HETATM    2  C   HET A   1       1.582  -0.000  -0.000  1.00 -0.15      PROT C
+HETATM    3  H   HET A   1       1.807   1.062  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.808  -0.532   0.920  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.808  -0.531  -0.920  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.870   0.005  -0.000  1.00 -0.98      PROT F
+END
+ENDMDL
+MODEL     33
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -135.400 Kcal/mol
+HETATM    1  I   HET A   1      -0.773  -0.001   0.000  1.00 -0.38      PROT I
+HETATM    2  C   HET A   1       1.594  -0.000  -0.000  1.00 -0.14      PROT C
+HETATM    3  H   HET A   1       1.810   1.064  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.812  -0.532   0.921  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.811  -0.532  -0.922  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.867   0.005  -0.000  1.00 -0.98      PROT F
+END
+ENDMDL
+MODEL     34
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -134.685 Kcal/mol
+HETATM    1  I   HET A   1      -0.774  -0.001   0.000  1.00 -0.40      PROT I
+HETATM    2  C   HET A   1       1.605  -0.000  -0.000  1.00 -0.12      PROT C
+HETATM    3  H   HET A   1       1.813   1.065  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.815  -0.533   0.922  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.814  -0.533  -0.923  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.864   0.005  -0.000  1.00 -0.98      PROT F
+END
+ENDMDL
+MODEL     35
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -133.929 Kcal/mol
+HETATM    1  I   HET A   1      -0.774  -0.001   0.000  1.00 -0.41      PROT I
+HETATM    2  C   HET A   1       1.617  -0.000  -0.000  1.00 -0.11      PROT C
+HETATM    3  H   HET A   1       1.816   1.067  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.817  -0.534   0.924  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.817  -0.534  -0.924  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.862   0.005  -0.000  1.00 -0.98      PROT F
+END
+ENDMDL
+MODEL     36
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -133.214 Kcal/mol
+HETATM    1  I   HET A   1      -0.775  -0.001   0.000  1.00 -0.43      PROT I
+HETATM    2  C   HET A   1       1.628  -0.000  -0.000  1.00 -0.09      PROT C
+HETATM    3  H   HET A   1       1.819   1.068  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.820  -0.535   0.925  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.820  -0.534  -0.925  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.859   0.005  -0.000  1.00 -0.97      PROT F
+END
+ENDMDL
+MODEL     37
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -132.496 Kcal/mol
+HETATM    1  I   HET A   1      -0.776  -0.001   0.000  1.00 -0.45      PROT I
+HETATM    2  C   HET A   1       1.640  -0.000  -0.000  1.00 -0.08      PROT C
+HETATM    3  H   HET A   1       1.821   1.070  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.822  -0.535   0.926  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.822  -0.535  -0.927  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.856   0.005  -0.000  1.00 -0.97      PROT F
+END
+ENDMDL
+MODEL     38
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -131.684 Kcal/mol
+HETATM    1  I   HET A   1      -0.777  -0.001   0.000  1.00 -0.47      PROT I
+HETATM    2  C   HET A   1       1.653  -0.000  -0.000  1.00 -0.06      PROT C
+HETATM    3  H   HET A   1       1.824   1.071  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.825  -0.536   0.928  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.825  -0.536  -0.928  1.00  0.17      PROT H
+HETATM    6  F   HET A   1       3.852   0.005  -0.000  1.00 -0.97      PROT F
+END
+ENDMDL
+MODEL     39
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -130.966 Kcal/mol
+HETATM    1  I   HET A   1      -0.777  -0.001   0.000  1.00 -0.49      PROT I
+HETATM    2  C   HET A   1       1.665  -0.000  -0.000  1.00 -0.04      PROT C
+HETATM    3  H   HET A   1       1.826   1.073  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.827  -0.537   0.929  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.827  -0.537  -0.929  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.849   0.005  -0.000  1.00 -0.96      PROT F
+END
+ENDMDL
+MODEL     40
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -130.142 Kcal/mol
+HETATM    1  I   HET A   1      -0.778  -0.001   0.000  1.00 -0.51      PROT I
+HETATM    2  C   HET A   1       1.679  -0.000  -0.000  1.00 -0.02      PROT C
+HETATM    3  H   HET A   1       1.828   1.074  -0.000  1.00  0.17      PROT H
+HETATM    4  H   HET A   1       1.830  -0.538   0.930  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.829  -0.537  -0.931  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.845   0.005  -0.000  1.00 -0.96      PROT F
+END
+ENDMDL
+MODEL     41
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -129.570 Kcal/mol
+HETATM    1  I   HET A   1      -0.779  -0.001   0.000  1.00 -0.53      PROT I
+HETATM    2  C   HET A   1       1.691  -0.000  -0.000  1.00 -0.01      PROT C
+HETATM    3  H   HET A   1       1.830   1.076  -0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.831  -0.539   0.931  1.00  0.17      PROT H
+HETATM    5  H   HET A   1       1.831  -0.538  -0.932  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.842   0.005  -0.000  1.00 -0.95      PROT F
+END
+ENDMDL
+MODEL     42
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -128.814 Kcal/mol
+HETATM    1  I   HET A   1      -0.780  -0.001   0.000  1.00 -0.56      PROT I
+HETATM    2  C   HET A   1       1.705  -0.000  -0.000  1.00  0.01      PROT C
+HETATM    3  H   HET A   1       1.832   1.077  -0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.833  -0.540   0.933  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.833  -0.539  -0.933  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.838   0.005  -0.000  1.00 -0.94      PROT F
+END
+ENDMDL
+MODEL     43
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -128.188 Kcal/mol
+HETATM    1  I   HET A   1      -0.780  -0.001   0.000  1.00 -0.59      PROT I
+HETATM    2  C   HET A   1       1.719  -0.000  -0.000  1.00  0.03      PROT C
+HETATM    3  H   HET A   1       1.834   1.079  -0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.835  -0.540   0.934  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.835  -0.540  -0.934  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.834   0.005  -0.000  1.00 -0.94      PROT F
+END
+ENDMDL
+MODEL     44
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -127.618 Kcal/mol
+HETATM    1  I   HET A   1      -0.781  -0.001   0.000  1.00 -0.61      PROT I
+HETATM    2  C   HET A   1       1.732  -0.000  -0.000  1.00  0.05      PROT C
+HETATM    3  H   HET A   1       1.835   1.080  -0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.837  -0.541   0.935  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.837  -0.540  -0.935  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.830   0.005  -0.000  1.00 -0.93      PROT F
+END
+ENDMDL
+MODEL     45
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -127.121 Kcal/mol
+HETATM    1  I   HET A   1      -0.782  -0.001   0.000  1.00 -0.64      PROT I
+HETATM    2  C   HET A   1       1.746  -0.000  -0.000  1.00  0.06      PROT C
+HETATM    3  H   HET A   1       1.837   1.081  -0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.838  -0.542   0.936  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.838  -0.541  -0.936  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.826   0.005  -0.000  1.00 -0.92      PROT F
+END
+ENDMDL
+MODEL     46
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -126.681 Kcal/mol
+HETATM    1  I   HET A   1      -0.783  -0.001   0.000  1.00 -0.66      PROT I
+HETATM    2  C   HET A   1       1.760  -0.000  -0.000  1.00  0.08      PROT C
+HETATM    3  H   HET A   1       1.838   1.082   0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.840  -0.542   0.937  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.840  -0.542  -0.937  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.822   0.005  -0.000  1.00 -0.91      PROT F
+END
+ENDMDL
+MODEL     47
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -126.222 Kcal/mol
+HETATM    1  I   HET A   1      -0.783  -0.001   0.000  1.00 -0.69      PROT I
+HETATM    2  C   HET A   1       1.777  -0.001  -0.000  1.00  0.09      PROT C
+HETATM    3  H   HET A   1       1.839   1.083   0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.841  -0.543   0.938  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.841  -0.542  -0.938  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.817   0.005  -0.000  1.00 -0.89      PROT F
+END
+ENDMDL
+MODEL     48
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -125.971 Kcal/mol
+HETATM    1  I   HET A   1      -0.784  -0.001   0.000  1.00 -0.72      PROT I
+HETATM    2  C   HET A   1       1.789  -0.001  -0.000  1.00  0.11      PROT C
+HETATM    3  H   HET A   1       1.840   1.084   0.000  1.00  0.16      PROT H
+HETATM    4  H   HET A   1       1.842  -0.543   0.939  1.00  0.16      PROT H
+HETATM    5  H   HET A   1       1.842  -0.542  -0.939  1.00  0.16      PROT H
+HETATM    6  F   HET A   1       3.813   0.005  -0.000  1.00 -0.88      PROT F
+END
+ENDMDL
+MODEL     49
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -125.856 Kcal/mol
+HETATM    1  I   HET A   1      -0.785  -0.001   0.000  1.00 -0.75      PROT I 
+HETATM    2  C   HET A   1       1.807  -0.001   0.000  1.00  0.12      PROT C 
+HETATM    3  H   HET A   1       1.842   1.085   0.000  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.844  -0.544   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.844  -0.543  -0.940  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.807   0.005  -0.000  1.00 -0.86      PROT F 
+END
+ENDMDL
+MODEL     50
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -125.946 Kcal/mol
+HETATM    1  I   HET A   1      -0.786  -0.001   0.000  1.00 -0.78      PROT I 
+HETATM    2  C   HET A   1       1.826  -0.001   0.000  1.00  0.13      PROT C 
+HETATM    3  H   HET A   1       1.843   1.085   0.000  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.845  -0.544   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.845  -0.543  -0.940  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.800   0.005  -0.000  1.00 -0.83      PROT F 
+END
+ENDMDL
+MODEL     51
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -126.308 Kcal/mol
+HETATM    1  I   HET A   1      -0.787  -0.001   0.000  1.00 -0.81      PROT I 
+HETATM    2  C   HET A   1       1.847  -0.001   0.000  1.00  0.13      PROT C 
+HETATM    3  H   HET A   1       1.844   1.086   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.847  -0.545   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.847  -0.543  -0.941  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.793   0.005  -0.000  1.00 -0.80      PROT F 
+END
+ENDMDL
+MODEL     52
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -126.552 Kcal/mol
+HETATM    1  I   HET A   1      -0.787  -0.001   0.000  1.00 -0.83      PROT I 
+HETATM    2  C   HET A   1       1.856  -0.001   0.000  1.00  0.13      PROT C 
+HETATM    3  H   HET A   1       1.845   1.086   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.847  -0.545   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.847  -0.543  -0.941  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.790   0.005  -0.000  1.00 -0.79      PROT F 
+END
+ENDMDL
+MODEL     53
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -127.052 Kcal/mol
+HETATM    1  I   HET A   1      -0.788  -0.001   0.000  1.00 -0.84      PROT I 
+HETATM    2  C   HET A   1       1.870  -0.000   0.000  1.00  0.13      PROT C 
+HETATM    3  H   HET A   1       1.846   1.086   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.849  -0.545   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.848  -0.543  -0.941  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.785   0.005  -0.000  1.00 -0.77      PROT F 
+END
+ENDMDL
+MODEL     54
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -127.950 Kcal/mol
+HETATM    1  I   HET A   1      -0.788  -0.001   0.000  1.00 -0.87      PROT I 
+HETATM    2  C   HET A   1       1.888  -0.000   0.000  1.00  0.13      PROT C 
+HETATM    3  H   HET A   1       1.847   1.085   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.850  -0.545   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.850  -0.543  -0.941  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.778   0.005  -0.000  1.00 -0.74      PROT F 
+END
+ENDMDL
+MODEL     55
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -128.899 Kcal/mol
+HETATM    1  I   HET A   1      -0.789  -0.001   0.000  1.00 -0.88      PROT I 
+HETATM    2  C   HET A   1       1.903  -0.000   0.000  1.00  0.12      PROT C 
+HETATM    3  H   HET A   1       1.848   1.085   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.851  -0.545   0.940  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.851  -0.543  -0.940  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.772   0.005  -0.000  1.00 -0.71      PROT F 
+END
+ENDMDL
+MODEL     56
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -129.961 Kcal/mol
+HETATM    1  I   HET A   1      -0.789  -0.001   0.000  1.00 -0.90      PROT I 
+HETATM    2  C   HET A   1       1.918  -0.000   0.000  1.00  0.11      PROT C 
+HETATM    3  H   HET A   1       1.850   1.085   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.853  -0.544   0.939  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.852  -0.542  -0.940  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.766   0.005  -0.000  1.00 -0.69      PROT F 
+END
+ENDMDL
+MODEL     57
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -131.080 Kcal/mol
+HETATM    1  I   HET A   1      -0.790  -0.001   0.000  1.00 -0.91      PROT I 
+HETATM    2  C   HET A   1       1.931  -0.000   0.000  1.00  0.10      PROT C 
+HETATM    3  H   HET A   1       1.851   1.084   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.854  -0.544   0.939  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.853  -0.542  -0.939  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.761   0.005  -0.000  1.00 -0.67      PROT F 
+END
+ENDMDL
+MODEL     58
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -132.929 Kcal/mol
+HETATM    1  I   HET A   1      -0.791  -0.001   0.000  1.00 -0.92      PROT I 
+HETATM    2  C   HET A   1       1.951  -0.000   0.000  1.00  0.09      PROT C 
+HETATM    3  H   HET A   1       1.852   1.083   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.856  -0.544   0.938  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.855  -0.542  -0.939  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.753   0.005  -0.000  1.00 -0.63      PROT F 
+END
+ENDMDL
+MODEL     59
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -133.933 Kcal/mol
+HETATM    1  I   HET A   1      -0.791  -0.001   0.000  1.00 -0.93      PROT I 
+HETATM    2  C   HET A   1       1.961  -0.000   0.000  1.00  0.08      PROT C 
+HETATM    3  H   HET A   1       1.853   1.082   0.001  1.00  0.16      PROT H 
+HETATM    4  H   HET A   1       1.856  -0.543   0.937  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.856  -0.541  -0.938  1.00  0.16      PROT H 
+HETATM    6  F   HET A   1       3.749   0.005  -0.000  1.00 -0.62      PROT F 
+END
+ENDMDL
+MODEL     60
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -135.383 Kcal/mol
+HETATM    1  I   HET A   1      -0.791  -0.001   0.000  1.00 -0.94      PROT I 
+HETATM    2  C   HET A   1       1.973  -0.000   0.000  1.00  0.07      PROT C 
+HETATM    3  H   HET A   1       1.855   1.082   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.858  -0.543   0.937  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.858  -0.541  -0.937  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.744   0.005  -0.000  1.00 -0.59      PROT F 
+END
+ENDMDL
+MODEL     61
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -137.196 Kcal/mol
+HETATM    1  I   HET A   1      -0.792  -0.001   0.000  1.00 -0.95      PROT I 
+HETATM    2  C   HET A   1       1.988  -0.000   0.000  1.00  0.05      PROT C 
+HETATM    3  H   HET A   1       1.856   1.081   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.859  -0.542   0.936  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.859  -0.540  -0.936  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.737   0.005  -0.000  1.00 -0.57      PROT F 
+END
+ENDMDL
+MODEL     62
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -138.999 Kcal/mol
+HETATM    1  I   HET A   1      -0.792  -0.001   0.000  1.00 -0.95      PROT I 
+HETATM    2  C   HET A   1       2.002  -0.000   0.000  1.00  0.04      PROT C 
+HETATM    3  H   HET A   1       1.858   1.080   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.861  -0.542   0.935  1.00  0.16      PROT H 
+HETATM    5  H   HET A   1       1.861  -0.540  -0.936  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.731   0.005  -0.000  1.00 -0.55      PROT F 
+END
+ENDMDL
+MODEL     63
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -141.185 Kcal/mol
+HETATM    1  I   HET A   1      -0.793  -0.001   0.000  1.00 -0.96      PROT I 
+HETATM    2  C   HET A   1       2.017  -0.000   0.000  1.00  0.02      PROT C 
+HETATM    3  H   HET A   1       1.859   1.078   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.863  -0.541   0.934  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.863  -0.539  -0.934  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.724   0.005  -0.000  1.00 -0.52      PROT F 
+END
+ENDMDL
+MODEL     64
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -142.551 Kcal/mol
+HETATM    1  I   HET A   1      -0.793  -0.001   0.000  1.00 -0.96      PROT I 
+HETATM    2  C   HET A   1       2.027  -0.000   0.000  1.00  0.01      PROT C 
+HETATM    3  H   HET A   1       1.861   1.077   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.864  -0.541   0.933  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.864  -0.539  -0.934  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.720   0.005  -0.000  1.00 -0.51      PROT F 
+END
+ENDMDL
+MODEL     65
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -144.618 Kcal/mol
+HETATM    1  I   HET A   1      -0.794  -0.001   0.000  1.00 -0.97      PROT I 
+HETATM    2  C   HET A   1       2.040  -0.000   0.000  1.00 -0.01      PROT C 
+HETATM    3  H   HET A   1       1.862   1.076   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.866  -0.540   0.932  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.865  -0.538  -0.933  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.714   0.005  -0.000  1.00 -0.48      PROT F 
+END
+ENDMDL
+MODEL     66
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -146.718 Kcal/mol
+HETATM    1  I   HET A   1      -0.794  -0.001   0.000  1.00 -0.97      PROT I 
+HETATM    2  C   HET A   1       2.054   0.000   0.000  1.00 -0.02      PROT C 
+HETATM    3  H   HET A   1       1.864   1.075   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.868  -0.539   0.931  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.867  -0.538  -0.932  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.708   0.005  -0.000  1.00 -0.46      PROT F 
+END
+ENDMDL
+MODEL     67
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -148.822 Kcal/mol
+HETATM    1  I   HET A   1      -0.794  -0.001   0.000  1.00 -0.98      PROT I 
+HETATM    2  C   HET A   1       2.066   0.000   0.000  1.00 -0.04      PROT C 
+HETATM    3  H   HET A   1       1.866   1.074   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.869  -0.539   0.930  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.869  -0.537  -0.930  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.702   0.005  -0.000  1.00 -0.44      PROT F 
+END
+ENDMDL
+MODEL     68
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -151.025 Kcal/mol
+HETATM    1  I   HET A   1      -0.795  -0.001   0.000  1.00 -0.98      PROT I 
+HETATM    2  C   HET A   1       2.080   0.000   0.000  1.00 -0.05      PROT C 
+HETATM    3  H   HET A   1       1.868   1.072   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.871  -0.538   0.928  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.871  -0.536  -0.929  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.695   0.005  -0.000  1.00 -0.43      PROT F 
+END
+ENDMDL
+MODEL     69
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -152.175 Kcal/mol
+HETATM    1  I   HET A   1      -0.795  -0.001   0.000  1.00 -0.98      PROT I 
+HETATM    2  C   HET A   1       2.086   0.000   0.000  1.00 -0.06      PROT C 
+HETATM    3  H   HET A   1       1.869   1.072   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.873  -0.538   0.928  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.872  -0.536  -0.929  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.692   0.005  -0.000  1.00 -0.42      PROT F 
+END
+ENDMDL
+MODEL     70
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -154.558 Kcal/mol
+HETATM    1  I   HET A   1      -0.795  -0.001   0.000  1.00 -0.98      PROT I 
+HETATM    2  C   HET A   1       2.100   0.000   0.000  1.00 -0.07      PROT C 
+HETATM    3  H   HET A   1       1.871   1.070   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.875  -0.537   0.927  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.875  -0.535  -0.927  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.686   0.005  -0.000  1.00 -0.40      PROT F 
+END
+ENDMDL
+MODEL     71
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:30
+REMARK  Heat of Formation = -156.928 Kcal/mol
+HETATM    1  I   HET A   1      -0.796  -0.001   0.000  1.00 -0.98      PROT I 
+HETATM    2  C   HET A   1       2.114   0.000   0.000  1.00 -0.09      PROT C 
+HETATM    3  H   HET A   1       1.874   1.069   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.877  -0.536   0.925  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.877  -0.534  -0.926  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.679   0.005  -0.000  1.00 -0.38      PROT F 
+END
+ENDMDL
+MODEL     72
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -158.717 Kcal/mol
+HETATM    1  I   HET A   1      -0.796  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.125   0.000   0.000  1.00 -0.10      PROT C 
+HETATM    3  H   HET A   1       1.876   1.068   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.879  -0.536   0.924  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.879  -0.534  -0.925  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.674   0.005  -0.000  1.00 -0.37      PROT F 
+END
+ENDMDL
+MODEL     73
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -161.096 Kcal/mol
+HETATM    1  I   HET A   1      -0.796  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.139   0.000   0.000  1.00 -0.11      PROT C 
+HETATM    3  H   HET A   1       1.878   1.066   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.882  -0.535   0.923  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.882  -0.533  -0.924  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.667   0.005  -0.000  1.00 -0.35      PROT F 
+END
+ENDMDL
+MODEL     74
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -162.723 Kcal/mol
+HETATM    1  I   HET A   1      -0.797  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.149   0.000   0.000  1.00 -0.12      PROT C 
+HETATM    3  H   HET A   1       1.881   1.065   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.884  -0.534   0.922  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.884  -0.532  -0.923  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.662   0.005  -0.000  1.00 -0.34      PROT F 
+END
+ENDMDL
+MODEL     75
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -164.217 Kcal/mol
+HETATM    1  I   HET A   1      -0.797  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.159   0.000   0.000  1.00 -0.13      PROT C 
+HETATM    3  H   HET A   1       1.883   1.064   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.886  -0.534   0.921  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.886  -0.532  -0.922  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.658   0.005  -0.000  1.00 -0.33      PROT F 
+END
+ENDMDL
+MODEL     76
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -165.982 Kcal/mol
+HETATM    1  I   HET A   1      -0.797  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.170   0.000   0.000  1.00 -0.14      PROT C 
+HETATM    3  H   HET A   1       1.885   1.062   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.889  -0.533   0.920  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.889  -0.531  -0.921  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.652   0.005  -0.000  1.00 -0.32      PROT F 
+END
+ENDMDL
+MODEL     77
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -167.384 Kcal/mol
+HETATM    1  I   HET A   1      -0.798  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.181   0.000   0.000  1.00 -0.15      PROT C 
+HETATM    3  H   HET A   1       1.888   1.061   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.892  -0.532   0.919  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.891  -0.530  -0.920  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.648   0.005  -0.000  1.00 -0.31      PROT F 
+END
+ENDMDL
+MODEL     78
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -168.717 Kcal/mol
+HETATM    1  I   HET A   1      -0.798  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.191   0.000   0.000  1.00 -0.16      PROT C 
+HETATM    3  H   HET A   1       1.891   1.060   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.895  -0.532   0.918  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.894  -0.530  -0.919  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.643   0.005  -0.000  1.00 -0.30      PROT F 
+END
+ENDMDL
+MODEL     79
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -169.750 Kcal/mol
+HETATM    1  I   HET A   1      -0.798  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.200   0.000   0.000  1.00 -0.16      PROT C 
+HETATM    3  H   HET A   1       1.893   1.059   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.897  -0.531   0.917  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.897  -0.529  -0.918  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.639   0.005  -0.000  1.00 -0.29      PROT F 
+END
+ENDMDL
+MODEL     80
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -171.036 Kcal/mol
+HETATM    1  I   HET A   1      -0.799  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.213   0.000   0.000  1.00 -0.17      PROT C 
+HETATM    3  H   HET A   1       1.897   1.058   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.901  -0.531   0.915  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.901  -0.528  -0.917  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.634   0.005  -0.000  1.00 -0.28      PROT F 
+END
+ENDMDL
+MODEL     81
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -171.765 Kcal/mol
+HETATM    1  I   HET A   1      -0.799  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.221   0.000  -0.000  1.00 -0.18      PROT C 
+HETATM    3  H   HET A   1       1.900   1.057   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.904  -0.530   0.915  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.904  -0.528  -0.916  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.631   0.005  -0.000  1.00 -0.28      PROT F 
+END
+ENDMDL
+MODEL     82
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -172.422 Kcal/mol
+HETATM    1  I   HET A   1      -0.800  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.231   0.001  -0.000  1.00 -0.18      PROT C 
+HETATM    3  H   HET A   1       1.904   1.056   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.908  -0.529   0.914  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.908  -0.527  -0.915  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.627   0.005  -0.000  1.00 -0.27      PROT F 
+END
+ENDMDL
+MODEL     83
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -172.863 Kcal/mol
+HETATM    1  I   HET A   1      -0.800  -0.001   0.000  1.00 -0.99      PROT I 
+HETATM    2  C   HET A   1       2.239   0.001  -0.000  1.00 -0.19      PROT C 
+HETATM    3  H   HET A   1       1.907   1.055   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.911  -0.529   0.913  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.911  -0.527  -0.914  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.625   0.005  -0.000  1.00 -0.27      PROT F 
+END
+ENDMDL
+MODEL     84
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -173.324 Kcal/mol
+HETATM    1  I   HET A   1      -0.801  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.250   0.001  -0.000  1.00 -0.19      PROT C 
+HETATM    3  H   HET A   1       1.913   1.054   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.917  -0.528   0.912  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.917  -0.526  -0.914  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.623   0.005  -0.000  1.00 -0.26      PROT F 
+END
+ENDMDL
+MODEL     85
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -173.587 Kcal/mol
+HETATM    1  I   HET A   1      -0.802  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.259   0.001  -0.000  1.00 -0.19      PROT C 
+HETATM    3  H   HET A   1       1.919   1.053   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.923  -0.528   0.912  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.922  -0.526  -0.913  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.624   0.005  -0.000  1.00 -0.26      PROT F 
+END
+ENDMDL
+MODEL     86
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -173.844 Kcal/mol
+HETATM    1  I   HET A   1      -0.804  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.268   0.001  -0.000  1.00 -0.19      PROT C 
+HETATM    3  H   HET A   1       1.925   1.053   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.929  -0.528   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.929  -0.526  -0.913  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.627   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     87
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.141 Kcal/mol
+HETATM    1  I   HET A   1      -0.806  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.277   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.933   1.053   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.937  -0.528   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.936  -0.525  -0.913  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.634   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     88
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.175 Kcal/mol
+HETATM    1  I   HET A   1      -0.806  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.278   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.933   1.053   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.938  -0.528   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.937  -0.525  -0.913  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.635   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     89
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.343 Kcal/mol
+HETATM    1  I   HET A   1      -0.807  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.283   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.938   1.053   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.942  -0.527   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.941  -0.525  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.640   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     90
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.559 Kcal/mol
+HETATM    1  I   HET A   1      -0.809  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.289   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.943   1.052   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.947  -0.527   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.947  -0.525  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.646   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     91
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.689 Kcal/mol
+HETATM    1  I   HET A   1      -0.810  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.292   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.947   1.052   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.951  -0.527   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.950  -0.525  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.650   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     92
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -174.882 Kcal/mol
+HETATM    1  I   HET A   1      -0.811  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.298   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.952   1.052  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.956  -0.527   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.955  -0.525  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.656   0.005  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     93
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.023 Kcal/mol
+HETATM    1  I   HET A   1      -0.812  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.302   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.956   1.052  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.960  -0.526   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.959  -0.525  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.660   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     94
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.177 Kcal/mol
+HETATM    1  I   HET A   1      -0.814  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.307   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.960   1.052  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.964  -0.526   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.964  -0.525  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.665   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     95
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.351 Kcal/mol
+HETATM    1  I   HET A   1      -0.815  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.313   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.965   1.052  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.969  -0.526   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.968  -0.525  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.671   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     96
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.483 Kcal/mol
+HETATM    1  I   HET A   1      -0.816  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.317   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.969   1.051  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.973  -0.526   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.972  -0.525  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.675   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     97
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.612 Kcal/mol
+HETATM    1  I   HET A   1      -0.818  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.322   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.973   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.977  -0.526   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.976  -0.525  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.680   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     98
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.782 Kcal/mol
+HETATM    1  I   HET A   1      -0.819  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.327   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.978   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.982  -0.525   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.982  -0.524  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.685   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL     99
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -175.942 Kcal/mol
+HETATM    1  I   HET A   1      -0.821  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.333   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.983   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.987  -0.525   0.910  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.987  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.691   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    100
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.075 Kcal/mol
+HETATM    1  I   HET A   1      -0.822  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.338   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.988   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.991  -0.525   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.991  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.696   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    101
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.243 Kcal/mol
+HETATM    1  I   HET A   1      -0.824  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.344   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.993   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       1.997  -0.525   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       1.996  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.702   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    102
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.375 Kcal/mol
+HETATM    1  I   HET A   1      -0.825  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.348   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       1.998   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.001  -0.525   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.001  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.707   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    103
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.522 Kcal/mol
+HETATM    1  I   HET A   1      -0.826  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.354   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.003   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.006  -0.524   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.006  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.713   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    104
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.615 Kcal/mol
+HETATM    1  I   HET A   1      -0.827  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.358   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.006   1.051  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.010  -0.524   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.009  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.717   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    105
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.703 Kcal/mol
+HETATM    1  I   HET A   1      -0.828  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.361   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.009   1.050  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.013  -0.524   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.012  -0.524  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.720   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    106
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.838 Kcal/mol
+HETATM    1  I   HET A   1      -0.830  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.367   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.014   1.050  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.018  -0.524   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.017  -0.524  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.725   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    107
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -176.991 Kcal/mol
+HETATM    1  I   HET A   1      -0.831  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.373   0.001  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.020   1.050  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.023  -0.523   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.023  -0.524  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.732   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    108
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.101 Kcal/mol
+HETATM    1  I   HET A   1      -0.833  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.377   0.002  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.024   1.050  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.028  -0.523   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.027  -0.524  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.736   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    109
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.247 Kcal/mol
+HETATM    1  I   HET A   1      -0.834  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.384   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.030   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.033  -0.523   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.033  -0.524  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.743   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    110
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.203 Kcal/mol
+HETATM    1  I   HET A   1      -0.835  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.386   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.032   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.036  -0.523   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.035  -0.523  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.745   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    111
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.311 Kcal/mol
+HETATM    1  I   HET A   1      -0.836  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.391   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.037   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.040  -0.523   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.040  -0.523  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.750   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    112
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.425 Kcal/mol
+HETATM    1  I   HET A   1      -0.838  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.396   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.042   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.045  -0.522   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.045  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.756   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    113
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.554 Kcal/mol
+HETATM    1  I   HET A   1      -0.839  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.402   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.047   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.050  -0.522   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.050  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.762   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    114
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.637 Kcal/mol
+HETATM    1  I   HET A   1      -0.840  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.406   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.051   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.054  -0.522   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.054  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.766   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    115
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.787 Kcal/mol
+HETATM    1  I   HET A   1      -0.843  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.414   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.059   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.061  -0.521   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.061  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.774   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    116
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.813 Kcal/mol
+HETATM    1  I   HET A   1      -0.843  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.415   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.060   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.062  -0.521   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.062  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.775   0.004  -0.000  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    117
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -177.922 Kcal/mol
+HETATM    1  I   HET A   1      -0.844  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.421   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.065   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.068  -0.521   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.068  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.781   0.004  -0.001  1.00 -0.25      PROT F 
+END
+ENDMDL
+MODEL    118
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.031 Kcal/mol
+HETATM    1  I   HET A   1      -0.846  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.427   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.071   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.073  -0.521   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.073  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.787   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    119
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.109 Kcal/mol
+HETATM    1  I   HET A   1      -0.847  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.431   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.074   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.077  -0.521   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.077  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.791   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    120
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.174 Kcal/mol
+HETATM    1  I   HET A   1      -0.848  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.435   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.078   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.080  -0.521   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.080  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.795   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    121
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.196 Kcal/mol
+HETATM    1  I   HET A   1      -0.850  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.441   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.084   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.086  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.086  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.801   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    122
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.271 Kcal/mol
+HETATM    1  I   HET A   1      -0.851  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.445   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.088   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.090  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.090  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.805   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    123
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.367 Kcal/mol
+HETATM    1  I   HET A   1      -0.852  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.450   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.093   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.095  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.095  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.811   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    124
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.484 Kcal/mol
+HETATM    1  I   HET A   1      -0.854  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.457   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.099   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.102  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.102  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.818   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    125
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.554 Kcal/mol
+HETATM    1  I   HET A   1      -0.855  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.462   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.104   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.106  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.105  -0.523  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.822   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    126
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.609 Kcal/mol
+HETATM    1  I   HET A   1      -0.857  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.466   0.002  -0.000  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.108   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.111  -0.518   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.108  -0.525  -0.911  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.827   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    127
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.635 Kcal/mol
+HETATM    1  I   HET A   1      -0.857  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.467   0.002  -0.001  1.00 -0.20      PROT C 
+HETATM    3  H   HET A   1       2.108   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.111  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.110  -0.523  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.827   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    128
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.733 Kcal/mol
+HETATM    1  I   HET A   1      -0.858  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.473   0.002  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.114   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.116  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.116  -0.522  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.834   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    129
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.811 Kcal/mol
+HETATM    1  I   HET A   1      -0.860  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.478   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.119   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.121  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.121  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.839   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    130
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.879 Kcal/mol
+HETATM    1  I   HET A   1      -0.861  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.483   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.124   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.126  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.126  -0.522  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.844   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    131
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.919 Kcal/mol
+HETATM    1  I   HET A   1      -0.862  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.487   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.127   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.130  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.128  -0.523  -0.909  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.847   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    132
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -178.991 Kcal/mol
+HETATM    1  I   HET A   1      -0.863  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.492   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.132   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.134  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.134  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.853   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    133
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.069 Kcal/mol
+HETATM    1  I   HET A   1      -0.865  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.498   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.138   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.140  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.140  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.859   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    134
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.153 Kcal/mol
+HETATM    1  I   HET A   1      -0.867  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.504   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.144   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.146  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.145  -0.522  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.865   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    135
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.196 Kcal/mol
+HETATM    1  I   HET A   1      -0.868  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.507   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.147   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.149  -0.520   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.149  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.868   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    136
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.244 Kcal/mol
+HETATM    1  I   HET A   1      -0.869  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.511   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.150   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.152  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.152  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.872   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    137
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.196 Kcal/mol
+HETATM    1  I   HET A   1      -0.870  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.515   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.154   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.156  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.156  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.876   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    138
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.298 Kcal/mol
+HETATM    1  I   HET A   1      -0.872  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.524   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.163   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.165  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.165  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.885   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    139
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.358 Kcal/mol
+HETATM    1  I   HET A   1      -0.873  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.529   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.168   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.170  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.169  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.890   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    140
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.377 Kcal/mol
+HETATM    1  I   HET A   1      -0.874  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.532   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.170   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.170  -0.521   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.172  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.893   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    141
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.395 Kcal/mol
+HETATM    1  I   HET A   1      -0.874  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.533   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.171   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.175  -0.517   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.173  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.894   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    142
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.453 Kcal/mol
+HETATM    1  I   HET A   1      -0.876  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.537   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.176   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.178  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.177  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.899   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    143
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.518 Kcal/mol
+HETATM    1  I   HET A   1      -0.877  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.544   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.182   1.049  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.183  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.184  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.905   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    144
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.550 Kcal/mol
+HETATM    1  I   HET A   1      -0.878  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.546   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.185   1.048  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.187  -0.518   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.186  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.908   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    145
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.658 Kcal/mol
+HETATM    1  I   HET A   1      -0.881  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.557   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.196   1.046  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.197  -0.518   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.196  -0.522  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.919   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    146
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.682 Kcal/mol
+HETATM    1  I   HET A   1      -0.882  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.560   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.197   1.050  -0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.200  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.200  -0.521  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.922   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    147
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.765 Kcal/mol
+HETATM    1  I   HET A   1      -0.884  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.569   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.207   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.209  -0.518   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.208  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.931   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    148
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.793 Kcal/mol
+HETATM    1  I   HET A   1      -0.885  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.574   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.208   1.053  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.212  -0.519   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.213  -0.520  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.935   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    149
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.843 Kcal/mol
+HETATM    1  I   HET A   1      -0.887  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.578   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.215   1.048  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.217  -0.518   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.216  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.940   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    150
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.866 Kcal/mol
+HETATM    1  I   HET A   1      -0.888  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.583   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.219   1.048  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.221  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.221  -0.521  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.944   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    151
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.896 Kcal/mol
+HETATM    1  I   HET A   1      -0.889  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.586   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.223   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.225  -0.518   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.224  -0.520  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.948   0.004  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    152
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.940 Kcal/mol
+HETATM    1  I   HET A   1      -0.890  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.592   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.229   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.231  -0.518   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.230  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.954   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    153
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.935 Kcal/mol
+HETATM    1  I   HET A   1      -0.892  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.597   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.230   1.054  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.233  -0.521   0.909  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.232  -0.523  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.958   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    154
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.966 Kcal/mol
+HETATM    1  I   HET A   1      -0.892  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.597   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.232   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.234  -0.519   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.234  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.958   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    155
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.015 Kcal/mol
+HETATM    1  I   HET A   1      -0.893  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.602   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.238   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.240  -0.518   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.239  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.964   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    156
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.045 Kcal/mol
+HETATM    1  I   HET A   1      -0.894  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.606   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.242   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.244  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.243  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.968   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    157
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.093 Kcal/mol
+HETATM    1  I   HET A   1      -0.896  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.612   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.248   1.047  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.250  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.249  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.974   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    158
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -179.714 Kcal/mol
+HETATM    1  I   HET A   1      -0.898  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.621   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.248   1.066  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.248  -0.531   0.925  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.251  -0.528  -0.919  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.982   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    159
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.138 Kcal/mol
+HETATM    1  I   HET A   1      -0.898  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.620   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.255   1.050  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.256  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.256  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.982   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    160
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.140 Kcal/mol
+HETATM    1  I   HET A   1      -0.898  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.620   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.255   1.049  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.256  -0.520   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.257  -0.521  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.982   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    161
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.148 Kcal/mol
+HETATM    1  I   HET A   1      -0.898  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.620   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.255   1.048  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.257  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.257  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.982   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    162
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.192 Kcal/mol
+HETATM    1  I   HET A   1      -0.900  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.626   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.262   1.046  -0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.264  -0.518   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.264  -0.519  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.989   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    163
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.213 Kcal/mol
+HETATM    1  I   HET A   1      -0.900  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.629   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.264   1.047  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.266  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.266  -0.520  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       3.991   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    164
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.097 Kcal/mol
+HETATM    1  I   HET A   1      -0.903  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.641   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.271   1.060  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.273  -0.525   0.915  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.272  -0.525  -0.915  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.003   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    165
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.198 Kcal/mol
+HETATM    1  I   HET A   1      -0.903  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.641   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.272   1.056  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.274  -0.523   0.911  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.274  -0.523  -0.912  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.003   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    166
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.283 Kcal/mol
+HETATM    1  I   HET A   1      -0.903  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.641   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.275   1.049  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.277  -0.519   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.276  -0.520  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.003   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    167
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.319 Kcal/mol
+HETATM    1  I   HET A   1      -0.905  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.646   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.281   1.047  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.283  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.282  -0.519  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.008   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    168
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.327 Kcal/mol
+HETATM    1  I   HET A   1      -0.906  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.651   0.003  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.283   1.054  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.289  -0.518   0.901  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.286  -0.521  -0.907  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.014   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    169
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.330 Kcal/mol
+HETATM    1  I   HET A   1      -0.906  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.652   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.289   1.039  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.287  -0.520   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.289  -0.517  -0.902  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.014   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    170
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.379 Kcal/mol
+HETATM    1  I   HET A   1      -0.908  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.658   0.003  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.291   1.050  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.294  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.293  -0.520  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.020   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    171
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.391 Kcal/mol
+HETATM    1  I   HET A   1      -0.908  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.658   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.294   1.045  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.295  -0.519   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.295  -0.518  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.021   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    172
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.388 Kcal/mol
+HETATM    1  I   HET A   1      -0.910  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.664   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.303   1.038  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.302  -0.518   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.303  -0.515  -0.898  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.027   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    173
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.430 Kcal/mol
+HETATM    1  I   HET A   1      -0.910  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.665   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.300   1.044  -0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.302  -0.519   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.301  -0.518  -0.902  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.027   0.005  -0.001  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    174
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.453 Kcal/mol
+HETATM    1  I   HET A   1      -0.911  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.669   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.303   1.047  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.306  -0.519   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.304  -0.519  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.032   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    175
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.436 Kcal/mol
+HETATM    1  I   HET A   1      -0.912  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.671   0.003  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.303   1.052  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.307  -0.520   0.905  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.305  -0.521  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.034   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    176
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.382 Kcal/mol
+HETATM    1  I   HET A   1      -0.914  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.679   0.003   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.307   1.061   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.315  -0.520   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.310  -0.524  -0.913  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.041   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    177
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.502 Kcal/mol
+HETATM    1  I   HET A   1      -0.914  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.679   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.314   1.045  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.316  -0.519   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.314  -0.517  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.041   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    178
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.505 Kcal/mol
+HETATM    1  I   HET A   1      -0.914  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.679   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.313   1.046  -0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.316  -0.519   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.314  -0.518  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.042   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    179
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.527 Kcal/mol
+HETATM    1  I   HET A   1      -0.915  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.684   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.319   1.045   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.321  -0.518   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.320  -0.517  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.047   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    180
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.553 Kcal/mol
+HETATM    1  I   HET A   1      -0.917  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.689   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.323   1.046   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.326  -0.518   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.324  -0.517  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.052   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    181
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.565 Kcal/mol
+HETATM    1  I   HET A   1      -0.917  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.692   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.326   1.046   0.000  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.328  -0.520   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.326  -0.518  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.054   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    182
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.595 Kcal/mol
+HETATM    1  I   HET A   1      -0.921  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.707   0.003  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.338   1.053   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.342  -0.521   0.906  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.339  -0.520  -0.908  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.070   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    183
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.643 Kcal/mol
+HETATM    1  I   HET A   1      -0.922  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.711   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.343   1.048   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.347  -0.520   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.344  -0.518  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.073   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    184
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.617 Kcal/mol
+HETATM    1  I   HET A   1      -0.924  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.717   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.353   1.038   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.351  -0.522   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.353  -0.514  -0.899  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.080   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    185
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.595 Kcal/mol
+HETATM    1  I   HET A   1      -0.925  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.721   0.004  -0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.358   1.036   0.001  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.355  -0.522   0.907  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.358  -0.512  -0.897  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.084   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    186
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.686 Kcal/mol
+HETATM    1  I   HET A   1      -0.926  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.723   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.356   1.046   0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.360  -0.520   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.357  -0.517  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.086   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    187
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.516 Kcal/mol
+HETATM    1  I   HET A   1      -0.927  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.730   0.003   0.001  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.362   1.048   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.375  -0.509   0.883  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.364  -0.516  -0.902  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.093   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    188
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.707 Kcal/mol
+HETATM    1  I   HET A   1      -0.927  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.730   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.363   1.047   0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.366  -0.521   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.363  -0.517  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.093   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    189
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.708 Kcal/mol
+HETATM    1  I   HET A   1      -0.927  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.730   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.363   1.047   0.002  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.366  -0.521   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.363  -0.517  -0.905  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.093   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    190
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.709 Kcal/mol
+HETATM    1  I   HET A   1      -0.928  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.733   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.366   1.045   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.370  -0.520   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.367  -0.516  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.096   0.005  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    191
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.615 Kcal/mol
+HETATM    1  I   HET A   1      -0.929  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.737   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.375   1.033   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.378  -0.515   0.894  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.373  -0.513  -0.899  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.100   0.006  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    192
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.680 Kcal/mol
+HETATM    1  I   HET A   1      -0.929  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.737   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.373   1.037   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.376  -0.517   0.897  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.372  -0.514  -0.901  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.100   0.006  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    193
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.721 Kcal/mol
+HETATM    1  I   HET A   1      -0.929  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.738   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.371   1.043   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.375  -0.520   0.901  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.371  -0.516  -0.903  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.101   0.006  -0.002  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    194
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.734 Kcal/mol
+HETATM    1  I   HET A   1      -0.930  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.741   0.004  -0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.373   1.047   0.003  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.377  -0.521   0.903  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.374  -0.516  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.104   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    195
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.695 Kcal/mol
+HETATM    1  I   HET A   1      -0.932  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.745   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.381   1.039   0.004  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.385  -0.517   0.896  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.381  -0.512  -0.898  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.109   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    196
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.704 Kcal/mol
+HETATM    1  I   HET A   1      -0.933  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.750   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.379   1.053   0.004  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.383  -0.525   0.908  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.380  -0.519  -0.910  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.112   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    197
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.661 Kcal/mol
+HETATM    1  I   HET A   1      -0.934  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.753   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.385   1.046   0.004  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.389  -0.521   0.902  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.385  -0.515  -0.904  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.116   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    198
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.660 Kcal/mol
+HETATM    1  I   HET A   1      -0.934  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.756   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.387   1.049   0.005  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.391  -0.523   0.904  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.387  -0.516  -0.906  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.119   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL
+MODEL    199
+HEADER  data-set: G:/test/I - CH3 - F (charges) IRC
+REMARK  MOPAC 2016, Version: 21.163W
+REMARK  Date: Jun 12 2021 12:31
+REMARK  Heat of Formation = -180.653 Kcal/mol
+HETATM    1  I   HET A   1      -0.935  -0.001   0.000  1.00 -1.00      PROT I 
+HETATM    2  C   HET A   1       2.759   0.004   0.000  1.00 -0.21      PROT C 
+HETATM    3  H   HET A   1       2.393   1.041   0.006  1.00  0.15      PROT H 
+HETATM    4  H   HET A   1       2.397  -0.520   0.898  1.00  0.15      PROT H 
+HETATM    5  H   HET A   1       2.393  -0.512  -0.900  1.00  0.15      PROT H 
+HETATM    6  F   HET A   1       4.122   0.006  -0.003  1.00 -0.24      PROT F 
+END
+ENDMDL

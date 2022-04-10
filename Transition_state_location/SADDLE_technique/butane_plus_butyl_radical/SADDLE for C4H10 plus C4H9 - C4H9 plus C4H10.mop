@@ -1,0 +1,4 @@
+geo_dat="Butyl radical plus butane.arc" ++
+geo_ref="Butane plus butyl radical.arc" ++
+saddle html
+SADDLE calculation of the narcissistic reaction: Butane + butyl radical <=> butyl radical + butane

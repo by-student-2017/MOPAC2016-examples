@@ -1,0 +1,17 @@
+ charge=-1 eps=78.4 charge=-1 symmetry
+ Transition state for CH3Cl --- Cl(-) <=> Cl(-) --- CH3Cl
+
+  C   0.0 +1    0.0 +1    0.0 +1
+  H   1.0 +1    0.0 +1    0.0 +1     1     0     0
+  H   1.0 +1  120.0 +1    0.0 +1     1     2     0
+  H   1.0 +1  120.0 +1  180.0 +1     1     2     3
+ Cl   2.0 +1   90.0 +1  -90.0 +1     1     2     3
+ Cl   2.0 +0   90.0 +1   90.0 +1     1     2     3
+
+5 1 6
+
+oldgeo charge=-1 eps=78.4 charge=-1 force isotope
+
+
+oldgeo charge=-1 eps=78.4 charge=-1 IRC=1* x-priority=0.02  restart isotope html
+ 

@@ -1,0 +1,16 @@
+ symmetry
+ Optimize NH3 inversion geometry (D3h)
+
+N
+H 1.0 1 0 0 0 0 1
+H 1.0 0 120 0 0 0 1 2
+H 1.0 0 120 0 180 0 1 2 3
+
+2 1 3 4
+
+oldgeo force opt isotope
+ Check for imaginary frequency
+
+oldgeo irc=1* restart html x-priority=0.02 precise
+ Map IRC for ammonia inversion
+

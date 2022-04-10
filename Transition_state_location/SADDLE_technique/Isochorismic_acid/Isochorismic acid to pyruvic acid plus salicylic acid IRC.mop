@@ -1,0 +1,6 @@
+ TS geo_dat="Saddle.arc"
+ Refine transition state, starting with the geometry from SADDLE
+
+IRC=-1* oldgeo x-priority=0.2 HTML
+IRC for Isochorismic acid <=> Pyruvic acid plus Salicylic acid 
+(Click on "Common" to orientate the system to see the reaction better.)

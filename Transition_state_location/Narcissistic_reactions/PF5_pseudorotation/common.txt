@@ -1,0 +1,8 @@
+select F6,F4
+halos
+color halos BLUE
+select F3,F5
+halos
+color halos RED
+reset;center {0.0005416666666666624 0 0}; rotate z -12.77; rotate y 68.91; rotate z 91.06; zoom 99.97; set rotationRadius 3.29;
+model first

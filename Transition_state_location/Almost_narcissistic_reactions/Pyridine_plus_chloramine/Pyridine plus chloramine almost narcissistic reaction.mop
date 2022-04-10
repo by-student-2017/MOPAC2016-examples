@@ -1,0 +1,31 @@
+eps=78.4 charge=1 symmetry  
+ NH2Cl + pyridinium => [H3NCl](+) + pyridine 
+ Locate approximate transition state
+  H(HETATM    1  H   NH3 A   1)   0.00000000 +0    0.0000000 +0    0.0000000 +0 
+  N(HETATM    2  N   NH3 A   1)   1.53021664 +1    0.0000000 +0    0.0000000 +0     1     0     0
+  N(HETATM    3  N   HET B   2)   1.53021664 +0  170.8150733 +1   -0.0000000 +1     1     2     0
+  C(HETATM    4  C1  HET B   2)   1.34867757 +1  120.8712311 +1  -67.3314371 +1     3     1     2
+  C(HETATM    5  C2  HET B   2)   1.39896614 +1  122.2159299 +1 -179.5911570 +1     4     3     1
+  H(HETATM    6  H1  HET D   2)   2.16131745 +1  144.8658267 +1    0.0297940 +1     5     4     3
+  H(HETATM    7  H2  HET D   2)   2.52532252 +1   92.8670033 +1   -0.0311131 +1     6     5     4
+  H(HETATM    8  H3  HET D   2)   2.08064765 +1   92.0496122 +1 -179.7702260 +1     3     1     4
+  H(HETATM    9  H1  HET B   2)   1.09854715 +1  116.0733742 +1  179.9825979 +1     4     3     5
+  H(HETATM   10  H2  HET B   2)   1.09027905 +1  120.1247618 +1  179.9517225 +1     5     4     6
+  H(HETATM   11 1H   NH3 A   1)   1.03548004 +1  110.8403654 +1  171.1141560 +1     2     1     3
+  H(HETATM   12 2H   NH3 A   1)   1.03276503 +1  111.9945247 +1 -123.5983927 +1     2     1    11
+ Cl(HETATM   13 3CL  NH3 A   1)   1.76388397 +1  107.2436362 +1 -118.2394970 +1     2     1    12
+  C(HETATM   14  C1  HET D   2)   1.09551518 +1   33.9408989 +1   -0.0165590 +1     6     5     7
+  C(HETATM   15  C2  HET D   2)   1.09076974 +1   58.7330587 +1   -0.0161819 +1     7     6     5
+  C(HETATM   16  C3  HET D   2)   1.09871803 +1   35.5952874 +1  179.7028079 +1     8     3     1
+ 
+   2  1    3
+
+oldgeo opt eps=78.4 charge=1 ts 
+
+Refine transition state
+oldgeo FORCE eps=78.4 charge=1 
+
+Calculate vibrational modes
+oldgeo IRC=-1* eps=78.4 charge=1 x-priority=0.02 html cycles=200
+ 
+Map IRC path

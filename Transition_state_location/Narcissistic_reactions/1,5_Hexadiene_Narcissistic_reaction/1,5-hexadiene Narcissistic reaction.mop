@@ -1,0 +1,54 @@
+*
+* In this job a molecule of 1,5-hexadiene undergoes a narcissistic reaction to form 1,5-hexadiene.
+*
+* The transition state is calculated in a one-step operation.  By defining the C3-C4 distance as
+* being equal to the C1-C2 distance, the symmetry of the transition state is used in its localization.
+*
+* This is a general approach for locating transition states in narcissistic reactions.
+*
+  symmetry 
+ Using SYMMETRY to optimize the transition state in a narcissistic reaction 
+
+  C   0.0 +1    0.0 +1    0.0 +1
+  C   1.8 +1    0.0 +1    0.0 +1      1     0     0
+  C   2.4 +1   90.0 +1    0.0 +1      2     1     0
+  C   1.8 +0   89.0 +1    0.0 +1      3     2     1
+  C   1.4 +1  100.0 +1  -28.0 +1      1     2     3
+  C   1.4 +1  101.0 +1  -27.0 +1      2     1     3
+  H   1.1 +1  119.0 +1  -96.0 +1      5     1     2
+  H   1.1 +1  101.0 +1 -152.0 +1      1     2     3
+  H   1.1 +1   98.0 +1   93.0 +1      1     2     3
+  H   1.1 +1   98.0 +1   94.0 +1      2     1     3
+  H   1.1 +1  101.0 +1 -151.0 +1      2     1     3
+  H   1.1 +1  119.0 +1  -96.0 +1      6     2     1
+  H   1.1 +1  149.0 +1 -112.0 +1      3     2     1
+  H   1.1 +1   94.0 +1   99.0 +1      3     2     1
+  H   1.1 +1  101.0 +1  151.0 +1      4     3     2
+  H   1.1 +1   98.0 +1  -94.0 +1      4     3     2
+
+2 1 4
+
+*
+*  It's not necessary to optimize the transition state,
+*  but this operation is performed here to demonstrate that the 
+*  final geometry from the previous step was in fact a stationary point.
+*
+ oldgeo opt ts
+Optimize transition state (redundant operation - run here to verify that the previous optimization had run correctly)
+
+*
+* To gerify that the optimized geometry is a transition state two tests are run.
+* In the first test, the lowest vibrational frequency must be imaginary (printed as a
+* negative number in the output)
+*
+* In the second test, the IRC must connect the correct reactants and products.
+* Keyword ISOTOPE is used in the FORCE calculation so that the Hessian can be used
+* in the IRC (by usingkeyword RESTART in the IRC)
+*
+*
+oldgeo FORCE isotope
+Verify that there is one and only one imaginary vibration
+
+oldgeo IRC=1* HTML x-priority=0.2 restart
+Generate the reaction coordinate for the reaction
+ 

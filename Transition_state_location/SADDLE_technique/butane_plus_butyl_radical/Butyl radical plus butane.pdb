@@ -1,0 +1,32 @@
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/Narcissistic re
+REMARK  MOPAC 2016, Version: 21.158W Date: Jun 11 2021 09:39
+REMARK   3   HET = Not identified; C 4                            res:     1
+REMARK   3   HET = Not identified; C 4                            res:     2
+HETATM    1  C1  HET A   1       0.000   0.000   0.000  1.00 -0.44      PROT C 
+HETATM    2  C2  HET A   1       1.529   0.000   0.000  1.00 -0.25      PROT C 
+HETATM    3  C3  HET A   1       2.082   1.432   0.000  1.00 -0.25      PROT C 
+HETATM    4  C4  HET A   1       3.610   1.425   0.031  1.00 -0.44      PROT C 
+HETATM    5  C1  HET B   2       4.040   2.672   5.397  1.00 -0.44      PROT C 
+HETATM    6  C2  HET B   2       4.758   1.963   4.249  1.00 -0.24      PROT C 
+HETATM    7  C3  HET B   2       5.729   2.918   3.535  1.00 -0.27      PROT C 
+HETATM    8  C4  HET B   2       6.404   2.292   2.396  1.00 -0.31      PROT C 
+HETATM    9 1H1  HET A   1      -0.401   0.488   0.895  1.00  0.14      PROT H 
+HETATM   10 2H1  HET A   1      -0.401   0.529  -0.872  1.00  0.14      PROT H 
+HETATM   11 3H1  HET A   1      -0.396  -1.021  -0.024  1.00  0.14      PROT H 
+HETATM   12 1H2  HET A   1       1.907  -0.550   0.882  1.00  0.13      PROT H 
+HETATM   13 2H2  HET A   1       1.907  -0.549  -0.883  1.00  0.13      PROT H 
+HETATM   14 1H3  HET A   1       1.723   1.975  -0.894  1.00  0.13      PROT H 
+HETATM   15 2H3  HET A   1       1.688   1.990   0.870  1.00  0.13      PROT H 
+HETATM   16 1H4  HET A   1       3.990   0.940   0.937  1.00  0.14      PROT H 
+HETATM   17 2H4  HET A   1       4.026   0.890  -0.830  1.00  0.14      PROT H 
+HETATM   18 3H4  HET B   2       4.014   2.443   0.013  1.00  0.14      PROT H 
+HETATM   19 1H1  HET B   2       4.751   3.094   6.116  1.00  0.14      PROT H 
+HETATM   20 2H1  HET B   2       3.413   3.493   5.032  1.00  0.14      PROT H 
+HETATM   21 3H1  HET B   2       3.391   1.981   5.946  1.00  0.14      PROT H 
+HETATM   22 1H2  HET B   2       5.311   1.083   4.630  1.00  0.14      PROT H 
+HETATM   23 2H2  HET B   2       4.019   1.569   3.526  1.00  0.14      PROT H 
+HETATM   24 1H3  HET B   2       5.182   3.828   3.198  1.00  0.15      PROT H 
+HETATM   25 2H3  HET B   2       6.483   3.298   4.263  1.00  0.15      PROT H 
+HETATM   26 1H4  HET B   2       6.192   1.293   2.098  1.00  0.14      PROT H 
+HETATM   27 2H4  HET B   2       7.134   2.828   1.835  1.00  0.13      PROT H 
+END

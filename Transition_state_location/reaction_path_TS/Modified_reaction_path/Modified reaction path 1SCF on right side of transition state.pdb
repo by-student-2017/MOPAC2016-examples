@@ -1,0 +1,29 @@
+HEADER  data-set: Modified reaction path 1SCF on right side of transition state
+REMARK  MOPAC 2016, Version: 18.053W Date: Feb 22 2018 17:03
+REMARK   3   HET = Not identified; C 3 O                          res:     1
+REMARK   3   HET = Not identified; C 6 N                          res:     2
+HETATM    1  O   HET A   1      -2.035  -1.071   0.072  1.00 -0.61      PROT O 
+HETATM    2  C   HET B   2       1.703  -1.074   0.069  1.00  0.04      PROT C 
+HETATM    3  C   HET C   1      -2.216   0.143   0.080  1.00  0.41      PROT C 
+HETATM    4  C1  HET D   2       0.515   0.666   1.219  1.00  0.05      PROT C 
+HETATM    5  N   HET D   2       0.989  -0.634   1.175  1.00 -0.35      PROT N 
+HETATM    6  C2  HET D   2       0.703   1.519   0.179  1.00 -0.32      PROT C 
+HETATM    7  C3  HET D   2       1.257   1.042  -1.086  1.00 -0.22      PROT C 
+HETATM    8  C4  HET D   2       1.910  -0.265  -0.998  1.00 -0.33      PROT C 
+HETATM    9  H   HET C   1      -2.680   0.575   0.982  1.00  0.13      PROT H 
+HETATM   10  C   HET F   2       0.652  -1.565   2.250  1.00 -0.25      PROT C 
+HETATM   11 1H3  HET D   2       0.340   0.835  -1.809  1.00  0.16      PROT H 
+HETATM   12 1H1  HET I   1      -1.081  -0.493  -2.302  1.00  0.16      PROT H 
+HETATM   13 2H1  HET I   1      -1.188   1.173  -3.036  1.00  0.16      PROT H 
+HETATM   14  H2  HET I   1      -2.163   2.060  -0.906  1.00  0.18      PROT H 
+HETATM   15  H1  HET D   2       0.020   0.969   2.149  1.00  0.17      PROT H 
+HETATM   16  H2  HET D   2       0.392   2.555   0.236  1.00  0.16      PROT H 
+HETATM   17 2H3  HET D   2       1.742   1.792  -1.729  1.00  0.15      PROT H 
+HETATM   18  H4  HET D   2       2.518  -0.582  -1.837  1.00  0.16      PROT H 
+HETATM   19 1H   HET F   2       0.729  -1.075   3.238  1.00  0.16      PROT H 
+HETATM   20 2H   HET F   2       1.332  -2.436   2.258  1.00  0.17      PROT H 
+HETATM   21 3H   HET F   2      -0.384  -1.940   2.130  1.00  0.16      PROT H 
+HETATM   22  C1  HET I   1      -1.216   0.575  -2.125  1.00 -0.14      PROT C 
+HETATM   23  C2  HET I   1      -1.890   1.012  -1.013  1.00 -0.37      PROT C 
+HETATM   24  H   HET B   2       2.110  -2.090   0.131  1.00  0.17      PROT H 
+END

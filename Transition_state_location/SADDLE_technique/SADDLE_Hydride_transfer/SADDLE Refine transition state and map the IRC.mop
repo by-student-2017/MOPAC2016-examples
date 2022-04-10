@@ -1,0 +1,6 @@
+geo_dat="SADDLE for hydride transfer from propenal anion to N-methylpyridinet.arc" +
+eps=78.4 HTML(nores) TS 
+ Refine the transition state for the reaction [CHO-CH-CH3]^(-) + [C5H5N-CH3]^(+) => CHO-CH=CH2 + C5H6N-CH3
+ 
+oldgeo irc=-1* x-priority=0.1 html eps=78.4 cycles=100
+ Map out the IRC for hydride migration from prop-2-enal anion to Methylpyridinium cation

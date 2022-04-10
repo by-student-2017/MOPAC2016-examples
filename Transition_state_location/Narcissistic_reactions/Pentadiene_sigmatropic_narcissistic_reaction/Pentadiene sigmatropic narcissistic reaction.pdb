@@ -1,0 +1,16 @@
+HEADER  data-set: G:\work\Pentadiene sigmatropic narcissistic reaction
+REMARK  MOPAC 2016, Version: 18.021W Date: Jan 22 2018 08:39
+HETATM    1  C   HET A   1      -0.843  -1.042  -0.768  1.00  0.00      PROT C 
+HETATM    2 1HT1 HET A   1       0.645  -0.955  -0.794  1.00  0.00      PROT H 
+HETATM    3  C   HET A   1       1.495   0.252  -0.744  1.00  0.00      PROT C 
+HETATM    4  C   HET A   1       1.020   0.840   0.441  1.00  0.00      PROT C 
+HETATM    5 1HT2 HET A   1      -0.777  -0.530  -1.721  1.00  0.00      PROT H 
+HETATM    6 2HT1 HET A   1      -1.229  -2.044  -0.891  1.00  0.00      PROT H 
+HETATM    7 1HT  HET A   1      -1.879  -0.718   1.085  1.00  0.00      PROT H 
+HETATM    8 2HT  HET A   1      -0.615   1.253   1.763  1.00  0.00      PROT H 
+HETATM    9 3HT1 HET A   1       1.741   1.310   1.117  1.00  0.00      PROT H 
+HETATM   10 2HT2 HET A   1       1.060   0.520  -1.701  1.00  0.00      PROT H 
+HETATM   11 3HT2 HET A   1       2.549   0.040  -0.842  1.00  0.00      PROT H 
+HETATM   12  C   HET A   1      -1.098  -0.344   0.416  1.00  0.00      PROT C 
+HETATM   13  C   HET A   1      -0.289   0.693   0.888  1.00  0.00      PROT C 
+END

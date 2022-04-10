@@ -1,0 +1,4 @@
+geo_dat="Acetone in keto form.arc" +
+geo_ref="Acetone in enol form.arc" +
+saddle eps=78.4 html charge=1 xyz  bar=0.005
+Locating Keto-Enol transition state for acetone using SADDLE

@@ -1,0 +1,20 @@
+HEADER  data-set: G:\work\ts
+REMARK  MOPAC 2016, Version: 18.050W Date: Feb 19 2018 16:44
+HETATM    1  C1  HET A   1      -1.574   0.582  -0.101  1.00 -0.54      PROT C 
+HETATM    2  C2  HET A   1      -0.137   0.599   0.220  1.00  0.54      PROT C 
+HETATM    3  C3  HET A   1       0.707   1.664   0.147  1.00 -0.68      PROT C 
+HETATM    4  O   HET A   1       0.424  -0.557   0.576  1.00 -0.61      PROT O 
+HETATM    5  O   HOH B   2       2.770   0.135  -0.577  1.00 -0.56      PROT O 
+HETATM    6 1H1  HET A   1      -2.042   1.580  -0.040  1.00  0.20      PROT H 
+HETATM    7 2H1  HET A   1      -1.756   0.217  -1.131  1.00  0.21      PROT H 
+HETATM    8 3H1  HET A   1      -2.155  -0.083   0.566  1.00  0.20      PROT H 
+HETATM    9 1H3  HET A   1       2.083   1.128  -0.333  1.00  0.46      PROT H 
+HETATM   10 2H3  HET A   1       1.702   1.733   0.658  1.00  0.23      PROT H 
+HETATM   11 1H   HOH B   2       2.126  -0.609  -0.375  1.00  0.42      PROT H 
+HETATM   12 2H   HOH B   2       0.387   2.629  -0.217  1.00  0.21      PROT H 
+HETATM   13 3H   HOH B   2       2.876   0.097  -1.570  1.00  0.42      PROT H 
+HETATM   14  H   HET A   1      -0.224  -1.390   0.588  1.00  0.43      PROT H 
+HETATM   15  O   HOH J   3      -1.185  -2.575   0.605  1.00 -0.71      PROT O 
+HETATM   16 1H   HOH J   3      -0.620  -3.349   0.800  1.00  0.39      PROT H 
+HETATM   17 2H   HOH J   3      -1.474  -2.733  -0.315  1.00  0.39      PROT H 
+END

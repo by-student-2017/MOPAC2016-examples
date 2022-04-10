@@ -1,0 +1,4 @@
+saddle ++
+geo_dat="Move Isochorismic acid and pyruvic acid plus salicylic acid towards each other bias=10.0 first.mop" ++
+geo_ref="Move Isochorismic acid and pyruvic acid plus salicylic acid towards each other bias=10.0 second.mop"
+Move up activation barrier to near to the transition-state geometry

@@ -1,0 +1,27 @@
+HEADER  data-set: SADDLE Refine transition state and map the IRC
+REMARK  MOPAC 2016, Version: 18.053W Date: Feb 22 2018 16:19
+HETATM    1  O   HET A   1      -0.355   0.018  -0.286  1.00 -0.75      PROT O 
+HETATM    2  C   HET B   2       3.313  -0.452   0.117  1.00  0.05      PROT C 
+HETATM    3  C   HET C   1      -0.414   1.224  -0.009  1.00  0.40      PROT C 
+HETATM    4  C1  HET D   2       2.178   1.127   1.515  1.00  0.07      PROT C 
+HETATM    5  N   HET D   2       2.510  -0.174   1.209  1.00 -0.24      PROT N 
+HETATM    6  C2  HET D   2       2.594   2.164   0.723  1.00 -0.29      PROT C 
+HETATM    7  C3  HET D   2       3.265   1.903  -0.528  1.00 -0.07      PROT C 
+HETATM    8  C4  HET D   2       3.744   0.548  -0.705  1.00 -0.31      PROT C 
+HETATM    9  H   HET E   1      -0.951   1.480   0.919  1.00  0.10      PROT H 
+HETATM   10  C   HET F   2       1.926  -1.269   1.986  1.00 -0.27      PROT C 
+HETATM   11 1H1  HET K   1       2.229   2.005  -1.482  1.00  0.13      PROT H 
+HETATM   12 2H1  HET K   1       0.927   1.006  -2.351  1.00  0.15      PROT H 
+HETATM   13 3H1  HET K   1       1.069   2.795  -2.666  1.00  0.14      PROT H 
+HETATM   14  H2  HET K   1      -0.048   3.280  -0.487  1.00  0.16      PROT H 
+HETATM   15  H1  HET D   2       1.595   1.284   2.434  1.00  0.19      PROT H 
+HETATM   16  H2  HET D   2       2.384   3.194   1.000  1.00  0.18      PROT H 
+HETATM   17  H3  HET D   2       3.857   2.715  -0.972  1.00  0.17      PROT H 
+HETATM   18  H4  HET D   2       4.424   0.341  -1.526  1.00  0.18      PROT H 
+HETATM   19 1H   HET F   2       1.940  -1.043   3.069  1.00  0.18      PROT H 
+HETATM   20 2H   HET F   2       2.480  -2.214   1.838  1.00  0.18      PROT H 
+HETATM   21 3H   HET F   2       0.873  -1.439   1.681  1.00  0.18      PROT H 
+HETATM   22  C1  HET K   1       0.931   2.010  -1.921  1.00 -0.19      PROT C 
+HETATM   23  C2  HET K   1       0.122   2.259  -0.800  1.00 -0.53      PROT C 
+HETATM   24  H   HET B   2       3.599  -1.502  -0.028  1.00  0.19      PROT H 
+END

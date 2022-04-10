@@ -1,0 +1,1072 @@
+MODEL      1
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.721 Kcal/mol
+HETATM    1  H   HET A   1       0.410   0.002  -0.001  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.451  -0.002   0.001  1.00 -0.25      PROT N
+HETATM    3  N   HET A   1      -1.472   0.002   0.000  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.793  -0.961  -0.019  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.836  -0.936  -0.002  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.798   0.493  -0.819  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.798   0.459   0.840  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.826   0.469  -0.817  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.845   0.472   0.807  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      2
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.810 Kcal/mol
+HETATM    1  H   HET A   1       0.406   0.004  -0.000  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.448  -0.002   0.000  1.00 -0.25      PROT N
+HETATM    3  N   HET A   1      -1.468   0.002   0.000  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.787  -0.958  -0.019  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.831  -0.936  -0.002  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.793   0.490  -0.815  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.794   0.457   0.836  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.822   0.468  -0.817  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.840   0.472   0.806  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      3
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.805 Kcal/mol
+HETATM    1  H   HET A   1       0.397   0.006   0.001  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.441  -0.001   0.000  1.00 -0.25      PROT N
+HETATM    3  N   HET A   1      -1.461   0.001   0.000  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.779  -0.962  -0.017  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.824  -0.936  -0.001  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.789   0.490  -0.821  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.790   0.459   0.839  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.814   0.468  -0.817  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.834   0.474   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      4
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.818 Kcal/mol
+HETATM    1  H   HET A   1       0.396   0.006   0.001  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.439  -0.001   0.000  1.00 -0.25      PROT N
+HETATM    3  N   HET A   1      -1.460   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.777  -0.962  -0.016  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.823  -0.937  -0.001  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.787   0.489  -0.821  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.789   0.460   0.838  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.813   0.468  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.830   0.472   0.805  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      5
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.863 Kcal/mol
+HETATM    1  H   HET A   1       0.388   0.004   0.001  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.433  -0.001   0.000  1.00 -0.26      PROT N
+HETATM    3  N   HET A   1      -1.452   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.772  -0.961  -0.012  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.816  -0.937   0.000  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.779   0.486  -0.823  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.781   0.464   0.834  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.806   0.468  -0.817  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.823   0.474   0.808  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      6
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.862 Kcal/mol
+HETATM    1  H   HET A   1       0.385   0.004   0.002  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.430  -0.001   0.000  1.00 -0.26      PROT N
+HETATM    3  N   HET A   1      -1.450   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.770  -0.961  -0.011  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.812  -0.937   0.000  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.777   0.486  -0.824  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.779   0.465   0.835  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.803   0.468  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.820   0.474   0.808  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      7
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.899 Kcal/mol
+HETATM    1  H   HET A   1       0.375   0.003   0.002  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.422  -0.001   0.000  1.00 -0.26      PROT N
+HETATM    3  N   HET A   1      -1.441   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.762  -0.961  -0.010  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.804  -0.937   0.001  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.768   0.485  -0.825  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.771   0.467   0.834  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.795   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.810   0.474   0.808  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      8
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.927 Kcal/mol
+HETATM    1  H   HET A   1       0.371   0.003   0.002  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.418  -0.001  -0.000  1.00 -0.26      PROT N
+HETATM    3  N   HET A   1      -1.437   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.759  -0.960  -0.009  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.800  -0.937   0.002  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.765   0.484  -0.825  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.768   0.468   0.834  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.791   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.806   0.475   0.808  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL      9
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.995 Kcal/mol
+HETATM    1  H   HET A   1       0.363   0.003   0.002  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.411  -0.001  -0.000  1.00 -0.27      PROT N
+HETATM    3  N   HET A   1      -1.430   0.001   0.001  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.752  -0.960  -0.008  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.792  -0.937   0.002  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.757   0.483  -0.826  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.761   0.469   0.833  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.784   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.797   0.475   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     10
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.017 Kcal/mol
+HETATM    1  H   HET A   1       0.360   0.003   0.002  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.409  -0.001  -0.000  1.00 -0.27      PROT N
+HETATM    3  N   HET A   1      -1.427   0.001   0.000  1.00 -0.74      PROT N
+HETATM    4  H   HET A   1       1.750  -0.960  -0.008  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.789  -0.937   0.002  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.755   0.483  -0.826  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.758   0.469   0.833  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.781   0.467  -0.819  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.795   0.476   0.810  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     11
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.093 Kcal/mol
+HETATM    1  H   HET A   1       0.352   0.003   0.003  1.00  0.32      PROT H
+HETATM    2  N   HET A   1       1.402  -0.001  -0.000  1.00 -0.27      PROT N
+HETATM    3  N   HET A   1      -1.420   0.001   0.000  1.00 -0.73      PROT N
+HETATM    4  H   HET A   1       1.743  -0.960  -0.007  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.783  -0.937   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.748   0.482  -0.826  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.752   0.470   0.832  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.774   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.787   0.475   0.808  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     12
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.161 Kcal/mol
+HETATM    1  H   HET A   1       0.345   0.003   0.003  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.397  -0.001  -0.000  1.00 -0.28      PROT N
+HETATM    3  N   HET A   1      -1.414   0.001   0.000  1.00 -0.73      PROT N
+HETATM    4  H   HET A   1       1.738  -0.960  -0.007  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.776  -0.938   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.742   0.481  -0.827  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.747   0.471   0.832  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.769   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.780   0.475   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     13
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.215 Kcal/mol
+HETATM    1  H   HET A   1       0.340   0.003   0.003  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.393  -0.001  -0.000  1.00 -0.28      PROT N
+HETATM    3  N   HET A   1      -1.410   0.001   0.000  1.00 -0.73      PROT N
+HETATM    4  H   HET A   1       1.734  -0.959  -0.006  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.772  -0.938   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.738   0.481  -0.826  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.743   0.471   0.831  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.764   0.467  -0.819  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.776   0.475   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     14
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.291 Kcal/mol
+HETATM    1  H   HET A   1       0.332   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.387  -0.001  -0.000  1.00 -0.28      PROT N
+HETATM    3  N   HET A   1      -1.404   0.001   0.000  1.00 -0.73      PROT N
+HETATM    4  H   HET A   1       1.729  -0.959  -0.006  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.765  -0.938   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.733   0.481  -0.827  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.737   0.472   0.831  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.758   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.769   0.475   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     15
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.361 Kcal/mol
+HETATM    1  H   HET A   1       0.327   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.382  -0.001  -0.000  1.00 -0.28      PROT N
+HETATM    3  N   HET A   1      -1.399   0.001   0.000  1.00 -0.73      PROT N
+HETATM    4  H   HET A   1       1.724  -0.959  -0.005  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.760  -0.938   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.728   0.481  -0.827  1.00  0.30      PROT H
+HETATM    7  H   HET A   1       1.733   0.472   0.831  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.754   0.467  -0.818  1.00  0.26      PROT H
+HETATM    9  H   HET A   1      -1.763   0.475   0.809  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     16
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.458 Kcal/mol
+HETATM    1  H   HET A   1       0.319   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.377  -0.001  -0.000  1.00 -0.29      PROT N
+HETATM    3  N   HET A   1      -1.393   0.001   0.000  1.00 -0.72      PROT N
+HETATM    4  H   HET A   1       1.719  -0.959  -0.005  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.754  -0.939   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.723   0.480  -0.827  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.727   0.472   0.831  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.748   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.757   0.475   0.810  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     17
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.521 Kcal/mol
+HETATM    1  H   HET A   1       0.314   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.373  -0.001  -0.000  1.00 -0.29      PROT N
+HETATM    3  N   HET A   1      -1.389   0.001   0.000  1.00 -0.72      PROT N
+HETATM    4  H   HET A   1       1.715  -0.959  -0.005  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.750  -0.939   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.720   0.480  -0.827  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.723   0.473   0.831  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.744   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.752   0.475   0.810  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     18
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.692 Kcal/mol
+HETATM    1  H   HET A   1       0.305   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.367  -0.001  -0.000  1.00 -0.29      PROT N
+HETATM    3  N   HET A   1      -1.382   0.001   0.000  1.00 -0.72      PROT N
+HETATM    4  H   HET A   1       1.709  -0.959  -0.004  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.742  -0.939   0.003  1.00  0.26      PROT H
+HETATM    6  H   HET A   1       1.713   0.479  -0.827  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.716   0.473   0.830  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.737   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.745   0.475   0.810  1.00  0.26      PROT H
+END
+ENDMDL
+MODEL     19
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.838 Kcal/mol
+HETATM    1  H   HET A   1       0.299   0.003   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.362  -0.001  -0.000  1.00 -0.30      PROT N
+HETATM    3  N   HET A   1      -1.377   0.001   0.000  1.00 -0.72      PROT N
+HETATM    4  H   HET A   1       1.705  -0.959  -0.003  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.737  -0.939   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.709   0.479  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.712   0.474   0.830  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.732   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.739   0.475   0.811  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     20
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.934 Kcal/mol
+HETATM    1  H   HET A   1       0.293   0.002   0.002  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.357  -0.001  -0.000  1.00 -0.30      PROT N
+HETATM    3  N   HET A   1      -1.373   0.001   0.000  1.00 -0.72      PROT N
+HETATM    4  H   HET A   1       1.700  -0.959  -0.002  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.732  -0.940   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.704   0.478  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.707   0.474   0.829  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.727   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.734   0.475   0.811  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     21
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.047 Kcal/mol
+HETATM    1  H   HET A   1       0.285   0.002   0.001  1.00  0.33      PROT H
+HETATM    2  N   HET A   1       1.352  -0.001  -0.000  1.00 -0.30      PROT N
+HETATM    3  N   HET A   1      -1.367   0.001   0.000  1.00 -0.71      PROT N
+HETATM    4  H   HET A   1       1.695  -0.958  -0.002  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.726  -0.940   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.699   0.478  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.702   0.475   0.829  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.722   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.728   0.475   0.811  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     22
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.195 Kcal/mol
+HETATM    1  H   HET A   1       0.277   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.346  -0.001  -0.000  1.00 -0.31      PROT N
+HETATM    3  N   HET A   1      -1.361   0.001   0.000  1.00 -0.71      PROT N
+HETATM    4  H   HET A   1       1.690  -0.958  -0.001  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.719  -0.940   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.693   0.477  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.696   0.476   0.828  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.716   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.720   0.475   0.812  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     23
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.256 Kcal/mol
+HETATM    1  H   HET A   1       0.273   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.344  -0.001  -0.000  1.00 -0.31      PROT N
+HETATM    3  N   HET A   1      -1.358   0.001   0.000  1.00 -0.71      PROT N
+HETATM    4  H   HET A   1       1.687  -0.958  -0.001  1.00  0.30      PROT H
+HETATM    5  H   HET A   1      -1.716  -0.940   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.690   0.477  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.693   0.476   0.828  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.713   0.467  -0.818  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.717   0.475   0.812  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     24
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.435 Kcal/mol
+HETATM    1  H   HET A   1       0.262   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.337  -0.001  -0.000  1.00 -0.32      PROT N
+HETATM    3  N   HET A   1      -1.350   0.001   0.000  1.00 -0.71      PROT N
+HETATM    4  H   HET A   1       1.681  -0.958  -0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.708  -0.940   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.683   0.476  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.686   0.477   0.828  1.00  0.30      PROT H
+HETATM    8  H   HET A   1      -1.705   0.468  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.709   0.475   0.812  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     25
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.567 Kcal/mol
+HETATM    1  H   HET A   1       0.256   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.332  -0.001  -0.000  1.00 -0.32      PROT N
+HETATM    3  N   HET A   1      -1.345   0.001   0.000  1.00 -0.70      PROT N
+HETATM    4  H   HET A   1       1.677  -0.958   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.703  -0.941   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.679   0.476  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.682   0.477   0.827  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.700   0.468  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.703   0.475   0.813  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     26
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.667 Kcal/mol
+HETATM    1  H   HET A   1       0.244   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.326  -0.001   0.000  1.00 -0.33      PROT N
+HETATM    3  N   HET A   1      -1.339   0.001   0.000  1.00 -0.70      PROT N
+HETATM    4  H   HET A   1       1.671  -0.957   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.696  -0.941   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.673   0.475  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.675   0.477   0.827  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.694   0.468  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.696   0.475   0.813  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     27
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.759 Kcal/mol
+HETATM    1  H   HET A   1       0.237   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.322  -0.001   0.000  1.00 -0.33      PROT N
+HETATM    3  N   HET A   1      -1.334   0.001   0.000  1.00 -0.70      PROT N
+HETATM    4  H   HET A   1       1.667  -0.957   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.691  -0.941   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.669   0.475  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.671   0.477   0.827  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.689   0.468  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.691   0.475   0.814  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     28
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.860 Kcal/mol
+HETATM    1  H   HET A   1       0.231   0.002   0.001  1.00  0.34      PROT H
+HETATM    2  N   HET A   1       1.319  -0.001   0.000  1.00 -0.34      PROT N
+HETATM    3  N   HET A   1      -1.331   0.001   0.000  1.00 -0.69      PROT N
+HETATM    4  H   HET A   1       1.664  -0.957   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.687  -0.942   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.667   0.475  -0.828  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.668   0.477   0.827  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.686   0.469  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.687   0.476   0.814  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     29
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.068 Kcal/mol
+HETATM    1  H   HET A   1       0.213   0.001   0.001  1.00  0.35      PROT H
+HETATM    2  N   HET A   1       1.313  -0.001   0.000  1.00 -0.35      PROT N
+HETATM    3  N   HET A   1      -1.325   0.001   0.000  1.00 -0.68      PROT N
+HETATM    4  H   HET A   1       1.659  -0.956   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.680  -0.942   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.662   0.475  -0.827  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.663   0.476   0.827  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.678   0.469  -0.819  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.679   0.476   0.815  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     30
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.286 Kcal/mol
+HETATM    1  H   HET A   1       0.188   0.001   0.001  1.00  0.35      PROT H
+HETATM    2  N   HET A   1       1.310  -0.001   0.000  1.00 -0.37      PROT N
+HETATM    3  N   HET A   1      -1.321   0.001   0.000  1.00 -0.67      PROT N
+HETATM    4  H   HET A   1       1.657  -0.955  -0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.675  -0.943   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.660   0.474  -0.826  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.660   0.476   0.826  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.673   0.469  -0.820  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.674   0.476   0.815  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     31
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.422 Kcal/mol
+HETATM    1  H   HET A   1       0.173   0.001   0.001  1.00  0.36      PROT H
+HETATM    2  N   HET A   1       1.309  -0.001   0.000  1.00 -0.39      PROT N
+HETATM    3  N   HET A   1      -1.319   0.001   0.000  1.00 -0.66      PROT N
+HETATM    4  H   HET A   1       1.656  -0.955  -0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.672  -0.943   0.004  1.00  0.27      PROT H
+HETATM    6  H   HET A   1       1.659   0.474  -0.826  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.660   0.476   0.825  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.671   0.470  -0.820  1.00  0.27      PROT H
+HETATM    9  H   HET A   1      -1.672   0.476   0.816  1.00  0.27      PROT H
+END
+ENDMDL
+MODEL     32
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.960 Kcal/mol
+HETATM    1  H   HET A   1       0.123   0.001   0.001  1.00  0.37      PROT H
+HETATM    2  N   HET A   1       1.308  -0.001   0.000  1.00 -0.43      PROT N
+HETATM    3  N   HET A   1      -1.315   0.001   0.000  1.00 -0.63      PROT N
+HETATM    4  H   HET A   1       1.656  -0.953  -0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.668  -0.945   0.004  1.00  0.28      PROT H
+HETATM    6  H   HET A   1       1.659   0.473  -0.825  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.660   0.475   0.824  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.667   0.470  -0.821  1.00  0.28      PROT H
+HETATM    9  H   HET A   1      -1.667   0.477   0.817  1.00  0.28      PROT H
+END
+ENDMDL
+MODEL     33
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.303 Kcal/mol
+HETATM    1  H   HET A   1       0.085   0.001   0.001  1.00  0.38      PROT H
+HETATM    2  N   HET A   1       1.308  -0.001   0.000  1.00 -0.46      PROT N
+HETATM    3  N   HET A   1      -1.313   0.001   0.000  1.00 -0.61      PROT N
+HETATM    4  H   HET A   1       1.656  -0.952   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.665  -0.946   0.004  1.00  0.28      PROT H
+HETATM    6  H   HET A   1       1.660   0.473  -0.824  1.00  0.29      PROT H
+HETATM    7  H   HET A   1       1.660   0.474   0.823  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.664   0.471  -0.822  1.00  0.28      PROT H
+HETATM    9  H   HET A   1      -1.665   0.477   0.818  1.00  0.28      PROT H
+END
+ENDMDL
+MODEL     34
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.588 Kcal/mol
+HETATM    1  H   HET A   1       0.041   0.000   0.000  1.00  0.38      PROT H
+HETATM    2  N   HET A   1       1.309  -0.000   0.000  1.00 -0.50      PROT N
+HETATM    3  N   HET A   1      -1.311   0.001   0.000  1.00 -0.57      PROT N
+HETATM    4  H   HET A   1       1.657  -0.951   0.000  1.00  0.29      PROT H
+HETATM    5  H   HET A   1      -1.663  -0.947   0.003  1.00  0.28      PROT H
+HETATM    6  H   HET A   1       1.661   0.472  -0.823  1.00  0.28      PROT H
+HETATM    7  H   HET A   1       1.661   0.474   0.822  1.00  0.29      PROT H
+HETATM    8  H   HET A   1      -1.662   0.471  -0.823  1.00  0.28      PROT H
+HETATM    9  H   HET A   1      -1.662   0.477   0.819  1.00  0.28      PROT H
+END
+ENDMDL
+MODEL     35
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.654 Kcal/mol
+HETATM    1  H   HET A   1      -0.000  -0.000   0.000  1.00  0.38      PROT H 
+HETATM    2  N   HET A   1       1.310  -0.000   0.000  1.00 -0.54      PROT N 
+HETATM    3  N   HET A   1      -1.310   0.001   0.000  1.00 -0.54      PROT N 
+HETATM    4  H   HET A   1       1.659  -0.950  -0.000  1.00  0.28      PROT H 
+HETATM    5  H   HET A   1      -1.662  -0.948   0.003  1.00  0.28      PROT H 
+HETATM    6  H   HET A   1       1.662   0.471  -0.822  1.00  0.28      PROT H 
+HETATM    7  H   HET A   1       1.663   0.473   0.821  1.00  0.28      PROT H 
+HETATM    8  H   HET A   1      -1.661   0.472  -0.824  1.00  0.28      PROT H 
+HETATM    9  H   HET A   1      -1.661   0.478   0.820  1.00  0.28      PROT H 
+END
+ENDMDL
+MODEL     36
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.551 Kcal/mol
+HETATM    1  H   HET A   1      -0.046   0.000   0.000  1.00  0.38      PROT H 
+HETATM    2  N   HET A   1       1.312  -0.000   0.000  1.00 -0.58      PROT N 
+HETATM    3  N   HET A   1      -1.309   0.001   0.000  1.00 -0.50      PROT N 
+HETATM    4  H   HET A   1       1.661  -0.949   0.000  1.00  0.28      PROT H 
+HETATM    5  H   HET A   1      -1.660  -0.949   0.004  1.00  0.28      PROT H 
+HETATM    6  H   HET A   1       1.664   0.471  -0.821  1.00  0.28      PROT H 
+HETATM    7  H   HET A   1       1.665   0.473   0.820  1.00  0.28      PROT H 
+HETATM    8  H   HET A   1      -1.659   0.473  -0.825  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.659   0.479   0.821  1.00  0.28      PROT H 
+END
+ENDMDL
+MODEL     37
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.285 Kcal/mol
+HETATM    1  H   HET A   1      -0.087   0.000   0.000  1.00  0.38      PROT H 
+HETATM    2  N   HET A   1       1.313  -0.000   0.000  1.00 -0.61      PROT N 
+HETATM    3  N   HET A   1      -1.309   0.001   0.000  1.00 -0.46      PROT N 
+HETATM    4  H   HET A   1       1.663  -0.948   0.000  1.00  0.28      PROT H 
+HETATM    5  H   HET A   1      -1.659  -0.950   0.004  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.666   0.471  -0.820  1.00  0.28      PROT H 
+HETATM    7  H   HET A   1       1.667   0.472   0.819  1.00  0.28      PROT H 
+HETATM    8  H   HET A   1      -1.658   0.473  -0.826  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.658   0.479   0.821  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     38
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 61.032 Kcal/mol
+HETATM    1  H   HET A   1      -0.117   0.000   0.000  1.00  0.37      PROT H 
+HETATM    2  N   HET A   1       1.315  -0.000   0.000  1.00 -0.63      PROT N 
+HETATM    3  N   HET A   1      -1.308   0.001   0.000  1.00 -0.43      PROT N 
+HETATM    4  H   HET A   1       1.665  -0.947   0.000  1.00  0.28      PROT H 
+HETATM    5  H   HET A   1      -1.658  -0.951   0.004  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.668   0.471  -0.819  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.669   0.472   0.819  1.00  0.28      PROT H 
+HETATM    8  H   HET A   1      -1.658   0.473  -0.826  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.658   0.480   0.822  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     39
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.631 Kcal/mol
+HETATM    1  H   HET A   1      -0.160   0.000   0.000  1.00  0.36      PROT H 
+HETATM    2  N   HET A   1       1.318  -0.000  -0.000  1.00 -0.66      PROT N 
+HETATM    3  N   HET A   1      -1.309   0.001   0.000  1.00 -0.40      PROT N 
+HETATM    4  H   HET A   1       1.668  -0.946   0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.659  -0.952   0.004  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.672   0.470  -0.818  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.673   0.471   0.818  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.658   0.474  -0.828  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.658   0.481   0.823  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     40
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.346 Kcal/mol
+HETATM    1  H   HET A   1      -0.193   0.000   0.001  1.00  0.35      PROT H 
+HETATM    2  N   HET A   1       1.321  -0.001  -0.000  1.00 -0.67      PROT N 
+HETATM    3  N   HET A   1      -1.311   0.001   0.000  1.00 -0.37      PROT N 
+HETATM    4  H   HET A   1       1.672  -0.945   0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.660  -0.953   0.004  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.676   0.470  -0.818  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.677   0.470   0.817  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.659   0.474  -0.829  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.659   0.482   0.824  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     41
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 60.115 Kcal/mol
+HETATM    1  H   HET A   1      -0.218   0.000   0.001  1.00  0.35      PROT H 
+HETATM    2  N   HET A   1       1.327  -0.001  -0.000  1.00 -0.69      PROT N 
+HETATM    3  N   HET A   1      -1.315   0.001  -0.000  1.00 -0.35      PROT N 
+HETATM    4  H   HET A   1       1.678  -0.945   0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.663  -0.954   0.005  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.683   0.469  -0.817  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.683   0.470   0.817  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.662   0.474  -0.830  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.662   0.482   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     42
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.884 Kcal/mol
+HETATM    1  H   HET A   1      -0.235   0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.333  -0.001  -0.000  1.00 -0.69      PROT N 
+HETATM    3  N   HET A   1      -1.321   0.001  -0.000  1.00 -0.34      PROT N 
+HETATM    4  H   HET A   1       1.686  -0.944  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.668  -0.955   0.005  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.691   0.469  -0.816  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.691   0.469   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.667   0.474  -0.830  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.667   0.483   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     43
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.814 Kcal/mol
+HETATM    1  H   HET A   1      -0.238   0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.336  -0.001  -0.000  1.00 -0.70      PROT N 
+HETATM    3  N   HET A   1      -1.323   0.001   0.000  1.00 -0.33      PROT N 
+HETATM    4  H   HET A   1       1.688  -0.944  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.670  -0.955   0.006  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.693   0.469  -0.816  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.694   0.469   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.669   0.474  -0.831  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.669   0.483   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     44
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.740 Kcal/mol
+HETATM    1  H   HET A   1      -0.245  -0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.340  -0.001  -0.000  1.00 -0.70      PROT N 
+HETATM    3  N   HET A   1      -1.327   0.001   0.000  1.00 -0.33      PROT N 
+HETATM    4  H   HET A   1       1.693  -0.944  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.674  -0.955   0.006  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.698   0.469  -0.816  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.699   0.469   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.673   0.474  -0.831  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.673   0.484   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     45
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.667 Kcal/mol
+HETATM    1  H   HET A   1      -0.252  -0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.344  -0.001  -0.000  1.00 -0.70      PROT N 
+HETATM    3  N   HET A   1      -1.331   0.001   0.000  1.00 -0.32      PROT N 
+HETATM    4  H   HET A   1       1.697  -0.944  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.677  -0.955   0.006  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.702   0.469  -0.816  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.703   0.469   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.677   0.474  -0.831  1.00  0.29      PROT H 
+HETATM    9  H   HET A   1      -1.676   0.484   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     46
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.519 Kcal/mol
+HETATM    1  H   HET A   1      -0.261  -0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.350  -0.000  -0.000  1.00 -0.71      PROT N 
+HETATM    3  N   HET A   1      -1.337   0.001   0.000  1.00 -0.32      PROT N 
+HETATM    4  H   HET A   1       1.703  -0.944  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.684  -0.955   0.006  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.709   0.469  -0.815  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.710   0.469   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.683   0.473  -0.832  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.682   0.484   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     47
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.356 Kcal/mol
+HETATM    1  H   HET A   1      -0.271  -0.000   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.357  -0.000  -0.000  1.00 -0.71      PROT N 
+HETATM    3  N   HET A   1      -1.343   0.001   0.000  1.00 -0.31      PROT N 
+HETATM    4  H   HET A   1       1.710  -0.943  -0.000  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.690  -0.955   0.006  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.717   0.468  -0.815  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.717   0.468   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.689   0.473  -0.832  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.688   0.485   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     48
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.210 Kcal/mol
+HETATM    1  H   HET A   1      -0.280  -0.001   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.363  -0.000  -0.000  1.00 -0.71      PROT N 
+HETATM    3  N   HET A   1      -1.349   0.001   0.000  1.00 -0.31      PROT N 
+HETATM    4  H   HET A   1       1.717  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.696  -0.955   0.007  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.724   0.468  -0.815  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.723   0.468   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.694   0.473  -0.832  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.694   0.485   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     49
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 59.117 Kcal/mol
+HETATM    1  H   HET A   1      -0.285  -0.001   0.001  1.00  0.34      PROT H 
+HETATM    2  N   HET A   1       1.368  -0.000  -0.000  1.00 -0.71      PROT N 
+HETATM    3  N   HET A   1      -1.353   0.001   0.000  1.00 -0.30      PROT N 
+HETATM    4  H   HET A   1       1.721  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.700  -0.955   0.007  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.728   0.468  -0.814  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.728   0.468   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.698   0.473  -0.833  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.698   0.485   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     50
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.989 Kcal/mol
+HETATM    1  H   HET A   1      -0.294  -0.001   0.001  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.374  -0.000  -0.000  1.00 -0.72      PROT N 
+HETATM    3  N   HET A   1      -1.359   0.001   0.000  1.00 -0.30      PROT N 
+HETATM    4  H   HET A   1       1.727  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.706  -0.955   0.007  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.736   0.468  -0.814  1.00  0.27      PROT H 
+HETATM    7  H   HET A   1       1.734   0.467   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.704   0.473  -0.833  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.704   0.486   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     51
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.848 Kcal/mol
+HETATM    1  H   HET A   1      -0.303  -0.000   0.001  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.381  -0.001  -0.000  1.00 -0.72      PROT N 
+HETATM    3  N   HET A   1      -1.365   0.001   0.000  1.00 -0.29      PROT N 
+HETATM    4  H   HET A   1       1.735  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.712  -0.955   0.008  1.00  0.29      PROT H 
+HETATM    6  H   HET A   1       1.744   0.468  -0.813  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.742   0.467   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.710   0.473  -0.834  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.710   0.486   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     52
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.809 Kcal/mol
+HETATM    1  H   HET A   1      -0.305  -0.000   0.001  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.383  -0.000  -0.000  1.00 -0.72      PROT N 
+HETATM    3  N   HET A   1      -1.367   0.001   0.000  1.00 -0.29      PROT N 
+HETATM    4  H   HET A   1       1.737  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.714  -0.956   0.008  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.746   0.468  -0.814  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.743   0.466   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.712   0.472  -0.833  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.712   0.487   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     53
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.726 Kcal/mol
+HETATM    1  H   HET A   1      -0.311  -0.000   0.001  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.387  -0.001  -0.000  1.00 -0.72      PROT N 
+HETATM    3  N   HET A   1      -1.371   0.001   0.000  1.00 -0.29      PROT N 
+HETATM    4  H   HET A   1       1.741  -0.943  -0.001  1.00  0.27      PROT H 
+HETATM    5  H   HET A   1      -1.718  -0.955   0.008  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.750   0.468  -0.813  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.748   0.466   0.815  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.716   0.472  -0.834  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.716   0.487   0.825  1.00  0.29      PROT H 
+END
+ENDMDL
+MODEL     54
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.602 Kcal/mol
+HETATM    1  H   HET A   1      -0.320  -0.000   0.001  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.394  -0.001  -0.000  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.378   0.001   0.000  1.00 -0.29      PROT N 
+HETATM    4  H   HET A   1       1.749  -0.943  -0.001  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.725  -0.956   0.009  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.758   0.469  -0.813  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.755   0.466   0.816  1.00  0.27      PROT H 
+HETATM    8  H   HET A   1      -1.723   0.472  -0.834  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.723   0.487   0.824  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     55
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.523 Kcal/mol
+HETATM    1  H   HET A   1      -0.326   0.000   0.002  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.399  -0.001  -0.000  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.382   0.001   0.000  1.00 -0.28      PROT N 
+HETATM    4  H   HET A   1       1.754  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.729  -0.956   0.009  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.764   0.469  -0.812  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.760   0.465   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.727   0.471  -0.835  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.728   0.488   0.824  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     56
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.456 Kcal/mol
+HETATM    1  H   HET A   1      -0.332   0.000   0.002  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.404  -0.001  -0.000  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.387   0.001   0.000  1.00 -0.28      PROT N 
+HETATM    4  H   HET A   1       1.759  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.734  -0.956   0.010  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.770   0.469  -0.812  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.765   0.465   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.732   0.471  -0.835  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.733   0.488   0.824  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     57
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.382 Kcal/mol
+HETATM    1  H   HET A   1      -0.339   0.000   0.002  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.410  -0.001  -0.001  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.392   0.001   0.000  1.00 -0.28      PROT N 
+HETATM    4  H   HET A   1       1.764  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.739  -0.956   0.011  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.776   0.469  -0.811  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.771   0.464   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.737   0.470  -0.835  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.738   0.489   0.824  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     58
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.312 Kcal/mol
+HETATM    1  H   HET A   1      -0.345   0.000   0.002  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.415  -0.001  -0.001  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.397   0.001   0.000  1.00 -0.27      PROT N 
+HETATM    4  H   HET A   1       1.769  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.744  -0.956   0.011  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.782   0.469  -0.811  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.776   0.464   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.741   0.470  -0.836  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.743   0.490   0.824  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     59
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.246 Kcal/mol
+HETATM    1  H   HET A   1      -0.351   0.000   0.002  1.00  0.33      PROT H 
+HETATM    2  N   HET A   1       1.420  -0.001  -0.001  1.00 -0.73      PROT N 
+HETATM    3  N   HET A   1      -1.402   0.001   0.000  1.00 -0.27      PROT N 
+HETATM    4  H   HET A   1       1.774  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.748  -0.956   0.012  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.789   0.468  -0.811  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.781   0.463   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.746   0.469  -0.836  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.748   0.490   0.823  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     60
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.201 Kcal/mol
+HETATM    1  H   HET A   1      -0.357   0.001   0.002  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.425  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.407   0.001   0.000  1.00 -0.27      PROT N 
+HETATM    4  H   HET A   1       1.779  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.753  -0.956   0.012  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.795   0.468  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.787   0.463   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.751   0.469  -0.837  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.753   0.491   0.823  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     61
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.179 Kcal/mol
+HETATM    1  H   HET A   1      -0.364   0.001   0.003  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.431  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.413   0.001   0.000  1.00 -0.27      PROT N 
+HETATM    4  H   HET A   1       1.785  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.759  -0.956   0.013  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.801   0.468  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.793   0.462   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.756   0.468  -0.837  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.759   0.491   0.823  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     62
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.164 Kcal/mol
+HETATM    1  H   HET A   1      -0.370   0.001   0.003  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.436  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.417   0.001   0.000  1.00 -0.26      PROT N 
+HETATM    4  H   HET A   1       1.790  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.764  -0.956   0.014  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.807   0.468  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.798   0.463   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.761   0.469  -0.837  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.763   0.492   0.823  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     63
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.112 Kcal/mol
+HETATM    1  H   HET A   1      -0.377   0.000   0.004  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.443  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.424   0.001   0.000  1.00 -0.26      PROT N 
+HETATM    4  H   HET A   1       1.797  -0.943  -0.002  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.770  -0.956   0.014  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.814   0.468  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.805   0.463   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.766   0.469  -0.837  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.770   0.492   0.822  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     64
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.079 Kcal/mol
+HETATM    1  H   HET A   1      -0.382   0.000   0.004  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.448  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.428   0.001   0.000  1.00 -0.26      PROT N 
+HETATM    4  H   HET A   1       1.802  -0.943  -0.001  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.775  -0.956   0.014  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.818   0.467  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.810   0.463   0.815  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.770   0.469  -0.838  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.774   0.492   0.822  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     65
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.053 Kcal/mol
+HETATM    1  H   HET A   1      -0.389  -0.000   0.005  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.453  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.434   0.001   0.000  1.00 -0.26      PROT N 
+HETATM    4  H   HET A   1       1.807  -0.943  -0.001  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.780  -0.956   0.013  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.825   0.467  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.816   0.463   0.816  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.775   0.469  -0.838  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.780   0.493   0.822  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     66
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 58.014 Kcal/mol
+HETATM    1  H   HET A   1      -0.395   0.000   0.005  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.459  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.439   0.002   0.000  1.00 -0.25      PROT N 
+HETATM    4  H   HET A   1       1.812  -0.943  -0.001  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.786  -0.956   0.013  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.831   0.466  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.822   0.463   0.815  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.780   0.469  -0.839  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.786   0.493   0.822  1.00  0.30      PROT H 
+END
+ENDMDL
+MODEL     67
+HEADER  data-set: M:/OpenMOPAC_NET/Manual/Individual JSmol paths/NH4 plus NH3/NH
+REMARK  MOPAC 2016, Version: 21.158W
+REMARK  Date: Jun 11 2021 08:26
+REMARK  Heat of Formation = 57.938 Kcal/mol
+HETATM    1  H   HET A   1      -0.400   0.000   0.006  1.00  0.32      PROT H 
+HETATM    2  N   HET A   1       1.463  -0.001  -0.001  1.00 -0.74      PROT N 
+HETATM    3  N   HET A   1      -1.443   0.002   0.000  1.00 -0.25      PROT N 
+HETATM    4  H   HET A   1       1.816  -0.942  -0.000  1.00  0.26      PROT H 
+HETATM    5  H   HET A   1      -1.789  -0.956   0.014  1.00  0.30      PROT H 
+HETATM    6  H   HET A   1       1.836   0.465  -0.810  1.00  0.26      PROT H 
+HETATM    7  H   HET A   1       1.826   0.464   0.815  1.00  0.26      PROT H 
+HETATM    8  H   HET A   1      -1.783   0.468  -0.839  1.00  0.30      PROT H 
+HETATM    9  H   HET A   1      -1.790   0.494   0.821  1.00  0.30      PROT H 
+END
+ENDMDL

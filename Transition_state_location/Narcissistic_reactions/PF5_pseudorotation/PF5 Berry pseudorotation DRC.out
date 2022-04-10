@@ -1,0 +1,809 @@
+ *******************************************************************************
+ ** Site#: 37037        For non-commercial use only           Version 21.158W **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.158W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 363**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Jun  9 13:59:44 2021  *
+ *  SYMMETRY   - SYMMETRY CONDITIONS TO BE IMPOSED
+ *  PRECISE    - TIGHTER CRITERIA TO BE USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *******************************************************************************
+
+
+
+                    PARAMETER DEPENDENCE DATA
+
+        REFERENCE ATOM      FUNCTION NO.    DEPENDENT ATOM(S)
+            3                  1               4    5    6
+            3                  2               4    5    6
+
+             DESCRIPTIONS OF THE FUNCTIONS USED
+   1      BOND LENGTH    IS SET EQUAL TO THE REFERENCE BOND LENGTH   
+   2      BOND ANGLE     IS SET EQUAL TO THE REFERENCE BOND ANGLE    
+ 
+ symmetry precise
+ Optimize the PF5 Berry pseudorotation transition state
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       P          0.00000000       0.0000000       0.0000000        0     0     0
+     2       F          2.00000000  *    0.0000000       0.0000000        0     0     0
+     3       F          1.60000000  *   60.0000000  *    0.0000000        1     2     0
+     4       F          1.60000000      60.0000000      90.0000000        1     2     3
+     5       F          1.60000000      60.0000000     180.0000000        1     2     3
+     6       F          1.60000000      60.0000000     -90.0000000        1     2     3
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         P          0.0000      0.0000      0.0000
+     2         F          2.0000      0.0000      0.0000
+     3         F          0.8000      1.3856      0.0000
+     4         F          0.8000      0.0000     -1.3856
+     5         F          0.8000     -1.3856     -0.0000
+     6         F          0.8000      0.0000      1.3856
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: P F5  =     6 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C4v 
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 20
+
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.020 TIME LEFT:  2.00D  GRAD.:   503.480 HEAT: -193.8171
+ CYCLE:     2 TIME:   0.012 TIME LEFT:  2.00D  GRAD.:   250.545 HEAT: -237.7228
+ CYCLE:     3 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:   211.393 HEAT: -282.3395
+ CYCLE:     4 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:   435.689 HEAT: -310.0627
+ CYCLE:     5 TIME:   0.012 TIME LEFT:  2.00D  GRAD.:   251.005 HEAT: -336.6298
+ CYCLE:     6 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    97.693 HEAT: -363.8294
+ CYCLE:     7 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    48.051 HEAT: -366.7072
+ CYCLE:     8 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:    10.835 HEAT: -367.9454
+ CYCLE:     9 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     5.797 HEAT: -367.9727
+ CYCLE:    10 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     1.528 HEAT: -367.9906
+ CYCLE:    11 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.805 HEAT: -367.9910
+ CYCLE:    12 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.428 HEAT: -367.9911
+ CYCLE:    13 TIME:   0.008 TIME LEFT:  2.00D  GRAD.:     0.038 HEAT: -367.9911
+
+     GRADIENT =  0.03821 IS LESS THAN CUTOFF =  0.05000
+
+
+
+ -------------------------------------------------------------------------------
+ symmetry precise
+ Optimize the PF5 Berry pseudorotation transition state
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 21.158W)
+                                                       Wed Jun  9 13:59:44 2021
+                                                       No. of days remaining = 363
+
+
+
+
+          FINAL HEAT OF FORMATION =       -367.99114 KCAL/MOL =   -1539.67492 KJ/MOL
+
+
+          TOTAL ENERGY            =      -2509.34532 EV
+          ELECTRONIC ENERGY       =      -6058.77148 EV  POINT GROUP:     C4v 
+          CORE-CORE REPULSION     =       3549.42616 EV
+          COSMO AREA              =        102.46 SQUARE ANGSTROMS
+          COSMO VOLUME            =         87.53 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =          0.03821 = 0.01560 PER ATOM
+          IONIZATION POTENTIAL    =         11.514129 EV
+          HOMO LUMO ENERGIES (EV) =        -11.514 -1.102
+          NO. OF FILLED LEVELS    =         20
+          MOLECULAR WEIGHT        =        125.9658
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            F     5    F     3     3.01533
+            F     4    F     6     3.01533
+            F     3    F     2     1.88191
+
+
+          SCF CALCULATIONS        =         14
+ 
+          WALL-CLOCK TIME         =          0.148 SECONDS
+          COMPUTATION TIME        =          0.562 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       P          0.00000000       0.0000000       0.0000000        0     0     0
+     2       F          1.52938640  *    0.0000000       0.0000000        0     0     0
+     3       F          1.54832874  *  103.1605450  *    0.0000000        1     2     0
+     4       F          1.54832874     103.1605450      90.0000000        1     2     3
+     5       F          1.54832874     103.1605450     180.0000000        1     2     3
+     6       F          1.54832874     103.1605450     -90.0000000        1     2     3
+
+                             CARTESIAN COORDINATES
+
+   1    P        0.000000000     0.000000000     0.000000000
+   2    F        1.529386398     0.000000000     0.000000000
+   3    F       -0.352524092     1.507663308     0.000000000
+   4    F       -0.352524092     0.000000000    -1.507663308
+   5    F       -0.352524092    -1.507663308    -0.000000000
+   6    F       -0.352524092     0.000000000     1.507663308
+
+
+           Empirical Formula: P F5  =     6 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C4v 
+
+
+                  EIGENVALUES  
+ -48.40966 -42.16770 -41.13228 -41.13228 -40.80337 -35.37710 -18.02076 -18.02076
+ -17.74401 -16.74936 -16.09983 -16.09983 -15.05960 -15.05960 -14.86811 -14.56814
+ -13.44787 -13.44787 -13.32240 -11.51413  -1.10185   0.43642   1.66700   1.66700
+ 103.75172 103.75172 103.98865 104.07608 104.69054
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          P           0.664555        4.3354     1.73608     2.46192     0.13745
+    2          F          -0.068473        7.0685     1.94988     5.11860
+    3          F          -0.149020        7.1490     1.95186     5.19716
+    4          F          -0.149020        7.1490     1.95186     5.19716
+    5          F          -0.149020        7.1490     1.95186     5.19716
+    6          F          -0.149020        7.1490     1.95186     5.19716
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.506    -0.000     0.000     0.506
+ HYBRID        -0.071     0.000    -0.000     0.071
+ SUM            0.436    -0.000     0.000     0.436
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  P   1.73608   0.79605   0.83294   0.83294   0.02934   0.02327   0.03519   0.02638   0.02327
+    2  F   1.94988   1.20860   1.95500   1.95500
+    3  F   1.95186   1.91636   1.32081   1.95999
+    4  F   1.95186   1.91636   1.95999   1.32081
+    5  F   1.95186   1.91636   1.32081   1.95999
+    6  F   1.95186   1.91636   1.95999   1.32081
+ *******************************************************************************
+ ** Site#: 37037        For non-commercial use only           Version 21.158W **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.158W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 363**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Jun  9 13:59:44 2021  *
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *  OLDGEO     - PREVIOUS GEOMETRY TO BE USED
+ *  FORCE      - FORCE CALCULATION SPECIFIED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  ISOTOPE    - SAVE THE FORCE MATRIX FOR USE LATER
+ *******************************************************************************
+oldgeo force isotope opt
+ Verify that the C4v geometry of the PF5 transition state is a true transition state
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       P          0.00000000  *    0.0000000  *    0.0000000  *     0     0     0
+     2       F          1.52938640  *    0.0000000  *    0.0000000  *     0     0     0
+     3       F          1.54832874  *  103.1605450  *    0.0000000  *     1     2     0
+     4       F          1.54832874  *  103.1605450  *   90.0000000  *     1     2     3
+     5       F          1.54832874  *  103.1605450  *  180.0000000  *     1     2     3
+     6       F          1.54832874  *  103.1605450  *  -90.0000000  *     1     2     3
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         P          0.0000      0.0000      0.0000
+     2         F          1.5294      0.0000      0.0000
+     3         F         -0.3525      1.5077      0.0000
+     4         F         -0.3525      0.0000     -1.5077
+     5         F         -0.3525     -1.5077     -0.0000
+     6         F         -0.3525      0.0000      1.5077
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: P F5  =     6 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C4v 
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 20
+
+
+
+          HEAT OF FORMATION =    -367.991138 KCALS/MOLE
+
+
+          CARTESIAN COORDINATE DERIVATIVES
+
+   NUMBER  ATOM         X            Y            Z
+
+     1       P     -0.019198    -0.000000    -0.000000
+     2       F     -0.001239    -0.000000    -0.000000
+     3       F      0.005109     0.003356    -0.000000
+     4       F      0.005109    -0.000000    -0.003357
+     5       F      0.005109    -0.003357    -0.000000
+     6       F      0.005109    -0.000000     0.003355
+ 
+
+
+          GRADIENT NORM =   0.02279
+
+
+          TIME FOR SCF CALCULATION =    0.01
+
+          TIME FOR DERIVATIVES     =    0.00
+
+          MOLECULAR WEIGHT =  125.97
+
+
+
+          ROTATIONAL CONSTANTS IN CM(-1)
+
+          A =    0.12023177   B =    0.12023177   C =    0.09759123
+
+
+
+           PRINCIPAL MOMENTS OF INERTIA IN UNITS OF 10**(-40)*GRAM-CM**2
+
+          A =      232.8234   B =      232.8234   C =      286.8370
+
+
+          ORIENTATION OF MOLECULE IN FORCE CALCULATION
+
+    NO.       ATOM         X         Y         Z
+
+     1          P      -0.0180   -0.0000    0.0000
+     2          F       1.5114   -0.0000    0.0000
+     3          F      -0.3705    1.5077    0.0000
+     4          F      -0.3705    0.0000   -1.5077
+     5          F      -0.3705   -1.5077   -0.0000
+     6          F      -0.3705    0.0000    1.5077
+
+
+    FIRST DERIVATIVES WILL BE USED IN THE CALCULATION OF SECOND DERIVATIVES
+
+          ESTIMATED TIME TO COMPLETE CALCULATION =        0.42 SECONDS
+
+    FOR POINT-GROUP C4v  THERE ARE   8 UNIQUE SYMMETRY FUNCTIONS.
+
+ STEP:   1 TIME =     0.01 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.98
+ STEP:   2 TIME =     0.01 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.96
+ STEP:   3 TIME =     0.01 SECS, INTEGRAL =      0.04 TIME LEFT: 172799.95
+ STEP:   4 TIME =     0.01 SECS, INTEGRAL =      0.05 TIME LEFT: 172799.94
+ STEP:   5 TIME =     0.01 SECS, INTEGRAL =      0.06 TIME LEFT: 172799.93
+ STEP:   6 TIME =     0.01 SECS, INTEGRAL =      0.07 TIME LEFT: 172799.92
+ STEP:   7 TIME =     0.01 SECS, INTEGRAL =      0.08 TIME LEFT: 172799.91
+ STEP:   8 TIME =     0.01 SECS, INTEGRAL =      0.09 TIME LEFT: 172799.89
+ STEP:   9 TIME =     0.02 SECS, INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  10                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  11                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  12                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  13                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  14                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  15                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  16                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  17                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+ STEP:  18                       INTEGRAL =      0.11 TIME LEFT: 172799.88
+
+(To convert to Hartree/Bohr^2, multiply by (10^(-21) x N x a0^2)/(4.184 x 627.51) =  0.0642)
+
+
+           FORCE MATRIX IN MILLIDYNES/ANGSTROM
+
+
+                  P  1       F  2       F  3       F  4       F  5       F  6
+ ------------------------------------------------------------------------------
+     P    1  17.935133
+     F    2   6.097303   6.652317
+     F    3   5.355491   0.300257   6.111645
+     F    4   5.355665   0.300484   0.810489   6.111645
+     F    5   5.355596   0.300338   0.194410   0.810578   6.111645
+     F    6   5.355663   0.300238   0.810578   0.194410   0.810489   6.111645
+
+
+          HEAT OF FORMATION =    -367.991138 KCALS/MOLE
+
+          ZERO POINT ENERGY       9.419 KCAL/MOL
+
+         NOTE: SYSTEM IS NOT A GROUND STATE, THEREFORE ZERO POINT
+         ENERGY IS NOT MEANINGFULL. ZERO POINT ENERGY PRINTED
+         DOES NOT INCLUDE THE  1 IMAGINARY FREQUENCIES
+
+
+           NORMAL COORDINATE ANALYSIS (Total motion = 1 Angstrom)
+
+
+   Root No.       1         2         3         4         5         6         7         8
+
+                 1 B2      1 E       1 E       1 A1      2 E       2 E       1 B1      2 B2  
+
+                -104.8     251.0     251.0     357.4     391.5     391.5     412.2     683.7
+  
+           1   -0.0000   -0.0000    0.0000    0.1940   -0.0000    0.0000   -0.0000    0.0000
+           2   -0.0000   -0.0459    0.0004   -0.0000   -0.1564    0.0363   -0.0000   -0.0000
+           3   -0.0000   -0.0004   -0.0459    0.0000   -0.0363   -0.1564    0.0000   -0.0000
+           4   -0.0000   -0.0000    0.0000    0.2085   -0.0000    0.0000   -0.0000    0.0000
+           5    0.0000    0.3260   -0.0027    0.0000    0.0894   -0.0208    0.0000    0.0000
+           6    0.0000    0.0027    0.3260   -0.0000    0.0208    0.0894   -0.0000    0.0000
+           7    0.2416    0.1947   -0.0016   -0.1312    0.0260   -0.0060    0.0000   -0.0644
+           8    0.0644   -0.0064    0.0001   -0.0715   -0.1386    0.0322   -0.0000    0.2416
+           9   -0.0000   -0.0010   -0.1192   -0.0000    0.0514    0.2214    0.2500    0.0000
+          10   -0.2416   -0.0016   -0.1947   -0.1312   -0.0060   -0.0260    0.0000    0.0644
+          11   -0.0000   -0.1192    0.0010    0.0000    0.2214   -0.0514   -0.2500    0.0000
+          12    0.0644   -0.0001   -0.0064    0.0715   -0.0322   -0.1386    0.0000    0.2416
+          13    0.2416   -0.1947    0.0016   -0.1312   -0.0260    0.0060   -0.0000   -0.0644
+          14   -0.0644   -0.0064    0.0001    0.0715   -0.1386    0.0322   -0.0000   -0.2416
+          15   -0.0000   -0.0010   -0.1192   -0.0000    0.0514    0.2214   -0.2500    0.0000
+          16   -0.2416    0.0016    0.1947   -0.1312    0.0060    0.0260   -0.0000    0.0644
+          17   -0.0000   -0.1192    0.0010    0.0000    0.2214   -0.0514    0.2500    0.0000
+          18   -0.0644   -0.0001   -0.0064   -0.0715   -0.0322   -0.1386    0.0000   -0.2416
+
+
+   Root No.       9        10        11        12
+
+                 2 A1      3 A1      3 E       3 E   
+
+                 756.2    1001.4    1046.3    1046.3
+  
+           1    0.0012   -0.2895    0.0000   -0.0000
+           2    0.0000    0.0000    0.3589    0.0005
+           3   -0.0000   -0.0000   -0.0005    0.3589
+           4   -0.1721    0.3859   -0.0000    0.0000
+           5   -0.0000   -0.0000   -0.0021   -0.0000
+           6    0.0000    0.0000    0.0000   -0.0021
+           7    0.0426    0.0215    0.0671    0.0001
+           8   -0.2022   -0.0783   -0.3018   -0.0004
+           9    0.0000    0.0000   -0.0000    0.0103
+          10    0.0426    0.0215    0.0001   -0.0671
+          11   -0.0000   -0.0000    0.0103    0.0000
+          12    0.2022    0.0783    0.0004   -0.3018
+          13    0.0426    0.0215   -0.0671   -0.0001
+          14    0.2022    0.0783   -0.3018   -0.0004
+          15    0.0000    0.0000   -0.0000    0.0103
+          16    0.0426    0.0215   -0.0001    0.0671
+          17   -0.0000   -0.0000    0.0103    0.0000
+          18   -0.2022   -0.0783    0.0004   -0.3018
+
+
+           MASS-WEIGHTED COORDINATE ANALYSIS (NORMAL COORDINATES)
+
+
+   Root No.       1         2         3         4         5         6         7         8
+
+                 1 B2      1 E       1 E       1 A1      2 E       2 E       1 B1      2 B2  
+
+                -104.8     251.0     251.0     357.4     391.5     391.5     412.2     683.7
+  
+           1   -0.0000   -0.0000    0.0000    0.5622   -0.0000    0.0000   -0.0000    0.0000
+           2   -0.0000   -0.1267    0.0007   -0.0000   -0.4633    0.0156   -0.0000   -0.0000
+           3   -0.0000   -0.0007   -0.1267    0.0000   -0.0156   -0.4633    0.0000   -0.0000
+           4   -0.0000   -0.0000    0.0000    0.4733   -0.0000    0.0000   -0.0000    0.0000
+           5    0.0000    0.7047   -0.0036    0.0000    0.2074   -0.0070    0.0000    0.0000
+           6    0.0000    0.0036    0.7047   -0.0000    0.0070    0.2074   -0.0000    0.0000
+           7    0.4831    0.4209   -0.0022   -0.2978    0.0603   -0.0020    0.0000   -0.1288
+           8    0.1288   -0.0139    0.0001   -0.1623   -0.3214    0.0109   -0.0000    0.4831
+           9   -0.0000   -0.0013   -0.2575   -0.0000    0.0173    0.5135    0.5000    0.0000
+          10   -0.4831   -0.0022   -0.4209   -0.2978   -0.0020   -0.0603    0.0000    0.1288
+          11   -0.0000   -0.2575    0.0013    0.0000    0.5135   -0.0173   -0.5000    0.0000
+          12    0.1288   -0.0001   -0.0139    0.1623   -0.0109   -0.3214    0.0000    0.4831
+          13    0.4831   -0.4209    0.0022   -0.2978   -0.0603    0.0020   -0.0000   -0.1288
+          14   -0.1288   -0.0139    0.0001    0.1623   -0.3214    0.0109   -0.0000   -0.4831
+          15   -0.0000   -0.0013   -0.2575   -0.0000    0.0173    0.5135   -0.5000    0.0000
+          16   -0.4831    0.0022    0.4209   -0.2978    0.0020    0.0603   -0.0000    0.1288
+          17   -0.0000   -0.2575    0.0013    0.0000    0.5135   -0.0173    0.5000    0.0000
+          18   -0.1288   -0.0001   -0.0139   -0.1623   -0.0109   -0.3214    0.0000   -0.4831
+
+
+   Root No.       9        10        11        12
+
+                 2 A1      3 A1      3 E       3 E   
+
+                 756.2    1001.4    1046.3    1046.3
+  
+           1    0.0033   -0.6619    0.0000   -0.0000
+           2    0.0000    0.0000    0.7233   -0.0032
+           3   -0.0000   -0.0000    0.0032    0.7233
+           4   -0.3844    0.6910   -0.0000    0.0000
+           5   -0.0000   -0.0000   -0.0033    0.0000
+           6    0.0000    0.0000   -0.0000   -0.0033
+           7    0.0950    0.0385    0.1059   -0.0005
+           8   -0.4517   -0.1401   -0.4764    0.0021
+           9    0.0000    0.0000    0.0001    0.0163
+          10    0.0950    0.0385   -0.0005   -0.1059
+          11   -0.0000   -0.0000    0.0163   -0.0001
+          12    0.4517    0.1401   -0.0021   -0.4764
+          13    0.0950    0.0385   -0.1059    0.0005
+          14    0.4517    0.1401   -0.4764    0.0021
+          15    0.0000    0.0000    0.0001    0.0163
+          16    0.0950    0.0385    0.0005    0.1059
+          17   -0.0000   -0.0000    0.0163   -0.0001
+          18   -0.4517   -0.1401   -0.0021   -0.4764
+
+
+          DESCRIPTION OF VIBRATIONS
+
+
+ VIBRATION          1    1B2         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          -104.82         P 1 -- F 3         +16.9% (-71.2%)      0.1%
+ TRANSITION DIPOLE   0.0000         P 1 -- F 5         +16.9% (-71.2%)      0.1%
+ TRAVEL (Ang.)       0.3680         P 1 -- F 4         +16.9% (-71.2%)      0.1%
+ REDUCED MASS        4.7496         P 1 -- F 6         +16.9% (-71.2%)      0.1%
+ EFFECTIVE MASS     18.9984
+ FORCE CONSTANT     -0.0307
+
+ VIBRATION          3    1E          ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           251.01         P 1 -- F 2         +22.9% ( 72.1%)      0.0%
+ TRANSITION DIPOLE   0.4042         F 3 -- F 4         +10.8% ( 49.5%)     12.8%
+ TRAVEL (Ang.)       0.2106         F 5 -- F 6         +10.8% ( 49.5%)     12.8%
+ REDUCED MASS        6.0553         F 3 -- F 6         +10.7% ( 49.3%)     12.3%
+ EFFECTIVE MASS     19.3925         F 4 -- F 5         +10.7% ( 49.3%)     12.3%
+ FORCE CONSTANT      0.2248
+
+ VIBRATION          4    1A1         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           357.43         P 1 -- F 6         +20.7% (111.7%)      0.2%
+ TRANSITION DIPOLE   2.7696         P 1 -- F 5         +20.7% (111.7%)      0.2%
+ TRAVEL (Ang.)       0.1933         P 1 -- F 4         +20.7% (111.7%)      0.2%
+ REDUCED MASS        5.0514         P 1 -- F 3         +20.7% (111.7%)      0.2%
+ EFFECTIVE MASS     24.0507
+ FORCE CONSTANT      0.3802
+
+ VIBRATION          6    2E          ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           391.53         P 1 -- F 3         +16.6% (103.3%)      0.0%
+ TRANSITION DIPOLE   2.9796         P 1 -- F 5         +16.6% (103.3%)      0.0%
+ TRAVEL (Ang.)       0.1966         P 1 -- F 2         +13.8% ( 94.3%)      0.0%
+ REDUCED MASS        4.5465         F 3 -- F 4          +9.4% ( 77.8%)     53.1%
+ EFFECTIVE MASS     22.4966
+ FORCE CONSTANT      0.4106
+
+ VIBRATION          7    1B1         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           412.17         F 5 -- F 6         +18.7% ( 61.8%)    100.0%
+ TRANSITION DIPOLE   0.0000         F 3 -- F 6         +18.7% ( 61.8%)    100.0%
+ TRAVEL (Ang.)       0.1856         F 4 -- F 5         +18.7% ( 61.8%)    100.0%
+ REDUCED MASS        4.7496         F 3 -- F 4         +18.7% ( 61.8%)    100.0%
+ EFFECTIVE MASS     18.9984
+ FORCE CONSTANT      0.4754
+
+ VIBRATION          8    2B2         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           683.72         F 5 -- F 6         +16.4% ( 73.9%)      0.0%
+ TRANSITION DIPOLE   0.0000         F 3 -- F 6         +16.4% ( 73.9%)      0.0%
+ TRAVEL (Ang.)       0.1441         F 4 -- F 5         +16.4% ( 73.9%)      0.0%
+ REDUCED MASS        4.7496         F 3 -- F 4         +16.4% ( 73.9%)      0.0%
+ EFFECTIVE MASS     18.9984
+ FORCE CONSTANT      1.3082
+
+ VIBRATION          9    2A1         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           756.21         F 3 -- F 4         +16.0% ( 64.9%)    100.0%
+ TRANSITION DIPOLE   0.3558         F 4 -- F 5         +16.0% ( 64.9%)    100.0%
+ TRAVEL (Ang.)       0.1519         F 3 -- F 6         +16.0% ( 64.9%)    100.0%
+ REDUCED MASS        3.8644         F 5 -- F 6         +16.0% ( 64.9%)    100.0%
+ EFFECTIVE MASS     18.9985
+ FORCE CONSTANT      1.3020
+
+ VIBRATION         10    3A1         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1001.40         P 1 -- F 2         +45.6% ( 93.8%)    100.0%
+ TRANSITION DIPOLE   4.2618         P 1 -- F 4         +12.4% ( 48.8%)     17.2%
+ TRAVEL (Ang.)       0.0808         P 1 -- F 3         +12.4% ( 48.8%)     17.2%
+ REDUCED MASS       10.3088         P 1 -- F 6         +12.4% ( 48.8%)     17.2%
+ EFFECTIVE MASS     23.9117         P 1 -- F 5         +12.4% ( 48.8%)     17.2%
+ FORCE CONSTANT      6.0909
+
+ VIBRATION         12    3E          ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1046.27         P 1 -- F 6         +24.4% ( 80.0%)     98.0%
+ TRANSITION DIPOLE   5.2117         P 1 -- F 4         +24.4% ( 80.0%)     98.0%
+ TRAVEL (Ang.)       0.0779         P 1 -- F 2         +11.1% ( 53.8%)      0.0%
+ REDUCED MASS       10.6311         P 1 -- F 5         +11.0% ( 53.8%)      0.0%
+ EFFECTIVE MASS     24.9232         P 1 -- F 3         +11.0% ( 53.8%)      0.0%
+ FORCE CONSTANT      6.8568
+
+           FORCE CONSTANT IN INTERNAL COORDINATES (Millidynes/A)
+
+    ATOM   CHEMICAL  BOND LENGTH      BOND ANGLE     TWIST ANGLE
+   NUMBER   SYMBOL  FORCE CONSTANT  FORCE CONSTANT  FORCE CONSTANT
+
+      1       P        0.000000        0.000000        0.000000
+      2       F        6.625460        0.000000        0.000000
+      3       F        6.028223        0.580454        0.000000
+      4       F        6.028223        0.580454        2.224712
+      5       F        6.028223        0.580454        2.224712
+      6       F        6.028223        0.580454        2.224712
+ *******************************************************************************
+ ** Site#: 37037        For non-commercial use only           Version 21.158W **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.158W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 363**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Jun  9 13:59:44 2021  *
+ *  IRC=N      - INTRINSIC REACTION COORDINATE -1 DEFINED
+ *  DRC        - DYNAMIC REACTION COORDINATE CALCULATION
+ *  OLDGEO     - PREVIOUS GEOMETRY TO BE USED
+ *  PRECISE    - TIGHTER CRITERIA TO BE USED
+ *  RESTART    - CALCULATION RESTARTED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  CYCLES=    - DO A MAXIMUM OF 60 STEPS
+ *  GNORM      - EXIT WHEN GRADIENT NORM DROPS BELOW 0.000
+ *  HTML       - WRITE HTML SCRIPT TO GENERATE ANIMATION USING JSMOL
+ *             - TO DISPLAY IN PDB FORMAT, ADD "PDBOUT"
+ *  T-PRIOR    - TIME TAKES PRIORITY IN DRC
+ *******************************************************************************
+oldgeo restart IRC=-1* HTML T-Priority=2    precise drc cycles=60 gnorm=0
+ DRC of Phosphorus pentafluoride Berry pseudorotation (Total time = 240 femtoseconds)
+ Click on "Common" At the start the axial fluorine atoms have blue halos, at the end the axial atoms have red halos.
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       P          0.00000000  *    0.0000000  *    0.0000000  *     0     0     0
+     2       F          1.52938640  *    0.0000000  *    0.0000000  *     0     0     0
+     3       F          1.54832874  *  103.1605450  *    0.0000000  *     1     2     0
+     4       F          1.54832874  *  103.1605450  *   90.0000000  *     1     2     3
+     5       F          1.54832874  *  103.1605450  *  180.0000000  *     1     2     3
+     6       F          1.54832874  *  103.1605450  *  -90.0000000  *     1     2     3
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         P          0.0000      0.0000      0.0000
+     2         F          1.5294      0.0000      0.0000
+     3         F         -0.3525      1.5077      0.0000
+     4         F         -0.3525      0.0000     -1.5077
+     5         F         -0.3525     -1.5077     -0.0000
+     6         F         -0.3525      0.0000      1.5077
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: P F5  =     6 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C4v 
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 20
+
+
+          MOLECULAR WEIGHT =  125.97
+
+
+          ESTIMATED TIME TO COMPLETE CALCULATION =        0.00 SECONDS
+
+          TIME USED UP TO RESTART =                  0.11
+
+    FOR POINT-GROUP C4v  THERE ARE   8 UNIQUE SYMMETRY FUNCTIONS.
+
+           INITIAL VELOCITY IN DRC (Angstroms/Femtosecond)
+        -0.00000        -0.00000        -0.00000
+        -0.00000         0.00000         0.00000
+         0.24156         0.06440        -0.00000
+        -0.24156        -0.00000         0.06440
+         0.24156        -0.06440        -0.00000
+        -0.24156        -0.00000        -0.06440
+ THE VIBRATIONAL FREQUENCY (  -104.82CM(-1)) IS TOO SMALL
+ FOR ONE QUANTUM TO BE USED
+ INSTEAD 0.3KCAL/MOLE WILL BE USED TO START THE IRC
+
+ TIME PRIORITY, INTERVAL = 2.00 FEMTOSECONDS
+
+
+
+ FEMTOSECONDS  POINT  POTENTIAL + KINETIC  =   TOTAL     ERROR    REF%   MOVEMENT
+     0.000       1  -367.99114    0.30000  -367.69114   0.00000     1   %  0.0000
+     2.000       4  -367.99161    0.30044  -367.69118  -0.00004     2   %  0.0145
+     4.000       4  -367.99304    0.30185  -367.69119  -0.00005     3   %  0.0291
+     6.000      10  -367.99543    0.30423  -367.69119  -0.00006     4   %  0.0437
+     8.000      12  -367.99878    0.30758  -367.69120  -0.00007     5   %  0.0584
+    10.000      15  -368.00313    0.31192  -367.69121  -0.00008     6   %  0.0732
+    12.000      18  -368.00849    0.31727  -367.69122  -0.00009     7   %  0.0881
+    14.000      20  -368.01489    0.32366  -367.69123  -0.00010     8   %  0.1031
+    16.000      23  -368.02238    0.33113  -367.69124  -0.00010     9   %  0.1183
+    18.000      26  -368.03099    0.33974  -367.69125  -0.00011    10   %  0.1337
+    20.000      28  -368.04077    0.34951  -367.69126  -0.00012    11   %  0.1493
+    22.000      31  -368.05179    0.36052  -367.69127  -0.00014    12   %  0.1651
+    24.000      34  -368.06409    0.37281  -367.69128  -0.00015    13   %  0.1812
+    26.000      36  -368.07775    0.38646  -367.69129  -0.00016    14   %  0.1976
+    28.000      39  -368.09283    0.40170  -367.69113   0.00001    15   %  0.2143
+    30.000      42  -368.10942    0.41828  -367.69113   0.00001    16   %  0.2313
+    32.000      44  -368.12758    0.43645  -367.69113   0.00001    17   %  0.2486
+    34.000      47  -368.14742    0.45629  -367.69113   0.00001    18   %  0.2664
+    36.000      50  -368.16902    0.47789  -367.69113   0.00001    19   %  0.2845
+    38.000      52  -368.19249    0.50136  -367.69113   0.00001    20   %  0.3030
+    40.000      55  -368.21793    0.52680  -367.69113   0.00001    21   %  0.3221
+    42.000      58  -368.24546    0.55433  -367.69113   0.00001    22   %  0.3416
+    44.000      60  -368.27519    0.58406  -367.69113   0.00001    23   %  0.3618
+    46.000      63  -368.30723    0.61610  -367.69113   0.00002    24   %  0.3824
+    48.000      66  -368.34172    0.65059  -367.69113   0.00002    25   %  0.4037
+    50.000      68  -368.37878    0.68765  -367.69113   0.00002    26   %  0.4256
+    52.000      71  -368.41853    0.72740  -367.69112   0.00002    27   %  0.4481
+    54.000      74  -368.46109    0.76997  -367.69112   0.00003    28   %  0.4713
+    56.000      76  -368.50660    0.81548  -367.69112   0.00003    29   %  0.4952
+    58.000      79  -368.55516    0.86405  -367.69112   0.00003    30   %  0.5197
+    60.000      82  -368.60690    0.91579  -367.69112   0.00004    31   %  0.5450
+    62.000      84  -368.66192    0.97081  -367.69111   0.00004    32   %  0.5711
+    64.000      87  -368.72032    1.02920  -367.69111   0.00004    33   %  0.5980
+    66.000      90  -368.78216    1.09105  -367.69111   0.00005    34   %  0.6256
+    68.000      92  -368.84751    1.15640  -367.69111   0.00005    35   %  0.6541
+    70.000      95  -368.91639    1.22529  -367.69110   0.00006    36   %  0.6834
+    72.000      98  -368.98881    1.29771  -367.69110   0.00006    37   %  0.7135
+    74.000     100  -369.06472    1.37362  -367.69110   0.00007    38   %  0.7446
+    76.000     103  -369.14403    1.45294  -367.69109   0.00007    39   %  0.7765
+    78.000     106  -369.22663    1.53554  -367.69109   0.00008    40   %  0.8094
+    80.000     108  -369.31232    1.62125  -367.69108   0.00009    41   %  0.8432
+    82.000     111  -369.40086    1.70964  -367.69122  -0.00005    42   %  0.8779
+    84.000     114  -369.49194    1.80070  -367.69123  -0.00006    43   %  0.9135
+    86.000     116  -369.58516    1.89393  -367.69124  -0.00006    44   %  0.9502
+    88.000     119  -369.68008    1.98884  -367.69124  -0.00006    45   %  0.9877
+    90.000     122  -369.77612    2.08488  -367.69124  -0.00006    46   %  1.0262
+    92.000     124  -369.87265    2.18141  -367.69124  -0.00006    47   %  1.0656
+    94.000     127  -369.96894    2.27770  -367.69125  -0.00006    48   %  1.1060
+    96.000     130  -370.06417    2.37292  -367.69125  -0.00006    49   %  1.1472
+    98.000     132  -370.15740    2.46615  -367.69125  -0.00006    50   %  1.1892
+   100.000     135  -370.24766    2.55641  -367.69126  -0.00006    51   %  1.2321
+   102.000     138  -370.33386    2.64260  -367.69126  -0.00006    52   %  1.2758
+   104.000     140  -370.41483    2.72357  -367.69125  -0.00005    53   %  1.3201
+   106.000     143  -370.48937    2.79813  -367.69125  -0.00004    54   %  1.3652
+   108.000     146  -370.55622    2.86495  -367.69127  -0.00006    55   %  1.4108
+   110.000     148  -370.61407    2.92280  -367.69127  -0.00006    56   %  1.4569
+   112.000     151  -370.66164    2.97036  -367.69128  -0.00006    57   %  1.5035
+   114.000     154  -370.69764    3.00636  -367.69128  -0.00006    58   %  1.5505
+   116.000     156  -370.72084    3.02955  -367.69129  -0.00006    59   %  1.5977
+   118.000     159  -370.73007    3.03878  -367.69129  -0.00006    60   %  1.6450
+
+
+           INITIAL VELOCITY IN DRC (Angstroms/Femtosecond)
+         0.00000         0.00000         0.00000
+         0.00000        -0.00000        -0.00000
+        -0.24156        -0.06440         0.00000
+         0.24156         0.00000        -0.06440
+        -0.24156         0.06440         0.00000
+         0.24156         0.00000         0.06440
+ THE VIBRATIONAL FREQUENCY (  -104.82CM(-1)) IS TOO SMALL
+ FOR ONE QUANTUM TO BE USED
+ INSTEAD 0.3KCAL/MOLE WILL BE USED TO START THE IRC
+
+ TIME PRIORITY, INTERVAL = 2.00 FEMTOSECONDS
+
+
+
+ FEMTOSECONDS  POINT  POTENTIAL + KINETIC  =   TOTAL     ERROR    REF%   MOVEMENT
+     0.000       1  -367.99114    0.30000  -367.69114   0.00000     1   %  0.0000
+     2.000       4  -367.99161    0.30044  -367.69118  -0.00004     2   %  0.0145
+     4.000       4  -367.99304    0.30185  -367.69119  -0.00005     3   %  0.0291
+     6.000      10  -367.99543    0.30423  -367.69119  -0.00006     4   %  0.0437
+     8.000      12  -367.99878    0.30758  -367.69120  -0.00007     5   %  0.0584
+    10.000      15  -368.00313    0.31192  -367.69121  -0.00008     6   %  0.0732
+    12.000      18  -368.00849    0.31727  -367.69122  -0.00009     7   %  0.0881
+    14.000      20  -368.01489    0.32366  -367.69123  -0.00010     8   %  0.1031
+    16.000      23  -368.02238    0.33113  -367.69124  -0.00011     9   %  0.1183
+    18.000      26  -368.03099    0.33973  -367.69125  -0.00011    10   %  0.1337
+    20.000      28  -368.04077    0.34951  -367.69126  -0.00012    11   %  0.1493
+    22.000      31  -368.05179    0.36051  -367.69127  -0.00014    12   %  0.1651
+    24.000      34  -368.06409    0.37281  -367.69128  -0.00015    13   %  0.1812
+    26.000      36  -368.07775    0.38646  -367.69129  -0.00016    14   %  0.1976
+    28.000      39  -368.09283    0.40170  -367.69113   0.00001    15   %  0.2143
+    30.000      42  -368.10942    0.41828  -367.69113   0.00001    16   %  0.2313
+    32.000      44  -368.12758    0.43645  -367.69113   0.00001    17   %  0.2486
+    34.000      47  -368.14742    0.45629  -367.69113   0.00001    18   %  0.2664
+    36.000      50  -368.16902    0.47789  -367.69113   0.00001    19   %  0.2845
+    38.000      52  -368.19249    0.50136  -367.69113   0.00001    20   %  0.3030
+    40.000      55  -368.21793    0.52680  -367.69113   0.00001    21   %  0.3221
+    42.000      58  -368.24546    0.55433  -367.69113   0.00001    22   %  0.3416
+    44.000      60  -368.27519    0.58406  -367.69113   0.00001    23   %  0.3618
+    46.000      63  -368.30723    0.61610  -367.69113   0.00002    24   %  0.3824
+    48.000      66  -368.34172    0.65059  -367.69113   0.00002    25   %  0.4037
+    50.000      68  -368.37878    0.68765  -367.69113   0.00002    26   %  0.4256
+    52.000      71  -368.41853    0.72740  -367.69112   0.00002    27   %  0.4481
+    54.000      74  -368.46109    0.76997  -367.69112   0.00003    28   %  0.4713
+    56.000      76  -368.50660    0.81548  -367.69112   0.00003    29   %  0.4952
+    58.000      79  -368.55516    0.86404  -367.69112   0.00003    30   %  0.5197
+    60.000      82  -368.60690    0.91579  -367.69112   0.00004    31   %  0.5450
+    62.000      84  -368.66192    0.97081  -367.69111   0.00004    32   %  0.5711
+    64.000      87  -368.72031    1.02920  -367.69111   0.00004    33   %  0.5980
+    66.000      90  -368.78216    1.09105  -367.69111   0.00005    34   %  0.6256
+    68.000      92  -368.84751    1.15640  -367.69111   0.00005    35   %  0.6541
+    70.000      95  -368.91639    1.22529  -367.69110   0.00006    36   %  0.6834
+    72.000      98  -368.98881    1.29771  -367.69110   0.00006    37   %  0.7135
+    74.000     100  -369.06472    1.37362  -367.69110   0.00007    38   %  0.7446
+    76.000     103  -369.14403    1.45294  -367.69109   0.00007    39   %  0.7765
+    78.000     106  -369.22663    1.53554  -367.69109   0.00008    40   %  0.8094
+    80.000     108  -369.31232    1.62125  -367.69108   0.00009    41   %  0.8432
+    82.000     111  -369.40086    1.70964  -367.69122  -0.00005    42   %  0.8779
+    84.000     114  -369.49194    1.80070  -367.69123  -0.00006    43   %  0.9135
+    86.000     116  -369.58516    1.89393  -367.69124  -0.00006    44   %  0.9502
+    88.000     119  -369.68008    1.98884  -367.69124  -0.00006    45   %  0.9877
+    90.000     122  -369.77612    2.08488  -367.69124  -0.00006    46   %  1.0262
+    92.000     124  -369.87265    2.18141  -367.69124  -0.00006    47   %  1.0656
+    94.000     127  -369.96894    2.27770  -367.69125  -0.00006    48   %  1.1060
+    96.000     130  -370.06416    2.37292  -367.69125  -0.00006    49   %  1.1472
+    98.000     132  -370.15740    2.46615  -367.69125  -0.00006    50   %  1.1892
+   100.000     135  -370.24766    2.55641  -367.69126  -0.00006    51   %  1.2321
+   102.000     138  -370.33386    2.64260  -367.69126  -0.00006    52   %  1.2758
+   104.000     140  -370.41483    2.72357  -367.69125  -0.00005    53   %  1.3201
+   106.000     143  -370.48937    2.79812  -367.69125  -0.00004    54   %  1.3652
+   108.000     146  -370.55622    2.86495  -367.69127  -0.00006    55   %  1.4108
+   110.000     148  -370.61407    2.92280  -367.69127  -0.00006    56   %  1.4569
+   112.000     151  -370.66164    2.97036  -367.69128  -0.00006    57   %  1.5035
+   114.000     154  -370.69764    3.00636  -367.69128  -0.00006    58   %  1.5505
+   116.000     156  -370.72084    3.02955  -367.69129  -0.00006    59   %  1.5977
+   118.000     159  -370.73007    3.03878  -367.69129  -0.00006    60   %  1.6450
+
+
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:             3.00 SECONDS
+
+ == MOPAC DONE ==
