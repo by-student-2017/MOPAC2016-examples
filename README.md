@@ -19,3 +19,15 @@
 
 
 [6] Downloads; http://openmopac.net/Downloads/Downloads.html
+
+
+## GUI
+- GUIs (http://openmopac.net/resellers.html)
+- Avogadro (https://avogadro.cc/)
+- Avogadro2 (https://www.openchemistry.org/projects/avogadro2/)
+- MoCalc2012 (http://sourceforge.net/projects/mocalc2012/)
+- Molden (https://www.theochem.ru.nl/molden/)
+- Facio (http://zzzfelis.sakura.ne.jp/)
+- Cuby (http://cuby4.molecular.cz/index.html)
+- Jmol (https://sourceforge.net/projects/jmol/files/Jmol/)
+- xmol (http://www.xmol.org/)
