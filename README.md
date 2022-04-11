@@ -9,7 +9,7 @@
 [2] Addition of C2H4 to C4H6 (Diels-Alder addition); http://openmopac.net/manual/Diels_alder.html
 
 
-[3] Tutorial Software; https://www.sparkle.pro.br/tutorial
+[3] Lanthanide Cmplexes Computational Chemistry, Tutorial Software; https://www.sparkle.pro.br/tutorial
 
 
 [4] For accuracy of PM7 compared to other methods; http://openmopac.net/manual/index_accuracy.html
