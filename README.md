@@ -35,3 +35,4 @@
 - Cuby (http://cuby4.molecular.cz/index.html)
 - Jmol (https://sourceforge.net/projects/jmol/files/Jmol/)
 - xmol (http://www.xmol.org/)
+- Avocute (https://github.com/RyokoKuga/Avocute) (Tkinter)
