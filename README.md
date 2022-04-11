@@ -3,7 +3,7 @@
 ## References
 
 
-[1] Examples of Data-Sets and Output Files for MOPAC Calculations; http://openmopac.net/manual/examples.html
+[1] Examples of Data-Sets and Output Files for MOPAC Calculations; http://openmopac.net/manual/examples.html , http://openmopac.net/manual/Protein_calculations.html
 
 
 [2] Addition of C2H4 to C4H6 (Diels-Alder addition); http://openmopac.net/manual/Diels_alder.html
