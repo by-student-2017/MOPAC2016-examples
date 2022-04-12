@@ -1,0 +1,2449 @@
+ *******************************************************************************
+ ** Site#: 9602  E-mail support:    MrMOPAC@ATT.net    Version 17.101W 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 17.101W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web-site: HTTP://OpenMOPAC.net.          **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Apr 12 10:48:36 2017  *
+ *  GEO-OK     - OVERRIDE INTERATOMIC DISTANCE AND OTHER SAFETY CHECKS
+ *  START_RES  - STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(3A 1301A) 
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "OPTIMIZED.ENT"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "ORIGINAL.ENT"
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(AA) 
+ *  LET        - OVERRIDE SOME SAFETY CHECKS
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+ START_RES=(3A 1301A)  CHAINS=(AA) geo_dat="Optimized.ent" geo_ref="Original.ent" 0scf geo-ok HTML output let
+ Compare an optimized structure of a protein with the raw PDB geometry
+
+ 
+
+                            Differences in atoms sets
+
+          Atoms in GEO_DAT only                   Atoms in GEO_REF only
+
+       ATOM      2 1H   GLY A   3              ATOM      1  N   THR A   2
+       ATOM      3 2H   GLY A   3              ATOM      2  CA  THR A   2
+       ATOM      4 3H   GLY A   3              ATOM      3  C   THR A   2
+       ATOM      8 1HA  GLY A   3              ATOM      4  O   THR A   2
+       ATOM      9 2HA  GLY A   3              ATOM      5  CB  THR A   2
+       ATOM     18  H   LEU A   4
+       ATOM     19  HA  LEU A   4
+       ATOM     20 1HB  LEU A   4
+       ATOM     21 2HB  LEU A   4
+       ATOM     22  HG  LEU A   4
+       ATOM     23 1HD1 LEU A   4
+       ATOM     24 2HD1 LEU A   4
+       ATOM     25 3HD1 LEU A   4
+       ATOM     26 1HD2 LEU A   4
+       ATOM     27 2HD2 LEU A   4
+       ATOM     28 3HD2 LEU A   4
+       ATOM     37  H   LEU A   5
+       ATOM     38  HA  LEU A   5
+       ATOM     39 1HB  LEU A   5
+       ATOM     40 2HB  LEU A   5
+       ATOM     41  HG  LEU A   5
+       ATOM     42 1HD1 LEU A   5
+       ATOM     43 2HD1 LEU A   5
+       ATOM     44 3HD1 LEU A   5
+       ATOM     45 1HD2 LEU A   5
+       ATOM     46 2HD2 LEU A   5
+       ATOM     47 3HD2 LEU A   5
+       ATOM     56  H   ASP A   6
+       ATOM     57  HA  ASP A   6
+       ATOM     58 1HB  ASP A   6
+       ATOM     59 2HB  ASP A   6
+       ATOM     64  H   GLY A   7
+       ATOM     65 1HA  GLY A   7
+       ATOM     66 2HA  GLY A   7
+       ATOM     76  H   LYS A   8
+       ATOM     77  HA  LYS A   8
+       ATOM     78 1HB  LYS A   8
+       ATOM     79 2HB  LYS A   8
+       ATOM     80 1HG  LYS A   8
+       ATOM     81 2HG  LYS A   8
+       ATOM     82 1HD  LYS A   8
+       ATOM     83 2HD  LYS A   8
+       ATOM     84 1HE  LYS A   8
+       ATOM     85 2HE  LYS A   8
+       ATOM     86 1HZ  LYS A   8
+       ATOM     87 2HZ  LYS A   8
+       ATOM     88 3HZ  LYS A   8
+       ATOM    100  H   ARG A   9
+       ATOM    101  HA  ARG A   9
+       ATOM    102 1HB  ARG A   9
+       ATOM    103 2HB  ARG A   9
+       ATOM    104 1HG  ARG A   9
+       ATOM    105 2HG  ARG A   9
+       ATOM    106 1HD  ARG A   9
+       ATOM    107 2HD  ARG A   9
+       ATOM    108  HE  ARG A   9
+       ATOM    109 1HH1 ARG A   9
+       ATOM    110 2HH1 ARG A   9
+       ATOM    111 1HH2 ARG A   9
+       ATOM    112 2HH2 ARG A   9
+       ATOM    121  H   ILE A  10
+       ATOM    122  HA  ILE A  10
+       ATOM    123  HB  ILE A  10
+       ATOM    124 1HG1 ILE A  10
+       ATOM    125 2HG1 ILE A  10
+       ATOM    126 1HG2 ILE A  10
+       ATOM    127 2HG2 ILE A  10
+       ATOM    128 3HG2 ILE A  10
+       ATOM    129 1HD1 ILE A  10
+       ATOM    130 2HD1 ILE A  10
+       ATOM    131 3HD1 ILE A  10
+       ATOM    140  H   LEU A  11
+       ATOM    141  HA  LEU A  11
+       ATOM    142 1HB  LEU A  11
+       ATOM    143 2HB  LEU A  11
+       ATOM    144  HG  LEU A  11
+       ATOM    145 1HD1 LEU A  11
+       ATOM    146 2HD1 LEU A  11
+       ATOM    147 3HD1 LEU A  11
+       ATOM    148 1HD2 LEU A  11
+       ATOM    149 2HD2 LEU A  11
+       ATOM    150 3HD2 LEU A  11
+       ATOM    158  H   VAL A  12
+       ATOM    159  HA  VAL A  12
+       ATOM    160  HB  VAL A  12
+       ATOM    161 1HG1 VAL A  12
+       ATOM    162 2HG1 VAL A  12
+       ATOM    163 3HG1 VAL A  12
+       ATOM    164 1HG2 VAL A  12
+       ATOM    165 2HG2 VAL A  12
+       ATOM    166 3HG2 VAL A  12
+       ATOM    173  H   SER A  13
+       ATOM    174  HA  SER A  13
+       ATOM    175 1HB  SER A  13
+       ATOM    176 2HB  SER A  13
+       ATOM    177  HG  SER A  13
+       ATOM    182  H   GLY A  14
+       ATOM    183 1HA  GLY A  14
+       ATOM    184 2HA  GLY A  14
+       ATOM    193  H   ILE A  15
+       ATOM    194  HA  ILE A  15
+       ATOM    195  HB  ILE A  15
+       ATOM    196 1HG1 ILE A  15
+       ATOM    197 2HG1 ILE A  15
+       ATOM    198 1HG2 ILE A  15
+       ATOM    199 2HG2 ILE A  15
+       ATOM    200 3HG2 ILE A  15
+       ATOM    201 1HD1 ILE A  15
+       ATOM    202 2HD1 ILE A  15
+       ATOM    203 3HD1 ILE A  15
+       ATOM    212  H   ILE A  16
+       ATOM    213  HA  ILE A  16
+       ATOM    214  HB  ILE A  16
+       ATOM    215 1HG1 ILE A  16
+       ATOM    216 2HG1 ILE A  16
+       ATOM    217 1HG2 ILE A  16
+       ATOM    218 2HG2 ILE A  16
+       ATOM    219 3HG2 ILE A  16
+       ATOM    220 1HD1 ILE A  16
+       ATOM    221 2HD1 ILE A  16
+       ATOM    222 3HD1 ILE A  16
+       ATOM    230  H   THR A  17
+       ATOM    231  HA  THR A  17
+       ATOM    232  HB  THR A  17
+       ATOM    233  HG1 THR A  17
+       ATOM    234 1HG2 THR A  17
+       ATOM    235 2HG2 THR A  17
+       ATOM    236 3HG2 THR A  17
+       ATOM    245  H   ASP A  18
+       ATOM    246  HA  ASP A  18
+       ATOM    247 1HB  ASP A  18
+       ATOM    248 2HB  ASP A  18
+       ATOM    255  H   SER A  19
+       ATOM    256  HA  SER A  19
+       ATOM    257 1HB  SER A  19
+       ATOM    258 2HB  SER A  19
+       ATOM    259  HG  SER A  19
+       ATOM    266  H   SER A  20
+       ATOM    267  HA  SER A  20
+       ATOM    268 1HB  SER A  20
+       ATOM    269 2HB  SER A  20
+       ATOM    270  HG  SER A  20
+       ATOM    279  H   ILE A  21
+       ATOM    280  HA  ILE A  21
+       ATOM    281  HB  ILE A  21
+       ATOM    282 1HG1 ILE A  21
+       ATOM    283 2HG1 ILE A  21
+       ATOM    284 1HG2 ILE A  21
+       ATOM    285 2HG2 ILE A  21
+       ATOM    286 3HG2 ILE A  21
+       ATOM    287 1HD1 ILE A  21
+       ATOM    288 2HD1 ILE A  21
+       ATOM    289 3HD1 ILE A  21
+       ATOM    295  H   ALA A  22
+       ATOM    296  HA  ALA A  22
+       ATOM    297 1HB  ALA A  22
+       ATOM    298 2HB  ALA A  22
+       ATOM    299 3HB  ALA A  22
+       ATOM    311  H   PHE A  23
+       ATOM    312  HA  PHE A  23
+       ATOM    313 1HB  PHE A  23
+       ATOM    314 2HB  PHE A  23
+       ATOM    315  HD1 PHE A  23
+       ATOM    316  HD2 PHE A  23
+       ATOM    317  HE1 PHE A  23
+       ATOM    318  HE2 PHE A  23
+       ATOM    319  HZ  PHE A  23
+       ATOM    330  H   HIS A  24
+       ATOM    331  HA  HIS A  24
+       ATOM    332 1HB  HIS A  24
+       ATOM    333 2HB  HIS A  24
+       ATOM    334  HD2 HIS A  24
+       ATOM    335  HE1 HIS A  24
+       ATOM    336  HE2 HIS A  24
+       ATOM    345  H   ILE A  25
+       ATOM    346  HA  ILE A  25
+       ATOM    347  HB  ILE A  25
+       ATOM    348 1HG1 ILE A  25
+       ATOM    349 2HG1 ILE A  25
+       ATOM    350 1HG2 ILE A  25
+       ATOM    351 2HG2 ILE A  25
+       ATOM    352 3HG2 ILE A  25
+       ATOM    353 1HD1 ILE A  25
+       ATOM    354 2HD1 ILE A  25
+       ATOM    355 3HD1 ILE A  25
+       ATOM    361  H   ALA A  26
+       ATOM    362  HA  ALA A  26
+       ATOM    363 1HB  ALA A  26
+       ATOM    364 2HB  ALA A  26
+       ATOM    365 3HB  ALA A  26
+       ATOM    377  H   ARG A  27
+       ATOM    378  HA  ARG A  27
+       ATOM    379 1HB  ARG A  27
+       ATOM    380 2HB  ARG A  27
+       ATOM    381 1HG  ARG A  27
+       ATOM    382 2HG  ARG A  27
+       ATOM    383 1HD  ARG A  27
+       ATOM    384 2HD  ARG A  27
+       ATOM    385  HE  ARG A  27
+       ATOM    386 1HH1 ARG A  27
+       ATOM    387 2HH1 ARG A  27
+       ATOM    388 1HH2 ARG A  27
+       ATOM    389 2HH2 ARG A  27
+       ATOM    397  H   VAL A  28
+       ATOM    398  HA  VAL A  28
+       ATOM    399  HB  VAL A  28
+       ATOM    400 1HG1 VAL A  28
+       ATOM    401 2HG1 VAL A  28
+       ATOM    402 3HG1 VAL A  28
+       ATOM    403 1HG2 VAL A  28
+       ATOM    404 2HG2 VAL A  28
+       ATOM    405 3HG2 VAL A  28
+       ATOM    411  H   ALA A  29
+       ATOM    412  HA  ALA A  29
+       ATOM    413 1HB  ALA A  29
+       ATOM    414 2HB  ALA A  29
+       ATOM    415 3HB  ALA A  29
+       ATOM    425  H   GLN A  30
+       ATOM    426  HA  GLN A  30
+       ATOM    427 1HB  GLN A  30
+       ATOM    428 2HB  GLN A  30
+       ATOM    429 1HG  GLN A  30
+       ATOM    430 2HG  GLN A  30
+       ATOM    431 1HE2 GLN A  30
+       ATOM    432 2HE2 GLN A  30
+       ATOM    442  H   GLU A  31
+       ATOM    443  HA  GLU A  31
+       ATOM    444 1HB  GLU A  31
+       ATOM    445 2HB  GLU A  31
+       ATOM    446 1HG  GLU A  31
+       ATOM    447 2HG  GLU A  31
+       ATOM    457  H   GLN A  32
+       ATOM    458  HA  GLN A  32
+       ATOM    459 1HB  GLN A  32
+       ATOM    460 2HB  GLN A  32
+       ATOM    461 1HG  GLN A  32
+       ATOM    462 2HG  GLN A  32
+       ATOM    463 1HE2 GLN A  32
+       ATOM    464 2HE2 GLN A  32
+       ATOM    469  H   GLY A  33
+       ATOM    470 1HA  GLY A  33
+       ATOM    471 2HA  GLY A  33
+       ATOM    477  H   ALA A  34
+       ATOM    478  HA  ALA A  34
+       ATOM    479 1HB  ALA A  34
+       ATOM    480 2HB  ALA A  34
+       ATOM    481 3HB  ALA A  34
+       ATOM    491  H   GLN A  35
+       ATOM    492  HA  GLN A  35
+       ATOM    493 1HB  GLN A  35
+       ATOM    494 2HB  GLN A  35
+       ATOM    495 1HG  GLN A  35
+       ATOM    496 2HG  GLN A  35
+       ATOM    497 1HE2 GLN A  35
+       ATOM    498 2HE2 GLN A  35
+       ATOM    507  H   LEU A  36
+       ATOM    508  HA  LEU A  36
+       ATOM    509 1HB  LEU A  36
+       ATOM    510 2HB  LEU A  36
+       ATOM    511  HG  LEU A  36
+       ATOM    512 1HD1 LEU A  36
+       ATOM    513 2HD1 LEU A  36
+       ATOM    514 3HD1 LEU A  36
+       ATOM    515 1HD2 LEU A  36
+       ATOM    516 2HD2 LEU A  36
+       ATOM    517 3HD2 LEU A  36
+       ATOM    525  H   VAL A  37
+       ATOM    526  HA  VAL A  37
+       ATOM    527  HB  VAL A  37
+       ATOM    528 1HG1 VAL A  37
+       ATOM    529 2HG1 VAL A  37
+       ATOM    530 3HG1 VAL A  37
+       ATOM    531 1HG2 VAL A  37
+       ATOM    532 2HG2 VAL A  37
+       ATOM    533 3HG2 VAL A  37
+       ATOM    542  H   LEU A  38
+       ATOM    543  HA  LEU A  38
+       ATOM    544 1HB  LEU A  38
+       ATOM    545 2HB  LEU A  38
+       ATOM    546  HG  LEU A  38
+       ATOM    547 1HD1 LEU A  38
+       ATOM    548 2HD1 LEU A  38
+       ATOM    549 3HD1 LEU A  38
+       ATOM    550 1HD2 LEU A  38
+       ATOM    551 2HD2 LEU A  38
+       ATOM    552 3HD2 LEU A  38
+       ATOM    560  H   THR A  39
+       ATOM    561  HA  THR A  39
+       ATOM    562  HB  THR A  39
+       ATOM    563  HG1 THR A  39
+       ATOM    564 1HG2 THR A  39
+       ATOM    565 2HG2 THR A  39
+       ATOM    566 3HG2 THR A  39
+       ATOM    571  H   GLY A  40
+       ATOM    572 1HA  GLY A  40
+       ATOM    573 2HA  GLY A  40
+       ATOM    585  H   PHE A  41
+       ATOM    586  HA  PHE A  41
+       ATOM    587 1HB  PHE A  41
+       ATOM    588 2HB  PHE A  41
+       ATOM    589  HD1 PHE A  41
+       ATOM    590  HD2 PHE A  41
+       ATOM    591  HE1 PHE A  41
+       ATOM    592  HE2 PHE A  41
+       ATOM    593  HZ  PHE A  41
+       ATOM    602  H   ASP A  42
+       ATOM    603  HA  ASP A  42
+       ATOM    604 1HB  ASP A  42
+       ATOM    605 2HB  ASP A  42
+       ATOM    617  H   ARG A  43
+       ATOM    618  HA  ARG A  43
+       ATOM    619 1HB  ARG A  43
+       ATOM    620 2HB  ARG A  43
+       ATOM    621 1HG  ARG A  43
+       ATOM    622 2HG  ARG A  43
+       ATOM    623 1HD  ARG A  43
+       ATOM    624 2HD  ARG A  43
+       ATOM    625  HE  ARG A  43
+       ATOM    626 1HH1 ARG A  43
+       ATOM    627 2HH1 ARG A  43
+       ATOM    628 1HH2 ARG A  43
+       ATOM    629 2HH2 ARG A  43
+       ATOM    638  H   LEU A  44
+       ATOM    639  HA  LEU A  44
+       ATOM    640 1HB  LEU A  44
+       ATOM    641 2HB  LEU A  44
+       ATOM    642  HG  LEU A  44
+       ATOM    643 1HD1 LEU A  44
+       ATOM    644 2HD1 LEU A  44
+       ATOM    645 3HD1 LEU A  44
+       ATOM    646 1HD2 LEU A  44
+       ATOM    647 2HD2 LEU A  44
+       ATOM    648 3HD2 LEU A  44
+       ATOM    660  H   ARG A  45
+       ATOM    661  HA  ARG A  45
+       ATOM    662 1HB  ARG A  45
+       ATOM    663 2HB  ARG A  45
+       ATOM    664 1HG  ARG A  45
+       ATOM    665 2HG  ARG A  45
+       ATOM    666 1HD  ARG A  45
+       ATOM    667 2HD  ARG A  45
+       ATOM    668  HE  ARG A  45
+       ATOM    669 1HH1 ARG A  45
+       ATOM    670 2HH1 ARG A  45
+       ATOM    671 1HH2 ARG A  45
+       ATOM    672 2HH2 ARG A  45
+       ATOM    681  H   LEU A  46
+       ATOM    682  HA  LEU A  46
+       ATOM    683 1HB  LEU A  46
+       ATOM    684 2HB  LEU A  46
+       ATOM    685  HG  LEU A  46
+       ATOM    686 1HD1 LEU A  46
+       ATOM    687 2HD1 LEU A  46
+       ATOM    688 3HD1 LEU A  46
+       ATOM    689 1HD2 LEU A  46
+       ATOM    690 2HD2 LEU A  46
+       ATOM    691 3HD2 LEU A  46
+       ATOM    700  H   ILE A  47
+       ATOM    701  HA  ILE A  47
+       ATOM    702  HB  ILE A  47
+       ATOM    703 1HG1 ILE A  47
+       ATOM    704 2HG1 ILE A  47
+       ATOM    705 1HG2 ILE A  47
+       ATOM    706 2HG2 ILE A  47
+       ATOM    707 3HG2 ILE A  47
+       ATOM    708 1HD1 ILE A  47
+       ATOM    709 2HD1 ILE A  47
+       ATOM    710 3HD1 ILE A  47
+       ATOM    720  H   GLN A  48
+       ATOM    721  HA  GLN A  48
+       ATOM    722 1HB  GLN A  48
+       ATOM    723 2HB  GLN A  48
+       ATOM    724 1HG  GLN A  48
+       ATOM    725 2HG  GLN A  48
+       ATOM    726 1HE2 GLN A  48
+       ATOM    727 2HE2 GLN A  48
+       ATOM    739  H   ARG A  49
+       ATOM    740  HA  ARG A  49
+       ATOM    741 1HB  ARG A  49
+       ATOM    742 2HB  ARG A  49
+       ATOM    743 1HG  ARG A  49
+       ATOM    744 2HG  ARG A  49
+       ATOM    745 1HD  ARG A  49
+       ATOM    746 2HD  ARG A  49
+       ATOM    747  HE  ARG A  49
+       ATOM    748 1HH1 ARG A  49
+       ATOM    749 2HH1 ARG A  49
+       ATOM    750 1HH2 ARG A  49
+       ATOM    751 2HH2 ARG A  49
+       ATOM    760  H   ILE A  50
+       ATOM    761  HA  ILE A  50
+       ATOM    762  HB  ILE A  50
+       ATOM    763 1HG1 ILE A  50
+       ATOM    764 2HG1 ILE A  50
+       ATOM    765 1HG2 ILE A  50
+       ATOM    766 2HG2 ILE A  50
+       ATOM    767 3HG2 ILE A  50
+       ATOM    768 1HD1 ILE A  50
+       ATOM    769 2HD1 ILE A  50
+       ATOM    770 3HD1 ILE A  50
+       ATOM    778  H   THR A  51
+       ATOM    779  HA  THR A  51
+       ATOM    780  HB  THR A  51
+       ATOM    781  HG1 THR A  51
+       ATOM    782 1HG2 THR A  51
+       ATOM    783 2HG2 THR A  51
+       ATOM    784 3HG2 THR A  51
+       ATOM    793  H   ASP A  52
+       ATOM    794  HA  ASP A  52
+       ATOM    795 1HB  ASP A  52
+       ATOM    796 2HB  ASP A  52
+       ATOM    808  H   ARG A  53
+       ATOM    809  HA  ARG A  53
+       ATOM    810 1HB  ARG A  53
+       ATOM    811 2HB  ARG A  53
+       ATOM    812 1HG  ARG A  53
+       ATOM    813 2HG  ARG A  53
+       ATOM    814 1HD  ARG A  53
+       ATOM    815 2HD  ARG A  53
+       ATOM    816  HE  ARG A  53
+       ATOM    817 1HH1 ARG A  53
+       ATOM    818 2HH1 ARG A  53
+       ATOM    819 1HH2 ARG A  53
+       ATOM    820 2HH2 ARG A  53
+       ATOM    829  H   LEU A  54
+       ATOM    830  HA  LEU A  54
+       ATOM    831 1HB  LEU A  54
+       ATOM    832 2HB  LEU A  54
+       ATOM    833  HG  LEU A  54
+       ATOM    834 1HD1 LEU A  54
+       ATOM    835 2HD1 LEU A  54
+       ATOM    836 3HD1 LEU A  54
+       ATOM    837 1HD2 LEU A  54
+       ATOM    838 2HD2 LEU A  54
+       ATOM    839 3HD2 LEU A  54
+       ATOM    847  HA  PRO A  55
+       ATOM    848 1HB  PRO A  55
+       ATOM    849 2HB  PRO A  55
+       ATOM    850 1HG  PRO A  55
+       ATOM    851 2HG  PRO A  55
+       ATOM    852 1HD  PRO A  55
+       ATOM    853 2HD  PRO A  55
+       ATOM    859  H   ALA A  56
+       ATOM    860  HA  ALA A  56
+       ATOM    861 1HB  ALA A  56
+       ATOM    862 2HB  ALA A  56
+       ATOM    863 3HB  ALA A  56
+       ATOM    873  H   LYS A  57
+       ATOM    874  HA  LYS A  57
+       ATOM    875 1HB  LYS A  57
+       ATOM    876 2HB  LYS A  57
+       ATOM    877 1HG  LYS A  57
+       ATOM    878 2HG  LYS A  57
+       ATOM    879 1HD  LYS A  57
+       ATOM    880 2HD  LYS A  57
+       ATOM    881 1HE  LYS A  57
+       ATOM    882 2HE  LYS A  57
+       ATOM    883 1HZ  LYS A  57
+       ATOM    884 2HZ  LYS A  57
+       ATOM    885 3HZ  LYS A  57
+       ATOM    891  H   ALA A  58
+       ATOM    892  HA  ALA A  58
+       ATOM    893 1HB  ALA A  58
+       ATOM    894 2HB  ALA A  58
+       ATOM    895 3HB  ALA A  58
+       ATOM    903  HA  PRO A  59
+       ATOM    904 1HB  PRO A  59
+       ATOM    905 2HB  PRO A  59
+       ATOM    906 1HG  PRO A  59
+       ATOM    907 2HG  PRO A  59
+       ATOM    908 1HD  PRO A  59
+       ATOM    909 2HD  PRO A  59
+       ATOM    918  H   LEU A  60
+       ATOM    919  HA  LEU A  60
+       ATOM    920 1HB  LEU A  60
+       ATOM    921 2HB  LEU A  60
+       ATOM    922  HG  LEU A  60
+       ATOM    923 1HD1 LEU A  60
+       ATOM    924 2HD1 LEU A  60
+       ATOM    925 3HD1 LEU A  60
+       ATOM    926 1HD2 LEU A  60
+       ATOM    927 2HD2 LEU A  60
+       ATOM    928 3HD2 LEU A  60
+       ATOM    937  H   LEU A  61
+       ATOM    938  HA  LEU A  61
+       ATOM    939 1HB  LEU A  61
+       ATOM    940 2HB  LEU A  61
+       ATOM    941  HG  LEU A  61
+       ATOM    942 1HD1 LEU A  61
+       ATOM    943 2HD1 LEU A  61
+       ATOM    944 3HD1 LEU A  61
+       ATOM    945 1HD2 LEU A  61
+       ATOM    946 2HD2 LEU A  61
+       ATOM    947 3HD2 LEU A  61
+       ATOM    957  H   GLU A  62
+       ATOM    958  HA  GLU A  62
+       ATOM    959 1HB  GLU A  62
+       ATOM    960 2HB  GLU A  62
+       ATOM    961 1HG  GLU A  62
+       ATOM    962 2HG  GLU A  62
+       ATOM    971  H   LEU A  63
+       ATOM    972  HA  LEU A  63
+       ATOM    973 1HB  LEU A  63
+       ATOM    974 2HB  LEU A  63
+       ATOM    975  HG  LEU A  63
+       ATOM    976 1HD1 LEU A  63
+       ATOM    977 2HD1 LEU A  63
+       ATOM    978 3HD1 LEU A  63
+       ATOM    979 1HD2 LEU A  63
+       ATOM    980 2HD2 LEU A  63
+       ATOM    981 3HD2 LEU A  63
+       ATOM    990  H   ASP A  64
+       ATOM    991  HA  ASP A  64
+       ATOM    992 1HB  ASP A  64
+       ATOM    993 2HB  ASP A  64
+       ATOM   1001  H   VAL A  65
+       ATOM   1002  HA  VAL A  65
+       ATOM   1003  HB  VAL A  65
+       ATOM   1004 1HG1 VAL A  65
+       ATOM   1005 2HG1 VAL A  65
+       ATOM   1006 3HG1 VAL A  65
+       ATOM   1007 1HG2 VAL A  65
+       ATOM   1008 2HG2 VAL A  65
+       ATOM   1009 3HG2 VAL A  65
+       ATOM   1019  H   GLN A  66
+       ATOM   1020  HA  GLN A  66
+       ATOM   1021 1HB  GLN A  66
+       ATOM   1022 2HB  GLN A  66
+       ATOM   1023 1HG  GLN A  66
+       ATOM   1024 2HG  GLN A  66
+       ATOM   1025 1HE2 GLN A  66
+       ATOM   1026 2HE2 GLN A  66
+       ATOM   1035  H   ASN A  67
+       ATOM   1036  HA  ASN A  67
+       ATOM   1037 1HB  ASN A  67
+       ATOM   1038 2HB  ASN A  67
+       ATOM   1039 1HD2 ASN A  67
+       ATOM   1040 2HD2 ASN A  67
+       ATOM   1050  H   GLU A  68
+       ATOM   1051  HA  GLU A  68
+       ATOM   1052 1HB  GLU A  68
+       ATOM   1053 2HB  GLU A  68
+       ATOM   1054 1HG  GLU A  68
+       ATOM   1055 2HG  GLU A  68
+       ATOM   1065  H   GLU A  69
+       ATOM   1066  HA  GLU A  69
+       ATOM   1067 1HB  GLU A  69
+       ATOM   1068 2HB  GLU A  69
+       ATOM   1069 1HG  GLU A  69
+       ATOM   1070 2HG  GLU A  69
+       ATOM   1081  H   HIS A  70
+       ATOM   1082  HA  HIS A  70
+       ATOM   1083 1HB  HIS A  70
+       ATOM   1084 2HB  HIS A  70
+       ATOM   1085  HD2 HIS A  70
+       ATOM   1086  HE1 HIS A  70
+       ATOM   1087  HE2 HIS A  70
+       ATOM   1096  H   LEU A  71
+       ATOM   1097  HA  LEU A  71
+       ATOM   1098 1HB  LEU A  71
+       ATOM   1099 2HB  LEU A  71
+       ATOM   1100  HG  LEU A  71
+       ATOM   1101 1HD1 LEU A  71
+       ATOM   1102 2HD1 LEU A  71
+       ATOM   1103 3HD1 LEU A  71
+       ATOM   1104 1HD2 LEU A  71
+       ATOM   1105 2HD2 LEU A  71
+       ATOM   1106 3HD2 LEU A  71
+       ATOM   1112  H   ALA A  72
+       ATOM   1113  HA  ALA A  72
+       ATOM   1114 1HB  ALA A  72
+       ATOM   1115 2HB  ALA A  72
+       ATOM   1116 3HB  ALA A  72
+       ATOM   1123  H   SER A  73
+       ATOM   1124  HA  SER A  73
+       ATOM   1125 1HB  SER A  73
+       ATOM   1126 2HB  SER A  73
+       ATOM   1127  HG  SER A  73
+       ATOM   1136  H   LEU A  74
+       ATOM   1137  HA  LEU A  74
+       ATOM   1138 1HB  LEU A  74
+       ATOM   1139 2HB  LEU A  74
+       ATOM   1140  HG  LEU A  74
+       ATOM   1141 1HD1 LEU A  74
+       ATOM   1142 2HD1 LEU A  74
+       ATOM   1143 3HD1 LEU A  74
+       ATOM   1144 1HD2 LEU A  74
+       ATOM   1145 2HD2 LEU A  74
+       ATOM   1146 3HD2 LEU A  74
+       ATOM   1152  H   ALA A  75
+       ATOM   1153  HA  ALA A  75
+       ATOM   1154 1HB  ALA A  75
+       ATOM   1155 2HB  ALA A  75
+       ATOM   1156 3HB  ALA A  75
+       ATOM   1161  H   GLY A  76
+       ATOM   1162 1HA  GLY A  76
+       ATOM   1163 2HA  GLY A  76
+       ATOM   1175  H   ARG A  77
+       ATOM   1176  HA  ARG A  77
+       ATOM   1177 1HB  ARG A  77
+       ATOM   1178 2HB  ARG A  77
+       ATOM   1179 1HG  ARG A  77
+       ATOM   1180 2HG  ARG A  77
+       ATOM   1181 1HD  ARG A  77
+       ATOM   1182 2HD  ARG A  77
+       ATOM   1183  HE  ARG A  77
+       ATOM   1184 1HH1 ARG A  77
+       ATOM   1185 2HH1 ARG A  77
+       ATOM   1186 1HH2 ARG A  77
+       ATOM   1187 2HH2 ARG A  77
+       ATOM   1195  H   VAL A  78
+       ATOM   1196  HA  VAL A  78
+       ATOM   1197  HB  VAL A  78
+       ATOM   1198 1HG1 VAL A  78
+       ATOM   1199 2HG1 VAL A  78
+       ATOM   1200 3HG1 VAL A  78
+       ATOM   1201 1HG2 VAL A  78
+       ATOM   1202 2HG2 VAL A  78
+       ATOM   1203 3HG2 VAL A  78
+       ATOM   1211  H   THR A  79
+       ATOM   1212  HA  THR A  79
+       ATOM   1213  HB  THR A  79
+       ATOM   1214  HG1 THR A  79
+       ATOM   1215 1HG2 THR A  79
+       ATOM   1216 2HG2 THR A  79
+       ATOM   1217 3HG2 THR A  79
+       ATOM   1227  H   GLU A  80
+       ATOM   1228  HA  GLU A  80
+       ATOM   1229 1HB  GLU A  80
+       ATOM   1230 2HB  GLU A  80
+       ATOM   1231 1HG  GLU A  80
+       ATOM   1232 2HG  GLU A  80
+       ATOM   1238  H   ALA A  81
+       ATOM   1239  HA  ALA A  81
+       ATOM   1240 1HB  ALA A  81
+       ATOM   1241 2HB  ALA A  81
+       ATOM   1242 3HB  ALA A  81
+       ATOM   1251  H   ILE A  82
+       ATOM   1252  HA  ILE A  82
+       ATOM   1253  HB  ILE A  82
+       ATOM   1254 1HG1 ILE A  82
+       ATOM   1255 2HG1 ILE A  82
+       ATOM   1256 1HG2 ILE A  82
+       ATOM   1257 2HG2 ILE A  82
+       ATOM   1258 3HG2 ILE A  82
+       ATOM   1259 1HD1 ILE A  82
+       ATOM   1260 2HD1 ILE A  82
+       ATOM   1261 3HD1 ILE A  82
+       ATOM   1266  H   GLY A  83
+       ATOM   1267 1HA  GLY A  83
+       ATOM   1268 2HA  GLY A  83
+       ATOM   1274  H   ALA A  84
+       ATOM   1275  HA  ALA A  84
+       ATOM   1276 1HB  ALA A  84
+       ATOM   1277 2HB  ALA A  84
+       ATOM   1278 3HB  ALA A  84
+       ATOM   1283  H   GLY A  85
+       ATOM   1284 1HA  GLY A  85
+       ATOM   1285 2HA  GLY A  85
+       ATOM   1294  H   ASN A  86
+       ATOM   1295  HA  ASN A  86
+       ATOM   1296 1HB  ASN A  86
+       ATOM   1297 2HB  ASN A  86
+       ATOM   1298 1HD2 ASN A  86
+       ATOM   1299 2HD2 ASN A  86
+       ATOM   1309  H   LYS A  87
+       ATOM   1310  HA  LYS A  87
+       ATOM   1311 1HB  LYS A  87
+       ATOM   1312 2HB  LYS A  87
+       ATOM   1313 1HG  LYS A  87
+       ATOM   1314 2HG  LYS A  87
+       ATOM   1315 1HD  LYS A  87
+       ATOM   1316 2HD  LYS A  87
+       ATOM   1317 1HE  LYS A  87
+       ATOM   1318 2HE  LYS A  87
+       ATOM   1319 1HZ  LYS A  87
+       ATOM   1320 2HZ  LYS A  87
+       ATOM   1321 3HZ  LYS A  87
+       ATOM   1330  H   LEU A  88
+       ATOM   1331  HA  LEU A  88
+       ATOM   1332 1HB  LEU A  88
+       ATOM   1333 2HB  LEU A  88
+       ATOM   1334  HG  LEU A  88
+       ATOM   1335 1HD1 LEU A  88
+       ATOM   1336 2HD1 LEU A  88
+       ATOM   1337 3HD1 LEU A  88
+       ATOM   1338 1HD2 LEU A  88
+       ATOM   1339 2HD2 LEU A  88
+       ATOM   1340 3HD2 LEU A  88
+       ATOM   1349  H   ASP A  89
+       ATOM   1350  HA  ASP A  89
+       ATOM   1351 1HB  ASP A  89
+       ATOM   1352 2HB  ASP A  89
+       ATOM   1357  H   GLY A  90
+       ATOM   1358 1HA  GLY A  90
+       ATOM   1359 2HA  GLY A  90
+       ATOM   1367  H   VAL A  91
+       ATOM   1368  HA  VAL A  91
+       ATOM   1369  HB  VAL A  91
+       ATOM   1370 1HG1 VAL A  91
+       ATOM   1371 2HG1 VAL A  91
+       ATOM   1372 3HG1 VAL A  91
+       ATOM   1373 1HG2 VAL A  91
+       ATOM   1374 2HG2 VAL A  91
+       ATOM   1375 3HG2 VAL A  91
+       ATOM   1383  H   VAL A  92
+       ATOM   1384  HA  VAL A  92
+       ATOM   1385  HB  VAL A  92
+       ATOM   1386 1HG1 VAL A  92
+       ATOM   1387 2HG1 VAL A  92
+       ATOM   1388 3HG1 VAL A  92
+       ATOM   1389 1HG2 VAL A  92
+       ATOM   1390 2HG2 VAL A  92
+       ATOM   1391 3HG2 VAL A  92
+       ATOM   1402  H   HIS A  93
+       ATOM   1403  HA  HIS A  93
+       ATOM   1404 1HB  HIS A  93
+       ATOM   1405 2HB  HIS A  93
+       ATOM   1406  HD2 HIS A  93
+       ATOM   1407  HE1 HIS A  93
+       ATOM   1408  HE2 HIS A  93
+       ATOM   1415  H   SER A  94
+       ATOM   1416  HA  SER A  94
+       ATOM   1417 1HB  SER A  94
+       ATOM   1418 2HB  SER A  94
+       ATOM   1419  HG  SER A  94
+       ATOM   1428  H   ILE A  95
+       ATOM   1429  HA  ILE A  95
+       ATOM   1430  HB  ILE A  95
+       ATOM   1431 1HG1 ILE A  95
+       ATOM   1432 2HG1 ILE A  95
+       ATOM   1433 1HG2 ILE A  95
+       ATOM   1434 2HG2 ILE A  95
+       ATOM   1435 3HG2 ILE A  95
+       ATOM   1436 1HD1 ILE A  95
+       ATOM   1437 2HD1 ILE A  95
+       ATOM   1438 3HD1 ILE A  95
+       ATOM   1443  H   GLY A  96
+       ATOM   1444 1HA  GLY A  96
+       ATOM   1445 2HA  GLY A  96
+       ATOM   1457  H   PHE A  97
+       ATOM   1458  HA  PHE A  97
+       ATOM   1459 1HB  PHE A  97
+       ATOM   1460 2HB  PHE A  97
+       ATOM   1461  HD1 PHE A  97
+       ATOM   1462  HD2 PHE A  97
+       ATOM   1463  HE1 PHE A  97
+       ATOM   1464  HE2 PHE A  97
+       ATOM   1465  HZ  PHE A  97
+       ATOM   1474  H   MET A  98
+       ATOM   1475  HA  MET A  98
+       ATOM   1476 1HB  MET A  98
+       ATOM   1477 2HB  MET A  98
+       ATOM   1478 1HG  MET A  98
+       ATOM   1479 2HG  MET A  98
+       ATOM   1480 1HE  MET A  98
+       ATOM   1481 2HE  MET A  98
+       ATOM   1482 3HE  MET A  98
+       ATOM   1490  HA  PRO A  99
+       ATOM   1491 1HB  PRO A  99
+       ATOM   1492 2HB  PRO A  99
+       ATOM   1493 1HG  PRO A  99
+       ATOM   1494 2HG  PRO A  99
+       ATOM   1495 1HD  PRO A  99
+       ATOM   1496 2HD  PRO A  99
+       ATOM   1506  H   GLN A 100
+       ATOM   1507  HA  GLN A 100
+       ATOM   1508 1HB  GLN A 100
+       ATOM   1509 2HB  GLN A 100
+       ATOM   1510 1HG  GLN A 100
+       ATOM   1511 2HG  GLN A 100
+       ATOM   1512 1HE2 GLN A 100
+       ATOM   1513 2HE2 GLN A 100
+       ATOM   1521  H   THR A 101
+       ATOM   1522  HA  THR A 101
+       ATOM   1523  HB  THR A 101
+       ATOM   1524  HG1 THR A 101
+       ATOM   1525 1HG2 THR A 101
+       ATOM   1526 2HG2 THR A 101
+       ATOM   1527 3HG2 THR A 101
+       ATOM   1532  H   GLY A 102
+       ATOM   1533 1HA  GLY A 102
+       ATOM   1534 2HA  GLY A 102
+       ATOM   1543  H   MET A 103
+       ATOM   1544  HA  MET A 103
+       ATOM   1545 1HB  MET A 103
+       ATOM   1546 2HB  MET A 103
+       ATOM   1547 1HG  MET A 103
+       ATOM   1548 2HG  MET A 103
+       ATOM   1549 1HE  MET A 103
+       ATOM   1550 2HE  MET A 103
+       ATOM   1551 3HE  MET A 103
+       ATOM   1556  H   GLY A 104
+       ATOM   1557 1HA  GLY A 104
+       ATOM   1558 2HA  GLY A 104
+       ATOM   1567  H   ILE A 105
+       ATOM   1568  HA  ILE A 105
+       ATOM   1569  HB  ILE A 105
+       ATOM   1570 1HG1 ILE A 105
+       ATOM   1571 2HG1 ILE A 105
+       ATOM   1572 1HG2 ILE A 105
+       ATOM   1573 2HG2 ILE A 105
+       ATOM   1574 3HG2 ILE A 105
+       ATOM   1575 1HD1 ILE A 105
+       ATOM   1576 2HD1 ILE A 105
+       ATOM   1577 3HD1 ILE A 105
+       ATOM   1586  H   ASN A 106
+       ATOM   1587  HA  ASN A 106
+       ATOM   1588 1HB  ASN A 106
+       ATOM   1589 2HB  ASN A 106
+       ATOM   1590 1HD2 ASN A 106
+       ATOM   1591 2HD2 ASN A 106
+       ATOM   1599  HA  PRO A 107
+       ATOM   1600 1HB  PRO A 107
+       ATOM   1601 2HB  PRO A 107
+       ATOM   1602 1HG  PRO A 107
+       ATOM   1603 2HG  PRO A 107
+       ATOM   1604 1HD  PRO A 107
+       ATOM   1605 2HD  PRO A 107
+       ATOM   1617  H   PHE A 108
+       ATOM   1618  HA  PHE A 108
+       ATOM   1619 1HB  PHE A 108
+       ATOM   1620 2HB  PHE A 108
+       ATOM   1621  HD1 PHE A 108
+       ATOM   1622  HD2 PHE A 108
+       ATOM   1623  HE1 PHE A 108
+       ATOM   1624  HE2 PHE A 108
+       ATOM   1625  HZ  PHE A 108
+       ATOM   1637  H   PHE A 109
+       ATOM   1638  HA  PHE A 109
+       ATOM   1639 1HB  PHE A 109
+       ATOM   1640 2HB  PHE A 109
+       ATOM   1641  HD1 PHE A 109
+       ATOM   1642  HD2 PHE A 109
+       ATOM   1643  HE1 PHE A 109
+       ATOM   1644  HE2 PHE A 109
+       ATOM   1645  HZ  PHE A 109
+       ATOM   1654  H   ASP A 110
+       ATOM   1655  HA  ASP A 110
+       ATOM   1656 1HB  ASP A 110
+       ATOM   1657 2HB  ASP A 110
+       ATOM   1663  H   ALA A 111
+       ATOM   1664  HA  ALA A 111
+       ATOM   1665 1HB  ALA A 111
+       ATOM   1666 2HB  ALA A 111
+       ATOM   1667 3HB  ALA A 111
+       ATOM   1675  HA  PRO A 112
+       ATOM   1676 1HB  PRO A 112
+       ATOM   1677 2HB  PRO A 112
+       ATOM   1678 1HG  PRO A 112
+       ATOM   1679 2HG  PRO A 112
+       ATOM   1680 1HD  PRO A 112
+       ATOM   1681 2HD  PRO A 112
+       ATOM   1694  H   TYR A 113
+       ATOM   1695  HA  TYR A 113
+       ATOM   1696 1HB  TYR A 113
+       ATOM   1697 2HB  TYR A 113
+       ATOM   1698  HD1 TYR A 113
+       ATOM   1699  HD2 TYR A 113
+       ATOM   1700  HE1 TYR A 113
+       ATOM   1701  HE2 TYR A 113
+       ATOM   1702  HH  TYR A 113
+       ATOM   1708  H   ALA A 114
+       ATOM   1709  HA  ALA A 114
+       ATOM   1710 1HB  ALA A 114
+       ATOM   1711 2HB  ALA A 114
+       ATOM   1712 3HB  ALA A 114
+       ATOM   1721  H   ASP A 115
+       ATOM   1722  HA  ASP A 115
+       ATOM   1723 1HB  ASP A 115
+       ATOM   1724 2HB  ASP A 115
+       ATOM   1732  H   VAL A 116
+       ATOM   1733  HA  VAL A 116
+       ATOM   1734  HB  VAL A 116
+       ATOM   1735 1HG1 VAL A 116
+       ATOM   1736 2HG1 VAL A 116
+       ATOM   1737 3HG1 VAL A 116
+       ATOM   1738 1HG2 VAL A 116
+       ATOM   1739 2HG2 VAL A 116
+       ATOM   1740 3HG2 VAL A 116
+       ATOM   1747  H   SER A 117
+       ATOM   1748  HA  SER A 117
+       ATOM   1749 1HB  SER A 117
+       ATOM   1750 2HB  SER A 117
+       ATOM   1751  HG  SER A 117
+       ATOM   1761  H   LYS A 118
+       ATOM   1762  HA  LYS A 118
+       ATOM   1763 1HB  LYS A 118
+       ATOM   1764 2HB  LYS A 118
+       ATOM   1765 1HG  LYS A 118
+       ATOM   1766 2HG  LYS A 118
+       ATOM   1767 1HD  LYS A 118
+       ATOM   1768 2HD  LYS A 118
+       ATOM   1769 1HE  LYS A 118
+       ATOM   1770 2HE  LYS A 118
+       ATOM   1771 1HZ  LYS A 118
+       ATOM   1772 2HZ  LYS A 118
+       ATOM   1773 3HZ  LYS A 118
+       ATOM   1778  H   GLY A 119
+       ATOM   1779 1HA  GLY A 119
+       ATOM   1780 2HA  GLY A 119
+       ATOM   1789  H   ILE A 120
+       ATOM   1790  HA  ILE A 120
+       ATOM   1791  HB  ILE A 120
+       ATOM   1792 1HG1 ILE A 120
+       ATOM   1793 2HG1 ILE A 120
+       ATOM   1794 1HG2 ILE A 120
+       ATOM   1795 2HG2 ILE A 120
+       ATOM   1796 3HG2 ILE A 120
+       ATOM   1797 1HD1 ILE A 120
+       ATOM   1798 2HD1 ILE A 120
+       ATOM   1799 3HD1 ILE A 120
+       ATOM   1810  H   HIS A 121
+       ATOM   1811  HA  HIS A 121
+       ATOM   1812 1HB  HIS A 121
+       ATOM   1813 2HB  HIS A 121
+       ATOM   1814  HD2 HIS A 121
+       ATOM   1815  HE1 HIS A 121
+       ATOM   1816  HE2 HIS A 121
+       ATOM   1825  H   ILE A 122
+       ATOM   1826  HA  ILE A 122
+       ATOM   1827  HB  ILE A 122
+       ATOM   1828 1HG1 ILE A 122
+       ATOM   1829 2HG1 ILE A 122
+       ATOM   1830 1HG2 ILE A 122
+       ATOM   1831 2HG2 ILE A 122
+       ATOM   1832 3HG2 ILE A 122
+       ATOM   1833 1HD1 ILE A 122
+       ATOM   1834 2HD1 ILE A 122
+       ATOM   1835 3HD1 ILE A 122
+       ATOM   1842  H   SER A 123
+       ATOM   1843  HA  SER A 123
+       ATOM   1844 1HB  SER A 123
+       ATOM   1845 2HB  SER A 123
+       ATOM   1846  HG  SER A 123
+       ATOM   1852  H   ALA A 124
+       ATOM   1853  HA  ALA A 124
+       ATOM   1854 1HB  ALA A 124
+       ATOM   1855 2HB  ALA A 124
+       ATOM   1856 3HB  ALA A 124
+       ATOM   1869  H   TYR A 125
+       ATOM   1870  HA  TYR A 125
+       ATOM   1871 1HB  TYR A 125
+       ATOM   1872 2HB  TYR A 125
+       ATOM   1873  HD1 TYR A 125
+       ATOM   1874  HD2 TYR A 125
+       ATOM   1875  HE1 TYR A 125
+       ATOM   1876  HE2 TYR A 125
+       ATOM   1877  HH  TYR A 125
+       ATOM   1884  H   SER A 126
+       ATOM   1885  HA  SER A 126
+       ATOM   1886 1HB  SER A 126
+       ATOM   1887 2HB  SER A 126
+       ATOM   1888  HG  SER A 126
+       ATOM   1901  H   TYR A 127
+       ATOM   1902  HA  TYR A 127
+       ATOM   1903 1HB  TYR A 127
+       ATOM   1904 2HB  TYR A 127
+       ATOM   1905  HD1 TYR A 127
+       ATOM   1906  HD2 TYR A 127
+       ATOM   1907  HE1 TYR A 127
+       ATOM   1908  HE2 TYR A 127
+       ATOM   1909  HH  TYR A 127
+       ATOM   1915  H   ALA A 128
+       ATOM   1916  HA  ALA A 128
+       ATOM   1917 1HB  ALA A 128
+       ATOM   1918 2HB  ALA A 128
+       ATOM   1919 3HB  ALA A 128
+       ATOM   1926  H   SER A 129
+       ATOM   1927  HA  SER A 129
+       ATOM   1928 1HB  SER A 129
+       ATOM   1929 2HB  SER A 129
+       ATOM   1930  HG  SER A 129
+       ATOM   1939  H   MET A 130
+       ATOM   1940  HA  MET A 130
+       ATOM   1941 1HB  MET A 130
+       ATOM   1942 2HB  MET A 130
+       ATOM   1943 1HG  MET A 130
+       ATOM   1944 2HG  MET A 130
+       ATOM   1945 1HE  MET A 130
+       ATOM   1946 2HE  MET A 130
+       ATOM   1947 3HE  MET A 130
+       ATOM   1953  H   ALA A 131
+       ATOM   1954  HA  ALA A 131
+       ATOM   1955 1HB  ALA A 131
+       ATOM   1956 2HB  ALA A 131
+       ATOM   1957 3HB  ALA A 131
+       ATOM   1967  H   LYS A 132
+       ATOM   1968  HA  LYS A 132
+       ATOM   1969 1HB  LYS A 132
+       ATOM   1970 2HB  LYS A 132
+       ATOM   1971 1HG  LYS A 132
+       ATOM   1972 2HG  LYS A 132
+       ATOM   1973 1HD  LYS A 132
+       ATOM   1974 2HD  LYS A 132
+       ATOM   1975 1HE  LYS A 132
+       ATOM   1976 2HE  LYS A 132
+       ATOM   1977 1HZ  LYS A 132
+       ATOM   1978 2HZ  LYS A 132
+       ATOM   1979 3HZ  LYS A 132
+       ATOM   1985  H   ALA A 133
+       ATOM   1986  HA  ALA A 133
+       ATOM   1987 1HB  ALA A 133
+       ATOM   1988 2HB  ALA A 133
+       ATOM   1989 3HB  ALA A 133
+       ATOM   1998  H   LEU A 134
+       ATOM   1999  HA  LEU A 134
+       ATOM   2000 1HB  LEU A 134
+       ATOM   2001 2HB  LEU A 134
+       ATOM   2002  HG  LEU A 134
+       ATOM   2003 1HD1 LEU A 134
+       ATOM   2004 2HD1 LEU A 134
+       ATOM   2005 3HD1 LEU A 134
+       ATOM   2006 1HD2 LEU A 134
+       ATOM   2007 2HD2 LEU A 134
+       ATOM   2008 3HD2 LEU A 134
+       ATOM   2017  H   LEU A 135
+       ATOM   2018  HA  LEU A 135
+       ATOM   2019 1HB  LEU A 135
+       ATOM   2020 2HB  LEU A 135
+       ATOM   2021  HG  LEU A 135
+       ATOM   2022 1HD1 LEU A 135
+       ATOM   2023 2HD1 LEU A 135
+       ATOM   2024 3HD1 LEU A 135
+       ATOM   2025 1HD2 LEU A 135
+       ATOM   2026 2HD2 LEU A 135
+       ATOM   2027 3HD2 LEU A 135
+       ATOM   2035  HA  PRO A 136
+       ATOM   2036 1HB  PRO A 136
+       ATOM   2037 2HB  PRO A 136
+       ATOM   2038 1HG  PRO A 136
+       ATOM   2039 2HG  PRO A 136
+       ATOM   2040 1HD  PRO A 136
+       ATOM   2041 2HD  PRO A 136
+       ATOM   2050  H   ILE A 137
+       ATOM   2051  HA  ILE A 137
+       ATOM   2052  HB  ILE A 137
+       ATOM   2053 1HG1 ILE A 137
+       ATOM   2054 2HG1 ILE A 137
+       ATOM   2055 1HG2 ILE A 137
+       ATOM   2056 2HG2 ILE A 137
+       ATOM   2057 3HG2 ILE A 137
+       ATOM   2058 1HD1 ILE A 137
+       ATOM   2059 2HD1 ILE A 137
+       ATOM   2060 3HD1 ILE A 137
+       ATOM   2069  H   MET A 138
+       ATOM   2070  HA  MET A 138
+       ATOM   2071 1HB  MET A 138
+       ATOM   2072 2HB  MET A 138
+       ATOM   2073 1HG  MET A 138
+       ATOM   2074 2HG  MET A 138
+       ATOM   2075 1HE  MET A 138
+       ATOM   2076 2HE  MET A 138
+       ATOM   2077 3HE  MET A 138
+       ATOM   2086  H   ASN A 139
+       ATOM   2087  HA  ASN A 139
+       ATOM   2088 1HB  ASN A 139
+       ATOM   2089 2HB  ASN A 139
+       ATOM   2090 1HD2 ASN A 139
+       ATOM   2091 2HD2 ASN A 139
+       ATOM   2099  HA  PRO A 140
+       ATOM   2100 1HB  PRO A 140
+       ATOM   2101 2HB  PRO A 140
+       ATOM   2102 1HG  PRO A 140
+       ATOM   2103 2HG  PRO A 140
+       ATOM   2104 1HD  PRO A 140
+       ATOM   2105 2HD  PRO A 140
+       ATOM   2110  H   GLY A 141
+       ATOM   2111 1HA  GLY A 141
+       ATOM   2112 2HA  GLY A 141
+       ATOM   2117  H   GLY A 142
+       ATOM   2118 1HA  GLY A 142
+       ATOM   2119 2HA  GLY A 142
+       ATOM   2126  H   SER A 143
+       ATOM   2127  HA  SER A 143
+       ATOM   2128 1HB  SER A 143
+       ATOM   2129 2HB  SER A 143
+       ATOM   2130  HG  SER A 143
+       ATOM   2139  H   ILE A 144
+       ATOM   2140  HA  ILE A 144
+       ATOM   2141  HB  ILE A 144
+       ATOM   2142 1HG1 ILE A 144
+       ATOM   2143 2HG1 ILE A 144
+       ATOM   2144 1HG2 ILE A 144
+       ATOM   2145 2HG2 ILE A 144
+       ATOM   2146 3HG2 ILE A 144
+       ATOM   2147 1HD1 ILE A 144
+       ATOM   2148 2HD1 ILE A 144
+       ATOM   2149 3HD1 ILE A 144
+       ATOM   2157  H   VAL A 145
+       ATOM   2158  HA  VAL A 145
+       ATOM   2159  HB  VAL A 145
+       ATOM   2160 1HG1 VAL A 145
+       ATOM   2161 2HG1 VAL A 145
+       ATOM   2162 3HG1 VAL A 145
+       ATOM   2163 1HG2 VAL A 145
+       ATOM   2164 2HG2 VAL A 145
+       ATOM   2165 3HG2 VAL A 145
+       ATOM   2170  H   GLY A 146
+       ATOM   2171 1HA  GLY A 146
+       ATOM   2172 2HA  GLY A 146
+       ATOM   2181  H   MET A 147
+       ATOM   2182  HA  MET A 147
+       ATOM   2183 1HB  MET A 147
+       ATOM   2184 2HB  MET A 147
+       ATOM   2185 1HG  MET A 147
+       ATOM   2186 2HG  MET A 147
+       ATOM   2187 1HE  MET A 147
+       ATOM   2188 2HE  MET A 147
+       ATOM   2189 3HE  MET A 147
+       ATOM   2198  H   ASP A 148
+       ATOM   2199  HA  ASP A 148
+       ATOM   2200 1HB  ASP A 148
+       ATOM   2201 2HB  ASP A 148
+       ATOM   2213  H   PHE A 149
+       ATOM   2214  HA  PHE A 149
+       ATOM   2215 1HB  PHE A 149
+       ATOM   2216 2HB  PHE A 149
+       ATOM   2217  HD1 PHE A 149
+       ATOM   2218  HD2 PHE A 149
+       ATOM   2219  HE1 PHE A 149
+       ATOM   2220  HE2 PHE A 149
+       ATOM   2221  HZ  PHE A 149
+       ATOM   2230  H   ASP A 150
+       ATOM   2231  HA  ASP A 150
+       ATOM   2232 1HB  ASP A 150
+       ATOM   2233 2HB  ASP A 150
+       ATOM   2241  HA  PRO A 151
+       ATOM   2242 1HB  PRO A 151
+       ATOM   2243 2HB  PRO A 151
+       ATOM   2244 1HG  PRO A 151
+       ATOM   2245 2HG  PRO A 151
+       ATOM   2246 1HD  PRO A 151
+       ATOM   2247 2HD  PRO A 151
+       ATOM   2254  H   SER A 152
+       ATOM   2255  HA  SER A 152
+       ATOM   2256 1HB  SER A 152
+       ATOM   2257 2HB  SER A 152
+       ATOM   2258  HG  SER A 152
+       ATOM   2270  H   ARG A 153
+       ATOM   2271  HA  ARG A 153
+       ATOM   2272 1HB  ARG A 153
+       ATOM   2273 2HB  ARG A 153
+       ATOM   2274 1HG  ARG A 153
+       ATOM   2275 2HG  ARG A 153
+       ATOM   2276 1HD  ARG A 153
+       ATOM   2277 2HD  ARG A 153
+       ATOM   2278  HE  ARG A 153
+       ATOM   2279 1HH1 ARG A 153
+       ATOM   2280 2HH1 ARG A 153
+       ATOM   2281 1HH2 ARG A 153
+       ATOM   2282 2HH2 ARG A 153
+       ATOM   2288  H   ALA A 154
+       ATOM   2289  HA  ALA A 154
+       ATOM   2290 1HB  ALA A 154
+       ATOM   2291 2HB  ALA A 154
+       ATOM   2292 3HB  ALA A 154
+       ATOM   2301  H   MET A 155
+       ATOM   2302  HA  MET A 155
+       ATOM   2303 1HB  MET A 155
+       ATOM   2304 2HB  MET A 155
+       ATOM   2305 1HG  MET A 155
+       ATOM   2306 2HG  MET A 155
+       ATOM   2307 1HE  MET A 155
+       ATOM   2308 2HE  MET A 155
+       ATOM   2309 3HE  MET A 155
+       ATOM   2317  HA  PRO A 156
+       ATOM   2318 1HB  PRO A 156
+       ATOM   2319 2HB  PRO A 156
+       ATOM   2320 1HG  PRO A 156
+       ATOM   2321 2HG  PRO A 156
+       ATOM   2322 1HD  PRO A 156
+       ATOM   2323 2HD  PRO A 156
+       ATOM   2329  H   ALA A 157
+       ATOM   2330  HA  ALA A 157
+       ATOM   2331 1HB  ALA A 157
+       ATOM   2332 2HB  ALA A 157
+       ATOM   2333 3HB  ALA A 157
+       ATOM   2346  H   TYR A 158
+       ATOM   2347  HA  TYR A 158
+       ATOM   2348 1HB  TYR A 158
+       ATOM   2349 2HB  TYR A 158
+       ATOM   2350  HD1 TYR A 158
+       ATOM   2351  HD2 TYR A 158
+       ATOM   2352  HE1 TYR A 158
+       ATOM   2353  HE2 TYR A 158
+       ATOM   2354  HH  TYR A 158
+       ATOM   2363  H   ASN A 159
+       ATOM   2364  HA  ASN A 159
+       ATOM   2365 1HB  ASN A 159
+       ATOM   2366 2HB  ASN A 159
+       ATOM   2367 1HD2 ASN A 159
+       ATOM   2368 2HD2 ASN A 159
+       ATOM   2383  H   TRP A 160
+       ATOM   2384  HA  TRP A 160
+       ATOM   2385 1HB  TRP A 160
+       ATOM   2386 2HB  TRP A 160
+       ATOM   2387  HD1 TRP A 160
+       ATOM   2388  HE1 TRP A 160
+       ATOM   2389  HE3 TRP A 160
+       ATOM   2390  HZ2 TRP A 160
+       ATOM   2391  HZ3 TRP A 160
+       ATOM   2392  HH2 TRP A 160
+       ATOM   2401  H   MET A 161
+       ATOM   2402  HA  MET A 161
+       ATOM   2403 1HB  MET A 161
+       ATOM   2404 2HB  MET A 161
+       ATOM   2405 1HG  MET A 161
+       ATOM   2406 2HG  MET A 161
+       ATOM   2407 1HE  MET A 161
+       ATOM   2408 2HE  MET A 161
+       ATOM   2409 3HE  MET A 161
+       ATOM   2417  H   THR A 162
+       ATOM   2418  HA  THR A 162
+       ATOM   2419  HB  THR A 162
+       ATOM   2420  HG1 THR A 162
+       ATOM   2421 1HG2 THR A 162
+       ATOM   2422 2HG2 THR A 162
+       ATOM   2423 3HG2 THR A 162
+       ATOM   2431  H   VAL A 163
+       ATOM   2432  HA  VAL A 163
+       ATOM   2433  HB  VAL A 163
+       ATOM   2434 1HG1 VAL A 163
+       ATOM   2435 2HG1 VAL A 163
+       ATOM   2436 3HG1 VAL A 163
+       ATOM   2437 1HG2 VAL A 163
+       ATOM   2438 2HG2 VAL A 163
+       ATOM   2439 3HG2 VAL A 163
+       ATOM   2445  H   ALA A 164
+       ATOM   2446  HA  ALA A 164
+       ATOM   2447 1HB  ALA A 164
+       ATOM   2448 2HB  ALA A 164
+       ATOM   2449 3HB  ALA A 164
+       ATOM   2459  H   LYS A 165
+       ATOM   2460  HA  LYS A 165
+       ATOM   2461 1HB  LYS A 165
+       ATOM   2462 2HB  LYS A 165
+       ATOM   2463 1HG  LYS A 165
+       ATOM   2464 2HG  LYS A 165
+       ATOM   2465 1HD  LYS A 165
+       ATOM   2466 2HD  LYS A 165
+       ATOM   2467 1HE  LYS A 165
+       ATOM   2468 2HE  LYS A 165
+       ATOM   2469 1HZ  LYS A 165
+       ATOM   2470 2HZ  LYS A 165
+       ATOM   2471 3HZ  LYS A 165
+       ATOM   2478  H   SER A 166
+       ATOM   2479  HA  SER A 166
+       ATOM   2480 1HB  SER A 166
+       ATOM   2481 2HB  SER A 166
+       ATOM   2482  HG  SER A 166
+       ATOM   2488  H   ALA A 167
+       ATOM   2489  HA  ALA A 167
+       ATOM   2490 1HB  ALA A 167
+       ATOM   2491 2HB  ALA A 167
+       ATOM   2492 3HB  ALA A 167
+       ATOM   2501  H   LEU A 168
+       ATOM   2502  HA  LEU A 168
+       ATOM   2503 1HB  LEU A 168
+       ATOM   2504 2HB  LEU A 168
+       ATOM   2505  HG  LEU A 168
+       ATOM   2506 1HD1 LEU A 168
+       ATOM   2507 2HD1 LEU A 168
+       ATOM   2508 3HD1 LEU A 168
+       ATOM   2509 1HD2 LEU A 168
+       ATOM   2510 2HD2 LEU A 168
+       ATOM   2511 3HD2 LEU A 168
+       ATOM   2521  H   GLU A 169
+       ATOM   2522  HA  GLU A 169
+       ATOM   2523 1HB  GLU A 169
+       ATOM   2524 2HB  GLU A 169
+       ATOM   2525 1HG  GLU A 169
+       ATOM   2526 2HG  GLU A 169
+       ATOM   2533  H   SER A 170
+       ATOM   2534  HA  SER A 170
+       ATOM   2535 1HB  SER A 170
+       ATOM   2536 2HB  SER A 170
+       ATOM   2537  HG  SER A 170
+       ATOM   2545  H   VAL A 171
+       ATOM   2546  HA  VAL A 171
+       ATOM   2547  HB  VAL A 171
+       ATOM   2548 1HG1 VAL A 171
+       ATOM   2549 2HG1 VAL A 171
+       ATOM   2550 3HG1 VAL A 171
+       ATOM   2551 1HG2 VAL A 171
+       ATOM   2552 2HG2 VAL A 171
+       ATOM   2553 3HG2 VAL A 171
+       ATOM   2562  H   ASN A 172
+       ATOM   2563  HA  ASN A 172
+       ATOM   2564 1HB  ASN A 172
+       ATOM   2565 2HB  ASN A 172
+       ATOM   2566 1HD2 ASN A 172
+       ATOM   2567 2HD2 ASN A 172
+       ATOM   2579  H   ARG A 173
+       ATOM   2580  HA  ARG A 173
+       ATOM   2581 1HB  ARG A 173
+       ATOM   2582 2HB  ARG A 173
+       ATOM   2583 1HG  ARG A 173
+       ATOM   2584 2HG  ARG A 173
+       ATOM   2585 1HD  ARG A 173
+       ATOM   2586 2HD  ARG A 173
+       ATOM   2587  HE  ARG A 173
+       ATOM   2588 1HH1 ARG A 173
+       ATOM   2589 2HH1 ARG A 173
+       ATOM   2590 1HH2 ARG A 173
+       ATOM   2591 2HH2 ARG A 173
+       ATOM   2603  H   PHE A 174
+       ATOM   2604  HA  PHE A 174
+       ATOM   2605 1HB  PHE A 174
+       ATOM   2606 2HB  PHE A 174
+       ATOM   2607  HD1 PHE A 174
+       ATOM   2608  HD2 PHE A 174
+       ATOM   2609  HE1 PHE A 174
+       ATOM   2610  HE2 PHE A 174
+       ATOM   2611  HZ  PHE A 174
+       ATOM   2619  H   VAL A 175
+       ATOM   2620  HA  VAL A 175
+       ATOM   2621  HB  VAL A 175
+       ATOM   2622 1HG1 VAL A 175
+       ATOM   2623 2HG1 VAL A 175
+       ATOM   2624 3HG1 VAL A 175
+       ATOM   2625 1HG2 VAL A 175
+       ATOM   2626 2HG2 VAL A 175
+       ATOM   2627 3HG2 VAL A 175
+       ATOM   2633  H   ALA A 176
+       ATOM   2634  HA  ALA A 176
+       ATOM   2635 1HB  ALA A 176
+       ATOM   2636 2HB  ALA A 176
+       ATOM   2637 3HB  ALA A 176
+       ATOM   2649  H   ARG A 177
+       ATOM   2650  HA  ARG A 177
+       ATOM   2651 1HB  ARG A 177
+       ATOM   2652 2HB  ARG A 177
+       ATOM   2653 1HG  ARG A 177
+       ATOM   2654 2HG  ARG A 177
+       ATOM   2655 1HD  ARG A 177
+       ATOM   2656 2HD  ARG A 177
+       ATOM   2657  HE  ARG A 177
+       ATOM   2658 1HH1 ARG A 177
+       ATOM   2659 2HH1 ARG A 177
+       ATOM   2660 1HH2 ARG A 177
+       ATOM   2661 2HH2 ARG A 177
+       ATOM   2671  H   GLU A 178
+       ATOM   2672  HA  GLU A 178
+       ATOM   2673 1HB  GLU A 178
+       ATOM   2674 2HB  GLU A 178
+       ATOM   2675 1HG  GLU A 178
+       ATOM   2676 2HG  GLU A 178
+       ATOM   2682  H   ALA A 179
+       ATOM   2683  HA  ALA A 179
+       ATOM   2684 1HB  ALA A 179
+       ATOM   2685 2HB  ALA A 179
+       ATOM   2686 3HB  ALA A 179
+       ATOM   2691  H   GLY A 180
+       ATOM   2692 1HA  GLY A 180
+       ATOM   2693 2HA  GLY A 180
+       ATOM   2703  H   LYS A 181
+       ATOM   2704  HA  LYS A 181
+       ATOM   2705 1HB  LYS A 181
+       ATOM   2706 2HB  LYS A 181
+       ATOM   2707 1HG  LYS A 181
+       ATOM   2708 2HG  LYS A 181
+       ATOM   2709 1HD  LYS A 181
+       ATOM   2710 2HD  LYS A 181
+       ATOM   2711 1HE  LYS A 181
+       ATOM   2712 2HE  LYS A 181
+       ATOM   2713 1HZ  LYS A 181
+       ATOM   2714 2HZ  LYS A 181
+       ATOM   2715 3HZ  LYS A 181
+       ATOM   2728  H   TYR A 182
+       ATOM   2729  HA  TYR A 182
+       ATOM   2730 1HB  TYR A 182
+       ATOM   2731 2HB  TYR A 182
+       ATOM   2732  HD1 TYR A 182
+       ATOM   2733  HD2 TYR A 182
+       ATOM   2734  HE1 TYR A 182
+       ATOM   2735  HE2 TYR A 182
+       ATOM   2736  HH  TYR A 182
+       ATOM   2741  H   GLY A 183
+       ATOM   2742 1HA  GLY A 183
+       ATOM   2743 2HA  GLY A 183
+       ATOM   2751  H   VAL A 184
+       ATOM   2752  HA  VAL A 184
+       ATOM   2753  HB  VAL A 184
+       ATOM   2754 1HG1 VAL A 184
+       ATOM   2755 2HG1 VAL A 184
+       ATOM   2756 3HG1 VAL A 184
+       ATOM   2757 1HG2 VAL A 184
+       ATOM   2758 2HG2 VAL A 184
+       ATOM   2759 3HG2 VAL A 184
+       ATOM   2771  H   ARG A 185
+       ATOM   2772  HA  ARG A 185
+       ATOM   2773 1HB  ARG A 185
+       ATOM   2774 2HB  ARG A 185
+       ATOM   2775 1HG  ARG A 185
+       ATOM   2776 2HG  ARG A 185
+       ATOM   2777 1HD  ARG A 185
+       ATOM   2778 2HD  ARG A 185
+       ATOM   2779  HE  ARG A 185
+       ATOM   2780 1HH1 ARG A 185
+       ATOM   2781 2HH1 ARG A 185
+       ATOM   2782 1HH2 ARG A 185
+       ATOM   2783 2HH2 ARG A 185
+       ATOM   2790  H   SER A 186
+       ATOM   2791  HA  SER A 186
+       ATOM   2792 1HB  SER A 186
+       ATOM   2793 2HB  SER A 186
+       ATOM   2794  HG  SER A 186
+       ATOM   2803  H   ASN A 187
+       ATOM   2804  HA  ASN A 187
+       ATOM   2805 1HB  ASN A 187
+       ATOM   2806 2HB  ASN A 187
+       ATOM   2807 1HD2 ASN A 187
+       ATOM   2808 2HD2 ASN A 187
+       ATOM   2817  H   LEU A 188
+       ATOM   2818  HA  LEU A 188
+       ATOM   2819 1HB  LEU A 188
+       ATOM   2820 2HB  LEU A 188
+       ATOM   2821  HG  LEU A 188
+       ATOM   2822 1HD1 LEU A 188
+       ATOM   2823 2HD1 LEU A 188
+       ATOM   2824 3HD1 LEU A 188
+       ATOM   2825 1HD2 LEU A 188
+       ATOM   2826 2HD2 LEU A 188
+       ATOM   2827 3HD2 LEU A 188
+       ATOM   2835  H   VAL A 189
+       ATOM   2836  HA  VAL A 189
+       ATOM   2837  HB  VAL A 189
+       ATOM   2838 1HG1 VAL A 189
+       ATOM   2839 2HG1 VAL A 189
+       ATOM   2840 3HG1 VAL A 189
+       ATOM   2841 1HG2 VAL A 189
+       ATOM   2842 2HG2 VAL A 189
+       ATOM   2843 3HG2 VAL A 189
+       ATOM   2849  H   ALA A 190
+       ATOM   2850  HA  ALA A 190
+       ATOM   2851 1HB  ALA A 190
+       ATOM   2852 2HB  ALA A 190
+       ATOM   2853 3HB  ALA A 190
+       ATOM   2859  H   ALA A 191
+       ATOM   2860  HA  ALA A 191
+       ATOM   2861 1HB  ALA A 191
+       ATOM   2862 2HB  ALA A 191
+       ATOM   2863 3HB  ALA A 191
+       ATOM   2868  H   GLY A 192
+       ATOM   2869 1HA  GLY A 192
+       ATOM   2870 2HA  GLY A 192
+       ATOM   2878  HA  PRO A 193
+       ATOM   2879 1HB  PRO A 193
+       ATOM   2880 2HB  PRO A 193
+       ATOM   2881 1HG  PRO A 193
+       ATOM   2882 2HG  PRO A 193
+       ATOM   2883 1HD  PRO A 193
+       ATOM   2884 2HD  PRO A 193
+       ATOM   2893  H   ILE A 194
+       ATOM   2894  HA  ILE A 194
+       ATOM   2895  HB  ILE A 194
+       ATOM   2896 1HG1 ILE A 194
+       ATOM   2897 2HG1 ILE A 194
+       ATOM   2898 1HG2 ILE A 194
+       ATOM   2899 2HG2 ILE A 194
+       ATOM   2900 3HG2 ILE A 194
+       ATOM   2901 1HD1 ILE A 194
+       ATOM   2902 2HD1 ILE A 194
+       ATOM   2903 3HD1 ILE A 194
+       ATOM   2915  H   ARG A 195
+       ATOM   2916  HA  ARG A 195
+       ATOM   2917 1HB  ARG A 195
+       ATOM   2918 2HB  ARG A 195
+       ATOM   2919 1HG  ARG A 195
+       ATOM   2920 2HG  ARG A 195
+       ATOM   2921 1HD  ARG A 195
+       ATOM   2922 2HD  ARG A 195
+       ATOM   2923  HE  ARG A 195
+       ATOM   2924 1HH1 ARG A 195
+       ATOM   2925 2HH1 ARG A 195
+       ATOM   2926 1HH2 ARG A 195
+       ATOM   2927 2HH2 ARG A 195
+       ATOM   2935  H   THR A 196
+       ATOM   2936  HA  THR A 196
+       ATOM   2937  HB  THR A 196
+       ATOM   2938  HG1 THR A 196
+       ATOM   2939 1HG2 THR A 196
+       ATOM   2940 2HG2 THR A 196
+       ATOM   2941 3HG2 THR A 196
+       ATOM   2950  H   LEU A 197
+       ATOM   2951  HA  LEU A 197
+       ATOM   2952 1HB  LEU A 197
+       ATOM   2953 2HB  LEU A 197
+       ATOM   2954  HG  LEU A 197
+       ATOM   2955 1HD1 LEU A 197
+       ATOM   2956 2HD1 LEU A 197
+       ATOM   2957 3HD1 LEU A 197
+       ATOM   2958 1HD2 LEU A 197
+       ATOM   2959 2HD2 LEU A 197
+       ATOM   2960 3HD2 LEU A 197
+       ATOM   2966  H   ALA A 198
+       ATOM   2967  HA  ALA A 198
+       ATOM   2968 1HB  ALA A 198
+       ATOM   2969 2HB  ALA A 198
+       ATOM   2970 3HB  ALA A 198
+       ATOM   2979  H   MET A 199
+       ATOM   2980  HA  MET A 199
+       ATOM   2981 1HB  MET A 199
+       ATOM   2982 2HB  MET A 199
+       ATOM   2983 1HG  MET A 199
+       ATOM   2984 2HG  MET A 199
+       ATOM   2985 1HE  MET A 199
+       ATOM   2986 2HE  MET A 199
+       ATOM   2987 3HE  MET A 199
+       ATOM   2994  H   SER A 200
+       ATOM   2995  HA  SER A 200
+       ATOM   2996 1HB  SER A 200
+       ATOM   2997 2HB  SER A 200
+       ATOM   2998  HG  SER A 200
+       ATOM   3004  H   ALA A 201
+       ATOM   3005  HA  ALA A 201
+       ATOM   3006 1HB  ALA A 201
+       ATOM   3007 2HB  ALA A 201
+       ATOM   3008 3HB  ALA A 201
+       ATOM   3017  H   ILE A 202
+       ATOM   3018  HA  ILE A 202
+       ATOM   3019  HB  ILE A 202
+       ATOM   3020 1HG1 ILE A 202
+       ATOM   3021 2HG1 ILE A 202
+       ATOM   3022 1HG2 ILE A 202
+       ATOM   3023 2HG2 ILE A 202
+       ATOM   3024 3HG2 ILE A 202
+       ATOM   3025 1HD1 ILE A 202
+       ATOM   3026 2HD1 ILE A 202
+       ATOM   3027 3HD1 ILE A 202
+       ATOM   3035  H   VAL A 203
+       ATOM   3036  HA  VAL A 203
+       ATOM   3037  HB  VAL A 203
+       ATOM   3038 1HG1 VAL A 203
+       ATOM   3039 2HG1 VAL A 203
+       ATOM   3040 3HG1 VAL A 203
+       ATOM   3041 1HG2 VAL A 203
+       ATOM   3042 2HG2 VAL A 203
+       ATOM   3043 3HG2 VAL A 203
+       ATOM   3048  H   GLY A 204
+       ATOM   3049 1HA  GLY A 204
+       ATOM   3050 2HA  GLY A 204
+       ATOM   3055  H   GLY A 205
+       ATOM   3056 1HA  GLY A 205
+       ATOM   3057 2HA  GLY A 205
+       ATOM   3063  H   ALA A 206
+       ATOM   3064  HA  ALA A 206
+       ATOM   3065 1HB  ALA A 206
+       ATOM   3066 2HB  ALA A 206
+       ATOM   3067 3HB  ALA A 206
+       ATOM   3076  H   LEU A 207
+       ATOM   3077  HA  LEU A 207
+       ATOM   3078 1HB  LEU A 207
+       ATOM   3079 2HB  LEU A 207
+       ATOM   3080  HG  LEU A 207
+       ATOM   3081 1HD1 LEU A 207
+       ATOM   3082 2HD1 LEU A 207
+       ATOM   3083 3HD1 LEU A 207
+       ATOM   3084 1HD2 LEU A 207
+       ATOM   3085 2HD2 LEU A 207
+       ATOM   3086 3HD2 LEU A 207
+       ATOM   3091  H   GLY A 208
+       ATOM   3092 1HA  GLY A 208
+       ATOM   3093 2HA  GLY A 208
+       ATOM   3103  H   GLU A 209
+       ATOM   3104  HA  GLU A 209
+       ATOM   3105 1HB  GLU A 209
+       ATOM   3106 2HB  GLU A 209
+       ATOM   3107 1HG  GLU A 209
+       ATOM   3108 2HG  GLU A 209
+       ATOM   3118  H   GLU A 210
+       ATOM   3119  HA  GLU A 210
+       ATOM   3120 1HB  GLU A 210
+       ATOM   3121 2HB  GLU A 210
+       ATOM   3122 1HG  GLU A 210
+       ATOM   3123 2HG  GLU A 210
+       ATOM   3129  H   ALA A 211
+       ATOM   3130  HA  ALA A 211
+       ATOM   3131 1HB  ALA A 211
+       ATOM   3132 2HB  ALA A 211
+       ATOM   3133 3HB  ALA A 211
+       ATOM   3138  H   GLY A 212
+       ATOM   3139 1HA  GLY A 212
+       ATOM   3140 2HA  GLY A 212
+       ATOM   3146  H   ALA A 213
+       ATOM   3147  HA  ALA A 213
+       ATOM   3148 1HB  ALA A 213
+       ATOM   3149 2HB  ALA A 213
+       ATOM   3150 3HB  ALA A 213
+       ATOM   3160  H   GLN A 214
+       ATOM   3161  HA  GLN A 214
+       ATOM   3162 1HB  GLN A 214
+       ATOM   3163 2HB  GLN A 214
+       ATOM   3164 1HG  GLN A 214
+       ATOM   3165 2HG  GLN A 214
+       ATOM   3166 1HE2 GLN A 214
+       ATOM   3167 2HE2 GLN A 214
+       ATOM   3176  H   ILE A 215
+       ATOM   3177  HA  ILE A 215
+       ATOM   3178  HB  ILE A 215
+       ATOM   3179 1HG1 ILE A 215
+       ATOM   3180 2HG1 ILE A 215
+       ATOM   3181 1HG2 ILE A 215
+       ATOM   3182 2HG2 ILE A 215
+       ATOM   3183 3HG2 ILE A 215
+       ATOM   3184 1HD1 ILE A 215
+       ATOM   3185 2HD1 ILE A 215
+       ATOM   3186 3HD1 ILE A 215
+       ATOM   3196  H   GLN A 216
+       ATOM   3197  HA  GLN A 216
+       ATOM   3198 1HB  GLN A 216
+       ATOM   3199 2HB  GLN A 216
+       ATOM   3200 1HG  GLN A 216
+       ATOM   3201 2HG  GLN A 216
+       ATOM   3202 1HE2 GLN A 216
+       ATOM   3203 2HE2 GLN A 216
+       ATOM   3212  H   LEU A 217
+       ATOM   3213  HA  LEU A 217
+       ATOM   3214 1HB  LEU A 217
+       ATOM   3215 2HB  LEU A 217
+       ATOM   3216  HG  LEU A 217
+       ATOM   3217 1HD1 LEU A 217
+       ATOM   3218 2HD1 LEU A 217
+       ATOM   3219 3HD1 LEU A 217
+       ATOM   3220 1HD2 LEU A 217
+       ATOM   3221 2HD2 LEU A 217
+       ATOM   3222 3HD2 LEU A 217
+       ATOM   3231  H   LEU A 218
+       ATOM   3232  HA  LEU A 218
+       ATOM   3233 1HB  LEU A 218
+       ATOM   3234 2HB  LEU A 218
+       ATOM   3235  HG  LEU A 218
+       ATOM   3236 1HD1 LEU A 218
+       ATOM   3237 2HD1 LEU A 218
+       ATOM   3238 3HD1 LEU A 218
+       ATOM   3239 1HD2 LEU A 218
+       ATOM   3240 2HD2 LEU A 218
+       ATOM   3241 3HD2 LEU A 218
+       ATOM   3251  H   GLU A 219
+       ATOM   3252  HA  GLU A 219
+       ATOM   3253 1HB  GLU A 219
+       ATOM   3254 2HB  GLU A 219
+       ATOM   3255 1HG  GLU A 219
+       ATOM   3256 2HG  GLU A 219
+       ATOM   3266  H   GLU A 220
+       ATOM   3267  HA  GLU A 220
+       ATOM   3268 1HB  GLU A 220
+       ATOM   3269 2HB  GLU A 220
+       ATOM   3270 1HG  GLU A 220
+       ATOM   3271 2HG  GLU A 220
+       ATOM   3276  H   GLY A 221
+       ATOM   3277 1HA  GLY A 221
+       ATOM   3278 2HA  GLY A 221
+       ATOM   3293  H   TRP A 222
+       ATOM   3294  HA  TRP A 222
+       ATOM   3295 1HB  TRP A 222
+       ATOM   3296 2HB  TRP A 222
+       ATOM   3297  HD1 TRP A 222
+       ATOM   3298  HE1 TRP A 222
+       ATOM   3299  HE3 TRP A 222
+       ATOM   3300  HZ2 TRP A 222
+       ATOM   3301  HZ3 TRP A 222
+       ATOM   3302  HH2 TRP A 222
+       ATOM   3311  H   ASP A 223
+       ATOM   3312  HA  ASP A 223
+       ATOM   3313 1HB  ASP A 223
+       ATOM   3314 2HB  ASP A 223
+       ATOM   3324  H   GLN A 224
+       ATOM   3325  HA  GLN A 224
+       ATOM   3326 1HB  GLN A 224
+       ATOM   3327 2HB  GLN A 224
+       ATOM   3328 1HG  GLN A 224
+       ATOM   3329 2HG  GLN A 224
+       ATOM   3330 1HE2 GLN A 224
+       ATOM   3331 2HE2 GLN A 224
+       ATOM   3343  H   ARG A 225
+       ATOM   3344  HA  ARG A 225
+       ATOM   3345 1HB  ARG A 225
+       ATOM   3346 2HB  ARG A 225
+       ATOM   3347 1HG  ARG A 225
+       ATOM   3348 2HG  ARG A 225
+       ATOM   3349 1HD  ARG A 225
+       ATOM   3350 2HD  ARG A 225
+       ATOM   3351  HE  ARG A 225
+       ATOM   3352 1HH1 ARG A 225
+       ATOM   3353 2HH1 ARG A 225
+       ATOM   3354 1HH2 ARG A 225
+       ATOM   3355 2HH2 ARG A 225
+       ATOM   3361  H   ALA A 226
+       ATOM   3362  HA  ALA A 226
+       ATOM   3363 1HB  ALA A 226
+       ATOM   3364 2HB  ALA A 226
+       ATOM   3365 3HB  ALA A 226
+       ATOM   3373  HA  PRO A 227
+       ATOM   3374 1HB  PRO A 227
+       ATOM   3375 2HB  PRO A 227
+       ATOM   3376 1HG  PRO A 227
+       ATOM   3377 2HG  PRO A 227
+       ATOM   3378 1HD  PRO A 227
+       ATOM   3379 2HD  PRO A 227
+       ATOM   3388  H   ILE A 228
+       ATOM   3389  HA  ILE A 228
+       ATOM   3390  HB  ILE A 228
+       ATOM   3391 1HG1 ILE A 228
+       ATOM   3392 2HG1 ILE A 228
+       ATOM   3393 1HG2 ILE A 228
+       ATOM   3394 2HG2 ILE A 228
+       ATOM   3395 3HG2 ILE A 228
+       ATOM   3396 1HD1 ILE A 228
+       ATOM   3397 2HD1 ILE A 228
+       ATOM   3398 3HD1 ILE A 228
+       ATOM   3403  H   GLY A 229
+       ATOM   3404 1HA  GLY A 229
+       ATOM   3405 2HA  GLY A 229
+       ATOM   3420  H   TRP A 230
+       ATOM   3421  HA  TRP A 230
+       ATOM   3422 1HB  TRP A 230
+       ATOM   3423 2HB  TRP A 230
+       ATOM   3424  HD1 TRP A 230
+       ATOM   3425  HE1 TRP A 230
+       ATOM   3426  HE3 TRP A 230
+       ATOM   3427  HZ2 TRP A 230
+       ATOM   3428  HZ3 TRP A 230
+       ATOM   3429  HH2 TRP A 230
+       ATOM   3438  H   ASN A 231
+       ATOM   3439  HA  ASN A 231
+       ATOM   3440 1HB  ASN A 231
+       ATOM   3441 2HB  ASN A 231
+       ATOM   3442 1HD2 ASN A 231
+       ATOM   3443 2HD2 ASN A 231
+       ATOM   3452  H   MET A 232
+       ATOM   3453  HA  MET A 232
+       ATOM   3454 1HB  MET A 232
+       ATOM   3455 2HB  MET A 232
+       ATOM   3456 1HG  MET A 232
+       ATOM   3457 2HG  MET A 232
+       ATOM   3458 1HE  MET A 232
+       ATOM   3459 2HE  MET A 232
+       ATOM   3460 3HE  MET A 232
+       ATOM   3470  H   LYS A 233
+       ATOM   3471  HA  LYS A 233
+       ATOM   3472 1HB  LYS A 233
+       ATOM   3473 2HB  LYS A 233
+       ATOM   3474 1HG  LYS A 233
+       ATOM   3475 2HG  LYS A 233
+       ATOM   3476 1HD  LYS A 233
+       ATOM   3477 2HD  LYS A 233
+       ATOM   3478 1HE  LYS A 233
+       ATOM   3479 2HE  LYS A 233
+       ATOM   3480 1HZ  LYS A 233
+       ATOM   3481 2HZ  LYS A 233
+       ATOM   3482 3HZ  LYS A 233
+       ATOM   3491  H   ASP A 234
+       ATOM   3492  HA  ASP A 234
+       ATOM   3493 1HB  ASP A 234
+       ATOM   3494 2HB  ASP A 234
+       ATOM   3500  H   ALA A 235
+       ATOM   3501  HA  ALA A 235
+       ATOM   3502 1HB  ALA A 235
+       ATOM   3503 2HB  ALA A 235
+       ATOM   3504 3HB  ALA A 235
+       ATOM   3512  H   THR A 236
+       ATOM   3513  HA  THR A 236
+       ATOM   3514  HB  THR A 236
+       ATOM   3515  HG1 THR A 236
+       ATOM   3516 1HG2 THR A 236
+       ATOM   3517 2HG2 THR A 236
+       ATOM   3518 3HG2 THR A 236
+       ATOM   3526  HA  PRO A 237
+       ATOM   3527 1HB  PRO A 237
+       ATOM   3528 2HB  PRO A 237
+       ATOM   3529 1HG  PRO A 237
+       ATOM   3530 2HG  PRO A 237
+       ATOM   3531 1HD  PRO A 237
+       ATOM   3532 2HD  PRO A 237
+       ATOM   3540  H   VAL A 238
+       ATOM   3541  HA  VAL A 238
+       ATOM   3542  HB  VAL A 238
+       ATOM   3543 1HG1 VAL A 238
+       ATOM   3544 2HG1 VAL A 238
+       ATOM   3545 3HG1 VAL A 238
+       ATOM   3546 1HG2 VAL A 238
+       ATOM   3547 2HG2 VAL A 238
+       ATOM   3548 3HG2 VAL A 238
+       ATOM   3554  H   ALA A 239
+       ATOM   3555  HA  ALA A 239
+       ATOM   3556 1HB  ALA A 239
+       ATOM   3557 2HB  ALA A 239
+       ATOM   3558 3HB  ALA A 239
+       ATOM   3568  H   LYS A 240
+       ATOM   3569  HA  LYS A 240
+       ATOM   3570 1HB  LYS A 240
+       ATOM   3571 2HB  LYS A 240
+       ATOM   3572 1HG  LYS A 240
+       ATOM   3573 2HG  LYS A 240
+       ATOM   3574 1HD  LYS A 240
+       ATOM   3575 2HD  LYS A 240
+       ATOM   3576 1HE  LYS A 240
+       ATOM   3577 2HE  LYS A 240
+       ATOM   3578 1HZ  LYS A 240
+       ATOM   3579 2HZ  LYS A 240
+       ATOM   3580 3HZ  LYS A 240
+       ATOM   3588  H   THR A 241
+       ATOM   3589  HA  THR A 241
+       ATOM   3590  HB  THR A 241
+       ATOM   3591  HG1 THR A 241
+       ATOM   3592 1HG2 THR A 241
+       ATOM   3593 2HG2 THR A 241
+       ATOM   3594 3HG2 THR A 241
+       ATOM   3602  H   VAL A 242
+       ATOM   3603  HA  VAL A 242
+       ATOM   3604  HB  VAL A 242
+       ATOM   3605 1HG1 VAL A 242
+       ATOM   3606 2HG1 VAL A 242
+       ATOM   3607 3HG1 VAL A 242
+       ATOM   3608 1HG2 VAL A 242
+       ATOM   3609 2HG2 VAL A 242
+       ATOM   3610 3HG2 VAL A 242
+       ATOM   3617  H   CYS A 243
+       ATOM   3618  HA  CYS A 243
+       ATOM   3619 1HB  CYS A 243
+       ATOM   3620 2HB  CYS A 243
+       ATOM   3621  HG  CYS A 243
+       ATOM   3627  H   ALA A 244
+       ATOM   3628  HA  ALA A 244
+       ATOM   3629 1HB  ALA A 244
+       ATOM   3630 2HB  ALA A 244
+       ATOM   3631 3HB  ALA A 244
+       ATOM   3640  H   LEU A 245
+       ATOM   3641  HA  LEU A 245
+       ATOM   3642 1HB  LEU A 245
+       ATOM   3643 2HB  LEU A 245
+       ATOM   3644  HG  LEU A 245
+       ATOM   3645 1HD1 LEU A 245
+       ATOM   3646 2HD1 LEU A 245
+       ATOM   3647 3HD1 LEU A 245
+       ATOM   3648 1HD2 LEU A 245
+       ATOM   3649 2HD2 LEU A 245
+       ATOM   3650 3HD2 LEU A 245
+       ATOM   3659  H   LEU A 246
+       ATOM   3660  HA  LEU A 246
+       ATOM   3661 1HB  LEU A 246
+       ATOM   3662 2HB  LEU A 246
+       ATOM   3663  HG  LEU A 246
+       ATOM   3664 1HD1 LEU A 246
+       ATOM   3665 2HD1 LEU A 246
+       ATOM   3666 3HD1 LEU A 246
+       ATOM   3667 1HD2 LEU A 246
+       ATOM   3668 2HD2 LEU A 246
+       ATOM   3669 3HD2 LEU A 246
+       ATOM   3676  H   SER A 247
+       ATOM   3677  HA  SER A 247
+       ATOM   3678 1HB  SER A 247
+       ATOM   3679 2HB  SER A 247
+       ATOM   3680  HG  SER A 247
+       ATOM   3689  H   ASP A 248
+       ATOM   3690  HA  ASP A 248
+       ATOM   3691 1HB  ASP A 248
+       ATOM   3692 2HB  ASP A 248
+       ATOM   3707  H   TRP A 249
+       ATOM   3708  HA  TRP A 249
+       ATOM   3709 1HB  TRP A 249
+       ATOM   3710 2HB  TRP A 249
+       ATOM   3711  HD1 TRP A 249
+       ATOM   3712  HE1 TRP A 249
+       ATOM   3713  HE3 TRP A 249
+       ATOM   3714  HZ2 TRP A 249
+       ATOM   3715  HZ3 TRP A 249
+       ATOM   3716  HH2 TRP A 249
+       ATOM   3725  H   LEU A 250
+       ATOM   3726  HA  LEU A 250
+       ATOM   3727 1HB  LEU A 250
+       ATOM   3728 2HB  LEU A 250
+       ATOM   3729  HG  LEU A 250
+       ATOM   3730 1HD1 LEU A 250
+       ATOM   3731 2HD1 LEU A 250
+       ATOM   3732 3HD1 LEU A 250
+       ATOM   3733 1HD2 LEU A 250
+       ATOM   3734 2HD2 LEU A 250
+       ATOM   3735 3HD2 LEU A 250
+       ATOM   3743  HA  PRO A 251
+       ATOM   3744 1HB  PRO A 251
+       ATOM   3745 2HB  PRO A 251
+       ATOM   3746 1HG  PRO A 251
+       ATOM   3747 2HG  PRO A 251
+       ATOM   3748 1HD  PRO A 251
+       ATOM   3749 2HD  PRO A 251
+       ATOM   3755  H   ALA A 252
+       ATOM   3756  HA  ALA A 252
+       ATOM   3757 1HB  ALA A 252
+       ATOM   3758 2HB  ALA A 252
+       ATOM   3759 3HB  ALA A 252
+       ATOM   3767  H   THR A 253
+       ATOM   3768  HA  THR A 253
+       ATOM   3769  HB  THR A 253
+       ATOM   3770  HG1 THR A 253
+       ATOM   3771 1HG2 THR A 253
+       ATOM   3772 2HG2 THR A 253
+       ATOM   3773 3HG2 THR A 253
+       ATOM   3781  H   THR A 254
+       ATOM   3782  HA  THR A 254
+       ATOM   3783  HB  THR A 254
+       ATOM   3784  HG1 THR A 254
+       ATOM   3785 1HG2 THR A 254
+       ATOM   3786 2HG2 THR A 254
+       ATOM   3787 3HG2 THR A 254
+       ATOM   3792  H   GLY A 255
+       ATOM   3793 1HA  GLY A 255
+       ATOM   3794 2HA  GLY A 255
+       ATOM   3803  H   ASP A 256
+       ATOM   3804  HA  ASP A 256
+       ATOM   3805 1HB  ASP A 256
+       ATOM   3806 2HB  ASP A 256
+       ATOM   3815  H   ILE A 257
+       ATOM   3816  HA  ILE A 257
+       ATOM   3817  HB  ILE A 257
+       ATOM   3818 1HG1 ILE A 257
+       ATOM   3819 2HG1 ILE A 257
+       ATOM   3820 1HG2 ILE A 257
+       ATOM   3821 2HG2 ILE A 257
+       ATOM   3822 3HG2 ILE A 257
+       ATOM   3823 1HD1 ILE A 257
+       ATOM   3824 2HD1 ILE A 257
+       ATOM   3825 3HD1 ILE A 257
+       ATOM   3834  H   ILE A 258
+       ATOM   3835  HA  ILE A 258
+       ATOM   3836  HB  ILE A 258
+       ATOM   3837 1HG1 ILE A 258
+       ATOM   3838 2HG1 ILE A 258
+       ATOM   3839 1HG2 ILE A 258
+       ATOM   3840 2HG2 ILE A 258
+       ATOM   3841 3HG2 ILE A 258
+       ATOM   3842 1HD1 ILE A 258
+       ATOM   3843 2HD1 ILE A 258
+       ATOM   3844 3HD1 ILE A 258
+       ATOM   3857  H   TYR A 259
+       ATOM   3858  HA  TYR A 259
+       ATOM   3859 1HB  TYR A 259
+       ATOM   3860 2HB  TYR A 259
+       ATOM   3861  HD1 TYR A 259
+       ATOM   3862  HD2 TYR A 259
+       ATOM   3863  HE1 TYR A 259
+       ATOM   3864  HE2 TYR A 259
+       ATOM   3865  HH  TYR A 259
+       ATOM   3871  H   ALA A 260
+       ATOM   3872  HA  ALA A 260
+       ATOM   3873 1HB  ALA A 260
+       ATOM   3874 2HB  ALA A 260
+       ATOM   3875 3HB  ALA A 260
+       ATOM   3884  H   ASP A 261
+       ATOM   3885  HA  ASP A 261
+       ATOM   3886 1HB  ASP A 261
+       ATOM   3887 2HB  ASP A 261
+       ATOM   3892  H   GLY A 262
+       ATOM   3893 1HA  GLY A 262
+       ATOM   3894 2HA  GLY A 262
+       ATOM   3899  H   GLY A 263
+       ATOM   3900 1HA  GLY A 263
+       ATOM   3901 2HA  GLY A 263
+       ATOM   3907  H   ALA A 264
+       ATOM   3908  HA  ALA A 264
+       ATOM   3909 1HB  ALA A 264
+       ATOM   3910 2HB  ALA A 264
+       ATOM   3911 3HB  ALA A 264
+       ATOM   3919  HD1 HIS A 265
+       ATOM   3923  H   HIS A 265
+       ATOM   3924  HA  HIS A 265
+       ATOM   3925 1HB  HIS A 265
+       ATOM   3926 2HB  HIS A 265
+       ATOM   3927  HD2 HIS A 265
+       ATOM   3928  HE1 HIS A 265
+       ATOM   3929  HE2 HIS A 265
+       ATOM   3937  H   THR A 266
+       ATOM   3938  HA  THR A 266
+       ATOM   3939  HB  THR A 266
+       ATOM   3940  HG1 THR A 266
+       ATOM   3941 1HG2 THR A 266
+       ATOM   3942 2HG2 THR A 266
+       ATOM   3943 3HG2 THR A 266
+       ATOM   3953  H   GLN A 267
+       ATOM   3954  HA  GLN A 267
+       ATOM   3955 1HB  GLN A 267
+       ATOM   3956 2HB  GLN A 267
+       ATOM   3957 1HG  GLN A 267
+       ATOM   3958 2HG  GLN A 267
+       ATOM   3959 1HE2 GLN A 267
+       ATOM   3960 2HE2 GLN A 267
+       ATOM   3969  H   LEU A 268
+       ATOM   3970  HA  LEU A 268
+       ATOM   3971 1HB  LEU A 268
+       ATOM   3972 2HB  LEU A 268
+       ATOM   3973  HG  LEU A 268
+       ATOM   3974 1HD1 LEU A 268
+       ATOM   3975 2HD1 LEU A 268
+       ATOM   3976 3HD1 LEU A 268
+       ATOM   3977 1HD2 LEU A 268
+       ATOM   3978 2HD2 LEU A 268
+       ATOM   3979 3HD2 LEU A 268
+       ATOM   3989  H   LEU A 269
+       ATOM   3990  HA  LEU A 269
+       ATOM   3991 1HB  LEU A 269
+       ATOM   3992 2HB  LEU A 269
+       ATOM   3993  HG  LEU A 269
+       ATOM   3994 1HD1 LEU A 269
+       ATOM   3995 2HD1 LEU A 269
+       ATOM   3996 3HD1 LEU A 269
+       ATOM   3997 1HD2 LEU A 269
+       ATOM   3998 2HD2 LEU A 269
+       ATOM   3999 3HD2 LEU A 269
+       HETATM 4045 1H3D NAD A1301
+       HETATM 4046 1H3B NAD A1301
+       HETATM 4047 1H2D NAD A1301
+       HETATM 4048 1H2B NAD A1301
+       HETATM 4049 1H7N NAD A1301
+       HETATM 4050 2H7N NAD A1301
+       HETATM 4051 1H6A NAD A1301
+       HETATM 4052 2H6A NAD A1301
+       HETATM 4053 1H5D NAD A1301
+       HETATM 4054 1H5B NAD A1301
+       HETATM 4055 2H5D NAD A1301
+       HETATM 4056 2H5B NAD A1301
+       HETATM 4057  H8A NAD A1301
+       HETATM 4058  H6N NAD A1301
+       HETATM 4059  H5N NAD A1301
+       HETATM 4060  H4N NAD A1301
+       HETATM 4061  H4D NAD A1301
+       HETATM 4062  H4B NAD A1301
+       HETATM 4063 2H3D NAD A1301
+       HETATM 4064 2H3B NAD A1301
+       HETATM 4065  H2N NAD A1301
+       HETATM 4066 2H2D NAD A1301
+       HETATM 4067 2H2B NAD A1301
+       HETATM 4068  H2A NAD A1301
+       HETATM 4069  H1D NAD A1301
+       HETATM 4070  H1B NAD A1301
+       HETATM 4081  H8  THT A1302
+       HETATM 4096  H3  THT A1302
+       HETATM 4097 1H9  THT A1302
+       HETATM 4098 2H9  THT A1302
+       HETATM 4099 1H5  THT A1302
+       HETATM 4100 2H5  THT A1302
+       HETATM 4101 1H4  THT A1302
+       HETATM 4102 2H4  THT A1302
+       HETATM 4103 1H1  THT A1302
+       HETATM 4104 2H1  THT A1302
+       HETATM 4105 3H1  THT A1302
+       HETATM 4106 1H22 THT A1302
+       HETATM 4107 2H22 THT A1302
+       HETATM 4108 3H22 THT A1302
+       HETATM 4109 1H21 THT A1302
+       HETATM 4110 2H21 THT A1302
+       HETATM 4111 1H20 THT A1302
+       HETATM 4112 2H20 THT A1302
+       HETATM 4113 1H19 THT A1302
+       HETATM 4114 2H19 THT A1302
+       HETATM 4115 1H18 THT A1302
+       HETATM 4116 2H18 THT A1302
+       HETATM 4117 1H17 THT A1302
+       HETATM 4118 2H17 THT A1302
+       HETATM 4119 1H16 THT A1302
+       HETATM 4120 2H16 THT A1302
+       HETATM 4121 1H15 THT A1302
+       HETATM 4122 2H15 THT A1302
+       HETATM 4123 1H14 THT A1302
+       HETATM 4124 2H14 THT A1302
+       HETATM 4125 1H13 THT A1302
+       HETATM 4126 2H13 THT A1302
+       HETATM 4127 1H12 THT A1302
+       HETATM 4128 2H12 THT A1302
+       HETATM 4129 1H11 THT A1302
+       HETATM 4130 2H11 THT A1302
+       HETATM 4131 1H10 THT A1302
+       HETATM 4132 2H10 THT A1302
+       HETATM 4134 1H   HOH A1303
+       HETATM 4135 2H   HOH A1303
+       HETATM 4137 1H   HOH A1304
+       HETATM 4138 2H   HOH A1304
+       HETATM 4140 1H   HOH A1305
+       HETATM 4141 2H   HOH A1305
+       HETATM 4143 1H   HOH A1306
+       HETATM 4144 2H   HOH A1306
+       HETATM 4146 1H   HOH A1307
+       HETATM 4147 2H   HOH A1307
+       HETATM 4149 1H   HOH A1308
+       HETATM 4150 2H   HOH A1308
+       HETATM 4152 1H   HOH A1309
+       HETATM 4153 2H   HOH A1309
+       HETATM 4155 1H   HOH A1310
+       HETATM 4156 2H   HOH A1310
+       HETATM 4158 1H   HOH A1311
+       HETATM 4159 2H   HOH A1311
+       HETATM 4161 1H   HOH A1312
+       HETATM 4162 2H   HOH A1312
+       HETATM 4164 1H   HOH A1313
+       HETATM 4165 2H   HOH A1313
+       HETATM 4167 1H   HOH A1314
+       HETATM 4168 2H   HOH A1314
+       HETATM 4170 1H   HOH A1315
+       HETATM 4171 2H   HOH A1315
+       HETATM 4173 1H   HOH A1316
+       HETATM 4174 2H   HOH A1316
+       HETATM 4176 1H   HOH A1317
+       HETATM 4177 2H   HOH A1317
+       HETATM 4179 1H   HOH A1318
+       HETATM 4180 2H   HOH A1318
+       HETATM 4182 1H   HOH A1319
+       HETATM 4183 2H   HOH A1319
+       HETATM 4185 1H   HOH A1320
+       HETATM 4186 2H   HOH A1320
+       HETATM 4188 1H   HOH A1321
+       HETATM 4189 2H   HOH A1321
+       HETATM 4191 1H   HOH A1322
+       HETATM 4192 2H   HOH A1322
+       HETATM 4194 1H   HOH A1323
+       HETATM 4195 2H   HOH A1323
+       HETATM 4197 1H   HOH A1324
+       HETATM 4198 2H   HOH A1324
+       HETATM 4200 1H   HOH A1325
+       HETATM 4201 2H   HOH A1325
+       HETATM 4203 1H   HOH A1326
+       HETATM 4204 2H   HOH A1326
+       HETATM 4206 1H   HOH A1327
+       HETATM 4207 2H   HOH A1327
+       HETATM 4209 1H   HOH A1328
+       HETATM 4210 2H   HOH A1328
+       HETATM 4212 1H   HOH A1329
+       HETATM 4213 2H   HOH A1329
+       HETATM 4215 1H   HOH A1330
+       HETATM 4216 2H   HOH A1330
+       HETATM 4218 1H   HOH A1331
+       HETATM 4219 2H   HOH A1331
+       HETATM 4221 1H   HOH A1332
+       HETATM 4222 2H   HOH A1332
+       HETATM 4224 1H   HOH A1333
+       HETATM 4225 2H   HOH A1333
+       HETATM 4227 1H   HOH A1334
+       HETATM 4228 2H   HOH A1334
+       HETATM 4230 1H   HOH A1335
+       HETATM 4231 2H   HOH A1335
+       HETATM 4233 1H   HOH A1336
+       HETATM 4234 2H   HOH A1336
+       HETATM 4236 1H   HOH A1337
+       HETATM 4237 2H   HOH A1337
+       HETATM 4239 1H   HOH A1338
+       HETATM 4240 2H   HOH A1338
+       HETATM 4242 1H   HOH A1339
+       HETATM 4243 2H   HOH A1339
+       HETATM 4245 1H   HOH A1340
+       HETATM 4246 2H   HOH A1340
+       HETATM 4248 1H   HOH A1341
+       HETATM 4249 2H   HOH A1341
+       HETATM 4251 1H   HOH A1342
+       HETATM 4252 2H   HOH A1342
+       HETATM 4254 1H   HOH A1343
+       HETATM 4255 2H   HOH A1343
+       HETATM 4257 1H   HOH A1344
+       HETATM 4258 2H   HOH A1344
+       HETATM 4260 1H   HOH A1345
+       HETATM 4261 2H   HOH A1345
+       HETATM 4263 1H   HOH A1346
+       HETATM 4264 2H   HOH A1346
+       HETATM 4266 1H   HOH A1347
+       HETATM 4267 2H   HOH A1347
+       HETATM 4269 1H   HOH A1348
+       HETATM 4270 2H   HOH A1348
+       HETATM 4272 1H   HOH A1349
+       HETATM 4273 2H   HOH A1349
+       HETATM 4275 1H   HOH A1350
+       HETATM 4276 2H   HOH A1350
+       HETATM 4278 1H   HOH A1351
+       HETATM 4279 2H   HOH A1351
+       HETATM 4281 1H   HOH A1352
+       HETATM 4282 2H   HOH A1352
+       HETATM 4284 1H   HOH A1353
+       HETATM 4285 2H   HOH A1353
+       HETATM 4287 1H   HOH A1354
+       HETATM 4288 2H   HOH A1354
+       HETATM 4290 1H   HOH A1355
+       HETATM 4291 2H   HOH A1355
+       HETATM 4293 1H   HOH A1356
+       HETATM 4294 2H   HOH A1356
+       HETATM 4296 1H   HOH A1357
+       HETATM 4297 2H   HOH A1357
+       HETATM 4299 1H   HOH A1358
+       HETATM 4300 2H   HOH A1358
+       HETATM 4302 1H   HOH A1359
+       HETATM 4303 2H   HOH A1359
+       HETATM 4305 1H   HOH A1360
+       HETATM 4306 2H   HOH A1360
+       HETATM 4308 1H   HOH A1361
+       HETATM 4309 2H   HOH A1361
+       HETATM 4311 1H   HOH A1362
+       HETATM 4312 2H   HOH A1362
+       HETATM 4314 1H   HOH A1363
+       HETATM 4315 2H   HOH A1363
+       HETATM 4317 1H   HOH A1364
+       HETATM 4318 2H   HOH A1364
+       HETATM 4320 1H   HOH A1365
+       HETATM 4321 2H   HOH A1365
+       HETATM 4323 1H   HOH A1366
+       HETATM 4324 2H   HOH A1366
+       HETATM 4326 1H   HOH A1367
+       HETATM 4327 2H   HOH A1367
+       HETATM 4329 1H   HOH A1368
+       HETATM 4330 2H   HOH A1368
+       HETATM 4332 1H   HOH A1369
+       HETATM 4333 2H   HOH A1369
+       HETATM 4335 1H   HOH A1370
+       HETATM 4336 2H   HOH A1370
+       HETATM 4338 1H   HOH A1371
+       HETATM 4339 2H   HOH A1371
+       HETATM 4341 1H   HOH A1372
+       HETATM 4342 2H   HOH A1372
+       HETATM 4344 1H   HOH A1373
+       HETATM 4345 2H   HOH A1373
+       HETATM 4347 1H   HOH A1374
+       HETATM 4348 2H   HOH A1374
+       HETATM 4350 1H   HOH A1375
+       HETATM 4351 2H   HOH A1375
+       HETATM 4353 1H   HOH A1376
+       HETATM 4354 2H   HOH A1376
+       HETATM 4356 1H   HOH A1377
+       HETATM 4357 2H   HOH A1377
+       HETATM 4359 1H   HOH A1378
+       HETATM 4360 2H   HOH A1378
+       HETATM 4362 1H   HOH A1379
+       HETATM 4363 2H   HOH A1379
+       HETATM 4365 1H   HOH A1380
+       HETATM 4366 2H   HOH A1380
+       HETATM 4368 1H   HOH A1381
+       HETATM 4369 2H   HOH A1381
+       HETATM 4371 1H   HOH A1382
+       HETATM 4372 2H   HOH A1382
+       HETATM 4374 1H   HOH A1383
+       HETATM 4375 2H   HOH A1383
+       HETATM 4377 1H   HOH A1384
+       HETATM 4378 2H   HOH A1384
+       HETATM 4380 1H   HOH A1385
+       HETATM 4381 2H   HOH A1385
+       HETATM 4383 1H   HOH A1386
+       HETATM 4384 2H   HOH A1386
+       HETATM 4386 1H   HOH A1387
+       HETATM 4387 2H   HOH A1387
+       HETATM 4389 1H   HOH A1388
+       HETATM 4390 2H   HOH A1388
+       HETATM 4392 1H   HOH A1389
+       HETATM 4393 2H   HOH A1389
+       HETATM 4395 1H   HOH A1390
+       HETATM 4396 2H   HOH A1390
+       HETATM 4398 1H   HOH A1391
+       HETATM 4399 2H   HOH A1391
+       HETATM 4401 1H   HOH A1392
+       HETATM 4402 2H   HOH A1392
+       HETATM 4404 1H   HOH A1393
+       HETATM 4405 2H   HOH A1393
+       HETATM 4407 1H   HOH A1394
+       HETATM 4408 2H   HOH A1394
+       HETATM 4410 1H   HOH A1395
+       HETATM 4411 2H   HOH A1395
+       HETATM 4413 1H   HOH A1396
+       HETATM 4414 2H   HOH A1396
+       HETATM 4416 1H   HOH A1397
+       HETATM 4417 2H   HOH A1397
+       HETATM 4419 1H   HOH A1398
+       HETATM 4420 2H   HOH A1398
+       HETATM 4422 1H   HOH A1399
+       HETATM 4423 2H   HOH A1399
+       HETATM 4425 1H   HOH A1400
+       HETATM 4426 2H   HOH A1400
+       HETATM 4428 1H   HOH A1401
+       HETATM 4429 2H   HOH A1401
+       HETATM 4431 1H   HOH A1402
+       HETATM 4432 2H   HOH A1402
+       HETATM 4434 1H   HOH A1403
+       HETATM 4435 2H   HOH A1403
+       HETATM 4437 1H   HOH A1404
+       HETATM 4438 2H   HOH A1404
+       HETATM 4440 1H   HOH A1405
+       HETATM 4441 2H   HOH A1405
+       HETATM 4443 1H   HOH A1406
+       HETATM 4444 2H   HOH A1406
+       HETATM 4446 1H   HOH A1407
+       HETATM 4447 2H   HOH A1407
+       HETATM 4449 1H   HOH A1408
+       HETATM 4450 2H   HOH A1408
+       HETATM 4452 1H   HOH A1409
+       HETATM 4453 2H   HOH A1409
+       HETATM 4455 1H   HOH A1410
+       HETATM 4456 2H   HOH A1410
+       HETATM 4458 1H   HOH A1411
+       HETATM 4459 2H   HOH A1411
+       HETATM 4461 1H   HOH A1412
+       HETATM 4462 2H   HOH A1412
+
+                      Number of atoms in GEO_DAT: 4461
+                      Number of atoms in GEO_REF: 2172
+          Number of atoms common to both systems: 2167
+
+ --------------------------------------------------------------------------------
+
+      List of atoms in GEO_REF that were swapped in order to maximize overlap
+
+              Atom Label          and         Atom Label         Difference to GEO_REF
+
+    1 (ATOM    301  OD2 ASP A  42)   (ATOM    300  OD1 ASP A  42)       -0.31
+  
+  
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+    1536    (ATOM   1541  OE1 GLU A 209)  15.307  34.058   1.353        5.45         5.45
+    1569    (ATOM   1574  NE2 GLN A 214)  12.205  24.759  -1.739        5.41        10.86
+     326    (ATOM    331  NH2 ARG A  45)  36.560  16.230  28.392        5.00        15.86
+     396    (ATOM    401  NH2 ARG A  53)  22.851  19.020  33.574        4.28        20.14
+     325    (ATOM    330  NH1 ARG A  45)  37.138  15.073  30.286        4.22        24.36
+    1535    (ATOM   1540  CD  GLU A 209)  16.366  33.668   1.904        4.21        28.56
+     324    (ATOM    329  CZ  ARG A  45)  36.432  15.159  29.165        4.02        32.59
+    1537    (ATOM   1542  OE2 GLU A 209)  16.758  34.135   3.007        3.91        36.50
+     807    (ATOM    812  CE2 PHE A 109)  18.934  12.226 -12.879        3.90        40.40
+      52    (ATOM     57  NH2 ARG A   9)  17.602  -8.045  36.302        3.88        44.28
+    2139    (HETATM12412  O   HOH A1384)  23.283  13.490  37.222        3.85        48.12
+    2143    (HETATM12416  O   HOH A1388)  36.495  -7.115  20.092        3.82        51.94
+     395    (ATOM    400  NH1 ARG A  53)  21.562  17.681  34.926        3.76        55.70
+    1130    (ATOM   1135  NH2 ARG A 153)   0.501   6.838  -1.670        3.63        59.33
+    1568    (ATOM   1573  OE1 GLN A 214)  11.340  23.369  -3.296        3.55        62.89
+     808    (ATOM    813  CZ  PHE A 109)  18.417  11.008 -12.487        3.52        66.41
+    1567    (ATOM   1572  CD  GLN A 214)  11.589  23.630  -2.111        3.51        69.91
+     350    (ATOM    355  OE1 GLN A  48)  27.962   9.544  32.205        3.40        73.32
+    2141    (HETATM12414  O   HOH A1386)   1.118  -6.711  30.609        3.38        76.70
+    1319    (ATOM   1324  NH2 ARG A 177)   8.954 -15.893   5.164        3.32        80.03
+    1124    (ATOM   1129  CB  ARG A 153)   4.806   9.693  -1.325        3.32        83.34
+     394    (ATOM    399  CZ  ARG A  53)  21.939  18.064  33.704        3.26        86.61
+     295    (ATOM    300  OD1 ASP A  42)  31.278   9.369  17.191        3.26        89.87
+    2084    (HETATM12357  O   HOH A1329)   5.451  10.677  31.524        3.26        93.12
+     323    (ATOM    328  NE  ARG A  45)  35.585  14.189  28.827        3.24        96.36
+    2100    (HETATM12373  O   HOH A1345)   0.216  -1.445  31.878        3.21        99.57
+    1534    (ATOM   1539  CG  GLU A 209)  17.248  32.615   1.197        3.20       102.77
+     600    (ATOM    605  OE2 GLU A  80)  29.243  -4.631  33.317        3.19       105.95
+    1318    (ATOM   1323  NH1 ARG A 177)  11.180 -16.103   5.624        3.17       109.13
+     805    (ATOM    810  CD2 PHE A 109)  19.981  12.803 -12.178        3.13       112.25
+
+   Difference between GEO_DAT and GEO_REF:2376.445 = total,  1.0967 = Average,  1.2568 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.176     C(HETATM12022  C7  THT A1302)    C(HETATM12024  C8  THT A1302)      1.345            1.521
+   2       0.111     C(HETATM12024  C8  THT A1302)    C(HETATM12025  C9  THT A1302)      1.490            1.379
+   3       0.080     S(ATOM   1201  SD  MET A 161)    C(ATOM   1200  CG  MET A 161)      1.834            1.755
+   4       0.079     S(ATOM   1147  SD  MET A 155)    C(ATOM   1146  CG  MET A 155)      1.836            1.757
+   5       0.074     N(HETATM11983  N9A NAD A1301)    C(HETATM11984  C8A NAD A1301)      1.420            1.346
+   6       0.072     C(ATOM    440  CB  PRO A  59)    C(ATOM    441  CG  PRO A  59)      1.537            1.466
+   7       0.071     N(ATOM    167  NE2 HIS A  24)    C(ATOM    166  CE1 HIS A  24)      1.392            1.322
+   8       0.070     N(ATOM    535  NE2 HIS A  70)    C(ATOM    534  CE1 HIS A  70)      1.393            1.323
+   9       0.070     N(HETATM11985  N7A NAD A1301)    C(HETATM11986  C5A NAD A1301)      1.397            1.327
+  10       0.069     N(ATOM    902  NE2 HIS A 121)    C(ATOM    901  CE1 HIS A 121)      1.388            1.318
+  11       0.069     N(ATOM     57  NH2 ARG A   9)    C(ATOM     55  CZ  ARG A   9)      1.395            1.326
+  12       0.067     O(HETATM12023  O7  THT A1302)    C(HETATM12022  C7  THT A1302)      1.299            1.231
+  13       0.067     C(ATOM   1681  CB  PRO A 227)    C(ATOM   1682  CG  PRO A 227)      1.538            1.470
+  14       0.066     N(ATOM    348  N   GLN A  48)    C(ATOM    342  C   ILE A  47)      1.381            1.316
+  15       0.063     C(ATOM   1117  CG  PRO A 151)    C(ATOM   1118  CD  PRO A 151)      1.534            1.471
+  16       0.062     N(ATOM   1044  N   GLY A 141)    C(ATOM   1039  C   PRO A 140)      1.384            1.322
+  17       0.062     N(ATOM   1872  N   THR A 253)    C(ATOM   1869  C   ALA A 252)      1.375            1.313
+  18       0.062     N(ATOM    692  NE2 HIS A  93)    C(ATOM    691  CE1 HIS A  93)      1.381            1.319
+  19       0.061     S(ATOM   1083  SD  MET A 147)    C(ATOM   1082  CG  MET A 147)      1.827            1.765
+  20       0.061     C(ATOM   1688  CB  ILE A 228)    C(ATOM   1690  CG2 ILE A 228)      1.528            1.467
+  21       0.060     N(ATOM   1453  NH1 ARG A 195)    C(ATOM   1452  CZ  ARG A 195)      1.386            1.326
+  22       0.060     N(ATOM   1385  NH2 ARG A 185)    C(ATOM   1383  CZ  ARG A 185)      1.377            1.317
+  23       0.060     P(HETATM11971  PA  NAD A1301)    O(HETATM11974  O5B NAD A1301)      1.612            1.672
+  24       0.059     C(HETATM11980  C2B NAD A1301)    C(HETATM11982  C1B NAD A1301)      1.561            1.502
+  25       0.059     N(ATOM    222  N   GLN A  32)    C(ATOM    215  C   GLU A  31)      1.373            1.314
+
+    GEO_DAT:  'Optimized.ent'
+    GEO_REF:  'Original.ent'
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:  -2568.69 Kcal/mol
+          Total non-covalent energy of GEO_REF system:  -2255.20 Kcal/mol
+                                           Difference:   -313.49 Kcal/mol
+
+
+    The following files will be written to "G:\compare\":
+    'Compare.html'
+    'Optimized.pdb'
+    'Original.pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

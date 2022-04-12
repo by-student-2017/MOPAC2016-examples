@@ -1,0 +1,2 @@
+geo_dat="Optimized.ent" geo_ref="Original.ent" 0scf geo-ok HTML output let
+ Compare an optimized structure of a protein with the raw PDB geometry
