@@ -1,0 +1,17 @@
+#!/usr/bin/gnuplot
+
+set key right top
+
+set terminal win font "Arial,12"
+set xlabel "Distance A-B"
+set mxtics 5
+
+set ylabel "HEAT [kcal/mol]"
+set mytics 5
+
+plot "path_1st.dat" u 1:2 w p pt 7 lc "red" t "1st structure", "path_2nd.dat" u 1:2 w p pt 7 lc "blue" t "2nd structure"
+pause -1
+
+set terminal png truecolor enhanced
+set out "plot.png"
+replot
