@@ -1,0 +1,3 @@
+GEO_DAT="3W7Y_fullopt_EPS.arc" +
+PM7 opt mozyme pdbout RESIDUES gnorm=10 pl +
+EPS=78.4

@@ -1,0 +1,5 @@
+invert output xyz EPS=78.4 geo-ok GEO_DAT="../TS/Step 5-6.arc" T=1W CHARGE=-1 MOZYME FORCETS output(N) isotope
+Verify that the Chymotrypsin Step 5-6 transition state is valid
+
+
+
