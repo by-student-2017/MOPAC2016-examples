@@ -1,0 +1,3 @@
+LET GEO_DAT="3ZR0 chain A PDB Starting geometry (no H2O, etc.).ent"  +
+GEO_REF="3ZR0 chain B PDB Starting geometry (no H2O, etc.).ent" 0scf HTML GEO-OK output  opt
+Compare PDB Chains A and B

@@ -1,0 +1,12 @@
+select 131,152
+wireframe on
+set bondRadiusMilliAngstroms (50)
+spacefill 15%
+display selected
+zoom 0
+select off
+ribbon off
+measure off
+measure ([LYS]131:A.NZ) ([GLU]152:A.OE1)
+reset;center {11.564540540540541 -6.035864864864864 0.3498378378378377}; rotate z -164.96; rotate y 98.17; rotate z 125.02; zoom 569.35;
+#write 131_152.jpg

@@ -1,0 +1,15 @@
+reset;center {26.698677419354834 11.30614516129032 -13.246967741935483}; rotate z 83.77; rotate y 111.3; rotate z -101.64; zoom 705.49; translate x 14.4; translate y 1.5; set rotationRadius 27.49;
+display 119, 120, 1157
+select 0
+select within(4.8,@2438)
+select add @2437, @1789, @1791
+var use = {visible}; var sel = {selected};
+var z = 0; for (var i IN @sel){z = 3}
+if (z = 3); use = sel; end if;
+for (var x IN @use){select @x; var txt =  (x.temperature > 0 ? '+':'')+format('%1.2f',x.temperature ); label @txt; color label black;
+set labelOffset 0 0;}  select @sel; 
+select off
+connect (@2454) (@2439) delete
+connect (@2454) (@2439) hbond
+select @1774;     set labeloffset  100 60;   label Asp 119;    color label black; font label 25;
+select @2430;     set labeloffset  -400 100;   label 8-Oxo-dGMP;    color label black; font label 25;

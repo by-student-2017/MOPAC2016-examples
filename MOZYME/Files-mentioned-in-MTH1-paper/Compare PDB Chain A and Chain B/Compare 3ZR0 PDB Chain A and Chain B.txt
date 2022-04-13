@@ -1,0 +1,15 @@
+background  [155, 155, 155]
+select 1.0
+trace 0.2
+set bondRadiusMilliAngstroms (0)
+spacefill 1
+hBonds off
+color black
+select 2.0
+trace 0.2
+set bondRadiusMilliAngstroms (0)
+spacefill 1
+hBonds off
+color red
+select off 
+reset;center {-0.04774178981937442 -10.659178160919533 -11.276706896551739}; rotate z -60.74; rotate y 136.58; rotate z 65.55; zoom 178.31; translate x -4.27; translate y -1.2; set rotationRadius 39.91;

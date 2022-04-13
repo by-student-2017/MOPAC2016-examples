@@ -1,0 +1,2 @@
+geo_dat="MTH1_3ZR0_Chain_A_backbone_trimmed.mop" geo_ref="MTH1_3ZR0_Chain_B_backbone_trimmed.mop" 0scf HTML
+Compare backbones only for MTH1 A and MTH1 B PDB geometries

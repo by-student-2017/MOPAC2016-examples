@@ -1,0 +1,316 @@
+ *******************************************************************************
+ ** Site#: 23746        For non-commercial use only     Version 16.070W 64BITS**
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 16.070W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 366**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Thu Mar 10 22:07:06 2016  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  GEO-OK     - OVERRIDE INTERATOMIC DISTANCE AND OTHER SAFETY CHECKS
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "PDB ORIGINAL GEOMETRY.ARC"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "MTH1 A+B PM7 OPTIMIZED GEOMETRY.ARC"
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *  LET        - OVERRIDE SOME SAFETY CHECKS
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+LET GEO_DAT="PDB original geometry.arc" GEO_REF="MTH1 A+B PM7 Optimized Geometry.arc" 0scf HTML GEO-OK output  opt
+ Compare PDB original geometry.arc and MTH1 A+B PM7 Optimized Geometry.arc
+
+ 
+ --------------------------------------------------------------------------------
+
+      List of atoms in GEO_REF that are swapped in order to maximize overlap
+
+              Atom Label          and         Atom Label         Difference to GEO_REF
+
+    1 (HETATM 5529 2H   HOH B2044)   (HETATM 5528 1H   HOH B2044)       -0.30
+    2 (HETATM 5516 1H   HOH B2040)   (HETATM 5517 2H   HOH B2040)       -0.14
+    3 (HETATM 5496 2H   HOH B2033)   (HETATM 5495 1H   HOH B2033)       -0.80
+    4 (HETATM 5403 2H   HOH B2002)   (HETATM 5402 1H   HOH B2002)       -0.23
+    5 (HETATM 5400 2H   HOH B2001)   (HETATM 5399 1H   HOH B2001)       -0.07
+    6 (HETATM 5394 2H   HOH A2133)   (HETATM 5393 1H   HOH A2133)       -0.23
+    7 (HETATM 5043 2H   HOH A2016)   (HETATM 5042 1H   HOH A2016)       -0.15
+    8 (ATOM   3593 2HG  GLU B  77)   (ATOM   3592 1HG  GLU B  77)       -0.18
+    9 (ATOM   3001 3HZ  LYS B  38)   (ATOM   3000 2HZ  LYS B  38)       -0.25
+   10 (ATOM   3001 3HZ  LYS B  38)   (ATOM   2999 1HZ  LYS B  38)       -0.01
+   11 (ATOM   2997 1HE  LYS B  38)   (ATOM   2998 2HE  LYS B  38)       -0.66
+   12 (ATOM   2798 2HE  LYS B  24)   (ATOM   2797 1HE  LYS B  24)       -0.50
+   13 (ATOM   2796 2HD  LYS B  24)   (ATOM   2795 1HD  LYS B  24)       -0.50
+  
+  
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+    5402    (HETATM 5402 1H   HOH B2002)  26.437  -1.764 -25.163        6.39        6.39
+    2485    (ATOM   2485 2H   GLY B   2)  29.684  -3.272 -26.369        6.10       12.49
+    5403    (HETATM 5403 2H   HOH B2002)  26.549  -3.239 -25.635        5.96       18.45
+     405    (ATOM    405 1HH1 ARG A  25) -12.603 -13.392 -21.952        5.30       23.75
+    5401    (HETATM 5401  O   HOH B2002)  26.891  -2.632 -24.965        5.20       28.95
+     407    (ATOM    407 1HH2 ARG A  25) -13.055 -15.605 -22.634        5.01       33.96
+    2488    (ATOM   2488 2HA  GLY B   2)  31.274  -1.824 -25.733        4.99       38.95
+    2824    (ATOM   2824 1HH2 ARG B  25)  37.185  23.431 -21.412        4.96       43.91
+     406    (ATOM    406 2HH1 ARG A  25) -10.996 -12.818 -21.852        4.89       48.80
+     394    (ATOM    394  NH1 ARG A  25) -11.618 -13.617 -21.816        4.88       53.68
+    2532    (ATOM   2532 1HH2 ARG B   5)  38.818   5.296 -20.732        4.74       58.42
+    2533    (ATOM   2533 2HH2 ARG B   5)  37.542   4.108 -20.599        4.73       63.15
+    2480    (ATOM   2480  N   GLY B   2)  29.589  -3.118 -25.351        4.65       67.80
+     395    (ATOM    395  NH2 ARG A  25) -12.103 -15.861 -22.364        4.54       72.35
+    1761    (ATOM   1761 3HZ  LYS A 114)  11.885 -24.532 -17.111        4.54       76.89
+    2999    (ATOM   2999 1HZ  LYS B  38)  36.407   7.223 -18.364        4.52       81.40
+    2822    (ATOM   2822 1HH1 ARG B  25)  35.481  22.927 -19.856        4.50       85.90
+    2486    (ATOM   2486 3H   GLY B   2)  29.706  -4.040 -24.893        4.48       90.38
+    1759    (ATOM   1759 1HZ  LYS A 114)  10.513 -25.314 -17.636        4.45       94.83
+    4498    (ATOM   4498 2HZ  LYS B 132)  27.176  -0.929  -0.372        4.44       99.28
+     238    (ATOM    238 2HE2 GLN A  16)   5.184 -27.485   2.255        4.43      103.71
+    5414    (HETATM 5414 1H   HOH B2006)  39.384   7.426 -21.134        4.42      108.13
+    5037    (HETATM 5037 2H   HOH A2014)  -4.678 -25.911  -2.989        4.41      112.54
+    5526    (HETATM 5526 2H   HOH B2043)  37.468  24.511   1.493        4.40      116.94
+     393    (ATOM    393  CZ  ARG A  25) -11.176 -14.836 -22.265        4.34      121.28
+    2484    (ATOM   2484 1H   GLY B   2)  28.616  -2.772 -25.172        4.32      125.60
+    2812    (ATOM   2812  NH2 ARG B  25)  37.868  23.203 -20.696        4.32      129.91
+    5413    (HETATM 5413  O   HOH B2006)  39.541   7.212 -20.201        4.30      134.21
+     583    (ATOM    583 2HZ  LYS A  38)  -7.686  -0.215 -20.153        4.28      138.49
+    3000    (ATOM   3000 2HZ  LYS B  38)  37.195   8.096 -19.557        4.26      142.76
+
+   Difference between GEO_DAT and GEO_REF: 6626.99 = total,  1.1838 = Average,  1.3705 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.249     C(ATOM   3975  CB  PRO B 103)    C(ATOM   3976  CG  PRO B 103)      1.285            1.534
+   2       0.212     C(ATOM   3235  CB  GLN B  54)    C(ATOM   3236  CG  GLN B  54)      1.733            1.521
+   3       0.191     S(ATOM   3746  SG  CYS B  87)    C(ATOM   3745  CB  CYS B  87)      1.638            1.829
+   4       0.167     C(ATOM   4803  CB  ARG B 151)    C(ATOM   4804  CG  ARG B 151)      1.360            1.527
+   5       0.123     C(ATOM    916  CB  VAL A  61)    C(ATOM    918  CG2 VAL A  61)      1.399            1.523
+   6       0.123     C(ATOM   3851  CB  PRO B  95)    C(ATOM   3852  CG  PRO B  95)      1.414            1.537
+   7       0.121     P(HETATM 4898  P   8OG B1157)    O(HETATM 4897  OP3 8OG B1157)      1.513            1.634
+   8       0.109     P(HETATM 4935  P   8OG A1157)    O(HETATM 4934  OP3 8OG A1157)      1.506            1.615
+   9       0.108     N(HETATM 4905  N9  8OG B1157)    C(HETATM 4909  C8  8OG B1157)      1.326            1.435
+  10       0.104     C(ATOM   2539  CG  LEU B   6)    C(ATOM   2541  CD2 LEU B   6)      1.633            1.529
+  11       0.103     N(HETATM 4942  N9  8OG A1157)    C(HETATM 4946  C8  8OG A1157)      1.339            1.442
+  12       0.101     C(ATOM   1309  CG  PHE A  86)    C(ATOM   1310  CD1 PHE A  86)      1.294            1.395
+  13       0.098     C(ATOM      2  CA  ALA A   3)    C(ATOM      5  CB  ALA A   3)      1.618            1.520
+  14       0.097     N(HETATM 4950  N1  8OG A1157)    C(HETATM 4951  C2  8OG A1157)      1.459            1.361
+  15       0.096     C(HETATM 4906  C4  8OG B1157)    C(HETATM 4907  C5  8OG B1157)      1.513            1.417
+  16       0.095     C(ATOM   3253  CG  GLU B  55)    C(ATOM   3254  CD  GLU B  55)      1.626            1.531
+  17       0.094     C(ATOM    424  CE1 PHE A  27)    C(ATOM    426  CZ  PHE A  27)      1.299            1.394
+  18       0.094     C(ATOM   3430  CB  VAL B  67)    C(ATOM   3431  CG1 VAL B  67)      1.622            1.528
+  19       0.092     S(HETATM 4981  S   SO4 B1158)    O(HETATM 4985  O2  SO4 B1158)      1.429            1.521
+  20       0.091     N(ATOM   3159  NH2 ARG B  50)    C(ATOM   3157  CZ  ARG B  50)      1.301            1.393
+  21       0.091     C(HETATM 4901  C4' 8OG B1157)    C(HETATM 4917  C3' 8OG B1157)      1.453            1.544
+  22       0.090     C(ATOM   1820  CB  PRO A 118)    C(ATOM   1821  CG  PRO A 118)      1.445            1.535
+  23       0.089     C(ATOM   1778  CB  MET A 116)    C(ATOM   1779  CG  MET A 116)      1.608            1.519
+  24       0.086     C(ATOM   1644  CG  LEU A 108)    C(ATOM   1646  CD2 LEU A 108)      1.616            1.529
+  25       0.085     C(HETATM 4943  C4  8OG A1157)    C(HETATM 4944  C5  8OG A1157)      1.500            1.415
+
+    GEO_DAT:  'PDB original geometry.arc'
+    GEO_REF:  'MTH1 A+B PM7 Optimized Geometry.arc'
+ 
+          Heat of formation of GEO_DAT system:  -43073.596 Kcal/mol
+          Heat of formation of GEO_REF system:  -46930.072 Kcal/mol
+                                        Diff.:    3856.476 Kcal/mol
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:  -7224.45 Kcal/mol
+          Total non-covalent energy of GEO_REF system:  -8916.60 Kcal/mol
+                                           Difference:   1692.14 Kcal/mol
+
+          Number of hydrogen bonds common to both systems:  889
+
+
+                            Hydrogen bonds in GEO_DAT but not in GEO_REF
+
+               Donor atom                     Hydrogen atom            H-bond length(A)     Energy    Sum
+
+   1   "ATOM   3783  OG  SER B  90"      "HETATM 5496 2H   HOH B2033"       1.737           -4.461   -4.461
+   2   "HETATM 5401  O   HOH B2002"      "HETATM 5400 2H   HOH B2001"       1.806           -3.265   -7.726
+   3   "HETATM 5353  O   HOH A2120"      "ATOM   2188 1HZ  LYS A 138"       1.803           -2.890  -10.616
+   4   "ATOM   1340  OG1 THR A  88"      "ATOM   1367  H   SER A  90"       1.837           -2.821  -13.437
+   5   "HETATM 5035  O   HOH A2014"      "ATOM    259 1HH1 ARG A  17"       2.062           -2.415  -15.852
+   6   "ATOM   1848  OD2 ASP A 120"      "HETATM 4965 1H2  8OG A1157"       1.872           -2.312  -18.164
+   7   "ATOM   2392  NH2 ARG A 151"      "ATOM   2117  HD1 HIS A 134"       2.382           -2.298  -20.461
+   8   "HETATM 5287  O   HOH A2098"      "ATOM   1695  H   ILE A 111"       2.075           -2.273  -22.735
+   9   "HETATM 4957  OP1 8OG A1157"      "HETATM 5102 1H   HOH A2036"       1.887           -2.248  -24.982
+  10   "HETATM 5095  O   HOH A2034"      "HETATM 4970  HP3 8OG A1157"       1.796           -2.234  -27.216
+  11   "HETATM 5494  O   HOH B2033"      "ATOM   3353  H   ASP B  62"       1.850           -2.153  -29.368
+  12   "HETATM 5161  O   HOH A2056"      "HETATM 5163 2H   HOH A2056"       1.056           -2.031  -31.399
+  13   "ATOM   3708  O   VAL B  85"      "ATOM   3433  H   VAL B  67"       2.027           -2.014  -33.413
+  14   "HETATM 5356  O   HOH A2121"      "HETATM 5210 1H   HOH A2072"       2.025           -1.851  -35.264
+  15   "ATOM   1291  O   VAL A  85"      "ATOM   1016  H   VAL A  67"       1.978           -1.846  -37.110
+  16   "ATOM   4265  OD2 ASP B 120"      "HETATM 4928 1H2  8OG B1157"       2.050           -1.825  -38.935
+  17   "HETATM 5410  O   HOH B2005"      "ATOM   2531 2HH1 ARG B   5"       1.658           -1.762  -40.697
+  18   "HETATM 5413  O   HOH B2006"      "ATOM   3001 3HZ  LYS B  38"       2.302           -1.711  -42.408
+  19   "ATOM    817  O   GLN A  54"      "ATOM    876  H   GLY A  58"       1.956           -1.473  -43.881
+  20   "ATOM   2258  OD1 ASP A 143"      "ATOM    482 1HH2 ARG A  31"       1.986           -1.405  -45.286
+
+
+                            Hydrogen bonds in GEO_REF but not in GEO_DAT
+
+               Donor atom                     Hydrogen atom            H-bond length(A)     Energy    Sum
+
+   1   "ATOM    625  OE1 GLU A  41"      "HETATM 5114 1H   HOH A2040"       1.689           -4.898   -4.898
+   2   "ATOM   2414  OE2 GLU A 152"      "HETATM 5385 2H   HOH A2130"       1.684           -4.857   -9.755
+   3   "ATOM   2139  OH  TYR A 136"      "HETATM 5583 2H   HOH B2062"       1.702           -4.843  -14.598
+   4   "ATOM   3025  OE1 GLN B  40"      "HETATM 5457 2H   HOH B2020"       1.709           -4.841  -19.439
+   5   "HETATM 4995  O2  SO4 B1160"      "HETATM 5598 2H   HOH B2067"       1.689           -4.789  -24.229
+   6   "ATOM    710  OD2 ASP A  47"      "HETATM 5120 1H   HOH A2042"       1.690           -4.786  -29.015
+   7   "ATOM   2258  OD1 ASP A 143"      "HETATM 5366 1H   HOH A2124"       1.693           -4.732  -33.747
+   8   "ATOM    788  OE2 GLU A  52"      "HETATM 5163 2H   HOH A2056"       1.693           -4.729  -38.476
+   9   "HETATM 4983  O4  SO4 B1158"      "ATOM   4876  HG1 THR B 155"       1.676           -4.726  -43.203
+  10   "ATOM    327  O   MET A  22"      "HETATM 5265 2H   HOH A2090"       1.716           -4.725  -47.928
+  11   "HETATM 5236  O   HOH A2081"      "HETATM 5037 2H   HOH A2014"       1.713           -4.684  -52.612
+  12   "HETATM 5281  O   HOH A2096"      "HETATM 5291 1H   HOH A2099"       1.723           -4.654  -57.266
+  13   "ATOM   1169  OE1 GLU A  77"      "HETATM 5222 1H   HOH A2076"       1.659           -4.650  -61.916
+  14   "HETATM 5284  O   HOH A2097"      "HETATM 5279 1H   HOH A2095"       1.715           -4.627  -66.543
+  15   "ATOM   3757  OG1 THR B  88"      "ATOM   3788  HG  SER B  90"       1.714           -4.605  -71.148
+  16   "HETATM 5140  O   HOH A2049"      "HETATM 5043 2H   HOH A2016"       1.720           -4.602  -75.750
+  17   "ATOM   3528  OE1 GLU B  73"      "HETATM 5400 2H   HOH B2001"       1.698           -4.592  -80.343
+  18   "ATOM   3586  OE1 GLU B  77"      "HETATM 5516 1H   HOH B2040"       1.700           -4.570  -84.912
+  19   "HETATM 4984  O3  SO4 B1158"      "HETATM 5594 1H   HOH B2066"       1.689           -4.562  -89.474
+  20   "ATOM   3529  OE2 GLU B  73"      "HETATM 5402 1H   HOH B2002"       1.680           -4.552  -94.027
+  21   "ATOM   2007  OE1 GLN A 129"      "HETATM 5327 1H   HOH A2111"       1.733           -4.528  -98.555
+  22   "ATOM   3456  OE1 GLN B  69"      "HETATM 5519 1H   HOH B2041"       1.726           -4.496 -103.051
+  23   "ATOM    588  O   VAL A  39"      "HETATM 5108 1H   HOH A2038"       1.722           -4.495 -107.546
+  24   "ATOM   1364  O   SER A  90"      "HETATM 5234 1H   HOH A2080"       1.713           -4.473 -112.019
+  25   "ATOM     93  OG1 THR A   8"      "HETATM 5007 2H   HOH A2004"       1.749           -4.465 -116.484
+  26   "ATOM    366  O   LYS A  24"      "HETATM 5016 2H   HOH A2007"       1.720           -4.443 -120.927
+  27   "ATOM   3320  OG1 THR B  60"      "HETATM 5484 2H   HOH B2029"       1.741           -4.405 -125.331
+  28   "ATOM   3781  O   SER B  90"      "HETATM 5496 2H   HOH B2033"       1.717           -4.376 -129.708
+  29   "ATOM   4078  O   ASP B 109"      "HETATM 5537 1H   HOH B2047"       1.728           -4.359 -134.067
+  30   "ATOM   1198  OE1 GLU A  79"      "HETATM 5229 2H   HOH A2078"       1.715           -4.335 -138.401
+  31   "ATOM    875  O   GLY A  58"      "HETATM 5189 1H   HOH A2065"       1.708           -4.329 -142.730
+  32   "ATOM   1858  OG  SER A 121"      "HETATM 5307 2H   HOH A2104"       1.745           -4.312 -147.043
+  33   "ATOM   3077  OG1 THR B  44"      "HETATM 5472 2H   HOH B2025"       1.725           -4.307 -151.349
+  34   "ATOM   2468  OXT VAL A 156"      "HETATM 5394 2H   HOH A2133"       1.701           -4.290 -155.640
+  35   "ATOM   3835  O   THR B  94"      "HETATM 5522 1H   HOH B2042"       1.725           -4.289 -159.928
+  36   "ATOM    915  O   VAL A  61"      "HETATM 5153 1H   HOH A2053"       1.756           -4.271 -164.199
+  37   "ATOM   3238  OE1 GLN B  54"      "ATOM   3325  HG1 THR B  60"       1.699           -4.257 -168.456
+  38   "ATOM   4861  OD2 ASP B 154"      "HETATM 5595 2H   HOH B2066"       1.733           -4.241 -172.697
+  39   "HETATM 5098  O   HOH A2035"      "HETATM 5102 1H   HOH A2036"       1.745           -4.154 -176.851
+  40   "ATOM   2452  O   THR A 155"      "HETATM 5390 1H   HOH A2132"       1.742           -4.146 -180.997
+  41   "ATOM   4094  OE1 GLN B 110"      "HETATM 5544 2H   HOH B2049"       1.718           -4.143 -185.141
+  42   "ATOM   4082  OD2 ASP B 109"      "HETATM 5538 2H   HOH B2047"       1.731           -4.108 -189.249
+  43   "ATOM   2064  O   LYS A 132"      "HETATM 5339 1H   HOH A2115"       1.747           -4.099 -193.348
+  44   "ATOM   1661  O   ASP A 109"      "HETATM 5288 1H   HOH A2098"       1.757           -4.078 -197.426
+  45   "HETATM 5104  O   HOH A2037"      "HETATM 5103 2H   HOH A2036"       1.750           -4.025 -201.451
+  46   "ATOM   4160  O   LYS B 114"      "HETATM 5547 2H   HOH B2050"       1.732           -3.880 -205.332
+  47   "HETATM 5014  O   HOH A2007"      "HETATM 5045 1H   HOH A2017"       1.764           -3.824 -209.156
+  48   "HETATM 5401  O   HOH B2002"      "HETATM 5399 1H   HOH B2001"       1.766           -3.811 -212.967
+  49   "ATOM   3266  O   GLU B  56"      "ATOM   3901  HG  SER B  98"       1.732           -3.771 -216.738
+  50   "HETATM 5134  O   HOH A2047"      "HETATM 5132 1H   HOH A2046"       1.733           -3.770 -220.508
+  51   "ATOM   1111  OE1 GLU A  73"      "ATOM   2148  HH  TYR A 136"       1.579           -3.701 -224.209
+  52   "ATOM   3205  OE2 GLU B  52"      "HETATM 5453 1H   HOH B2019"       1.704           -3.596 -227.805
+  53   "ATOM   1446  O   VAL A  96"      "HETATM 5180 1H   HOH A2062"       1.743           -3.593 -231.398
+  54   "ATOM   3708  O   VAL B  85"      "HETATM 5501 1H   HOH B2035"       1.758           -3.563 -234.960
+  55   "ATOM    709  OD1 ASP A  47"      "HETATM 5123 1H   HOH A2043"       1.721           -3.455 -238.415
+  56   "HETATM 4973  O4  SO4 A1158"      "ATOM   1007 2HZ  LYS A  66"       1.526           -3.409 -241.824
+  57   "ATOM   1198  OE1 GLU A  79"      "ATOM    583 2HZ  LYS A  38"       1.542           -3.378 -245.202
+  58   "ATOM    626  OE2 GLU A  41"      "HETATM 5109 2H   HOH A2038"       1.767           -3.255 -248.457
+  59   "HETATM 5206  O   HOH A2071"      "ATOM   1286  HE2 HIS A  84"       1.593           -3.151 -251.608
+  60   "ATOM   3135  O   GLY B  48"      "HETATM 5420 1H   HOH B2008"       1.778           -3.017 -254.625
+  61   "HETATM 4995  O2  SO4 B1160"      "ATOM   4498 2HZ  LYS B 132"       1.502           -2.962 -257.587
+  62   "ATOM   2020  O   LYS A 130"      "HETATM 5333 1H   HOH A2113"       1.757           -2.941 -260.528
+  63   "ATOM   1777  O   MET A 116"      "HETATM 5078 1H   HOH A2028"       1.786           -2.917 -263.445
+  64   "ATOM   3615  OE1 GLU B  79"      "ATOM   2529  HE  ARG B   5"       1.760           -2.884 -266.329
+  65   "HETATM 5401  O   HOH B2002"      "ATOM   2484 1H   GLY B   2"       1.743           -2.872 -269.201
+  66   "ATOM   1418  O   THR A  94"      "HETATM 5240 1H   HOH A2082"       1.839           -2.811 -272.012
+  67   "HETATM 4980  O2  SO4 A1159"      "ATOM   1367  H   SER A  90"       1.686           -2.801 -274.813
+  68   "ATOM     31  NE  ARG A   5"      "ATOM    582 1HZ  LYS A  38"       2.194           -2.718 -277.531
+  69   "HETATM 5539  O   HOH B2048"      "ATOM   4103 2HE2 GLN B 110"       1.793           -2.705 -280.235
+  70   "HETATM 5176  O   HOH A2061"      "ATOM    829 1HE2 GLN A  54"       1.913           -2.698 -282.933
+  71   "HETATM 5209  O   HOH A2072"      "ATOM   2190 3HZ  LYS A 138"       1.872           -2.610 -285.544
+  72   "ATOM   2042  O   LYS A 131"      "HETATM 5336 1H   HOH A2114"       1.786           -2.607 -288.151
+  73   "ATOM   2564  OH  TYR B   7"      "ATOM   2999 1HZ  LYS B  38"       1.875           -2.603 -290.753
+  74   "ATOM   3987  O   CYS B 104"      "ATOM   2723  H   LEU B  20"       1.931           -2.579 -293.333
+  75   "ATOM   3123  O   ASP B  47"      "HETATM 5466 2H   HOH B2023"       1.792           -2.567 -295.900
+  76   "ATOM   1394  O   GLN A  92"      "HETATM 5193 2H   HOH A2066"       1.762           -2.510 -298.410
+  77   "HETATM 4897  OP3 8OG B1157"      "ATOM   2777 1HZ  LYS B  23"       2.034           -2.408 -300.818
+  78   "ATOM   3127  OD2 ASP B  47"      "HETATM 5468 1H   HOH B2024"       1.808           -2.390 -303.208
+  79   "HETATM 5035  O   HOH A2014"      "ATOM   1597  HE1 TRP A 105"       1.876           -2.380 -305.588
+  80   "ATOM   2323  OD2 ASP A 147"      "ATOM   2188 1HZ  LYS A 138"       1.717           -2.380 -307.968
+  81   "ATOM   3182  NH1 ARG B  51"      "ATOM   3033 1HE2 GLN B  40"       2.354           -2.356 -310.324
+  82   "ATOM   3452  O   GLN B  69"      "HETATM 5573 1H   HOH B2059"       1.772           -2.300 -312.624
+  83   "HETATM 5404  O   HOH B2003"      "ATOM   2505  H   SER B   4"       1.892           -2.284 -314.908
+  84   "ATOM   3616  OE2 GLU B  79"      "ATOM   2533 2HH2 ARG B   5"       1.754           -2.268 -317.175
+  85   "ATOM   1352  O   ASP A  89"      "ATOM    206 1HE2 GLN A  14"       1.895           -2.263 -319.438
+  86   "HETATM 5503  O   HOH B2036"      "ATOM   3703  HE2 HIS B  84"       1.739           -2.258 -321.696
+  87   "HETATM 5539  O   HOH B2048"      "ATOM   4054 1HE2 GLN B 107"       2.006           -2.233 -323.929
+  88   "ATOM   3234  O   GLN B  54"      "ATOM   3246 1HE2 GLN B  54"       2.028           -2.202 -326.131
+  89   "ATOM   2502  O   SER B   4"      "HETATM 5406 2H   HOH B2003"       1.834           -2.198 -328.329
+  90   "ATOM   2440  O   ASP A 154"      "ATOM   2082 3HZ  LYS A 132"       2.020           -2.177 -330.506
+  91   "ATOM    453  N   GLY A  30"      "HETATM 5015 1H   HOH A2007"       2.310           -2.142 -332.648
+  92   "ATOM    783  O   GLU A  52"      "ATOM    855  H   GLU A  56"       1.766           -2.130 -334.778
+  93   "ATOM     70  O   TYR A   7"      "ATOM   1284  HD1 HIS A  84"       1.899           -2.071 -336.849
+  94   "ATOM    742  NH2 ARG A  50"      "ATOM    958  H   LEU A  64"       2.328           -2.034 -338.883
+  95   "ATOM   2214  O   GLN A 140"      "ATOM   2271  H   THR A 144"       2.049           -1.989 -340.872
+  96   "ATOM     16  O   SER A   4"      "ATOM     23  HG  SER A   4"       1.876           -1.972 -342.844
+  97   "ATOM    229  OE1 GLN A  16"      "ATOM   1638 2HE2 GLN A 107"       2.110           -1.937 -344.781
+  98   "HETATM 5473  O   HOH B2026"      "ATOM   3423 1HZ  LYS B  66"       2.263           -1.922 -346.703
+  99   "ATOM   1352  O   ASP A  89"      "ATOM   1380  H   ILE A  91"       1.805           -1.913 -348.616
+ 100   "HETATM 5347  O   HOH A2118"      "ATOM   2117  HD1 HIS A 134"       1.873           -1.906 -350.522
+ 101   "ATOM   3922  OE2 GLU B 100"      "ATOM   3910  H   ASP B  99"       1.887           -1.897 -352.419
+ 102   "ATOM   1665  OD2 ASP A 109"      "ATOM   1686 2HE2 GLN A 110"       2.231           -1.897 -354.316
+ 103   "HETATM 4934  OP3 8OG A1157"      "ATOM    361 2HZ  LYS A  23"       1.892           -1.818 -356.134
+ 104   "ATOM   4880  N   VAL B 156"      "ATOM   4499 3HZ  LYS B 132"       2.782           -1.814 -357.948
+ 105   "HETATM 5107  O   HOH A2038"      "ATOM     44 1HH1 ARG A   5"       2.002           -1.804 -359.752
+ 106   "ATOM   1028  O   GLY A  68"      "ATOM   1295  H   VAL A  85"       1.881           -1.767 -361.520
+ 107   "HETATM 5545  O   HOH B2050"      "ATOM   2900 2HH2 ARG B  31"       2.028           -1.756 -363.276
+ 108   "ATOM   3597  O   PRO B  78"      "ATOM   2494  H   ALA B   3"       1.923           -1.747 -365.023
+ 109   "ATOM   3126  OD1 ASP B  47"      "HETATM 5469 2H   HOH B2024"       1.887           -1.742 -366.766
+ 110   "HETATM 5020  O   HOH A2009"      "ATOM   2037 2HZ  LYS A 130"       2.106           -1.721 -368.487
+ 111   "HETATM 5158  O   HOH A2055"      "ATOM    617 2HE2 GLN A  40"       1.940           -1.719 -370.206
+ 112   "HETATM 5035  O   HOH A2014"      "ATOM    261 1HH2 ARG A  17"       2.064           -1.714 -371.920
+ 113   "ATOM   3835  O   THR B  94"      "HETATM 5526 2H   HOH B2043"       1.907           -1.677 -373.597
+ 114   "ATOM   3772  OD1 ASP B  89"      "ATOM   3774  H   ASP B  89"       1.763           -1.642 -375.239
+ 115   "ATOM   2061  N   LYS A 132"      "HETATM 5334 2H   HOH A2113"       2.297           -1.595 -376.834
+ 116   "ATOM    246  NE  ARG A  17"      "HETATM 5027 1H   HOH A2011"       2.532           -1.576 -378.411
+ 117   "ATOM   1661  O   ASP A 109"      "ATOM   1695  H   ILE A 111"       1.956           -1.571 -379.982
+ 118   "ATOM    626  OE2 GLU A  41"      "ATOM     46 1HH2 ARG A   5"       2.217           -1.555 -381.537
+ 119   "ATOM   1479  OG  SER A  98"      "HETATM 5250 2H   HOH A2085"       1.968           -1.552 -383.089
+ 120   "ATOM    585  N   VAL A  39"      "HETATM 5006 1H   HOH A2004"       2.541           -1.543 -384.632
+ 121   "HETATM 5056  O   HOH A2021"      "ATOM    405 1HH1 ARG A  25"       2.147           -1.541 -386.173
+ 122   "ATOM   3529  OE2 GLU B  73"      "ATOM   4606 2HZ  LYS B 138"       2.274           -1.533 -387.706
+ 123   "ATOM   3215  O   LEU B  53"      "ATOM   3304  H   LEU B  59"       2.061           -1.510 -389.217
+
+
+    The following files will be written to "M:\MTH1 paper\Files mentioned in paper\Compare PDB and PM7 Chain A+B\":
+    'Compare 3ZR0 PDB and PM7.html'
+    'PDB original geometry.pdb'
+    'MTH1 A+B PM7 Optimized Geometry.pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

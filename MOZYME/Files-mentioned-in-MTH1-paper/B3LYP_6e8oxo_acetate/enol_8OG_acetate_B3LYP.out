@@ -1,0 +1,593 @@
+ *******************************************************************************
+ ** Site#: 10005        For non-commercial use only     Version 15.051W 64BITS**
+ *******************************************************************************
+ ** Cite this work as:                                                        **
+ **                                                                           **
+ ** (a) MOPAC2012, James J. P. Stewart, Stewart Computational Chemistry,      **
+ **  Version 15.051W web: HTTP://OpenMOPAC.net         Days remaining: 365    **
+ **                                                                           **
+ **                                 AND                                       **
+ **                                                                           **
+ ** (b) Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.     **
+ **                DOI: 10.1021/ct3004645.                                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2012                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                            PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Feb 20 15:13:44 2015  *
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(119B-1157) 
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(B) 
+ *  SETPI      - SOME OR ALL PI BONDS EXPLICITLY SET BY USER
+ *  MOZYME     - USE LOCALIZED M.O.s IN SOLVING THE SCF EQUATIONS
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM =    -1
+ *
+ *
+ *
+ *  EPS= 78.40 - USE ANDREAS KLAMT'S COSMO IMPLICIT SOLVATION MODEL
+ *  1SCF       - DO 1 SCF AND THEN STOP 
+ *  T=         - A TIME OF      2.0 WEEKS   REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  GNORM=     - EXIT WHEN GRADIENT NORM DROPS BELOW   5.00    
+ *  BONDS      - NON-HYDROGEN BOND-ORDERS TO BE PRINTED
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *  PL         - MONITOR CONVERGENCE IN DENSITY MATRIX
+ *******************************************************************************
+ START_RES=(119B-1157)  CHAINS=(B) 1SCF setpi charge=-1 mozyme opt gnorm=5 eps=78.4 pl t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+   ATOM                 CHEMICAL                   X               Y               Z
+  NUMBER                 SYMBOL               (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C(ATOM      1  CB  ASP B 119)   -9.20500000  *  -0.97100000  *  -0.36100000  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.77700000  *  -0.90800000  *   0.12600000  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.89700000  *  -1.39900000  *  -0.75700000  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.45800000  *  -0.44200000  *   1.24400000  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.31000000  *  -0.40100000  *  -1.29100000  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.48300000  *  -2.00700000  *  -0.58300000  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.11300000  *   0.39700000  *  -1.49300000  *
+     8       P(HETATM    8  P   8OG B1157)    6.31900000  *  -0.93200000  *  -0.44500000  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.66700000  *  -1.06000000  *   0.37600000  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.96400000  *  -2.19400000  *  -1.55200000  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.97000000  *  -0.74600000  *   0.56900000  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.57900000  *  -0.65800000  *   0.03700000  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.16200000  *   0.80300000  *  -0.10900000  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.78100000  *   0.79400000  *  -0.63200000  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.83800000  *   1.22200000  *   0.43000000  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.67600000  *   1.31100000  *   1.71800000  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.28700000  *   0.32000000  *   0.48400000  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.26000000  *  -1.02800000  *   0.91800000  *
+    19       O(HETATM   19  O8  8OG B1157)    0.72600000  *  -1.65200000  *   1.39000000  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.54000000  *  -1.50500000  *   0.71600000  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.35700000  *  -0.50600000  *   0.15700000  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.71500000  *  -0.45900000  *  -0.23600000  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.51100000  *  -1.48900000  *  -0.11500000  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.15500000  *   0.73400000  *  -0.75700000  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.29800000  *   1.78300000  *  -0.86600000  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.97900000  *   1.80200000  *  -0.50100000  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.57000000  *   0.62600000  *   0.00300000  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.80000000  *   2.93900000  *  -1.39300000  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.09900000  *   1.57900000  *   1.21000000  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.28900000  *   2.98400000  *   0.85200000  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.22600000  *  -3.09800000  *  -1.27200000  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.51100000  *  -1.17400000  *  -0.92300000  *
+    33       H(HETATM   33 2H5P 8OG B1157)    2.96200000  *  -1.17800000  *   0.77000000  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.43200000  *   2.19000000  *   0.13400000  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.63800000  *   0.36300000  *   2.25800000  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.31700000  *   2.10400000  *   2.38000000  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.76300000  *   2.98000000  *  -1.67700000  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.20700000  *   3.74500000  *  -1.49600000  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.82400000  *  -2.44400000  *   0.94400000  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.79700000  *   1.32100000  *  -0.83000000  *
+    41       H(HETATM   41  H3P 8OG B1157)    3.24400000  *   3.54000000  *   1.65600000  *
+    42       H(HETATM   42  H3P 8OG B1157)    3.87100000  *   1.25500000  *   1.91500000  *
+    43       H(HETATM   43  H6  8OG B1157)   -5.85000000  *  -1.36900000  *  -0.45500000  *
+    44       H(HETATM   44  H8  8OG B1157)   -9.88000000  *  -0.56500000  *   0.39300000  *
+    45       H(HETATM   45  H9  8OG B1157)    6.66900000  *   0.40400000  *  -2.30200000  *
+ 
+
+           Keyword SETPI used, pi bonds specified are:
+
+               Bond No.          Atom    to    Atom
+                  1             C   21   -    C   27
+                  2             C   22   -    N   24
+                  3             C   25   -    N   26
+
+     ===================== shared-memory parallel CPU Section ======================
+     **                                                                           **
+     **  MOPAC calculations will run in shared-memory parallel CPUs               **
+     **                                                                           **
+     **  Number of Threads =  4                                                   **
+     **                                                                           **
+     **                                                                           **
+     **  For information on this work, see:                                       **
+     **                                                                           **
+     **  Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.        **
+     **        DOI: 10.1021/ct3004645.                                            **
+     **                                                                           **
+     ===================== shared-memory parallel CPU Section ======================
+      
+
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+                RESIDUE SEQUENCE IN PROTEIN Chain: B
+
+             1     2     3     4     5     6     7     8     9    10
+      110                                                   ASP   
+
+                RESIDUE SEQUENCE IN PROTEIN Chain: B
+
+      110          D
+
+ Ion Atom No.           Label               Charge
+ 
+  1   P    8   (HETATM    8  P   8OG B1157)   +1  (1.6 Angstroms from anion  O    9, Label: HETATM    9  OP1 8OG B1157)
+ 
+  1   O    9   (HETATM    9  OP1 8OG B1157)   -1  (1.6 Angstroms from cation  P    8, Label: HETATM    8  P   8OG B1157)
+  2   O   23   (HETATM   23  O6  8OG B1157)   -1
+
+                  COMPUTED CHARGE ON SYSTEM:  -1
+
+ PLS ESCF USING THE OLD LMOs:     3044.916350 KCAL/MOL
+
+ ITER.      1 PLS= 0.706E+01           ENERGY     873.22246 DELTAE  873.2224648
+ ITER.      2 PLS= 0.752E+01           ENERGY    -135.95833 DELTAE-1009.1807949
+ ITER.      3 PLS= 0.194E+01           ENERGY    -553.07162 DELTAE -417.1132900
+ ITER.      4 PLS= 0.149E+01           ENERGY    -549.78972 DELTAE    3.2818959
+ ITER.      5 PLS= 0.544E+01           ENERGY    -523.13664 DELTAE   26.6530890
+ ITER.      6 PLS= 0.993E+00           ENERGY    -631.82305 DELTAE -108.6864105
+ ITER.      7 PLS= 0.101E+01           ENERGY    -518.20826 DELTAE  113.6147841
+ ITER.      8 PLS= 0.435E+01           ENERGY    -551.68649 DELTAE  -33.4782307
+ ITER.      9 PLS= 0.319E+00           ENERGY    -561.31371 DELTAE   -9.6272215
+ ITER.     10 PLS= 0.192E+01           ENERGY    -574.24831 DELTAE  -12.9346009
+ ITER.     11 PLS= 0.192E+00           ENERGY    -577.47884 DELTAE   -3.2305273
+ ITER.     12 PLS= 0.132E+00           ENERGY    -581.73690 DELTAE   -4.2580585
+ ITER.     13 PLS= 0.173E+00           ENERGY    -578.86645 DELTAE    2.8704531
+ ITER.     14 PLS= 0.478E-01           ENERGY    -578.99826 DELTAE   -0.1318096
+ ITER.     15 PLS= 0.380E-01           ENERGY    -579.28575 DELTAE   -0.2874965
+ ITER.     16 PLS= 0.656E-01           ENERGY    -579.17157 DELTAE    0.1141804
+ ITER.     17 PLS= 0.186E-01           ENERGY    -579.18378 DELTAE   -0.0122101
+ ITER.     18 PLS= 0.143E-01           ENERGY    -579.19066 DELTAE   -0.0068801
+ ITER.     19 PLS= 0.117E-01           ENERGY    -579.19479 DELTAE   -0.0041231
+
+ -------------------------------------------------------------------------------
+ START_RES=(119B-1157)  CHAINS=(B) 1SCF setpi charge=-1 mozyme opt gnorm=5 eps=78.4 pl t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+
+
+     1SCF WAS SPECIFIED, SO BFGS WAS NOT USED                 
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2012 (Version: 15.051W)
+                                                       Fri Feb 20 15:13:46 2015
+                                                       No. of days left = 365
+
+
+
+
+          FINAL HEAT OF FORMATION =       -579.19479 KCAL/MOL =   -2423.35099 KJ/MOL
+          VAN DER WAALS AREA      =        399.05 SQUARE ANGSTROMS
+
+
+          TOTAL ENERGY            =      -5772.10013 EV
+          ELECTRONIC ENERGY       =     -41409.55221 EV
+          CORE-CORE REPULSION     =      35405.11733 EV
+          DIELECTRIC ENERGY       =         -4.01321 EV
+          COSMO AREA              =        399.05 SQUARE ANGSTROMS
+          COSMO VOLUME            =        436.23 CUBIC ANGSTROMS
+
+          NO. OF FILLED LEVELS    =         78
+          MOLECULAR WEIGHT        =        422.268
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            O     9    H    44    17.55399
+            H    41    H    31     7.17456
+            H    38    O    19     4.79305
+
+
+          SCF CALCULATIONS        =          1
+ 
+          WALL-CLOCK TIME         =          1.625 SECONDS
+          COMPUTATION TIME        =          1.622 SECONDS
+
+
+
+
+   ATOM                 CHEMICAL                   X               Y               Z
+  NUMBER                 SYMBOL               (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C(ATOM      1  CB  ASP B 119)   -9.20500000  *  -0.97100000  *  -0.36100000  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.77700000  *  -0.90800000  *   0.12600000  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.89700000  *  -1.39900000  *  -0.75700000  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.45800000  *  -0.44200000  *   1.24400000  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.31000000  *  -0.40100000  *  -1.29100000  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.48300000  *  -2.00700000  *  -0.58300000  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.11300000  *   0.39700000  *  -1.49300000  *
+     8       P(HETATM    8  P   8OG B1157)    6.31900000  *  -0.93200000  *  -0.44500000  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.66700000  *  -1.06000000  *   0.37600000  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.96400000  *  -2.19400000  *  -1.55200000  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.97000000  *  -0.74600000  *   0.56900000  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.57900000  *  -0.65800000  *   0.03700000  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.16200000  *   0.80300000  *  -0.10900000  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.78100000  *   0.79400000  *  -0.63200000  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.83800000  *   1.22200000  *   0.43000000  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.67600000  *   1.31100000  *   1.71800000  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.28700000  *   0.32000000  *   0.48400000  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.26000000  *  -1.02800000  *   0.91800000  *
+    19       O(HETATM   19  O8  8OG B1157)    0.72600000  *  -1.65200000  *   1.39000000  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.54000000  *  -1.50500000  *   0.71600000  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.35700000  *  -0.50600000  *   0.15700000  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.71500000  *  -0.45900000  *  -0.23600000  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.51100000  *  -1.48900000  *  -0.11500000  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.15500000  *   0.73400000  *  -0.75700000  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.29800000  *   1.78300000  *  -0.86600000  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.97900000  *   1.80200000  *  -0.50100000  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.57000000  *   0.62600000  *   0.00300000  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.80000000  *   2.93900000  *  -1.39300000  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.09900000  *   1.57900000  *   1.21000000  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.28900000  *   2.98400000  *   0.85200000  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.22600000  *  -3.09800000  *  -1.27200000  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.51100000  *  -1.17400000  *  -0.92300000  *
+    33       H(HETATM   33 2H5P 8OG B1157)    2.96200000  *  -1.17800000  *   0.77000000  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.43200000  *   2.19000000  *   0.13400000  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.63800000  *   0.36300000  *   2.25800000  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.31700000  *   2.10400000  *   2.38000000  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.76300000  *   2.98000000  *  -1.67700000  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.20700000  *   3.74500000  *  -1.49600000  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.82400000  *  -2.44400000  *   0.94400000  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.79700000  *   1.32100000  *  -0.83000000  *
+    41       H(HETATM   41 1H3P 8OG B1157)    3.24400000  *   3.54000000  *   1.65600000  *
+    42       H(HETATM   42 2H3P 8OG B1157)    3.87100000  *   1.25500000  *   1.91500000  *
+    43       H(HETATM   43  H6  8OG B1157)   -5.85000000  *  -1.36900000  *  -0.45500000  *
+    44       H(HETATM   44  H8  8OG B1157)   -9.88000000  *  -0.56500000  *   0.39300000  *
+    45       H(HETATM   45  H9  8OG B1157)    6.66900000  *   0.40400000  *  -2.30200000  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       -9.205000000    -0.971000000    -0.361000000
+   2    C       -7.777000000    -0.908000000     0.126000000
+   3    O       -6.897000000    -1.399000000    -0.757000000
+   4    O       -7.458000000    -0.442000000     1.244000000
+   5    H       -9.310000000    -0.401000000    -1.291000000
+   6    H       -9.483000000    -2.007000000    -0.583000000
+   7    O        6.113000000     0.397000000    -1.493000000
+   8    P        6.319000000    -0.932000000    -0.445000000
+   9    O        7.667000000    -1.060000000     0.376000000
+  10    O        5.964000000    -2.194000000    -1.552000000
+  11    O        4.970000000    -0.746000000     0.569000000
+  12    C        3.579000000    -0.658000000     0.037000000
+  13    C        3.162000000     0.803000000    -0.109000000
+  14    O        1.781000000     0.794000000    -0.632000000
+  15    C        0.838000000     1.222000000     0.430000000
+  16    C        1.676000000     1.311000000     1.718000000
+  17    N       -0.287000000     0.320000000     0.484000000
+  18    C       -0.260000000    -1.028000000     0.918000000
+  19    O        0.726000000    -1.652000000     1.390000000
+  20    N       -1.540000000    -1.505000000     0.716000000
+  21    C       -2.357000000    -0.506000000     0.157000000
+  22    C       -3.715000000    -0.459000000    -0.236000000
+  23    O       -4.511000000    -1.489000000    -0.115000000
+  24    N       -4.155000000     0.734000000    -0.757000000
+  25    C       -3.298000000     1.783000000    -0.866000000
+  26    N       -1.979000000     1.802000000    -0.501000000
+  27    C       -1.570000000     0.626000000     0.003000000
+  28    N       -3.800000000     2.939000000    -1.393000000
+  29    C        3.099000000     1.579000000     1.210000000
+  30    O        3.289000000     2.984000000     0.852000000
+  31    H        6.226000000    -3.098000000    -1.272000000
+  32    H        3.511000000    -1.174000000    -0.923000000
+  33    H        2.962000000    -1.178000000     0.770000000
+  34    H        0.432000000     2.190000000     0.134000000
+  35    H        1.638000000     0.363000000     2.258000000
+  36    H        1.317000000     2.104000000     2.380000000
+  37    H       -4.763000000     2.980000000    -1.677000000
+  38    H       -3.207000000     3.745000000    -1.496000000
+  39    H       -1.824000000    -2.444000000     0.944000000
+  40    H        3.797000000     1.321000000    -0.830000000
+  41    H        3.244000000     3.540000000     1.656000000
+  42    H        3.871000000     1.255000000     1.915000000
+  43    H       -5.850000000    -1.369000000    -0.455000000
+  44    H       -9.880000000    -0.565000000     0.393000000
+  45    H        6.669000000     0.404000000    -2.302000000
+
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.                 TYPE                        CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C(ATOM      1  CB  ASP B 119)          -0.528972        4.5290     1.06547     3.46350
+    2          C(ATOM      2  CG  ASP B 119)           0.752621        3.2474     1.11491     2.13247
+    3          O(ATOM      3  OD1 ASP B 119)          -0.669294        6.6693     1.85634     4.81295
+    4          O(ATOM      4  OD2 ASP B 119)          -0.702820        6.7028     1.89209     4.81073
+    5          H(ATOM      5 1HB  ASP B 119)           0.194706        0.8053     0.80529
+    6          H(ATOM      6 2HB  ASP B 119)           0.193534        0.8065     0.80647
+    7          O(HETATM    7  OP3 8OG B1157)          -0.341149        6.3411     1.84370     4.49745
+    8          P(HETATM    8  P   8OG B1157)           0.280985        4.7190     1.75395     2.83626     0.12880
+    9          O(HETATM    9  OP1 8OG B1157)          -0.342328        6.3423     1.92041     4.42192
+   10          O(HETATM   10  OP2 8OG B1157)          -0.395711        6.3957     1.84263     4.55308
+   11          O(HETATM   11  O5P 8OG B1157)          -0.147635        6.1476     1.89093     4.25671
+   12          C(HETATM   12  C5P 8OG B1157)          -0.100235        4.1002     1.10033     2.99991
+   13          C(HETATM   13  C4P 8OG B1157)           0.065772        3.9342     1.10545     2.82878
+   14          O(HETATM   14  O4P 8OG B1157)          -0.472384        6.4724     1.90659     4.56579
+   15          C(HETATM   15  C1P 8OG B1157)           0.332509        3.6675     1.09524     2.57225
+   16          C(HETATM   16  C2P 8OG B1157)          -0.389272        4.3893     1.08097     3.30830
+   17          N(HETATM   17  N9  8OG B1157)          -0.464345        5.4643     1.56760     3.89674
+   18          C(HETATM   18  C8  8OG B1157)           0.672161        3.3278     1.03772     2.29012
+   19          O(HETATM   19  O8  8OG B1157)          -0.639463        6.6395     1.89955     4.73992
+   20          N(HETATM   20  N7  8OG B1157)          -0.431538        5.4315     1.52398     3.90755
+   21          C(HETATM   21  C5  8OG B1157)          -0.271150        4.2712     1.03045     3.24070
+   22          C(HETATM   22  C6  8OG B1157)           0.645733        3.3543     1.05464     2.29963
+   23          O(HETATM   23  O6  8OG B1157)          -0.706171        6.7062     1.89092     4.81525
+   24          N(HETATM   24  N1  8OG B1157)          -0.736790        5.7368     1.76442     3.97237
+   25          C(HETATM   25  C2  8OG B1157)           0.589479        3.4105     1.03169     2.37883
+   26          N(HETATM   26  N3  8OG B1157)          -0.668617        5.6686     1.76587     3.90274
+   27          C(HETATM   27  C4  8OG B1157)           0.385275        3.6147     1.03185     2.58287
+   28          N(HETATM   28  N2  8OG B1157)          -0.581633        5.5816     1.51712     4.06451
+   29          C(HETATM   29  C3P 8OG B1157)           0.135136        3.8649     1.09829     2.76658
+   30          O(HETATM   30  O3P 8OG B1157)          -0.620477        6.6205     1.85929     4.76119
+   31          H(HETATM   31  HP2 8OG B1157)           0.349302        0.6507     0.65070
+   32          H(HETATM   32 1H5P 8OG B1157)           0.173253        0.8267     0.82675
+   33          H(HETATM   33 2H5P 8OG B1157)           0.182751        0.8172     0.81725
+   34          H(HETATM   34  H1P 8OG B1157)           0.166766        0.8332     0.83323
+   35          H(HETATM   35 1H2P 8OG B1157)           0.195002        0.8050     0.80500
+   36          H(HETATM   36 2H2P 8OG B1157)           0.184200        0.8158     0.81580
+   37          H(HETATM   37 1H2  8OG B1157)           0.345216        0.6548     0.65478
+   38          H(HETATM   38 2H2  8OG B1157)           0.346035        0.6540     0.65397
+   39          H(HETATM   39  H7  8OG B1157)           0.373004        0.6270     0.62700
+   40          H(HETATM   40  H4P 8OG B1157)           0.169896        0.8301     0.83010
+   41          H(HETATM   41 1H3P 8OG B1157)           0.353803        0.6462     0.64620
+   42          H(HETATM   42 2H3P 8OG B1157)           0.156512        0.8435     0.84349
+   43          H(HETATM   43  H6  8OG B1157)           0.435725        0.5643     0.56428
+   44          H(HETATM   44  H8  8OG B1157)           0.184295        0.8157     0.81570
+   45          H(HETATM   45  H9  8OG B1157)           0.346314        0.6537     0.65369
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    13.168     4.732    -2.280    14.177
+ HYBRID         0.855    -0.777     0.105     1.161
+ SUM           14.023     3.954    -2.175    14.731
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+    Atom      s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.06547   1.05360   1.21404   1.19587
+    2  C   1.11491   0.80916   0.60834   0.71497
+    3  O   1.85634   1.47808   1.75879   1.57608
+    4  O   1.89209   1.86958   1.58444   1.35671
+    5  H   0.80529
+    6  H   0.80647
+    7  O   1.84370   1.66051   1.36637   1.47057
+    8  P   1.75395   0.97591   0.92377   0.93658   0.02931   0.02606   0.02434   0.02625   0.02285
+    9  O   1.92041   1.06720   1.79958   1.55514
+   10  O   1.84263   1.81254   1.33156   1.40898
+   11  O   1.89093   1.18100   1.87907   1.19664
+   12  C   1.10033   0.80068   1.02905   1.17018
+   13  C   1.10545   0.81457   0.99548   1.01873
+   14  O   1.90659   1.24888   1.91033   1.40658
+   15  C   1.09524   0.78625   0.91475   0.87126
+   16  C   1.08097   1.03130   1.20418   1.07282
+   17  N   1.56760   1.14576   1.19377   1.55721
+   18  C   1.03772   0.76861   0.74318   0.77833
+   19  O   1.89955   1.43448   1.67404   1.63140
+   20  N   1.52398   1.13624   1.21329   1.55802
+   21  C   1.03045   1.01164   0.94007   1.28899
+   22  C   1.05464   0.81184   0.76998   0.71781
+   23  O   1.89092   1.61541   1.44167   1.75817
+   24  N   1.76442   1.40593   1.11867   1.44776
+   25  C   1.03169   0.77379   0.80537   0.79967
+   26  N   1.76587   1.20135   1.29006   1.41133
+   27  C   1.03185   0.82381   0.87849   0.88057
+   28  N   1.51712   1.24985   1.18958   1.62508
+   29  C   1.09829   0.99958   0.76145   1.00555
+   30  O   1.85929   1.96701   1.31012   1.48405
+   31  H   0.65070
+   32  H   0.82675
+   33  H   0.81725
+   34  H   0.83323
+   35  H   0.80500
+   36  H   0.81580
+   37  H   0.65478
+   38  H   0.65397
+   39  H   0.62700
+   40  H   0.83010
+   41  H   0.64620
+   42  H   0.84349
+   43  H   0.56428
+   44  H   0.81570
+   45  H   0.65369
+
+                          BOND ORDERS BETWEEN ATOMS (VALENCIES)
+
+     1  C(ATOM      1  CB  ASP B 119)     (3.904) C(ATOM      2  CG  ASP B 119) 0.976
+                                                  H(HETATM   44  H8  8OG B1157) 0.954
+                                                  H(ATOM      6 2HB  ASP B 119) 0.942
+ 
+     2  C(ATOM      2  CG  ASP B 119)     (3.703) O(ATOM      4  OD2 ASP B 119) 1.576
+                                                  O(ATOM      3  OD1 ASP B 119) 1.112
+                                                  C(ATOM      1  CB  ASP B 119) 0.976
+ 
+     3  O(ATOM      3  OD1 ASP B 119)     (2.035) C(ATOM      2  CG  ASP B 119) 1.112
+                                                  H(HETATM   43  H6  8OG B1157) 0.589
+                                                  O(ATOM      4  OD2 ASP B 119) 0.139
+ 
+     4  O(ATOM      4  OD2 ASP B 119)     (1.880) C(ATOM      2  CG  ASP B 119) 1.576
+                                                  O(ATOM      3  OD1 ASP B 119) 0.139
+                                                  C(ATOM      1  CB  ASP B 119) 0.047
+ 
+     5  H(ATOM      5 1HB  ASP B 119)     (0.962) C(ATOM      1  CB  ASP B 119) 0.941
+ 
+     6  H(ATOM      6 2HB  ASP B 119)     (0.963) C(ATOM      1  CB  ASP B 119) 0.942
+ 
+     7  O(HETATM    7  OP3 8OG B1157)     (2.297) H(HETATM   45  H9  8OG B1157) 0.847
+                                                  P(HETATM    8  P   8OG B1157) 0.819
+                                                  O(HETATM    9  OP1 8OG B1157) 0.184
+ 
+     8  P(HETATM    8  P   8OG B1157)     (3.421) O(HETATM    9  OP1 8OG B1157) 1.163
+                                                  O(HETATM    7  OP3 8OG B1157) 0.819
+                                                  O(HETATM   11  O5P 8OG B1157) 0.817
+ 
+     9  O(HETATM    9  OP1 8OG B1157)     (1.976) P(HETATM    8  P   8OG B1157) 1.163
+                                                  O(HETATM   10  OP2 8OG B1157) 0.186
+                                                  O(HETATM   11  O5P 8OG B1157) 0.185
+ 
+    10  O(HETATM   10  OP2 8OG B1157)     (2.213) H(HETATM   31  HP2 8OG B1157) 0.847
+                                                  P(HETATM    8  P   8OG B1157) 0.792
+                                                  O(HETATM    9  OP1 8OG B1157) 0.186
+ 
+    11  O(HETATM   11  O5P 8OG B1157)     (2.292) C(HETATM   12  C5P 8OG B1157) 0.922
+                                                  P(HETATM    8  P   8OG B1157) 0.817
+                                                  O(HETATM    9  OP1 8OG B1157) 0.185
+ 
+    12  C(HETATM   12  C5P 8OG B1157)     (3.901) C(HETATM   13  C4P 8OG B1157) 0.982
+                                                  H(HETATM   32 1H5P 8OG B1157) 0.953
+                                                  H(HETATM   33 2H5P 8OG B1157) 0.939
+ 
+    13  C(HETATM   13  C4P 8OG B1157)     (3.928) C(HETATM   29  C3P 8OG B1157) 0.989
+                                                  C(HETATM   12  C5P 8OG B1157) 0.982
+                                                  H(HETATM   40  H4P 8OG B1157) 0.946
+ 
+    14  O(HETATM   14  O4P 8OG B1157)     (2.039) C(HETATM   13  C4P 8OG B1157) 0.921
+                                                  C(HETATM   15  C1P 8OG B1157) 0.910
+                                                  N(HETATM   17  N9  8OG B1157) 0.028
+ 
+    15  C(HETATM   15  C1P 8OG B1157)     (3.870) C(HETATM   16  C2P 8OG B1157) 0.987
+                                                  H(HETATM   34  H1P 8OG B1157) 0.945
+                                                  O(HETATM   14  O4P 8OG B1157) 0.910
+ 
+    16  C(HETATM   16  C2P 8OG B1157)     (3.940) C(HETATM   15  C1P 8OG B1157) 0.987
+                                                  C(HETATM   29  C3P 8OG B1157) 0.983
+                                                  H(HETATM   36 2H2P 8OG B1157) 0.949
+ 
+    17  N(HETATM   17  N9  8OG B1157)     (3.268) C(HETATM   27  C4  8OG B1157) 1.066
+                                                  C(HETATM   18  C8  8OG B1157) 0.995
+                                                  C(HETATM   15  C1P 8OG B1157) 0.881
+ 
+    18  C(HETATM   18  C8  8OG B1157)     (3.829) O(HETATM   19  O8  8OG B1157) 1.502
+                                                  N(HETATM   20  N7  8OG B1157) 1.200
+                                                  N(HETATM   17  N9  8OG B1157) 0.995
+ 
+    19  O(HETATM   19  O8  8OG B1157)     (1.969) C(HETATM   18  C8  8OG B1157) 1.502
+                                                  N(HETATM   20  N7  8OG B1157) 0.131
+                                                  N(HETATM   17  N9  8OG B1157) 0.092
+ 
+    20  N(HETATM   20  N7  8OG B1157)     (3.308) C(HETATM   18  C8  8OG B1157) 1.200
+                                                  C(HETATM   21  C5  8OG B1157) 1.000
+                                                  H(HETATM   39  H7  8OG B1157) 0.813
+ 
+    21  C(HETATM   21  C5  8OG B1157)     (3.866) C(HETATM   27  C4  8OG B1157) 1.355
+                                                  C(HETATM   22  C6  8OG B1157) 1.143
+                                                  N(HETATM   20  N7  8OG B1157) 1.000
+ 
+    22  C(HETATM   22  C6  8OG B1157)     (3.825) O(HETATM   23  O6  8OG B1157) 1.327
+                                                  N(HETATM   24  N1  8OG B1157) 1.234
+                                                  C(HETATM   21  C5  8OG B1157) 1.143
+ 
+    23  O(HETATM   23  O6  8OG B1157)     (1.922) C(HETATM   22  C6  8OG B1157) 1.327
+                                                  H(HETATM   43  H6  8OG B1157) 0.197
+                                                  N(HETATM   24  N1  8OG B1157) 0.087
+ 
+    24  N(HETATM   24  N1  8OG B1157)     (2.913) C(HETATM   25  C2  8OG B1157) 1.250
+                                                  C(HETATM   22  C6  8OG B1157) 1.234
+                                                  O(HETATM   23  O6  8OG B1157) 0.087
+ 
+    25  C(HETATM   25  C2  8OG B1157)     (3.867) N(HETATM   28  N2  8OG B1157) 1.258
+                                                  N(HETATM   24  N1  8OG B1157) 1.250
+                                                  N(HETATM   26  N3  8OG B1157) 1.219
+ 
+    26  N(HETATM   26  N3  8OG B1157)     (2.962) C(HETATM   27  C4  8OG B1157) 1.292
+                                                  C(HETATM   25  C2  8OG B1157) 1.219
+                                                  N(HETATM   28  N2  8OG B1157) 0.065
+ 
+    27  C(HETATM   27  C4  8OG B1157)     (3.929) C(HETATM   21  C5  8OG B1157) 1.355
+                                                  N(HETATM   26  N3  8OG B1157) 1.292
+                                                  N(HETATM   17  N9  8OG B1157) 1.066
+ 
+    28  N(HETATM   28  N2  8OG B1157)     (3.191) C(HETATM   25  C2  8OG B1157) 1.258
+                                                  H(HETATM   37 1H2  8OG B1157) 0.845
+                                                  H(HETATM   38 2H2  8OG B1157) 0.845
+ 
+    29  C(HETATM   29  C3P 8OG B1157)     (3.912) C(HETATM   13  C4P 8OG B1157) 0.989
+                                                  C(HETATM   16  C2P 8OG B1157) 0.983
+                                                  H(HETATM   42 2H3P 8OG B1157) 0.954
+ 
+    30  O(HETATM   30  O3P 8OG B1157)     (1.914) C(HETATM   29  C3P 8OG B1157) 0.921
+                                                  H(HETATM   41 1H3P 8OG B1157) 0.862
+                                                  C(HETATM   16  C2P 8OG B1157) 0.019
+ 
+    31  H(HETATM   31  HP2 8OG B1157)     (0.878) O(HETATM   10  OP2 8OG B1157) 0.847
+                                                  P(HETATM    8  P   8OG B1157) 0.018
+                                                  O(HETATM    7  OP3 8OG B1157) 0.010
+ 
+    32  H(HETATM   32 1H5P 8OG B1157)     (0.970) C(HETATM   12  C5P 8OG B1157) 0.953
+ 
+    33  H(HETATM   33 2H5P 8OG B1157)     (0.967) C(HETATM   12  C5P 8OG B1157) 0.939
+ 
+    34  H(HETATM   34  H1P 8OG B1157)     (0.972) C(HETATM   15  C1P 8OG B1157) 0.945
+ 
+    35  H(HETATM   35 1H2P 8OG B1157)     (0.962) C(HETATM   16  C2P 8OG B1157) 0.944
+ 
+    36  H(HETATM   36 2H2P 8OG B1157)     (0.966) C(HETATM   16  C2P 8OG B1157) 0.949
+ 
+    37  H(HETATM   37 1H2  8OG B1157)     (0.881) N(HETATM   28  N2  8OG B1157) 0.845
+                                                  C(HETATM   25  C2  8OG B1157) 0.012
+ 
+    38  H(HETATM   38 2H2  8OG B1157)     (0.880) N(HETATM   28  N2  8OG B1157) 0.845
+                                                  C(HETATM   25  C2  8OG B1157) 0.013
+ 
+    39  H(HETATM   39  H7  8OG B1157)     (0.861) N(HETATM   20  N7  8OG B1157) 0.813
+                                                  C(HETATM   18  C8  8OG B1157) 0.012
+                                                  C(HETATM   21  C5  8OG B1157) 0.012
+ 
+    40  H(HETATM   40  H4P 8OG B1157)     (0.971) C(HETATM   13  C4P 8OG B1157) 0.946
+ 
+    41  H(HETATM   41 1H3P 8OG B1157)     (0.875) O(HETATM   30  O3P 8OG B1157) 0.862
+ 
+    42  H(HETATM   42 2H3P 8OG B1157)     (0.976) C(HETATM   29  C3P 8OG B1157) 0.954
+ 
+    43  H(HETATM   43  H6  8OG B1157)     (0.810) O(ATOM      3  OD1 ASP B 119) 0.589
+                                                  O(HETATM   23  O6  8OG B1157) 0.197
+                                                  C(ATOM      1  CB  ASP B 119) 0.010
+ 
+    44  H(HETATM   44  H8  8OG B1157)     (0.966) C(ATOM      1  CB  ASP B 119) 0.954
+ 
+    45  H(HETATM   45  H9  8OG B1157)     (0.880) O(HETATM    7  OP3 8OG B1157) 0.847
+                                                  P(HETATM    8  P   8OG B1157) 0.019
+                                                  O(HETATM   11  O5P 8OG B1157) 0.010
+ 
+
+          JOB ENDED NORMALLY
+
+
+
+ TOTAL JOB TIME:             1.64 SECONDS
+
+ == MOPAC DONE ==

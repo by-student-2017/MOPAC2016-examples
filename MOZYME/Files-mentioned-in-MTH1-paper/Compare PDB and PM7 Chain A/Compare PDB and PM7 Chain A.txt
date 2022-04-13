@@ -1,0 +1,3 @@
+#
+# Script for use with the HTML file "Compare PDB and PM7 Chain A.html"
+#

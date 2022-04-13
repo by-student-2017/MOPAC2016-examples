@@ -1,0 +1,2 @@
+geo_dat="MTH1 chain A PM7 Optimized geometry_no_H.ent" geo_ref="3ZR0 Chain A Everything neutral.ent" 0scf output HTML
+Compare Geometries of Ionized and Neutral PM7 Chain A

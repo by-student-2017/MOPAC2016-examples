@@ -1,0 +1,135 @@
+ *******************************************************************************
+ ** Site#: 23746        For non-commercial use only     Version 16.070W 64BITS**
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 16.070W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 366**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Thu Mar 10 22:09:05 2016  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(3A 1157A-2001) 
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "MTH1 CHAIN A PM7 OPTIMIZED GEOMETRY_NO_H.ENT"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "3ZR0 CHAIN A EVERYTHING NEUTRAL.ENT"
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(AA) 
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+ START_RES=(3A 1157A-2001)  CHAINS=(AA) geo_dat="MTH1 chain A PM7 Optimized geometry_no_H.ent" geo_ref="3ZR0 Chain A Everything neutral.ent" 0scf output HTML
+ Compare Geometries of Ionized and Neutral PM7 Chain A
+
+ 
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+    1309    (HETATM 2597  O   HOH A2021) -13.113 -13.844 -18.921        5.29        5.29
+     517    (ATOM   1036  NE2 GLN A  69)  -1.192  -0.990  -8.020        4.17        9.46
+    1412    (HETATM 2906  O   HOH A2124)  12.031 -10.014 -23.001        3.96       13.42
+    1398    (HETATM 2864  O   HOH A2110)  14.876  -8.005  -1.969        3.64       17.06
+    1328    (HETATM 2654  O   HOH A2040) -18.199   3.222 -13.323        3.21       20.27
+    1349    (HETATM 2717  O   HOH A2061) -17.106 -11.439 -13.418        2.92       23.19
+     318    (ATOM    641  OE2 GLU A  43) -15.520  -5.991  -9.433        2.91       26.10
+    1282    (HETATM 2526  O3  SO4 A1158)  -1.956  -5.406   4.323        2.79       28.89
+    1376    (HETATM 2798  O   HOH A2088) -13.296 -16.430 -18.217        2.79       31.68
+    1360    (HETATM 2750  O   HOH A2072)   6.835   5.765 -24.147        2.76       34.44
+    1304    (HETATM 2582  O   HOH A2016) -14.701 -12.562  -3.757        2.69       37.13
+     187    (ATOM    390  NH2 ARG A  25) -11.886 -16.055 -20.993        2.68       39.81
+      22    (ATOM     33  NH2 ARG A   5) -11.546  -2.218 -17.104        2.68       42.49
+     415    (ATOM    833  OE1 GLU A  55) -12.410 -11.914 -13.292        2.67       45.15
+     486    (ATOM    974  CD2 HIS A  65)  -0.672 -10.102   3.678        2.60       47.75
+    1283    (HETATM 2527  O4  SO4 A1158)  -0.055  -4.734   2.855        2.56       50.31
+    1396    (HETATM 2858  O   HOH A2108)   7.577 -17.091   1.072        2.52       52.83
+    1280    (HETATM 2524  O1  SO4 A1158)  -0.921  -7.076   2.772        2.46       55.29
+     342    (ATOM    690  OE2 GLU A  46)  -7.842  -8.573   0.407        2.43       57.72
+     186    (ATOM    389  NH1 ARG A  25) -11.225 -13.758 -21.214        2.41       60.14
+    1029    (ATOM   2029  CE  LYS A 130)   4.696 -15.394   3.518        2.41       62.55
+     516    (ATOM   1035  OE1 GLN A  69)  -0.790   1.164  -7.449        2.39       64.94
+    1329    (HETATM 2657  O   HOH A2041) -12.919   2.127 -17.219        2.37       67.32
+     487    (ATOM    975  NE2 HIS A  65)  -1.378 -10.900   4.565        2.37       69.69
+     279    (ATOM    563  CE  LYS A  38)  -9.364  -4.375 -19.543        2.21       71.90
+    1355    (HETATM 2735  O   HOH A2067)  -0.451 -15.012   2.017        2.20       74.10
+     515    (ATOM   1034  CD  GLN A  69)  -0.360   0.109  -7.894        2.13       76.22
+    1223    (ATOM   2414  OE1 GLU A 152)  11.770  -4.920   0.962        2.09       78.31
+    1377    (HETATM 2801  O   HOH A2089) -12.960 -12.398 -16.672        1.98       80.29
+    1415    (HETATM 2915  O   HOH A2127)  10.483   3.743 -23.713        1.98       82.27
+
+   Difference between GEO_DAT and GEO_REF:  860.24 = total,  0.6049 = Average,  0.7720 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.167     S(HETATM 2523  S   SO4 A1158)    O(HETATM 2524  O1  SO4 A1158)      1.488            1.655
+   2       0.124     O(ATOM   1166  OE1 GLU A  77)    C(ATOM   1165  CD  GLU A  77)      1.240            1.364
+   3       0.108     O(ATOM   1666  OD1 ASP A 109)    C(ATOM   1665  CG  ASP A 109)      1.248            1.356
+   4       0.105     O(ATOM   1466  OE1 GLU A  97)    C(ATOM   1465  CD  GLU A  97)      1.232            1.337
+   5       0.103     O(ATOM   2259  OD2 ASP A 143)    C(ATOM   2257  CG  ASP A 143)      1.243            1.346
+   6       0.103     O(ATOM   1354  OD1 ASP A  89)    C(ATOM   1353  CG  ASP A  89)      1.247            1.350
+   7       0.102     O(ATOM    640  OE1 GLU A  43)    C(ATOM    639  CD  GLU A  43)      1.245            1.347
+   8       0.101     O(ATOM   2414  OE1 GLU A 152)    C(ATOM   2413  CD  GLU A 152)      1.242            1.343
+   9       0.099     O(ATOM   1196  OE1 GLU A  79)    C(ATOM   1195  CD  GLU A  79)      1.263            1.363
+  10       0.099     O(ATOM   2445  OD1 ASP A 154)    C(ATOM   2444  CG  ASP A 154)      1.243            1.342
+  11       0.099     O(ATOM    618  OE2 GLU A  41)    C(ATOM    616  CD  GLU A  41)      1.257            1.356
+  12       0.098     O(ATOM    932  OD2 ASP A  62)    C(ATOM    930  CG  ASP A  62)      1.245            1.343
+  13       0.095     O(ATOM    704  OD1 ASP A  47)    C(ATOM    703  CG  ASP A  47)      1.250            1.345
+  14       0.094     O(ATOM   2471  OXT VAL A 156)    C(ATOM   2468  C   VAL A 156)      1.252            1.346
+  15       0.093     O(ATOM    834  OE2 GLU A  55)    C(ATOM    832  CD  GLU A  55)      1.263            1.356
+  16       0.090     O(ATOM   1852  OD2 ASP A 120)    C(ATOM   1850  CG  ASP A 120)      1.241            1.331
+  17       0.090     S(HETATM 2530  S   SO4 A1159)    O(HETATM 2534  O4  SO4 A1159)      1.507            1.597
+  18       0.087     O(ATOM   1770  OD1 ASP A 115)    C(ATOM   1769  CG  ASP A 115)      1.248            1.335
+  19       0.085     O(ATOM    850  OE2 GLU A  56)    C(ATOM    848  CD  GLU A  56)      1.251            1.336
+  20       0.084     S(HETATM 2530  S   SO4 A1159)    O(HETATM 2531  O1  SO4 A1159)      1.523            1.607
+  21       0.080     N(ATOM     33  NH2 ARG A   5)    C(ATOM     31  CZ  ARG A   5)      1.377            1.297
+  22       0.080     O(ATOM   1108  OE2 GLU A  73)    C(ATOM   1106  CD  GLU A  73)      1.249            1.329
+  23       0.077     N(ATOM    738  NH2 ARG A  50)    C(ATOM    736  CZ  ARG A  50)      1.371            1.293
+  24       0.077     O(ATOM   2324  OD2 ASP A 147)    C(ATOM   2322  CG  ASP A 147)      1.254            1.331
+  25       0.075     O(ATOM   1493  OD2 ASP A  99)    C(ATOM   1491  CG  ASP A  99)      1.265            1.340
+
+    GEO_DAT:  'MTH1 chain A PM7 Optimized geometry_no_H.ent'
+    GEO_REF:  '3ZR0 Chain A Everything neutral.ent'
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:  -1668.56 Kcal/mol
+          Total non-covalent energy of GEO_REF system:  -1667.06 Kcal/mol
+                                           Difference:     -1.50 Kcal/mol
+
+
+    The following files will be written to "M:\MTH1 paper\Files mentioned in paper\Compare PM7 Ionized and Neutral Chain A\":
+    'compare_ionized_and_neutral_geometries.html'
+    'MTH1 chain A PM7 Optimized geometry_no_H.pdb'
+    '3ZR0 Chain A Everything neutral.pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

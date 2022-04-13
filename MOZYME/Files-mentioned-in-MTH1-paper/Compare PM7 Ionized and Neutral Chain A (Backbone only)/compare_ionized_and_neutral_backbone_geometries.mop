@@ -1,0 +1,2 @@
+geo_dat="MTH1_Chain A ionized optimized backbone.ent" geo_ref="MTH1_Chain A Neutral optimized backbone.ent" 0scf output html geo-ok
+Compare backbones of Ionized and Neutral PM7 Chain A

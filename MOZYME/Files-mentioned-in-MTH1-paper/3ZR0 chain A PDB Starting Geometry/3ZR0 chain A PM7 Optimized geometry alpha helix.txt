@@ -1,0 +1,37 @@
+hide *
+select (44-54) and backbone
+display selected 
+set labelfront
+set antialiasDisplay on
+trace 0.1
+hbonds on
+display selected
+ribbon off
+set bondRadiusMilliAngstroms (50)
+spacefill 15%
+labels off
+select 146.CA;  set labeloffset   0   30;   label Leu146; color label black; font label 15 ; 
+select 152.C;   set labeloffset  20    0;   label Glu152;  color label black; font label 15 ; 
+select 139.CA;  set labeloffset   0  -20;   label Phe139; color label black; font label 15 ; 
+select 133.N;   set labeloffset   0   40;   label Phe133; color label black; font label 15 ;
+select 73.C;    set labeloffset -20    0;   label Glu73;  color label black; font label 15 ; 
+select 67.CA;   set labeloffset  20  -20;   label Val67;  color label black; font label 15 ;
+select 80.CA;   set labeloffset -20    0;   label Lue80;  color label black; font label 15 ; 
+select 87.N;    set labeloffset  60    0;   label Cys87;  color label black; font label 15 ; 
+select off
+measure off
+measure  (54.CA) (44.CA)
+measure  (147.CA) (138.CA)
+measure  (73.CA) (138.CA)
+measure  (73.CA) (80.CA)
+measure  (87.CA) (152.CA)
+measure  (87.O) (80.O)
+measure  (133.H) (67.O)
+measure  (68.H) (85.O)
+measure  (147.H) (138.O)
+set labelfront
+center {visible}
+zoom 0
+#
+#  Use "show orientation" to get the next line.
+reset;center {-11.492537313432837 -9.430701492537311 -7.054999999999999}; rotate z 26.28; rotate y 139.97; rotate z -62.73; zoom 442.16; translate x 3.19; translate y 5.35; set rotationRadius 27.2;

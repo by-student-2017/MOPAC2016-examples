@@ -1,0 +1,5 @@
+ geo_dat="Transition state 1-2.arc" ++
+ geo_ref="Transition state 2-3.arc" ++
+ compare HTML 
+ Compare Transition states 1-2 and 2-3
+Note that the Imidazolium ring on His 57 rotates in going from TS 1-2 to TS 2-3

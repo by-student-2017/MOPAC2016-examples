@@ -1,0 +1,9 @@
+
+    How to count the number of hydrogen bonds identified by JSmol
+
+Using Console, issue the command "write"  That will produce a lot of text.  Copy that text and paste it into a text-file, e.g., into test.txt.
+
+Edit the text-file to delete everything above the first line that has the string "hbonds;"
+Edit the text-file to delete everything below the last line that has the string "hbonds;"
+
+Count the number of lines.  In the file here, "3ZR0 chain A+B PDB Starting geometry Charge=-20.html", that will be 581

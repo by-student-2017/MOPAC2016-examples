@@ -1,0 +1,146 @@
+ *******************************************************************************
+ ** Site#: 23746        For non-commercial use only     Version 16.069W 64BITS**
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 16.069W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 366**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Mar 09 13:23:08 2016  *
+ *  GEO-OK     - OVERRIDE INTERATOMIC DISTANCE AND OTHER SAFETY CHECKS
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(3A) 
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "MTH1_CHAIN A IONIZED OPTIMIZED BACKBONE.ENT"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "MTH1_CHAIN A NEUTRAL OPTIMIZED BACKBONE.ENT"
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(A) 
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+ START_RES=(3A)  CHAINS=(A) geo_dat="MTH1_Chain A ionized optimized backbone.ent" geo_ref="MTH1_Chain A Neutral optimized backbone.ent" 0scf output html geo-ok
+ Compare backbones of Ionized and Neutral PM7 Chain A
+
+ 
+
+                            Differences in atoms sets
+
+          Atoms in data-set only                  Atoms in GEO_REF only
+
+                                               ATOM      1  N   ALA A   3
+
+                      Number of atoms in dataset:  616
+                      Number of atoms in GEO_REF:  617
+          Number of atoms common to both systems:  616
+
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+     427    (ATOM   1661  O   ASP A 109)  12.346 -22.732  -9.429        1.62        1.62
+     159    (ATOM    636  O   GLY A  42) -17.464  -1.742  -6.636        1.54        3.16
+     616    (ATOM   2468  OXT VAL A 156)  -0.856   0.122  -2.361        1.49        4.65
+       7    (ATOM     16  O   SER A   4)  -4.682   3.508 -14.418        1.42        6.07
+     615    (ATOM   2466  O   VAL A 156)   0.562   0.953  -3.814        1.41        7.48
+     293    (ATOM   1156  CA  GLY A  76)   2.103   2.840 -27.902        1.38        8.86
+     143    (ATOM    566  O   LYS A  38) -10.943  -5.355 -13.795        1.36       10.22
+     295    (ATOM   1158  O   GLY A  76)  -0.268   2.940 -27.932        1.32       11.53
+     157    (ATOM    634  CA  GLY A  42) -17.668  -0.952  -8.878        1.26       12.80
+     158    (ATOM    635  C   GLY A  42) -17.002  -1.771  -7.773        1.23       14.03
+     294    (ATOM   1157  C   GLY A  76)   0.730   2.650 -27.261        1.18       15.21
+       6    (ATOM     15  C   SER A   4)  -4.080   3.154 -15.426        1.15       16.36
+     292    (ATOM   1155  N   GLY A  76)   3.250   2.423 -27.115        1.11       17.47
+     161    (ATOM    641  CA  GLU A  43) -15.246  -3.334  -7.065        1.08       18.55
+       8    (ATOM     24  N   ARG A   5)  -4.483   2.077 -16.151        0.99       19.54
+     296    (ATOM   1162  N   GLU A  77)   0.589   2.197 -25.992        0.98       20.52
+     425    (ATOM   1659  CA  ASP A 109)  12.609 -23.065  -7.046        0.97       21.49
+     160    (ATOM    640  N   GLU A  43) -15.946  -2.563  -8.092        0.97       22.45
+       5    (ATOM     14  CA  SER A   4)  -2.872   3.958 -15.932        0.95       23.41
+      57    (ATOM    240  CA  ARG A  17)   4.899 -22.975  -3.337        0.95       24.36
+     156    (ATOM    633  N   GLY A  42) -16.713  -0.497  -9.879        0.94       25.29
+     247    (ATOM    953  O   LEU A  64)  -5.481  -8.679   0.419        0.94       26.23
+      56    (ATOM    239  N   ARG A  17)   5.366 -22.897  -1.943        0.93       27.16
+       9    (ATOM     25  CA  ARG A   5)  -5.689   1.367 -15.730        0.93       28.09
+     303    (ATOM   1180  O   PRO A  78)  -2.604   5.560 -21.560        0.90       28.99
+     255    (ATOM    990  O   LYS A  66)   0.780  -5.071  -0.511        0.90       29.89
+     426    (ATOM   1660  C   ASP A 109)  11.933 -23.301  -8.419        0.89       30.79
+     291    (ATOM   1142  O   VAL A  75)   3.271   0.308 -27.950        0.88       31.67
+     290    (ATOM   1141  C   VAL A  75)   3.755   1.158 -27.209        0.88       32.55
+      87    (ATOM    366  O   LYS A  24)  -4.784 -18.166 -24.582        0.88       33.43
+
+   Difference between GEO_DAT and GEO_REF:  266.38 = total,  0.4324 = Average,  0.4886 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.094     O(ATOM   2468  OXT VAL A 156)    C(ATOM   2465  C   VAL A 156)      1.346            1.252
+   2       0.035     O(ATOM   2466  O   VAL A 156)    C(ATOM   2465  C   VAL A 156)      1.209            1.245
+   3       0.027     C(ATOM   2464  CA  VAL A 156)    C(ATOM   2465  C   VAL A 156)      1.520            1.547
+   4       0.018     N(ATOM    102  N   LEU A   9)    C(ATOM     90  C   THR A   8)      1.353            1.372
+   5       0.016     N(ATOM   1162  N   GLU A  77)    C(ATOM   1157  C   GLY A  76)      1.371            1.355
+   6       0.013     C(ATOM   1271  CA  HIS A  84)    C(ATOM   1272  C   HIS A  84)      1.546            1.533
+   7       0.013     N(ATOM   1791  N   TRP A 117)    C(ATOM   1776  C   MET A 116)      1.363            1.350
+   8       0.013     O(ATOM   2452  O   THR A 155)    C(ATOM   2451  C   THR A 155)      1.215            1.228
+   9       0.013     N(ATOM    940  N   ALA A  63)    C(ATOM    930  C   ASP A  62)      1.372            1.360
+  10       0.012     C(ATOM   1865  CA  TYR A 122)    C(ATOM   1866  C   TYR A 122)      1.538            1.550
+  11       0.012     N(ATOM    928  N   ASP A  62)    C(ATOM    914  C   VAL A  61)      1.381            1.369
+  12       0.012     N(ATOM   1304  N   PHE A  86)    C(ATOM   1290  C   VAL A  85)      1.363            1.352
+  13       0.012     N(ATOM   1815  N   PRO A 118)    C(ATOM   1793  C   TRP A 117)      1.363            1.375
+  14       0.011     N(ATOM    508  N   ASN A  33)    C(ATOM    509  CA  ASN A  33)      1.455            1.466
+  15       0.011     N(ATOM   2463  N   VAL A 156)    C(ATOM   2451  C   THR A 155)      1.369            1.358
+  16       0.011     O(ATOM    915  O   VAL A  61)    C(ATOM    914  C   VAL A  61)      1.217            1.228
+  17       0.011     N(ATOM   1497  N   GLU A 100)    C(ATOM   1487  C   ASP A  99)      1.368            1.356
+  18       0.011     C(ATOM    550  CA  GLY A  36)    C(ATOM    551  C   GLY A  36)      1.507            1.518
+  19       0.011     N(ATOM    549  N   GLY A  36)    C(ATOM    531  C   PHE A  35)      1.360            1.349
+  20       0.011     N(ATOM    443  N   ALA A  29)    C(ATOM    438  C   GLY A  28)      1.357            1.367
+  21       0.011     N(ATOM   2083  N   PHE A 133)    C(ATOM   2063  C   LYS A 132)      1.370            1.359
+  22       0.011     O(ATOM    943  O   ALA A  63)    C(ATOM    942  C   ALA A  63)      1.224            1.213
+  23       0.011     N(ATOM   1762  N   ASP A 115)    C(ATOM   1742  C   LYS A 114)      1.374            1.363
+  24       0.010     O(ATOM     91  O   THR A   8)    C(ATOM     90  C   THR A   8)      1.231            1.220
+  25       0.010     C(ATOM    670  CA  ILE A  45)    C(ATOM    671  C   ILE A  45)      1.538            1.548
+
+    GEO_DAT:  'MTH1_Chain A ionized optimized backbone.ent'
+    GEO_REF:  'MTH1_Chain A Neutral optimized backbone.ent'
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:   -360.58 Kcal/mol
+          Total non-covalent energy of GEO_REF system:   -362.52 Kcal/mol
+                                           Difference:      1.94 Kcal/mol
+
+
+    The following files will be written to "M:\MTH1 paper\Files mentioned in paper\Compare PM7 Ionized and Neutral Chain A\":
+    'compare_ionized_and_neutral_backbone_geometries.html'
+    'MTH1_Chain A ionized optimized backbone.pdb'
+    'MTH1_Chain A Neutral optimized backbone.pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

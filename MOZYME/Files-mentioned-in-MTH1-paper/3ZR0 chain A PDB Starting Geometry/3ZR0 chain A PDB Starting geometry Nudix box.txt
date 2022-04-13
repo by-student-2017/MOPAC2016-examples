@@ -1,0 +1,40 @@
+hide *
+select 37-59, 1157
+set labelfront
+set antialiasDisplay on
+trace off
+ribbon
+color CPK
+display selected
+spacefill 0%
+wireframe off
+hbonds off
+select 37, 43, 51, 52, 55, 56, 100, 1157
+set labelfront
+display add selected
+spacefill 15%
+wireframe 0.1
+hide add hydrogen
+hbonds off 
+labels off
+select 37.CA;   set labeloffset  20  -20;   label Gly37;  color label black; font label 15 ; 
+select 43.CA;   set labeloffset -100  60;   label Glu43;  color label black; font label 15 ; 
+select 51.CA;   set labeloffset  10  120;   label Arg51;  color label black; font label 15 ; 
+select 55.CA;   set labeloffset  40   55;   label Glu55;  color label black; font label 15 ;
+select 52.CA;   set labeloffset   0   80;   label Glu52;  color label black; font label 15 ; 
+select 56.CA;   set labeloffset   0   50;   label Glu56;  color label black; font label 15 ;
+select 100.CA;  set labeloffset  10   20;   label Glu100; color label black; font label 15 ;; 
+select 54.CA;   set labeloffset -20   20;   label First alpha helix; color label black; font label 20 bold; 
+select 1157.N9; set labeloffset  20   00;  label 8-Oxo-dGMP; color label black; font label 15; 
+select off
+measure off
+measure  (43.OE2) (51.NH2)
+measure  (43.OE1) (51.NE)
+measure  (51.NH1) (52.OE2)
+measure  (51.NH1) (55.OE2)
+center {visible}
+zoom 0
+#
+#  Use "show orientation" to get the next line.
+reset;center {-10.881229665071775 -9.86705263157895 -10.289688995215311}; rotate z 4.94; rotate y 109.73; rotate z -64.51; 
+zoom 239.31; translate x 6.1; translate y 3.4; set rotationRadius 27.2;

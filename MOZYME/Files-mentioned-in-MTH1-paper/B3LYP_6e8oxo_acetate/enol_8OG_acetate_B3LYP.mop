@@ -1,0 +1,52 @@
+1SCF setpi charge=-1 mozyme opt gnorm=5 eps=78.4 pl t=2w html pdbout bonds
+6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+ATOM      1  CB  ASP B 119      -9.205  -0.971  -0.361                       C
+ATOM      2  CG  ASP B 119      -7.777  -0.908   0.126                       C
+ATOM      3  OD1 ASP B 119      -6.897  -1.399  -0.757                       O
+ATOM      4  OD2 ASP B 119      -7.458  -0.442   1.244                       O
+ATOM      5 1HB  ASP B 119      -9.310  -0.401  -1.291                       H
+ATOM      6 2HB  ASP B 119      -9.483  -2.007  -0.583                       H
+HETATM    7  OP3 8OG B1157       6.113   0.397  -1.493                       O
+HETATM    8  P   8OG B1157       6.319  -0.932  -0.445                       P
+HETATM    9  OP1 8OG B1157       7.667  -1.060   0.376                       O
+HETATM   10  OP2 8OG B1157       5.964  -2.194  -1.552                       O
+HETATM   11  O5P 8OG B1157       4.970  -0.746   0.569                       O
+HETATM   12  C5P 8OG B1157       3.579  -0.658   0.037                       C
+HETATM   13  C4P 8OG B1157       3.162   0.803  -0.109                       C
+HETATM   14  O4P 8OG B1157       1.781   0.794  -0.632                       O
+HETATM   15  C1P 8OG B1157       0.838   1.222   0.430                       C
+HETATM   16  C2P 8OG B1157       1.676   1.311   1.718                       C
+HETATM   17  N9  8OG B1157      -0.287   0.320   0.484                       N
+HETATM   18  C8  8OG B1157      -0.260  -1.028   0.918                       C
+HETATM   19  O8  8OG B1157       0.726  -1.652   1.390                       O
+HETATM   20  N7  8OG B1157      -1.540  -1.505   0.716                       N
+HETATM   21  C5  8OG B1157      -2.357  -0.506   0.157                       C
+HETATM   22  C6  8OG B1157      -3.715  -0.459  -0.236                       C
+HETATM   23  O6  8OG B1157      -4.511  -1.489  -0.115                       O
+HETATM   24  N1  8OG B1157      -4.155   0.734  -0.757                       N
+HETATM   25  C2  8OG B1157      -3.298   1.783  -0.866                       C
+HETATM   26  N3  8OG B1157      -1.979   1.802  -0.501                       N
+HETATM   27  C4  8OG B1157      -1.570   0.626   0.003                       C
+HETATM   28  N2  8OG B1157      -3.800   2.939  -1.393                       N
+HETATM   29  C3P 8OG B1157       3.099   1.579   1.210                       C
+HETATM   30  O3P 8OG B1157       3.289   2.984   0.852                       O
+HETATM   31  HP2 8OG B1157       6.226  -3.098  -1.272                       H
+HETATM   32 1H5P 8OG B1157       3.511  -1.174  -0.923                       H
+HETATM   33 2H5P 8OG B1157       2.962  -1.178   0.770                       H
+HETATM   34  H1P 8OG B1157       0.432   2.190   0.134                       H
+HETATM   35 1H2P 8OG B1157       1.638   0.363   2.258                       H
+HETATM   36 2H2P 8OG B1157       1.317   2.104   2.380                       H
+HETATM   37 1H2  8OG B1157      -4.763   2.980  -1.677                       H
+HETATM   38 2H2  8OG B1157      -3.207   3.745  -1.496                       H
+HETATM   39  H7  8OG B1157      -1.824  -2.444   0.944                       H
+HETATM   40  H4P 8OG B1157       3.797   1.321  -0.830                       H
+HETATM   41  H3P 8OG B1157       3.244   3.540   1.656                       H
+HETATM   42  H3P 8OG B1157       3.871   1.255   1.915                       H
+HETATM   43  H6  8OG B1157      -5.850  -1.369  -0.455                       H
+HETATM   44  H8  8OG B1157      -9.880  -0.565   0.393                       H
+HETATM   45  H9  8OG B1157       6.669   0.404  -2.302                       H
+
+21 27
+22 24
+25 26

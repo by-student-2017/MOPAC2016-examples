@@ -1,0 +1,2 @@
+LET GEO_DAT="PDB original geometry.arc" GEO_REF="MTH1 A+B PM7 Optimized Geometry.arc" 0scf HTML GEO-OK output  opt
+Compare PDB original geometry.arc and MTH1 A+B PM7 Optimized Geometry.arc

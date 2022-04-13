@@ -1,0 +1,388 @@
+ *******************************************************************************
+ ** Site#: 23746        For non-commercial use only     Version 16.078W 64BITS**
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 16.078W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 366**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Mar 18 09:34:13 2016  *
+ *  GEO-OK     - OVERRIDE INTERATOMIC DISTANCE AND OTHER SAFETY CHECKS
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(3A 1157A) 
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "3ZR0 CHAIN A PDB STARTING GEOMETRY (NO H2O, ETC.).ENT"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "3ZR0 CHAIN B PDB STARTING GEOMETRY (NO H2O, ETC.).ENT"
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(AA) 
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *  LET        - OVERRIDE SOME SAFETY CHECKS
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+ START_RES=(3A 1157A)  CHAINS=(AA) LET GEO_DAT="3ZR0 chain A PDB Starting geometry (no H2O, etc.).ent"  +
+GEO_REF="3ZR0 chain B PDB Starting geometry (no H2O, etc.).ent" 0scf HTML GEO-OK output  opt
+ Compare PDB Chains A and B
+
+ 
+
+           The two systems have different chain letters, so all chain letters changed to "X"
+
+                            Differences in atoms sets
+
+          Atoms in data-set only                  Atoms in GEO_REF only
+
+       ATOM      7 2H   ALA X   3              ATOM      1  N   GLY X   2
+       ATOM      8 3H   ALA X   3              ATOM      2  CA  GLY X   2
+       ATOM    191  N   GLN X  14              ATOM      3  C   GLY X   2
+       ATOM    192  CA  GLN X  14              ATOM      4  O   GLY X   2
+       ATOM    193  C   GLN X  14              ATOM      5 1H   GLY X   2
+       ATOM    194  O   GLN X  14              ATOM      6 2H   GLY X   2
+       ATOM    195  CB  GLN X  14              ATOM      7 3H   GLY X   2
+       ATOM    196  CG  GLN X  14              ATOM      8 1HA  GLY X   2
+       ATOM    197  CD  GLN X  14              ATOM      9 2HA  GLY X   2
+       ATOM    198  OE1 GLN X  14              ATOM    189  HT  LEU X  13
+       ATOM    199  NE2 GLN X  14              ATOM    207 2H   VAL X  18
+       ATOM    200  H   GLN X  14              ATOM    208 3H   VAL X  18
+       ATOM    201  HA  GLN X  14
+       ATOM    202 1HB  GLN X  14
+       ATOM    203 2HB  GLN X  14
+       ATOM    204 1HG  GLN X  14
+       ATOM    205 2HG  GLN X  14
+       ATOM    206 1HE2 GLN X  14
+       ATOM    207 2HE2 GLN X  14
+       ATOM    208  N   PRO X  15
+       ATOM    209  CA  PRO X  15
+       ATOM    210  C   PRO X  15
+       ATOM    211  O   PRO X  15
+       ATOM    212  CD  PRO X  15
+       ATOM    213  CB  PRO X  15
+       ATOM    214  CG  PRO X  15
+       ATOM    215  HA  PRO X  15
+       ATOM    216 1HD  PRO X  15
+       ATOM    217 2HD  PRO X  15
+       ATOM    218 1HB  PRO X  15
+       ATOM    219 2HB  PRO X  15
+       ATOM    220 1HG  PRO X  15
+       ATOM    221 2HG  PRO X  15
+       ATOM    222  N   GLN X  16
+       ATOM    223  CA  GLN X  16
+       ATOM    224  C   GLN X  16
+       ATOM    225  O   GLN X  16
+       ATOM    226  CB  GLN X  16
+       ATOM    227  CG  GLN X  16
+       ATOM    228  CD  GLN X  16
+       ATOM    229  OE1 GLN X  16
+       ATOM    230  NE2 GLN X  16
+       ATOM    231  H   GLN X  16
+       ATOM    232  HA  GLN X  16
+       ATOM    233 1HB  GLN X  16
+       ATOM    234 2HB  GLN X  16
+       ATOM    235 1HG  GLN X  16
+       ATOM    236 2HG  GLN X  16
+       ATOM    237 1HE2 GLN X  16
+       ATOM    238 2HE2 GLN X  16
+       ATOM    239  N   ARG X  17
+       ATOM    240  CA  ARG X  17
+       ATOM    241  C   ARG X  17
+       ATOM    242  O   ARG X  17
+       ATOM    243  CB  ARG X  17
+       ATOM    244  CG  ARG X  17
+       ATOM    245  CD  ARG X  17
+       ATOM    246  NE  ARG X  17
+       ATOM    247  CZ  ARG X  17
+       ATOM    248  NH1 ARG X  17
+       ATOM    249  NH2 ARG X  17
+       ATOM    250  H   ARG X  17
+       ATOM    251  HA  ARG X  17
+       ATOM    252 1HB  ARG X  17
+       ATOM    253 2HB  ARG X  17
+       ATOM    254 1HG  ARG X  17
+       ATOM    255 2HG  ARG X  17
+       ATOM    256 1HD  ARG X  17
+       ATOM    257 2HD  ARG X  17
+       ATOM    258  HE  ARG X  17
+       ATOM    259 1HH1 ARG X  17
+       ATOM    260 2HH1 ARG X  17
+       ATOM    261 1HH2 ARG X  17
+       ATOM    262 2HH2 ARG X  17
+
+                      Number of atoms in dataset: 2516
+                      Number of atoms in GEO_REF: 2454
+          Number of atoms common to both systems: 2442
+
+ --------------------------------------------------------------------------------
+
+      List of atoms in GEO_REF that are swapped in order to maximize overlap
+
+              Atom Label          and         Atom Label         Difference to GEO_REF
+
+    1 (HETATM 2446 2H2' 8OG X1157)   (HETATM 2445 1H2' 8OG X1157)       -2.03
+    2 (ATOM   2386 2HB  ASP X 154)   (ATOM   2385 1HB  ASP X 154)       -2.19
+    3 (ATOM   2352  OE2 GLU X 152)   (ATOM   2351  OE1 GLU X 152)       -0.65
+    4 (ATOM   2334 2HB  ARG X 151)   (ATOM   2333 1HB  ARG X 151)       -2.12
+    5 (ATOM   2285  HE2 TYR X 148)   (ATOM   2284  HE1 TYR X 148)       -5.22
+    6 (ATOM   2283  HD2 TYR X 148)   (ATOM   2282  HD1 TYR X 148)       -5.36
+    7 (ATOM   2275  CE2 TYR X 148)   (ATOM   2274  CE1 TYR X 148)       -2.85
+    8 (ATOM   2273  CD2 TYR X 148)   (ATOM   2272  CD1 TYR X 148)       -2.92
+    9 (ATOM   2265 2HB  ASP X 147)   (ATOM   2264 1HB  ASP X 147)       -0.25
+   10 (ATOM   2261  OD2 ASP X 147)   (ATOM   2260  OD1 ASP X 147)       -0.73
+   11 (ATOM   2163 2HG  GLN X 140)   (ATOM   2162 1HG  GLN X 140)       -1.84
+   12 (ATOM   2161 2HB  GLN X 140)   (ATOM   2160 1HB  GLN X 140)       -2.11
+   13 (ATOM   2127 2HZ  LYS X 138)   (ATOM   2128 3HZ  LYS X 138)       -0.81
+   14 (ATOM   2126 1HZ  LYS X 138)   (ATOM   2128 3HZ  LYS X 138)       -0.98
+   15 (ATOM   2123 2HD  LYS X 138)   (ATOM   2122 1HD  LYS X 138)       -1.79
+   16 (ATOM   2120 1HG  LYS X 138)   (ATOM   2121 2HG  LYS X 138)       -1.89
+   17 (ATOM   2119 2HB  LYS X 138)   (ATOM   2118 1HB  LYS X 138)       -2.04
+   18 (ATOM   2081 2HB  TYR X 136)   (ATOM   2080 1HB  TYR X 136)       -2.28
+   19 (ATOM   2039  HE2 PHE X 133)   (ATOM   2038  HE1 PHE X 133)       -5.55
+   20 (ATOM   2037  HD2 PHE X 133)   (ATOM   2036  HD1 PHE X 133)       -5.49
+   21 (ATOM   2035 2HB  PHE X 133)   (ATOM   2034 1HB  PHE X 133)       -1.91
+   22 (ATOM   2030  CE2 PHE X 133)   (ATOM   2029  CE1 PHE X 133)       -2.99
+   23 (ATOM   2028  CD2 PHE X 133)   (ATOM   2027  CD1 PHE X 133)       -2.97
+   24 (ATOM   2015 2HD  LYS X 132)   (ATOM   2014 1HD  LYS X 132)       -1.51
+   25 (ATOM   2013 2HG  LYS X 132)   (ATOM   2012 1HG  LYS X 132)       -2.18
+   26 (ATOM   2011 2HB  LYS X 132)   (ATOM   2010 1HB  LYS X 132)       -2.10
+   27 (ATOM   1998 3HZ  LYS X 131)   (ATOM   1996 1HZ  LYS X 131)       -0.04
+   28 (ATOM   1997 2HZ  LYS X 131)   (ATOM   1996 1HZ  LYS X 131)       -0.24
+   29 (ATOM   1993 2HD  LYS X 131)   (ATOM   1992 1HD  LYS X 131)       -0.38
+   30 (ATOM   1991 2HG  LYS X 131)   (ATOM   1990 1HG  LYS X 131)       -0.46
+   31 (ATOM   1971 2HD  LYS X 130)   (ATOM   1970 1HD  LYS X 130)       -0.48
+   32 (ATOM   1966 1HB  LYS X 130)   (ATOM   1967 2HB  LYS X 130)       -1.53
+   33 (ATOM   1954 2HE2 GLN X 129)   (ATOM   1953 1HE2 GLN X 129)       -1.02
+   34 (ATOM   1951 1HG  GLN X 129)   (ATOM   1952 2HG  GLN X 129)       -1.38
+   35 (ATOM   1950 2HB  GLN X 129)   (ATOM   1949 1HB  GLN X 129)       -1.44
+   36 (ATOM   1910 1HB  LEU X 127)   (ATOM   1911 2HB  LEU X 127)       -1.78
+   37 (ATOM   1821  HE2 TYR X 122)   (ATOM   1820  HE1 TYR X 122)       -4.73
+   38 (ATOM   1819  HD2 TYR X 122)   (ATOM   1818  HD1 TYR X 122)       -4.80
+   39 (ATOM   1811  CE2 TYR X 122)   (ATOM   1810  CE1 TYR X 122)       -2.54
+   40 (ATOM   1809  CD2 TYR X 122)   (ATOM   1808  CD1 TYR X 122)       -2.55
+   41 (ATOM   1800 2HB  SER X 121)   (ATOM   1799 1HB  SER X 121)       -0.67
+   42 (ATOM   1766 2HG  PRO X 118)   (ATOM   1765 1HG  PRO X 118)       -1.43
+   43 (ATOM   1764 2HB  PRO X 118)   (ATOM   1763 1HB  PRO X 118)       -1.53
+   44 (ATOM   1746 2HB  TRP X 117)   (ATOM   1745 1HB  TRP X 117)       -2.34
+   45 (ATOM   1711 2HB  ASP X 115)   (ATOM   1710 1HB  ASP X 115)       -2.11
+   46 (ATOM   1696 2HE  LYS X 114)   (ATOM   1695 1HE  LYS X 114)       -0.65
+   47 (ATOM   1690 2HB  LYS X 114)   (ATOM   1689 1HB  LYS X 114)       -2.00
+   48 (ATOM   1657 2HG  PRO X 112)   (ATOM   1656 1HG  PRO X 112)       -2.14
+   49 (ATOM   1655 2HB  PRO X 112)   (ATOM   1654 1HB  PRO X 112)       -2.22
+   50 (ATOM   1621 1HG  GLN X 110)   (ATOM   1622 2HG  GLN X 110)       -1.36
+   51 (ATOM   1620 2HB  GLN X 110)   (ATOM   1619 1HB  GLN X 110)       -1.86
+   52 (ATOM   1514 2HB  CYS X 104)   (ATOM   1513 1HB  CYS X 104)       -0.07
+   53 (ATOM   1481 2HB  ARG X 102)   (ATOM   1480 1HB  ARG X 102)       -2.06
+   54 (ATOM   1461 2HB  MET X 101)   (ATOM   1460 1HB  MET X 101)       -1.35
+   55 (ATOM   1443  OE2 GLU X 100)   (ATOM   1442  OE1 GLU X 100)       -0.57
+   56 (ATOM   1396 3HG2 VAL X  96)   (ATOM   1391 1HG1 VAL X  96)       -1.50
+   57 (ATOM   1395 2HG2 VAL X  96)   (ATOM   1393 3HG1 VAL X  96)       -1.19
+   58 (ATOM   1394 1HG2 VAL X  96)   (ATOM   1396 3HG2 VAL X  96)       -1.69
+   59 (ATOM   1392 2HG1 VAL X  96)   (ATOM   1391 1HG1 VAL X  96)       -0.59
+   60 (ATOM   1387  CG2 VAL X  96)   (ATOM   1386  CG1 VAL X  96)       -1.03
+   61 (ATOM   1322 2HG1 ILE X  91)   (ATOM   1321 1HG1 ILE X  91)       -1.55
+   62 (ATOM   1298 2HB  ASP X  89)   (ATOM   1297 1HB  ASP X  89)       -0.11
+   63 (ATOM   1293  OD1 ASP X  89)   (ATOM   1294  OD2 ASP X  89)       -0.02
+   64 (ATOM   1191 2HB  ASP X  82)   (ATOM   1190 1HB  ASP X  82)       -2.08
+   65 (ATOM   1143 2HG  GLU X  79)   (ATOM   1142 1HG  GLU X  79)       -0.39
+   66 (ATOM   1141 2HB  GLU X  79)   (ATOM   1140 1HB  GLU X  79)       -0.35
+   67 (ATOM   1137  OE2 GLU X  79)   (ATOM   1136  OE1 GLU X  79)       -1.78
+   68 (ATOM   1112 2HB  GLU X  77)   (ATOM   1111 1HB  GLU X  77)       -2.12
+   69 (ATOM   1092 3HG2 VAL X  75)   (ATOM   1087 1HG1 VAL X  75)       -2.14
+   70 (ATOM   1091 2HG2 VAL X  75)   (ATOM   1089 3HG1 VAL X  75)       -1.05
+   71 (ATOM   1090 1HG2 VAL X  75)   (ATOM   1088 2HG1 VAL X  75)       -2.04
+   72 (ATOM   1090 1HG2 VAL X  75)   (ATOM   1092 3HG2 VAL X  75)       -0.16
+   73 (ATOM   1083  CG2 VAL X  75)   (ATOM   1082  CG1 VAL X  75)       -1.27
+   74 (ATOM   1056 2HG  GLU X  73)   (ATOM   1055 1HG  GLU X  73)       -1.46
+   75 (ATOM   1054 2HB  GLU X  73)   (ATOM   1053 1HB  GLU X  73)       -1.77
+   76 (ATOM    999 2HG1 ILE X  70)   (ATOM    998 1HG1 ILE X  70)       -2.19
+   77 (ATOM    986 2HE2 GLN X  69)   (ATOM    985 1HE2 GLN X  69)       -1.83
+   78 (ATOM    984 2HG  GLN X  69)   (ATOM    983 1HG  GLN X  69)       -2.16
+   79 (ATOM    982 2HB  GLN X  69)   (ATOM    981 1HB  GLN X  69)       -1.91
+   80 (ATOM    940 1HD  LYS X  66)   (ATOM    941 2HD  LYS X  66)       -1.19
+   81 (ATOM    937 2HB  LYS X  66)   (ATOM    936 1HB  LYS X  66)       -2.04
+   82 (ATOM    877 2HB  ASP X  62)   (ATOM    876 1HB  ASP X  62)       -1.87
+   83 (ATOM    849 3HG2 THR X  60)   (ATOM    846  HG1 THR X  60)       -2.74
+   84 (ATOM    848 2HG2 THR X  60)   (ATOM    846  HG1 THR X  60)       -0.52
+   85 (ATOM    847 1HG2 THR X  60)   (ATOM    846  HG1 THR X  60)       -0.71
+   86 (ATOM    828 2HB  LEU X  59)   (ATOM    827 1HB  LEU X  59)       -2.12
+   87 (ATOM    780 1HB  GLU X  55)   (ATOM    781 2HB  GLU X  55)       -1.85
+   88 (ATOM    768 2HE2 GLN X  54)   (ATOM    767 1HE2 GLN X  54)       -0.36
+   89 (ATOM    652 2HB  ASP X  47)   (ATOM    651 1HB  ASP X  47)       -2.22
+   90 (ATOM    638 2HB  GLU X  46)   (ATOM    637 1HB  GLU X  46)       -2.27
+   91 (ATOM    592 2HG  GLU X  43)   (ATOM    591 1HG  GLU X  43)       -1.97
+   92 (ATOM    570 2HG  GLU X  41)   (ATOM    569 1HG  GLU X  41)       -1.60
+   93 (ATOM    553 2HG  GLN X  40)   (ATOM    552 1HG  GLN X  40)       -1.75
+   94 (ATOM    551 2HB  GLN X  40)   (ATOM    550 1HB  GLN X  40)       -1.79
+   95 (ATOM    521 2HZ  LYS X  38)   (ATOM    522 3HZ  LYS X  38)       -0.37
+   96 (ATOM    520 1HZ  LYS X  38)   (ATOM    522 3HZ  LYS X  38)       -1.45
+   97 (ATOM    516 1HD  LYS X  38)   (ATOM    517 2HD  LYS X  38)       -1.40
+   98 (ATOM    515 2HG  LYS X  38)   (ATOM    514 1HG  LYS X  38)       -1.43
+   99 (ATOM    414 2HG  ARG X  31)   (ATOM    413 1HG  ARG X  31)       -2.13
+  100 (ATOM    412 2HB  ARG X  31)   (ATOM    411 1HB  ARG X  31)       -1.86
+  101 (ATOM    346 2HH2 ARG X  25)   (ATOM    345 1HH2 ARG X  25)       -0.30
+  102 (ATOM    346 2HH2 ARG X  25)   (ATOM    343 1HH1 ARG X  25)       -0.18
+  103 (ATOM    339 2HG  ARG X  25)   (ATOM    338 1HG  ARG X  25)       -0.41
+  104 (ATOM    337 2HB  ARG X  25)   (ATOM    336 1HB  ARG X  25)       -1.30
+  105 (ATOM    322 3HZ  LYS X  24)   (ATOM    320 1HZ  LYS X  24)       -0.78
+  106 (ATOM    321 2HZ  LYS X  24)   (ATOM    322 3HZ  LYS X  24)       -1.66
+  107 (ATOM    319 2HE  LYS X  24)   (ATOM    318 1HE  LYS X  24)       -0.41
+  108 (ATOM    317 2HD  LYS X  24)   (ATOM    316 1HD  LYS X  24)       -0.21
+  109 (ATOM    315 2HG  LYS X  24)   (ATOM    314 1HG  LYS X  24)       -1.75
+  110 (ATOM    313 2HB  LYS X  24)   (ATOM    312 1HB  LYS X  24)       -1.73
+  111 (ATOM    295 2HD  LYS X  23)   (ATOM    294 1HD  LYS X  23)       -2.03
+  112 (ATOM    291 2HB  LYS X  23)   (ATOM    290 1HB  LYS X  23)       -2.18
+  113 (ATOM    273 2HB  MET X  22)   (ATOM    272 1HB  MET X  22)       -2.16
+  114 (ATOM    191 2HB  LEU X  13)   (ATOM    190 1HB  LEU X  13)       -2.05
+  115 (ATOM    155 2HB  LEU X  11)   (ATOM    154 1HB  LEU X  11)       -2.10
+  116 (ATOM     66 2HB  LEU X   6)   (ATOM     65 1HB  LEU X   6)       -2.37
+  117 (ATOM     45 2HB  ARG X   5)   (ATOM     44 1HB  ARG X   5)       -1.67
+  
+    1 (ATOM    343 1HH1 ARG X  25)   (ATOM    345 1HH2 ARG X  25)       -0.22
+    2 (ATOM    849 3HG2 THR X  60)   (ATOM    848 2HG2 THR X  60)       -0.46
+    3 (ATOM    847 1HG2 THR X  60)   (ATOM    848 2HG2 THR X  60)       -0.09
+    4 (ATOM    849 3HG2 THR X  60)   (ATOM    848 2HG2 THR X  60)       -0.06
+  
+  
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+     329    (ATOM    343 1HH1 ARG X  25)  -9.750 -20.329 -29.800        7.80        7.80
+     331    (ATOM    345 1HH2 ARG X  25)  -8.319 -21.229 -29.548        7.39       15.20
+     318    (ATOM    332  NH1 ARG X  25)  -7.669 -20.189 -27.327        7.11       22.31
+     330    (ATOM    344 2HH1 ARG X  25)  -7.406 -19.677 -26.484        6.96       29.27
+     319    (ATOM    333  NH2 ARG X  25)  -8.928 -20.484 -29.224        6.18       35.45
+     332    (ATOM    346 2HH2 ARG X  25)  -7.047 -20.948 -27.588        5.83       41.28
+     317    (ATOM    331  CZ  ARG X  25)  -8.745 -19.874 -28.052        5.59       46.87
+     328    (ATOM    342  HE  ARG X  25) -10.282 -18.559 -28.351        4.49       51.36
+    2344    (ATOM   2358 2HG  GLU X 152)  10.702  -2.282   0.762        4.37       55.72
+    1984    (ATOM   1998 3HZ  LYS X 131)  14.037  -5.196   2.125        4.33       60.06
+    1074    (ATOM   1088 2HG1 VAL X  75)   5.833  -1.115 -27.573        4.32       64.38
+     324    (ATOM    338 1HG  ARG X  25)  -7.453 -17.723 -26.472        4.26       68.64
+     325    (ATOM    339 2HG  ARG X  25)  -8.488 -16.391 -26.935        4.15       72.79
+    1982    (ATOM   1996 1HZ  LYS X 131)  12.929  -5.898   3.136        4.15       76.93
+     316    (ATOM    330  NE  ARG X  25)  -9.624 -18.939 -27.652        4.13       81.06
+     326    (ATOM    340 1HD  ARG X  25)  -9.596 -18.933 -25.535        4.08       85.14
+     834    (ATOM    848 2HG2 THR X  60) -14.766 -18.869   0.158        3.88       89.02
+    1429    (ATOM   1443  OE2 GLU X 100) -12.784 -15.743 -18.889        3.83       92.85
+     835    (ATOM    849 3HG2 THR X  60) -13.560 -17.606   0.410        3.83       96.67
+    1428    (ATOM   1442  OE1 GLU X 100) -12.856 -17.840 -18.195        3.71      100.39
+    1129    (ATOM   1143 2HG  GLU X  79)  -4.563   1.176 -20.218        3.71      104.09
+    1979    (ATOM   1993 2HD  LYS X 131)  12.861  -7.871  -0.081        3.52      107.62
+    1959    (ATOM   1973 2HE  LYS X 130)   4.758 -14.916   1.424        3.46      111.07
+     753    (ATOM    767 1HE2 GLN X  54) -16.158 -20.104  -9.186        3.45      114.52
+    1971    (ATOM   1985  NZ  LYS X 131)  13.849  -6.072   2.688        3.44      117.96
+    1983    (ATOM   1997 2HZ  LYS X 131)  14.569  -6.188   3.411        3.43      121.39
+    2251    (ATOM   2265 2HB  ASP X 147)  14.657   1.578 -20.030        3.37      124.76
+     315    (ATOM    329  CD  ARG X  25)  -9.592 -18.196 -26.376        3.32      128.08
+     828    (ATOM    842  CG2 THR X  60) -13.758 -18.543  -0.118        3.25      131.33
+    1434    (ATOM   1448 1HG  GLU X 100) -11.053 -15.491 -17.020        3.24      134.57
+
+   Difference between GEO_DAT and GEO_REF: 1327.14 = total,  0.5435 = Average,  0.8726 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.210     C(ATOM   1496  CB  PRO X 103)    C(ATOM   1497  CG  PRO X 103)      1.495            1.285
+   2       0.186     C(ATOM    756  CB  GLN X  54)    C(ATOM    757  CG  GLN X  54)      1.547            1.733
+   3       0.182     N(ATOM    199  N   VAL X  18)    C(ATOM    200  CA  VAL X  18)      1.412            1.594
+   4       0.174     C(ATOM   2324  CB  ARG X 151)    C(ATOM   2325  CG  ARG X 151)      1.534            1.360
+   5       0.150     S(ATOM   1267  SG  CYS X  87)    C(ATOM   1266  CB  CYS X  87)      1.788            1.638
+   6       0.130     C(ATOM     60  CG  LEU X   6)    C(ATOM     62  CD2 LEU X   6)      1.503            1.633
+   7       0.114     N(ATOM   2047  ND1 HIS X 134)    H(ATOM   2055  HD1 HIS X 134)      1.016            1.130
+   8       0.111     C(ATOM     11  CA  ALA X   3)    C(ATOM     14  CB  ALA X   3)      1.618            1.507
+   9       0.109     C(ATOM    222  CG  LEU X  19)    C(ATOM    224  CD2 LEU X  19)      1.583            1.475
+  10       0.102     C(ATOM   2137  CE1 PHE X 139)    C(ATOM   2139  CZ  PHE X 139)      1.436            1.335
+  11       0.099     C(ATOM     80  CD1 TYR X   7)    C(ATOM     82  CE1 TYR X   7)      1.333            1.432
+  12       0.093     C(ATOM   1300  CA  SER X  90)    C(ATOM   1301  C   SER X  90)      1.496            1.589
+  13       0.092     C(ATOM   1247  CG  PHE X  86)    C(ATOM   1248  CD1 PHE X  86)      1.294            1.387
+  14       0.090     N(ATOM    217  N   LEU X  19)    C(ATOM    218  CA  LEU X  19)      1.432            1.522
+  15       0.089     C(ATOM    362  CE1 PHE X  27)    C(ATOM    364  CZ  PHE X  27)      1.299            1.388
+  16       0.089     C(ATOM   1758  CB  PRO X 118)    C(ATOM   1759  CG  PRO X 118)      1.445            1.534
+  17       0.087     C(ATOM    203  CB  VAL X  18)    C(ATOM    204  CG1 VAL X  18)      1.517            1.604
+  18       0.086     C(ATOM    306  CG  LYS X  24)    C(ATOM    307  CD  LYS X  24)      1.582            1.495
+  19       0.086     C(ATOM    951  CB  VAL X  67)    C(ATOM    952  CG1 VAL X  67)      1.536            1.622
+  20       0.086     C(ATOM    854  CB  VAL X  61)    C(ATOM    856  CG2 VAL X  61)      1.399            1.485
+  21       0.086     N(ATOM   2115  NZ  LYS X 138)    C(ATOM   2114  CE  LYS X 138)      1.564            1.478
+  22       0.085     C(ATOM   1031  CE2 PHE X  72)    C(ATOM   1032  CZ  PHE X  72)      1.307            1.392
+  23       0.084     C(ATOM   1333  CB  GLN X  92)    C(ATOM   1334  CG  GLN X  92)      1.595            1.511
+  24       0.084     C(ATOM   1230  CB  VAL X  85)    C(ATOM   1231  CG1 VAL X  85)      1.584            1.501
+  25       0.083     C(ATOM    241  CG  LEU X  20)    C(ATOM    242  CD1 LEU X  20)      1.612            1.529
+
+    GEO_DAT:  '3ZR0 chain A PDB Starting geometry (no H2O, etc.).ent'
+    GEO_REF:  '3ZR0 chain B PDB Starting geometry (no H2O, etc.).ent'
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:  -2468.66 Kcal/mol
+          Total non-covalent energy of GEO_REF system:  -2436.25 Kcal/mol
+                                           Difference:    -32.41 Kcal/mol
+
+          Number of hydrogen bonds common to both systems:  205
+
+
+                            Hydrogen bonds in GEO_DAT but not in GEO_REF
+
+               Donor atom                     Hydrogen atom            H-bond length(A)     Energy    Sum
+
+   1   "ATOM    787  O   GLU X  56"      "ATOM   1422  HG  SER X  98"       1.676           -4.104   -4.104
+   2   "ATOM   1336  OE1 GLN X  92"      "ATOM    846  HG1 THR X  60"       1.822           -2.691   -6.796
+   3   "ATOM   1543  O   PHE X 106"      "ATOM    206 1H   VAL X  18"       1.968           -2.197   -8.992
+   4   "ATOM    634  OE2 GLU X  46"      "ATOM    690 1HH1 ARG X  50"       1.631           -2.139  -11.131
+   5   "ATOM   1884  O   LEU X 126"      "ATOM   1986  H   LYS X 131"       1.899           -1.350  -12.481
+   6   "ATOM   1438  O   GLU X 100"      "ATOM    310  H   LYS X  24"       1.735           -1.186  -13.667
+   7   "ATOM     58  O   LEU X   6"      "ATOM    530  H   VAL X  39"       2.108           -1.160  -14.827
+   8   "ATOM   1508  O   CYS X 104"      "ATOM    244  H   LEU X  20"       1.909           -1.066  -15.893
+
+
+                            Hydrogen bonds in GEO_REF but not in GEO_DAT
+
+               Donor atom                     Hydrogen atom            H-bond length(A)     Energy    Sum
+
+   1   "ATOM   1049  OE1 GLU X  73"      "ATOM   2086  HH  TYR X 136"       1.485           -3.695   -3.695
+   2   "ATOM   2352  OE2 GLU X 152"      "ATOM   1998 3HZ  LYS X 131"       1.797           -2.209   -5.904
+   3   "ATOM    634  OE2 GLU X  46"      "ATOM    691 2HH1 ARG X  50"       1.737           -2.108   -8.012
+   4   "ATOM   1707  OD2 ASP X 115"      "ATOM   1697 1HZ  LYS X 114"       2.225           -2.048  -10.060
+   5   "ATOM    866  N   ASP X  62"      "ATOM   1345 2HE2 GLN X  92"       2.910           -1.642  -11.703
+   6   "ATOM    881  O   ALA X  63"      "ATOM   1283  HG1 THR X  88"       2.091           -1.263  -12.966
+   7   "ATOM    304  O   LYS X  24"      "ATOM    344 2HH1 ARG X  25"       2.132           -1.114  -14.080
+   8   "ATOM    726  OE2 GLU X  52"      "ATOM    714 1HH1 ARG X  51"       2.389           -1.112  -15.191
+   9   "ATOM    504  O   LYS X  38"      "ATOM    716 1HH2 ARG X  51"       2.210           -1.002  -16.194
+  10   "ATOM    721  O   GLU X  52"      "ATOM    793  H   GLU X  56"       1.862           -0.903  -17.096
+  11   "ATOM   2347  O   GLU X 152"      "ATOM   2341 2HH1 ARG X 151"       2.780           -0.846  -17.942
+  12   "HETATM 2435  N1  8OG X1157"      "HETATM 2447  H6  8OG X1157"       2.373           -0.839  -18.781
+
+
+    The following files will be written to "M:\MTH1 paper\Files mentioned in paper\Compare PDB Chain A and Chain B\":
+    'Compare 3ZR0 PDB Chain A and Chain B.html'
+    '3ZR0 chain A PDB Starting geometry (no H2O, etc.).pdb'
+    '3ZR0 chain B PDB Starting geometry (no H2O, etc.).pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

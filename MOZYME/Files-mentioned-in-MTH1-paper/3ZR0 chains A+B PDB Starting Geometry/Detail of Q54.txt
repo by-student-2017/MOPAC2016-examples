@@ -1,0 +1,4 @@
+display 54:B
+center {visible}
+zoom 0
+measure (54:B.CB) (54:B.CG)

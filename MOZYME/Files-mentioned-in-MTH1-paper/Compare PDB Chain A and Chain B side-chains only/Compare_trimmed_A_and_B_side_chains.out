@@ -1,0 +1,153 @@
+ *******************************************************************************
+ ** Site#: 23746        For non-commercial use only     Version 16.069W 64BITS**
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 16.069W, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 366**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Wed Mar 09 12:17:20 2016  *
+ *  GEO_DAT    - DATA SET GEOMETRY IS IN FILE "MTH1_3ZR0_CHAIN_A_TRIMMED_SIDE_CHAINS.MOP"
+ *  GEO_REF    - REFERENCE GEOMETRY IS IN FILE "MTH1_3ZR0_CHAIN_B_TRIMMED_SIDE_CHAINS.MOP"
+ *  LET        - OVERRIDE SOME SAFETY CHECKS
+ *  0SCF       - AFTER READING AND PRINTING DATA, STOP
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  OUTPUT     - MINIMIZE OUTPUT
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+geo_dat="MTH1_3ZR0_Chain_A_trimmed_side_chains.mop" geo_ref="MTH1_3ZR0_Chain_B_trimmed_side_chains.mop" 0scf output let html
+ Compare side-chains only for MTH1 A and MTH1 B PDB geometries
+
+ 
+ --------------------------------------------------------------------------------
+
+      List of atoms in GEO_REF that are swapped in order to maximize overlap
+
+              Atom Label          and         Atom Label         Difference to GEO_REF
+
+    1 (ATOM   1192  OE2 GLU A 152)   (ATOM   1191  OE1 GLU A 152)       -0.67
+    2 (ATOM   1155  CE2 TYR A 148)   (ATOM   1154  CE1 TYR A 148)       -2.84
+    3 (ATOM   1153  CD2 TYR A 148)   (ATOM   1152  CD1 TYR A 148)       -2.91
+    4 (ATOM   1145  OD2 ASP A 147)   (ATOM   1144  OD1 ASP A 147)       -0.73
+    5 (ATOM   1026  CE2 PHE A 133)   (ATOM   1025  CE1 PHE A 133)       -3.02
+    6 (ATOM   1024  CD2 PHE A 133)   (ATOM   1023  CD1 PHE A 133)       -3.01
+    7 (ATOM    922  CE2 TYR A 122)   (ATOM    921  CE1 TYR A 122)       -2.52
+    8 (ATOM    920  CD2 TYR A 122)   (ATOM    919  CD1 TYR A 122)       -2.52
+    9 (ATOM    727  OE2 GLU A 100)   (ATOM    726  OE1 GLU A 100)       -0.57
+   10 (ATOM    695  CG2 VAL A  96)   (ATOM    694  CG1 VAL A  96)       -1.04
+   11 (ATOM    646  OD1 ASP A  89)   (ATOM    647  OD2 ASP A  89)       -0.02
+   12 (ATOM    567  OE2 GLU A  79)   (ATOM    566  OE1 GLU A  79)       -1.78
+   13 (ATOM    538  CG2 VAL A  75)   (ATOM    537  CG1 VAL A  75)       -1.26
+  
+  
+  
+
+                         After docking
+
+                      Atoms that move a lot
+
+  Atom No.           Atom Label             GEO_REF Coordinates       Movement    Integral
+
+      74    (ATOM    154  NH1 ARG A  25)  -7.754 -20.167 -27.302        7.03        7.03
+      75    (ATOM    155  NH2 ARG A  25)  -9.019 -20.460 -29.194        6.10       13.13
+      73    (ATOM    153  CZ  ARG A  25)  -8.831 -19.849 -28.024        5.51       18.63
+      72    (ATOM    152  NE  ARG A  25)  -9.705 -18.911 -27.622        4.07       22.70
+     347    (ATOM    727  OE2 GLU A 100) -12.824 -15.695 -18.853        3.84       26.54
+     346    (ATOM    726  OE1 GLU A 100) -12.901 -17.790 -18.156        3.69       30.22
+     503    (ATOM   1007  NZ  LYS A 131)  13.913  -6.089   2.623        3.47       33.69
+     198    (ATOM    418  CG2 THR A  60) -13.745 -18.469  -0.075        3.28       36.97
+      71    (ATOM    151  CD  ARG A  25)  -9.666 -18.166 -26.347        3.26       40.23
+      70    (ATOM    150  CG  ARG A  25)  -8.466 -17.186 -26.174        3.01       43.24
+     604    (ATOM   1192  OE2 GLU A 152)  13.441  -3.933   0.987        2.88       46.12
+     345    (ATOM    725  CD  GLU A 100) -12.347 -16.667 -18.211        2.87       48.99
+     311    (ATOM    647  OD2 ASP A  89)  -1.045 -17.353   4.120        2.69       51.68
+     330    (ATOM    694  CG1 VAL A  96) -12.571 -26.779 -12.135        2.61       54.29
+     498    (ATOM    998  NZ  LYS A 130)   5.558 -15.827   3.165        2.55       56.83
+     599    (ATOM   1183  NH2 ARG A 151)   8.683   4.800  -3.535        2.53       59.36
+     598    (ATOM   1182  NH1 ARG A 151)  10.243   3.875  -2.113        2.48       61.85
+     603    (ATOM   1191  OE1 GLU A 152)  11.634  -4.209   2.246        2.47       64.32
+     602    (ATOM   1190  CD  GLU A 152)  12.215  -3.783   1.204        2.43       66.75
+     257    (ATOM    537  CG1 VAL A  75)   6.146  -0.288 -28.226        2.40       69.15
+     601    (ATOM   1189  CG  GLU A 152)  11.329  -3.109   0.194        2.38       71.53
+     179    (ATOM    375  NE2 GLN A  54) -15.992 -19.043  -9.059        2.37       73.90
+     321    (ATOM    669  OE1 GLN A  92) -13.749 -20.358   2.632        2.31       76.21
+     310    (ATOM    646  OD1 ASP A  89)  -0.063 -19.314   4.498        2.24       78.44
+       1    (ATOM      9  CB  ALA A   3)  -4.157   8.054 -19.623        2.22       80.66
+     577    (ATOM   1145  OD2 ASP A 147)  11.826   2.483 -18.803        2.19       82.85
+     221    (ATOM    465  NZ  LYS A  66)  -3.596   0.234  -0.430        2.16       85.01
+     497    (ATOM    997  CE  LYS A 130)   5.225 -14.597   2.382        2.13       87.14
+     248    (ATOM    520  OE2 GLU A  73)   4.957   5.172 -22.007        2.12       89.26
+     200    (ATOM    424  CG1 VAL A  61)  -8.234 -14.632   0.432        2.07       91.33
+
+   Difference between GEO_DAT and GEO_REF:  366.88 = total,  0.5937 = Average,  0.9265 = RMS, in Angstroms
+
+                             Differences between bond-lengths for the two geometries
+
+           Diff.                 Atom 1                       Atom 2                  Bond length      Bond length
+                                                                                      in GEO_DAT      in GEO_REF
+   1       0.210     C(ATOM    751  CB  PRO A 103)    C(ATOM    752  CG  PRO A 103)      1.495            1.285
+   2       0.186     C(ATOM    371  CB  GLN A  54)    C(ATOM    372  CG  GLN A  54)      1.547            1.733
+   3       0.174     C(ATOM   1177  CB  ARG A 151)    C(ATOM   1178  CG  ARG A 151)      1.534            1.360
+   4       0.150     S(ATOM    632  SG  CYS A  87)    C(ATOM    631  CB  CYS A  87)      1.788            1.638
+   5       0.130     C(ATOM     32  CG  LEU A   6)    C(ATOM     34  CD2 LEU A   6)      1.503            1.633
+   6       0.109     C(ATOM    104  CG  LEU A  19)    C(ATOM    106  CD2 LEU A  19)      1.583            1.475
+   7       0.102     C(ATOM   1082  CE1 PHE A 139)    C(ATOM   1084  CZ  PHE A 139)      1.436            1.335
+   8       0.099     C(ATOM     41  CD1 TYR A   7)    C(ATOM     43  CE1 TYR A   7)      1.333            1.432
+   9       0.092     C(ATOM    621  CG  PHE A  86)    C(ATOM    622  CD1 PHE A  86)      1.294            1.387
+  10       0.089     C(ATOM    168  CE1 PHE A  27)    C(ATOM    170  CZ  PHE A  27)      1.299            1.388
+  11       0.089     C(ATOM    888  CB  PRO A 118)    C(ATOM    889  CG  PRO A 118)      1.445            1.534
+  12       0.087     C(ATOM     96  CB  VAL A  18)    C(ATOM     97  CG1 VAL A  18)      1.517            1.604
+  13       0.086     C(ATOM    141  CG  LYS A  24)    C(ATOM    142  CD  LYS A  24)      1.582            1.495
+  14       0.086     C(ATOM    470  CB  VAL A  67)    C(ATOM    471  CG1 VAL A  67)      1.536            1.622
+  15       0.086     C(ATOM    423  CB  VAL A  61)    C(ATOM    425  CG2 VAL A  61)      1.399            1.485
+  16       0.086     N(ATOM   1073  NZ  LYS A 138)    C(ATOM   1072  CE  LYS A 138)      1.564            1.478
+  17       0.085     C(ATOM    510  CE2 PHE A  72)    C(ATOM    511  CZ  PHE A  72)      1.307            1.392
+  18       0.084     C(ATOM    666  CB  GLN A  92)    C(ATOM    667  CG  GLN A  92)      1.595            1.511
+  19       0.084     C(ATOM    613  CB  VAL A  85)    C(ATOM    614  CG1 VAL A  85)      1.584            1.501
+  20       0.083     C(ATOM    112  CG  LEU A  20)    C(ATOM    113  CD1 LEU A  20)      1.612            1.529
+  21       0.083     C(ATOM    381  CG  GLU A  55)    C(ATOM    382  CD  GLU A  55)      1.544            1.626
+  22       0.083     C(ATOM    470  CB  VAL A  67)    C(ATOM    472  CG2 VAL A  67)      1.587            1.505
+  23       0.082     C(ATOM   1025  CE1 PHE A 133)    C(ATOM   1027  CZ  PHE A 133)      1.399            1.317
+  24       0.081     C(ATOM     20  CB  ARG A   5)    C(ATOM     21  CG  ARG A   5)      1.571            1.490
+  25       0.081     C(ATOM   1126  CB  ILE A 145)    C(ATOM   1128  CG2 ILE A 145)      1.577            1.496
+
+    GEO_DAT:  'MTH1_3ZR0_Chain_A_trimmed_side_chains.mop'
+    GEO_REF:  'MTH1_3ZR0_Chain_B_trimmed_side_chains.mop'
+
+
+                    Analysis of Non-Covalent Interactions
+
+          Total non-covalent energy of GEO_DAT system:   -289.64 Kcal/mol
+          Total non-covalent energy of GEO_REF system:   -284.59 Kcal/mol
+                                           Difference:     -5.05 Kcal/mol
+
+
+    The following files will be written to "G:\tm\":
+    'Compare_trimmed_A_and_B_side_chains.html'
+    'MTH1_3ZR0_Chain_A_trimmed_side_chains.pdb'
+    'MTH1_3ZR0_Chain_B_trimmed_side_chains.pdb'
+
+          GEO_REF with 0SCF: Job complete
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * GEO_REF with 0SCF: Job complete                                            *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.00 SECONDS
+
+ == MOPAC DONE ==

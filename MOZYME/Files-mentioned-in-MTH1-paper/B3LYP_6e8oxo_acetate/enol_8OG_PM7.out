@@ -1,0 +1,827 @@
+ *******************************************************************************
+ ** Site#: 10005        For non-commercial use only     Version 15.168W 64BITS**
+ *******************************************************************************
+ ** Cite this work as:                                                        **
+ **                                                                           **
+ ** (a) MOPAC2012, James J. P. Stewart, Stewart Computational Chemistry,      **
+ **  Version 15.168W web: HTTP://OpenMOPAC.net         Days remaining: 360    **
+ **                                                                           **
+ **                                 AND                                       **
+ **                                                                           **
+ ** (b) Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.     **
+ **                DOI: 10.1021/ct3004645.                                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2012                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Mon Jun 22 16:33:51 2015  *
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(119B-1157) 
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(B) 
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM =    -1
+ *
+ *
+ *
+ *  EPS= 78.40 - USE ANDREAS KLAMT'S COSMO IMPLICIT SOLVATION MODEL
+ *  PRECISE    - CRITERIA TO BE INCREASED BY 100 TIMES
+ *  T=         - A TIME OF      2.0 WEEKS   REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  BONDS      - FINAL BOND-ORDER MATRIX TO BE PRINTED
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *******************************************************************************
+ START_RES=(119B-1157)  CHAINS=(B)  charge=-1 precise eps=78.4 t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(ATOM      1  CB  ASP B 119)   -9.13513322  *   -0.9495194  *   -0.3750402  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.70078765  *   -0.9124577  *    0.0704677  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.84192878  *   -1.3235967  *   -0.7771458  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.39348825  *   -0.5197729  *    1.2010377  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.27806727  *   -0.3811585  *   -1.3046645  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.45162466  *   -1.9825485  *   -0.5810314  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.04045180  *    0.4295763  *   -1.4008550  *
+     8       P(HETATM    8  P   8OG B1157)    6.16609086  *   -0.8499501  *   -0.4722255  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.32812736  *   -0.9266178  *    0.4124056  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.97017761  *   -2.0263909  *   -1.5219727  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.86946404  *   -0.7780762  *    0.4509576  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.52721546  *   -0.6988129  *   -0.0612460  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.10870147  *    0.7763525  *   -0.1597734  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.75337905  *    0.8053505  *   -0.6159448  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.87870409  *    1.2675581  *    0.4035395  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.68315052  *    1.3694857  *    1.7065281  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.23978861  *    0.3340274  *    0.4764186  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.22164273  *   -1.0298778  *    0.9250851  *
+    19       O(HETATM   19  O8  8OG B1157)    0.73235526  *   -1.6125890  *    1.3972316  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.50228386  *   -1.5438042  *    0.7545492  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.32375460  *   -0.5486095  *    0.1878267  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.68158819  *   -0.4611898  *   -0.1913900  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.48359245  *   -1.4662551  *   -0.0288912  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.15405188  *    0.6926738  *   -0.7375647  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.30029930  *    1.7620856  *   -0.8752182  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.95994721  *    1.7752546  *   -0.5308850  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.51940058  *    0.6167034  *   -0.0041565  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.82851843  *    2.9376729  *   -1.3194693  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.13412830  *    1.4668033  *    1.2188892  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.49377810  *    2.8114207  *    0.9648860  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.22374452  *   -2.9247761  *   -1.0742311  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.31873939  *   -1.2410763  *   -1.0036779  *
+    33       H(HETATM   33 2H5P 8OG B1157)    2.98455287  *   -1.2273007  *    0.7615286  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.49310441  *    2.2583327  *    0.0377334  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.54329546  *    0.4869097  *    2.3624835  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.38181089  *    2.2418390  *    2.3127205  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.74620608  *    2.9460743  *   -1.7457887  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.21139660  *    3.6886250  *   -1.5994960  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.80013185  *   -2.4812411  *    0.9767951  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.67021072  *    1.3455326  *   -0.9341158  *
+    41       H(HETATM   41 1H3P 8OG B1157)    3.28644751  *    3.3834465  *    1.7371516  *
+    42       H(HETATM   42 2H3P 8OG B1157)    3.88034896  *    1.0465017  *    1.9238768  *
+    43       H(HETATM   43  H6  8OG B1157)    1.10000000  *  116.4319410  *   -1.0807274  *    23    22    24
+    44       H(ATOM     44 3HB  ASP B 119)   -9.81897412  *   -0.5377620  *    0.3773474  *
+    45       H(HETATM   45  HP3 8OG B1157)    6.70042387  *    0.3192700  *   -2.2000312  *
+ 
+
+     ===================== shared-memory parallel CPU Section ======================
+     **                                                                           **
+     **  MOPAC calculations will run in shared-memory parallel CPUs               **
+     **                                                                           **
+     **  Number of Threads =  4                                                   **
+     **                                                                           **
+     **                                                                           **
+     **  For information on this work, see:                                       **
+     **                                                                           **
+     **  Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.        **
+     **        DOI: 10.1021/ct3004645.                                            **
+     **                                                                           **
+     ===================== shared-memory parallel CPU Section ======================
+      
+
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS =   78
+
+      Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.156 TIME LEFT:  2.00W  GRAD.:    25.321 HEAT: -619.8567
+ CYCLE:     2 TIME:   0.078 TIME LEFT:  2.00W  GRAD.:    23.143 HEAT: -620.2841
+ CYCLE:     3 TIME:   0.094 TIME LEFT:  2.00W  GRAD.:   148.398 HEAT: -620.8508
+ CYCLE:     4 TIME:   0.172 TIME LEFT:  2.00W  GRAD.:   114.056 HEAT: -622.3342
+ CYCLE:     5 TIME:   0.156 TIME LEFT:  2.00W  GRAD.:    70.609 HEAT: -623.5694
+ CYCLE:     6 TIME:   0.094 TIME LEFT:  2.00W  GRAD.:    63.836 HEAT: -623.8016
+ CYCLE:     7 TIME:   0.078 TIME LEFT:  2.00W  GRAD.:    64.137 HEAT: -624.1454
+ CYCLE:     8 TIME:   0.188 TIME LEFT:  2.00W  GRAD.:    22.050 HEAT: -624.6863
+ CYCLE:     9 TIME:   0.156 TIME LEFT:  2.00W  GRAD.:    15.853 HEAT: -624.7557
+ CYCLE:    10 TIME:   0.078 TIME LEFT:  2.00W  GRAD.:    21.063 HEAT: -625.0040
+ CYCLE:    11 TIME:   0.062 TIME LEFT:  2.00W  GRAD.:    22.167 HEAT: -625.0660
+ CYCLE:    12 TIME:   0.078 TIME LEFT:  2.00W  GRAD.:    23.273 HEAT: -625.2138
+ CYCLE:    13 TIME:   0.281 TIME LEFT:  2.00W  GRAD.:    13.512 HEAT: -625.2780
+ CYCLE:    14 TIME:   0.297 TIME LEFT:  2.00W  GRAD.:    11.396 HEAT: -625.2904
+ CYCLE:    15 TIME:   0.281 TIME LEFT:  2.00W  GRAD.:    10.860 HEAT: -625.2935
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ START_RES=(119B-1157)  CHAINS=(B)  charge=-1 precise eps=78.4 t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2012 (Version: 15.168W)
+                                                       Mon Jun 22 16:33:53 2015
+                                                       No. of days left = 360
+
+
+
+
+          FINAL HEAT OF FORMATION =       -625.29350 KCAL/MOL =   -2616.22800 KJ/MOL
+          VAN DER WAALS AREA      =        392.42 SQUARE ANGSTROMS
+
+
+          TOTAL ENERGY            =      -5774.08395 EV
+          ELECTRONIC ENERGY       =      -8008.54075 EV  POINT GROUP:     C1  
+          CORE-CORE REPULSION     =       2234.45679 EV
+          DIELECTRIC ENERGY       =         -4.14634 EV
+          COSMO AREA              =        392.42 SQUARE ANGSTROMS
+          COSMO VOLUME            =        431.28 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =         10.85971
+          IONIZATION POTENTIAL    =          8.573588 EV
+          HOMO LUMO ENERGIES (EV) =         -8.574 -0.169
+          NO. OF FILLED LEVELS    =         78
+          MOLECULAR WEIGHT        =        422.268
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            O     9    H    44    17.15118
+            H    31    H    41     6.84642
+            O    19    H    38     4.88543
+
+
+          SCF CALCULATIONS        =         31
+ 
+          WALL-CLOCK TIME         =          2.359 SECONDS
+          COMPUTATION TIME        =          9.266 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE       GRADIENT
+      1          1  C    CARTESIAN X    -9.134817     1.522708  KCAL/ANGSTROM
+      2          1  C    CARTESIAN Y    -0.952106     0.209859  KCAL/ANGSTROM
+      3          1  C    CARTESIAN Z    -0.374012     3.585977  KCAL/ANGSTROM
+      4          2  C    CARTESIAN X    -7.731272    -3.325540  KCAL/ANGSTROM
+      5          2  C    CARTESIAN Y    -0.902031     0.210530  KCAL/ANGSTROM
+      6          2  C    CARTESIAN Z     0.098405    -1.355078  KCAL/ANGSTROM
+      7          3  O    CARTESIAN X    -6.861332     1.383314  KCAL/ANGSTROM
+      8          3  O    CARTESIAN Y    -1.320861    -0.025069  KCAL/ANGSTROM
+      9          3  O    CARTESIAN Z    -0.801686     2.139166  KCAL/ANGSTROM
+     10          4  O    CARTESIAN X    -7.382817    -0.459260  KCAL/ANGSTROM
+     11          4  O    CARTESIAN Y    -0.526794    -0.345466  KCAL/ANGSTROM
+     12          4  O    CARTESIAN Z     1.205647    -0.578940  KCAL/ANGSTROM
+     13          5  H    CARTESIAN X    -9.274793     0.103364  KCAL/ANGSTROM
+     14          5  H    CARTESIAN Y    -0.383009     0.429004  KCAL/ANGSTROM
+     15          5  H    CARTESIAN Z    -1.311068    -0.747834  KCAL/ANGSTROM
+     16          6  H    CARTESIAN X    -9.456688     0.179953  KCAL/ANGSTROM
+     17          6  H    CARTESIAN Y    -1.985708    -0.359169  KCAL/ANGSTROM
+     18          6  H    CARTESIAN Z    -0.591233    -0.328872  KCAL/ANGSTROM
+     19          7  O    CARTESIAN X     6.027007     0.341195  KCAL/ANGSTROM
+     20          7  O    CARTESIAN Y     0.430217    -0.114673  KCAL/ANGSTROM
+     21          7  O    CARTESIAN Z    -1.395617    -0.051616  KCAL/ANGSTROM
+     22          8  P    CARTESIAN X     6.159756     0.353700  KCAL/ANGSTROM
+     23          8  P    CARTESIAN Y    -0.851169     0.126192  KCAL/ANGSTROM
+     24          8  P    CARTESIAN Z    -0.469968     0.664947  KCAL/ANGSTROM
+     25          9  O    CARTESIAN X     7.322996    -0.059855  KCAL/ANGSTROM
+     26          9  O    CARTESIAN Y    -0.924155     0.138424  KCAL/ANGSTROM
+     27          9  O    CARTESIAN Z     0.413057    -0.289736  KCAL/ANGSTROM
+     28         10  O    CARTESIAN X     5.971046    -0.331113  KCAL/ANGSTROM
+     29         10  O    CARTESIAN Y    -2.025012     0.123398  KCAL/ANGSTROM
+     30         10  O    CARTESIAN Z    -1.524757    -0.274890  KCAL/ANGSTROM
+     31         11  O    CARTESIAN X     4.859771     0.120069  KCAL/ANGSTROM
+     32         11  O    CARTESIAN Y    -0.790090     0.242933  KCAL/ANGSTROM
+     33         11  O    CARTESIAN Z     0.448993    -0.241322  KCAL/ANGSTROM
+     34         12  C    CARTESIAN X     3.521178     0.194927  KCAL/ANGSTROM
+     35         12  C    CARTESIAN Y    -0.699267     0.248290  KCAL/ANGSTROM
+     36         12  C    CARTESIAN Z    -0.071164     1.760663  KCAL/ANGSTROM
+     37         13  C    CARTESIAN X     3.104805    -0.226837  KCAL/ANGSTROM
+     38         13  C    CARTESIAN Y     0.777063    -0.155467  KCAL/ANGSTROM
+     39         13  C    CARTESIAN Z    -0.162305     0.027342  KCAL/ANGSTROM
+     40         14  O    CARTESIAN X     1.749570    -0.103386  KCAL/ANGSTROM
+     41         14  O    CARTESIAN Y     0.806844     0.125714  KCAL/ANGSTROM
+     42         14  O    CARTESIAN Z    -0.615993     0.720016  KCAL/ANGSTROM
+     43         15  C    CARTESIAN X     0.876732     0.296015  KCAL/ANGSTROM
+     44         15  C    CARTESIAN Y     1.271196    -0.174442  KCAL/ANGSTROM
+     45         15  C    CARTESIAN Z     0.404142    -0.464738  KCAL/ANGSTROM
+     46         16  C    CARTESIAN X     1.681626    -0.096762  KCAL/ANGSTROM
+     47         16  C    CARTESIAN Y     1.374663    -0.128924  KCAL/ANGSTROM
+     48         16  C    CARTESIAN Z     1.706227    -0.864419  KCAL/ANGSTROM
+     49         17  N    CARTESIAN X    -0.238563    -0.081903  KCAL/ANGSTROM
+     50         17  N    CARTESIAN Y     0.340295     0.662276  KCAL/ANGSTROM
+     51         17  N    CARTESIAN Z     0.486998    -0.342448  KCAL/ANGSTROM
+     52         18  C    CARTESIAN X    -0.219840     1.011987  KCAL/ANGSTROM
+     53         18  C    CARTESIAN Y    -1.022939    -1.708194  KCAL/ANGSTROM
+     54         18  C    CARTESIAN Z     0.935693     2.002438  KCAL/ANGSTROM
+     55         19  O    CARTESIAN X     0.733698    -1.285964  KCAL/ANGSTROM
+     56         19  O    CARTESIAN Y    -1.608186     0.592351  KCAL/ANGSTROM
+     57         19  O    CARTESIAN Z     1.408338    -0.821063  KCAL/ANGSTROM
+     58         20  N    CARTESIAN X    -1.500915    -0.829136  KCAL/ANGSTROM
+     59         20  N    CARTESIAN Y    -1.533204    -0.749239  KCAL/ANGSTROM
+     60         20  N    CARTESIAN Z     0.768273    -1.273174  KCAL/ANGSTROM
+     61         21  C    CARTESIAN X    -2.313977     0.994110  KCAL/ANGSTROM
+     62         21  C    CARTESIAN Y    -0.535927     1.632105  KCAL/ANGSTROM
+     63         21  C    CARTESIAN Z     0.192623    -0.432231  KCAL/ANGSTROM
+     64         22  C    CARTESIAN X    -3.686476    -0.914669  KCAL/ANGSTROM
+     65         22  C    CARTESIAN Y    -0.490048     0.685636  KCAL/ANGSTROM
+     66         22  C    CARTESIAN Z    -0.191390     3.171612  KCAL/ANGSTROM
+     67         23  O    CARTESIAN X    -4.455863     0.640722  KCAL/ANGSTROM
+     68         23  O    CARTESIAN Y    -1.467626    -0.673808  KCAL/ANGSTROM
+     69         23  O    CARTESIAN Z    -0.062705    -1.006098  KCAL/ANGSTROM
+     70         24  N    CARTESIAN X    -4.155328    -0.992328  KCAL/ANGSTROM
+     71         24  N    CARTESIAN Y     0.688123     1.041753  KCAL/ANGSTROM
+     72         24  N    CARTESIAN Z    -0.736983    -2.987269  KCAL/ANGSTROM
+     73         25  C    CARTESIAN X    -3.306303    -0.522947  KCAL/ANGSTROM
+     74         25  C    CARTESIAN Y     1.749454     0.853622  KCAL/ANGSTROM
+     75         25  C    CARTESIAN Z    -0.873291     0.286032  KCAL/ANGSTROM
+     76         26  N    CARTESIAN X    -1.962399     1.342736  KCAL/ANGSTROM
+     77         26  N    CARTESIAN Y     1.776685    -1.680988  KCAL/ANGSTROM
+     78         26  N    CARTESIAN Z    -0.536807     0.707625  KCAL/ANGSTROM
+     79         27  C    CARTESIAN X    -1.520689    -1.705244  KCAL/ANGSTROM
+     80         27  C    CARTESIAN Y     0.619647    -0.276450  KCAL/ANGSTROM
+     81         27  C    CARTESIAN Z    -0.000872    -0.599838  KCAL/ANGSTROM
+     82         28  N    CARTESIAN X    -3.839421     0.841361  KCAL/ANGSTROM
+     83         28  N    CARTESIAN Y     2.935196    -0.912165  KCAL/ANGSTROM
+     84         28  N    CARTESIAN Z    -1.309703    -0.317556  KCAL/ANGSTROM
+     85         29  C    CARTESIAN X     3.131296    -0.582440  KCAL/ANGSTROM
+     86         29  C    CARTESIAN Y     1.466052     0.194120  KCAL/ANGSTROM
+     87         29  C    CARTESIAN Z     1.216352    -1.436940  KCAL/ANGSTROM
+     88         30  O    CARTESIAN X     3.490221    -0.663689  KCAL/ANGSTROM
+     89         30  O    CARTESIAN Y     2.811130     0.223671  KCAL/ANGSTROM
+     90         30  O    CARTESIAN Z     0.962745     0.803331  KCAL/ANGSTROM
+     91         31  H    CARTESIAN X     6.221361     0.123529  KCAL/ANGSTROM
+     92         31  H    CARTESIAN Y    -2.924938    -0.203557  KCAL/ANGSTROM
+     93         31  H    CARTESIAN Z    -1.077531     0.192203  KCAL/ANGSTROM
+     94         32  H    CARTESIAN X     3.317041    -0.124424  KCAL/ANGSTROM
+     95         32  H    CARTESIAN Y    -1.231585    -0.485410  KCAL/ANGSTROM
+     96         32  H    CARTESIAN Z    -1.022591    -0.672109  KCAL/ANGSTROM
+     97         33  H    CARTESIAN X     2.971611     0.698397  KCAL/ANGSTROM
+     98         33  H    CARTESIAN Y    -1.234456     0.262934  KCAL/ANGSTROM
+     99         33  H    CARTESIAN Z     0.741255    -0.193422  KCAL/ANGSTROM
+    100         34  H    CARTESIAN X     0.491155    -0.056922  KCAL/ANGSTROM
+    101         34  H    CARTESIAN Y     2.261144    -0.190475  KCAL/ANGSTROM
+    102         34  H    CARTESIAN Z     0.037048     0.072897  KCAL/ANGSTROM
+    103         35  H    CARTESIAN X     1.539544    -0.028939  KCAL/ANGSTROM
+    104         35  H    CARTESIAN Y     0.494274    -0.430613  KCAL/ANGSTROM
+    105         35  H    CARTESIAN Z     2.365940     0.270317  KCAL/ANGSTROM
+    106         36  H    CARTESIAN X     1.381203    -0.327521  KCAL/ANGSTROM
+    107         36  H    CARTESIAN Y     2.249308     0.018907  KCAL/ANGSTROM
+    108         36  H    CARTESIAN Z     2.310059     0.165658  KCAL/ANGSTROM
+    109         37  H    CARTESIAN X    -4.748207    -0.309598  KCAL/ANGSTROM
+    110         37  H    CARTESIAN Y     2.932148     0.677281  KCAL/ANGSTROM
+    111         37  H    CARTESIAN Z    -1.754070    -0.054923  KCAL/ANGSTROM
+    112         38  H    CARTESIAN X    -3.219187     0.039491  KCAL/ANGSTROM
+    113         38  H    CARTESIAN Y     3.674532     0.681564  KCAL/ANGSTROM
+    114         38  H    CARTESIAN Z    -1.612358     0.217923  KCAL/ANGSTROM
+    115         39  H    CARTESIAN X    -1.803503    -0.140002  KCAL/ANGSTROM
+    116         39  H    CARTESIAN Y    -2.470575     0.095031  KCAL/ANGSTROM
+    117         39  H    CARTESIAN Z     0.975141     0.115436  KCAL/ANGSTROM
+    118         40  H    CARTESIAN X     3.664612     0.045811  KCAL/ANGSTROM
+    119         40  H    CARTESIAN Y     1.350067     0.120197  KCAL/ANGSTROM
+    120         40  H    CARTESIAN Z    -0.935185     0.085879  KCAL/ANGSTROM
+    121         41  H    CARTESIAN X     3.300371    -0.507803  KCAL/ANGSTROM
+    122         41  H    CARTESIAN Y     3.378668    -0.239478  KCAL/ANGSTROM
+    123         41  H    CARTESIAN Z     1.740817    -0.735570  KCAL/ANGSTROM
+    124         42  H    CARTESIAN X     3.876300     0.192701  KCAL/ANGSTROM
+    125         42  H    CARTESIAN Y     1.043645    -0.022408  KCAL/ANGSTROM
+    126         42  H    CARTESIAN Z     1.922351     0.403721  KCAL/ANGSTROM
+    127         43  H    BOND            1.445099    -1.247036  KCAL/ANGSTROM
+    128         43  H    ANGLE         116.269343     0.415452  KCAL/RADIAN  
+    129         43  H    DIHEDRAL       -0.496279     1.583750  KCAL/RADIAN  
+    130         44  H    CARTESIAN X    -9.823772     2.967399  KCAL/ANGSTROM
+    131         44  H    CARTESIAN Y    -0.537134    -0.527189  KCAL/ANGSTROM
+    132         44  H    CARTESIAN Z     0.371698    -1.024286  KCAL/ANGSTROM
+    133         45  H    CARTESIAN X     6.693952     0.283136  KCAL/ANGSTROM
+    134         45  H    CARTESIAN Y     0.331629    -0.192246  KCAL/ANGSTROM
+    135         45  H    CARTESIAN Z    -2.189886    -0.294177  KCAL/ANGSTROM
+
+
+
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(ATOM      1  CB  ASP B 119)   -9.13481733  *   -0.9521065  *   -0.3740122  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.73127158  *   -0.9020306  *    0.0984048  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.86133186  *   -1.3208606  *   -0.8016862  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.38281651  *   -0.5267941  *    1.2056470  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.27479277  *   -0.3830087  *   -1.3110676  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.45668832  *   -1.9857085  *   -0.5912335  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.02700685  *    0.4302165  *   -1.3956168  *
+     8       P(HETATM    8  P   8OG B1157)    6.15975610  *   -0.8511693  *   -0.4699676  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.32299628  *   -0.9241554  *    0.4130575  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.97104561  *   -2.0250124  *   -1.5247571  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.85977078  *   -0.7900897  *    0.4489927  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.52117809  *   -0.6992675  *   -0.0711637  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.10480468  *    0.7770626  *   -0.1623049  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.74956959  *    0.8068437  *   -0.6159930  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.87673159  *    1.2711957  *    0.4041418  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.68162605  *    1.3746634  *    1.7062267  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.23856276  *    0.3402951  *    0.4869978  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.21983994  *   -1.0229393  *    0.9356928  *
+    19       O(HETATM   19  O8  8OG B1157)    0.73369838  *   -1.6081863  *    1.4083382  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.50091482  *   -1.5332041  *    0.7682733  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.31397716  *   -0.5359270  *    0.1926226  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.68647640  *   -0.4900475  *   -0.1913903  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.45586282  *   -1.4676261  *   -0.0627052  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.15532822  *    0.6881227  *   -0.7369826  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.30630253  *    1.7494538  *   -0.8732915  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.96239935  *    1.7766849  *   -0.5368074  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.52068920  *    0.6196472  *   -0.0008718  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.83942092  *    2.9351963  *   -1.3097033  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.13129576  *    1.4660515  *    1.2163517  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.49022090  *    2.8111303  *    0.9627446  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.22136074  *   -2.9249383  *   -1.0775308  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.31704130  *   -1.2315854  *   -1.0225910  *
+    33       H(HETATM   33 2H5P 8OG B1157)    2.97161080  *   -1.2344557  *    0.7412554  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.49115460  *    2.2611439  *    0.0370479  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.53954390  *    0.4942737  *    2.3659399  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.38120275  *    2.2493077  *    2.3100593  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.74820655  *    2.9321477  *   -1.7540697  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.21918657  *    3.6745317  *   -1.6123582  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.80350315  *   -2.4705747  *    0.9751408  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.66461196  *    1.3500673  *   -0.9351846  *
+    41       H(HETATM   41 1H3P 8OG B1157)    3.30037098  *    3.3786682  *    1.7408169  *
+    42       H(HETATM   42 2H3P 8OG B1157)    3.87630020  *    1.0436454  *    1.9223514  *
+    43       H(HETATM   43  H6  8OG B1157)    1.44509924  *  116.2693427  *   -0.4962792  *    23    22    24
+    44       H(ATOM     44 3HB  ASP B 119)   -9.82377159  *   -0.5371342  *    0.3716983  *
+    45       H(HETATM   45  HP3 8OG B1157)    6.69395156  *    0.3316295  *   -2.1898863  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       -9.134817329    -0.952106472    -0.374012185
+   2    C       -7.731271584    -0.902030598     0.098404842
+   3    O       -6.861331863    -1.320860619    -0.801686226
+   4    O       -7.382816514    -0.526794130     1.205647028
+   5    H       -9.274792771    -0.383008728    -1.311067619
+   6    H       -9.456688323    -1.985708468    -0.591233493
+   7    O        6.027006846     0.430216535    -1.395616819
+   8    P        6.159756095    -0.851169325    -0.469967559
+   9    O        7.322996283    -0.924155380     0.413057454
+  10    O        5.971045605    -2.025012449    -1.524757121
+  11    O        4.859770779    -0.790089749     0.448992667
+  12    C        3.521178094    -0.699267474    -0.071163666
+  13    C        3.104804685     0.777062646    -0.162304902
+  14    O        1.749569592     0.806843733    -0.615993034
+  15    C        0.876731587     1.271195721     0.404141761
+  16    C        1.681626049     1.374663376     1.706226696
+  17    N       -0.238562760     0.340295146     0.486997808
+  18    C       -0.219839936    -1.022939349     0.935692784
+  19    O        0.733698384    -1.608186275     1.408338232
+  20    N       -1.500914824    -1.533204092     0.768273283
+  21    C       -2.313977165    -0.535926963     0.192622607
+  22    C       -3.686476396    -0.490047514    -0.191390308
+  23    O       -4.455862825    -1.467626106    -0.062705244
+  24    N       -4.155328222     0.688122719    -0.736982550
+  25    C       -3.306302532     1.749453804    -0.873291488
+  26    N       -1.962399353     1.776684932    -0.536807352
+  27    C       -1.520689197     0.619647194    -0.000871847
+  28    N       -3.839420918     2.935196347    -1.309703279
+  29    C        3.131295764     1.466051505     1.216351728
+  30    O        3.490220898     2.811130312     0.962744577
+  31    H        6.221360737    -2.924938319    -1.077530823
+  32    H        3.317041305    -1.231585388    -1.022591049
+  33    H        2.971610796    -1.234455677     0.741255427
+  34    H        0.491154602     2.261143938     0.037047928
+  35    H        1.539543902     0.494273730     2.365939889
+  36    H        1.381202749     2.249307713     2.310059324
+  37    H       -4.748206552     2.932147666    -1.754069662
+  38    H       -3.219186569     3.674531673    -1.612358161
+  39    H       -1.803503149    -2.470574697     0.975140789
+  40    H        3.664611960     1.350067312    -0.935184635
+  41    H        3.300370984     3.378668237     1.740816923
+  42    H        3.876300195     1.043645398     1.922351371
+  43    H       -5.818814894    -1.270873339    -0.500839731
+  44    H       -9.823771590    -0.537134237     0.371698320
+  45    H        6.693951558     0.331629459    -2.189886263
+
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -46.36670 -39.18035 -38.16474 -36.02154 -35.53213 -34.08254 -31.52339 -31.00213
+ -30.70646 -30.56994 -30.31603 -29.86566 -29.75452 -29.11682 -29.07405 -26.80752
+ -26.58708 -26.36066 -25.60894 -24.45171 -23.68790 -22.98279 -22.19049 -22.08725
+ -20.50703 -20.39557 -20.31329 -19.27634 -18.82843 -17.93977 -17.75567 -17.66058
+ -17.34409 -17.20777 -16.98647 -16.78241 -16.47271 -16.46490 -16.23860 -16.10108
+ -15.97197 -15.93934 -15.65948 -15.31874 -15.30719 -15.00695 -14.82573 -14.69908
+ -14.26753 -14.11313 -13.91001 -13.90309 -13.47958 -13.40347 -13.33022 -13.12965
+ -13.07012 -12.76443 -12.70694 -12.58300 -12.25864 -12.02061 -11.97517 -11.83484
+ -11.63306 -11.47153 -11.42999 -11.21615 -11.10423 -11.02633 -10.92291 -10.69581
+ -10.45290 -10.37235 -10.31768 -10.21821 -10.06969  -8.57359  -0.16900  -0.09258
+   0.19582   0.46680   0.59469   0.87817   1.08153   1.15342   1.59805   1.96677
+   2.02812   2.23917   2.24820   2.43098   2.59318   2.65305   2.89853   3.12112
+   3.20619   3.37323   3.47977   3.77398   3.88807   3.98044   4.06655   4.12484
+   4.27006   4.50733   4.56598   4.75136   4.91327   4.95786   5.07451   5.22868
+   5.29027   5.45867   5.51283   5.56611   5.66366   5.71019   5.75138   5.93296
+   5.93660   6.04515   6.10585   6.17570   6.27085   6.38013   6.60024   6.61270
+   6.88650 105.63687 105.90032 106.11039 106.42012 106.53753
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.                 TYPE                        CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C(ATOM      1  CB  ASP B 119)          -0.547589        4.5476     1.06205     3.48554
+    2          C(ATOM      2  CG  ASP B 119)           0.761470        3.2385     1.09292     2.14561
+    3          O(ATOM      3  OD1 ASP B 119)          -0.664193        6.6642     1.84709     4.81710
+    4          O(ATOM      4  OD2 ASP B 119)          -0.692679        6.6927     1.87618     4.81649
+    5          H(ATOM      5 1HB  ASP B 119)           0.199795        0.8002     0.80020
+    6          H(ATOM      6 2HB  ASP B 119)           0.199582        0.8004     0.80042
+    7          O(HETATM    7  OP3 8OG B1157)          -0.329479        6.3295     1.83973     4.48974
+    8          P(HETATM    8  P   8OG B1157)           0.333871        4.6661     1.65930     2.84225     0.16459
+    9          O(HETATM    9  OP1 8OG B1157)          -0.373976        6.3740     1.88054     4.49343
+   10          O(HETATM   10  OP2 8OG B1157)          -0.393111        6.3931     1.83305     4.56006
+   11          O(HETATM   11  O5P 8OG B1157)          -0.221072        6.2211     1.84857     4.37250
+   12          C(HETATM   12  C5P 8OG B1157)          -0.074602        4.0746     1.09712     2.97748
+   13          C(HETATM   13  C4P 8OG B1157)           0.072801        3.9272     1.11131     2.81589
+   14          O(HETATM   14  O4P 8OG B1157)          -0.478034        6.4780     1.87989     4.59815
+   15          C(HETATM   15  C1P 8OG B1157)           0.348440        3.6516     1.09810     2.55346
+   16          C(HETATM   16  C2P 8OG B1157)          -0.405633        4.4056     1.08403     3.32161
+   17          N(HETATM   17  N9  8OG B1157)          -0.485676        5.4857     1.57923     3.90644
+   18          C(HETATM   18  C8  8OG B1157)           0.697045        3.3030     1.02953     2.27342
+   19          O(HETATM   19  O8  8OG B1157)          -0.618598        6.6186     1.87797     4.74063
+   20          N(HETATM   20  N7  8OG B1157)          -0.450102        5.4501     1.52839     3.92171
+   21          C(HETATM   21  C5  8OG B1157)          -0.306215        4.3062     1.03531     3.27091
+   22          C(HETATM   22  C6  8OG B1157)           0.654123        3.3459     1.04794     2.29793
+   23          O(HETATM   23  O6  8OG B1157)          -0.688498        6.6885     1.87286     4.81564
+   24          N(HETATM   24  N1  8OG B1157)          -0.755573        5.7556     1.77229     3.98329
+   25          C(HETATM   25  C2  8OG B1157)           0.591661        3.4083     1.04360     2.36474
+   26          N(HETATM   26  N3  8OG B1157)          -0.687495        5.6875     1.77145     3.91605
+   27          C(HETATM   27  C4  8OG B1157)           0.392621        3.6074     1.04027     2.56711
+   28          N(HETATM   28  N2  8OG B1157)          -0.582084        5.5821     1.54475     4.03733
+   29          C(HETATM   29  C3P 8OG B1157)           0.143188        3.8568     1.10023     2.75659
+   30          O(HETATM   30  O3P 8OG B1157)          -0.633680        6.6337     1.84433     4.78935
+   31          H(HETATM   31  HP2 8OG B1157)           0.370977        0.6290     0.62902
+   32          H(HETATM   32 1H5P 8OG B1157)           0.162837        0.8372     0.83716
+   33          H(HETATM   33 2H5P 8OG B1157)           0.174456        0.8255     0.82554
+   34          H(HETATM   34  H1P 8OG B1157)           0.173078        0.8269     0.82692
+   35          H(HETATM   35 1H2P 8OG B1157)           0.195874        0.8041     0.80413
+   36          H(HETATM   36 2H2P 8OG B1157)           0.184059        0.8159     0.81594
+   37          H(HETATM   37 1H2  8OG B1157)           0.335999        0.6640     0.66400
+   38          H(HETATM   38 2H2  8OG B1157)           0.334795        0.6652     0.66520
+   39          H(HETATM   39  H7  8OG B1157)           0.376153        0.6238     0.62385
+   40          H(HETATM   40  H4P 8OG B1157)           0.173364        0.8266     0.82664
+   41          H(HETATM   41 1H3P 8OG B1157)           0.360589        0.6394     0.63941
+   42          H(HETATM   42 2H3P 8OG B1157)           0.156680        0.8433     0.84332
+   43          H(HETATM   43  H6  8OG B1157)           0.440281        0.5597     0.55972
+   44          H(ATOM     44 3HB  ASP B 119)           0.188187        0.8118     0.81181
+   45          H(HETATM   45  HP3 8OG B1157)           0.366367        0.6336     0.63363
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    13.555     3.726    -3.417    14.467
+ HYBRID         0.835    -0.857    -0.182     1.210
+ SUM           14.390     2.869    -3.599    15.108
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+                   Atom                  s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+   C(ATOM      1  CB  ASP B 119)   1.06205   1.05914   1.22092   1.20548
+   C(ATOM      2  CG  ASP B 119)   1.09292   0.81216   0.61337   0.72008
+   O(ATOM      3  OD1 ASP B 119)   1.84709   1.46519   1.77561   1.57629
+   O(ATOM      4  OD2 ASP B 119)   1.87618   1.85098   1.59236   1.37316
+   H(ATOM      5 1HB  ASP B 119)   0.80020
+   H(ATOM      6 2HB  ASP B 119)   0.80042
+   O(HETATM    7  OP3 8OG B1157)   1.83973   1.63513   1.35081   1.50381
+   P(HETATM    8  P   8OG B1157)   1.65930   0.95969   0.94260   0.93995   0.03609   0.03264   0.03324   0.03343   0.02919
+   O(HETATM    9  OP1 8OG B1157)   1.88054   1.22323   1.77969   1.49051
+   O(HETATM   10  OP2 8OG B1157)   1.83305   1.84343   1.34853   1.36810
+   O(HETATM   11  O5P 8OG B1157)   1.84857   1.20122   1.86092   1.31036
+   C(HETATM   12  C5P 8OG B1157)   1.09712   0.79764   1.01514   1.16469
+   C(HETATM   13  C4P 8OG B1157)   1.11131   0.79181   1.00674   1.01734
+   O(HETATM   14  O4P 8OG B1157)   1.87989   1.26845   1.88978   1.43992
+   C(HETATM   15  C1P 8OG B1157)   1.09810   0.77930   0.90303   0.87113
+   C(HETATM   16  C2P 8OG B1157)   1.08403   1.03488   1.21486   1.07187
+   N(HETATM   17  N9  8OG B1157)   1.57923   1.15065   1.19845   1.55735
+   C(HETATM   18  C8  8OG B1157)   1.02953   0.75920   0.73845   0.77578
+   O(HETATM   19  O8  8OG B1157)   1.87797   1.45535   1.67724   1.60804
+   N(HETATM   20  N7  8OG B1157)   1.52839   1.13657   1.21224   1.57290
+   C(HETATM   21  C5  8OG B1157)   1.03531   1.01232   0.95039   1.30820
+   C(HETATM   22  C6  8OG B1157)   1.04794   0.81249   0.76748   0.71797
+   O(HETATM   23  O6  8OG B1157)   1.87286   1.62332   1.47047   1.72185
+   N(HETATM   24  N1  8OG B1157)   1.77229   1.40354   1.12527   1.45447
+   C(HETATM   25  C2  8OG B1157)   1.04360   0.76821   0.79309   0.80343
+   N(HETATM   26  N3  8OG B1157)   1.77145   1.19213   1.30451   1.41940
+   C(HETATM   27  C4  8OG B1157)   1.04027   0.82590   0.87588   0.86533
+   N(HETATM   28  N2  8OG B1157)   1.54475   1.24933   1.19015   1.59786
+   C(HETATM   29  C3P 8OG B1157)   1.10023   0.97566   0.77288   1.00805
+   O(HETATM   30  O3P 8OG B1157)   1.84433   1.90003   1.33197   1.55735
+   H(HETATM   31  HP2 8OG B1157)   0.62902
+   H(HETATM   32 1H5P 8OG B1157)   0.83716
+   H(HETATM   33 2H5P 8OG B1157)   0.82554
+   H(HETATM   34  H1P 8OG B1157)   0.82692
+   H(HETATM   35 1H2P 8OG B1157)   0.80413
+   H(HETATM   36 2H2P 8OG B1157)   0.81594
+   H(HETATM   37 1H2  8OG B1157)   0.66400
+   H(HETATM   38 2H2  8OG B1157)   0.66520
+   H(HETATM   39  H7  8OG B1157)   0.62385
+   H(HETATM   40  H4P 8OG B1157)   0.82664
+   H(HETATM   41 1H3P 8OG B1157)   0.63941
+   H(HETATM   42 2H3P 8OG B1157)   0.84332
+   H(HETATM   43  H6  8OG B1157)   0.55972
+   H(ATOM     44 3HB  ASP B 119)   0.81181
+   H(HETATM   45  HP3 8OG B1157)   0.63363
+
+          BONDING CONTRIBUTION OF EACH M.O.
+
+  0.8988  1.3839  1.3158  1.3528  1.3124  1.1119  1.4577  1.3539  1.1956  1.2381
+  1.0319  0.9613  1.1854  1.0118  1.0548  1.5958  1.2602  1.7737  1.5893  0.9818
+  1.3522  1.7791  1.6106  1.7705  1.7217  1.4997  1.6400  1.8516  1.6731  1.5839
+  1.5103  1.4780  1.5753  1.4220  1.6650  1.5357  1.6555  1.4627  1.5737  1.4237
+  1.5355  1.5565  1.5021  1.5181  1.4345  1.4376  1.3856  1.4368  1.3947  1.4701
+  1.2708  1.7025  1.2822  1.5293  1.1571  1.3320  1.3441  1.1260  1.3471  1.4217
+  1.2185  0.6832  0.5561  1.3240  0.7680  0.9122  0.7319  0.6889  0.8292  0.6881
+  0.6041  0.6280  1.2198  0.8167  0.9863  0.8448  0.9122  1.1141 -2.2401 -2.2515
+ -2.0424 -2.1994 -2.0449 -2.2936 -2.1818 -1.8133 -2.0454 -1.9940 -1.9990 -2.1368
+ -2.0212 -2.0490 -1.9377 -1.8843 -1.9801 -1.9979 -1.9831 -1.9500 -2.0337 -1.9919
+ -1.9555 -1.9761 -1.9512 -2.0088 -1.9791 -1.9096 -1.8773 -1.8814 -1.9138 -1.8986
+ -1.8838 -1.9201 -1.9264 -1.9268 -1.9254 -1.8554 -1.9428 -1.8216 -1.9083 -1.9050
+ -1.8034 -1.8618 -1.8739 -1.8965 -1.9123 -1.7825 -1.7602 -1.8590 -1.7870 -0.1037
+ -0.1072 -0.1249 -0.1250 -0.1261
+
+
+
+
+
+                    BOND ORDERS AND VALENCIES
+
+
+                  C  1       C  2       O  3       O  4       H  5       H  6
+ ------------------------------------------------------------------------------
+     C    1   3.892923
+     C    2   0.981635   3.705265
+     O    3   0.024845   1.101151   1.952136
+     O    4   0.047133   1.596650   0.144937   1.808856
+     H    5   0.938239   0.007687   0.002078   0.006446   0.960082
+     H    6   0.936603   0.008716   0.002328   0.006804   0.003495   0.960167
+     O    7   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     P    8   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     O    9   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     O   10   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     O   11   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     C   12   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     C   13   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     O   14   0.000000   0.000000   0.000002   0.000000   0.000000   0.000000
+     C   15   0.000001   0.000001   0.000021   0.000001   0.000000   0.000000
+     C   16   0.000000   0.000000   0.000002   0.000000   0.000000   0.000000
+     N   17   0.000003   0.000003   0.000055   0.000001   0.000000   0.000000
+     C   18   0.000001   0.000001   0.000010   0.000000   0.000000   0.000000
+     O   19   0.000000   0.000000   0.000001   0.000000   0.000000   0.000000
+     N   20   0.000001   0.000000   0.000028   0.000001   0.000000   0.000000
+     C   21   0.000119   0.000130   0.002221   0.000045   0.000001   0.000001
+     C   22   0.000165   0.000060   0.004086   0.000091   0.000001   0.000000
+     O   23   0.001915   0.002641   0.046633   0.000836   0.000016   0.000013
+     N   24   0.000041   0.000086   0.000738   0.000017   0.000000   0.000000
+     C   25   0.000005   0.000002   0.000158   0.000004   0.000000   0.000000
+     N   26   0.000003   0.000003   0.000046   0.000001   0.000000   0.000000
+     C   27   0.000009   0.000007   0.000157   0.000004   0.000000   0.000000
+     N   28   0.000000   0.000001   0.000005   0.000000   0.000000   0.000000
+     C   29   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     O   30   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   31   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   32   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   33   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   34   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   35   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   36   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   37   0.000000   0.000000   0.000002   0.000000   0.000000   0.000000
+     H   38   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   39   0.000001   0.000000   0.000014   0.000000   0.000000   0.000000
+     H   40   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   41   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   42   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+
+
+                  C  1       C  2       O  3       O  4       H  5       H  6
+ ------------------------------------------------------------------------------
+     H   43   0.011511   0.003313   0.618065   0.004658   0.000087   0.000066
+     H   44   0.950692   0.003177   0.004552   0.001224   0.002031   0.002142
+     H   45   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+
+
+                  O  7       P  8       O  9       O 10       O 11       C 12
+ ------------------------------------------------------------------------------
+     O    7   2.140294
+     P    8   0.854935   3.877700
+     O    9   0.201202   1.259452   1.899973
+     O   10   0.124936   0.822837   0.205646   2.116304
+     O   11   0.126125   0.824129   0.188199   0.140518   2.252107
+     C   12   0.002505   0.029296   0.030797   0.003165   0.919134   3.885495
+     C   13   0.001357   0.004382   0.000679   0.000257   0.017922   0.974155
+     O   14   0.000131   0.000411   0.000819   0.000075   0.010421   0.014119
+     C   15   0.000015   0.000018   0.000041   0.000003   0.000809   0.002597
+     C   16   0.000008   0.000051   0.000059   0.000007   0.000306   0.000630
+     N   17   0.000002   0.000003   0.000009   0.000001   0.000140   0.000150
+     C   18   0.000001   0.000011   0.000014   0.000001   0.000042   0.000455
+     O   19   0.000002   0.000027   0.000020   0.000003   0.000043   0.000731
+     N   20   0.000001   0.000003   0.000004   0.000000   0.000008   0.000079
+     C   21   0.000000   0.000001   0.000002   0.000000   0.000012   0.000033
+     C   22   0.000000   0.000000   0.000000   0.000000   0.000000   0.000002
+     O   23   0.000000   0.000000   0.000000   0.000000   0.000000   0.000001
+     N   24   0.000000   0.000000   0.000000   0.000000   0.000002   0.000002
+     C   25   0.000000   0.000000   0.000000   0.000000   0.000000   0.000003
+     N   26   0.000000   0.000000   0.000001   0.000000   0.000009   0.000005
+     C   27   0.000001   0.000001   0.000003   0.000000   0.000028   0.000021
+     N   28   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     C   29   0.000056   0.000584   0.000214   0.000039   0.001073   0.004162
+     O   30   0.000017   0.000040   0.000018   0.000007   0.000116   0.005508
+     H   31   0.012897   0.031351   0.002766   0.814361   0.000880   0.000083
+     H   32   0.000129   0.003339   0.001548   0.000795   0.005663   0.954812
+     H   33   0.000857   0.011295   0.005413   0.000889   0.003457   0.939870
+     H   34   0.000001   0.000008   0.000015   0.000001   0.000145   0.000167
+     H   35   0.000000   0.000004   0.000003   0.000000   0.000011   0.000026
+     H   36   0.000001   0.000004   0.000006   0.000001   0.000037   0.000074
+     H   37   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   38   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   39   0.000000   0.000000   0.000000   0.000000   0.000000   0.000006
+     H   40   0.000837   0.001693   0.000177   0.000033   0.000653   0.001156
+     H   41   0.000001   0.000003   0.000001   0.000001   0.000030   0.001005
+     H   42   0.000018   0.000407   0.000023   0.000014   0.000778   0.000549
+     H   43   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   44   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   45   0.814257   0.033415   0.002846   0.002714   0.011415   0.000197
+
+
+                  C 13       O 14       C 15       C 16       N 17       C 18
+ ------------------------------------------------------------------------------
+     C   13   3.892204
+     O   14   0.915942   1.970543
+     C   15   0.009105   0.927611   3.807414
+     C   16   0.007555   0.018114   0.985899   3.932213
+     N   17   0.006495   0.029460   0.855315   0.006397   3.203570
+     C   18   0.000292   0.006063   0.018748   0.001615   0.962879   3.821258
+     O   19   0.000223   0.001906   0.004865   0.001678   0.096683   1.555448
+     N   20   0.000103   0.000871   0.011024   0.000235   0.029539   1.174611
+     C   21   0.000274   0.001700   0.010440   0.000804   0.038145   0.032226
+     C   22   0.000014   0.000079   0.000347   0.000085   0.004229   0.011588
+     O   23   0.000009   0.000046   0.000310   0.000030   0.001147   0.002859
+     N   24   0.000031   0.000276   0.000183   0.000105   0.007221   0.002656
+     C   25   0.000009   0.000236   0.000933   0.000101   0.014710   0.003187
+     N   26   0.000146   0.001212   0.002010   0.000448   0.040646   0.006600
+     C   27   0.000762   0.007862   0.013632   0.008623   1.089007   0.015783
+     N   28   0.000006   0.000062   0.000036   0.000022   0.002103   0.000990
+     C   29   0.982574   0.012901   0.007830   0.981066   0.002957   0.000304
+     O   30   0.005083   0.000280   0.000198   0.020170   0.000071   0.000015
+     H   31   0.000014   0.000005   0.000000   0.000000   0.000000   0.000000
+     H   32   0.001082   0.000403   0.000053   0.000067   0.000006   0.000001
+     H   33   0.000987   0.000197   0.000049   0.000081   0.000007   0.000078
+     H   34   0.004315   0.006358   0.939547   0.002054   0.002573   0.009373
+     H   35   0.000342   0.000224   0.001509   0.944122   0.001518   0.000962
+     H   36   0.003031   0.003968   0.001769   0.947270   0.000931   0.000041
+     H   37   0.000000   0.000003   0.000015   0.000003   0.000356   0.000109
+     H   38   0.000000   0.000001   0.000003   0.000000   0.000023   0.000017
+     H   39   0.000016   0.000222   0.002370   0.000026   0.010311   0.014150
+     H   40   0.942597   0.004055   0.006337   0.002152   0.000292   0.000077
+     H   41   0.009789   0.000183   0.000060   0.001396   0.000005   0.000003
+     H   42   0.002224   0.004278   0.003689   0.001030   0.000123   0.000024
+     H   43   0.000000   0.000002   0.000014   0.000002   0.000053   0.000022
+     H   44   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   45   0.000430   0.000045   0.000007   0.000001   0.000002   0.000001
+
+
+                  O 19       N 20       C 21       C 22       O 23       N 24
+ ------------------------------------------------------------------------------
+     O   19   1.853727
+     N   20   0.138207   3.239413
+     C   21   0.022524   0.999734   3.801168
+     C   22   0.003756   0.006063   1.131692   3.819139
+     O   23   0.001190   0.001036   0.064252   1.397908   1.827855
+     N   24   0.001033   0.008006   0.029136   1.182116   0.092473   2.771949
+     C   25   0.001616   0.005621   0.048021   0.010215   0.021404   1.279117
+     N   26   0.001511   0.009300   0.049296   0.036877   0.015616   0.052747
+     C   27   0.015811   0.043333   1.337617   0.010686   0.012193   0.037585
+     N   28   0.000386   0.001887   0.016823   0.015108   0.003626   0.064137
+     C   29   0.000097   0.000086   0.000122   0.000007   0.000004   0.000012
+     O   30   0.000014   0.000003   0.000005   0.000000   0.000000   0.000001
+     H   31   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   32   0.000002   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   33   0.001433   0.000010   0.000001   0.000000   0.000000   0.000000
+     H   34   0.000614   0.000759   0.000003   0.000004   0.000000   0.000006
+     H   35   0.000594   0.000035   0.000042   0.000005   0.000003   0.000002
+     H   36   0.000052   0.000023   0.000029   0.000002   0.000001   0.000002
+     H   37   0.000051   0.000064   0.000362   0.000076   0.000035   0.002400
+     H   38   0.000009   0.000060   0.000345   0.002321   0.000803   0.009576
+     H   39   0.003149   0.808650   0.011401   0.000093   0.000260   0.000110
+     H   40   0.000028   0.000015   0.000030   0.000002   0.000001   0.000005
+     H   41   0.000001   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   42   0.000016   0.000004   0.000013   0.000001   0.000000   0.000002
+     H   43   0.000002   0.000008   0.003552   0.001446   0.160443   0.002123
+     H   44   0.000000   0.000000   0.000010   0.000013   0.000151   0.000004
+     H   45   0.000001   0.000000   0.000000   0.000000   0.000000   0.000000
+
+
+                  C 25       N 26       C 27       N 28       C 29       O 30
+ ------------------------------------------------------------------------------
+     C   25   3.856129
+     N   26   1.210945   2.788480
+     C   27   0.007874   1.291812   3.916103
+     N   28   1.228312   0.055325   0.012901   3.110532
+     C   29   0.000014   0.000049   0.000571   0.000002   3.883856
+     O   30   0.000002   0.000002   0.000048   0.000000   0.923104   1.826299
+     H   31   0.000000   0.000000   0.000000   0.000000   0.000001   0.000000
+     H   32   0.000000   0.000000   0.000000   0.000000   0.004709   0.000216
+     H   33   0.000000   0.000000   0.000005   0.000000   0.000645   0.000017
+     H   34   0.000006   0.000800   0.000092   0.000000   0.000329   0.000005
+     H   35   0.000026   0.000010   0.000387   0.000001   0.001941   0.004648
+     H   36   0.000010   0.000010   0.000170   0.000001   0.001868   0.002546
+     H   37   0.011650   0.009945   0.002288   0.853944   0.000000   0.000000
+     H   38   0.011806   0.002262   0.000050   0.854834   0.000000   0.000000
+     H   39   0.000124   0.000768   0.006419   0.000005   0.000023   0.000001
+     H   40   0.000004   0.000020   0.000171   0.000001   0.002203   0.002843
+     H   41   0.000000   0.000000   0.000001   0.000000   0.002529   0.852488
+     H   42   0.000001   0.000009   0.000073   0.000000   0.951758   0.008828
+     H   43   0.000013   0.000046   0.000115   0.000014   0.000000   0.000000
+     H   44   0.000001   0.000000   0.000001   0.000000   0.000000   0.000000
+     H   45   0.000000   0.000000   0.000001   0.000000   0.000020   0.000004
+
+
+                  H 31       H 32       H 33       H 34       H 35       H 36
+ ------------------------------------------------------------------------------
+     H   31   0.862376
+     H   32   0.000000   0.973484
+     H   33   0.000000   0.000347   0.969565
+     H   34   0.000000   0.000002   0.000000   0.970044
+     H   35   0.000000   0.000004   0.000136   0.002282   0.961634
+     H   36   0.000000   0.000010   0.000001   0.000232   0.002413   0.966122
+     H   37   0.000000   0.000000   0.000000   0.000000   0.000001   0.000000
+     H   38   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   39   0.000000   0.000000   0.000000   0.000344   0.000024   0.000007
+     H   40   0.000002   0.000070   0.003406   0.000000   0.000050   0.000014
+     H   41   0.000000   0.000118   0.000000   0.000003   0.000080   0.001436
+     H   42   0.000000   0.000056   0.000135   0.000001   0.000231   0.000165
+     H   43   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   44   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   45   0.000014   0.000050   0.000248   0.000000   0.000000   0.000000
+
+
+                  H 37       H 38       H 39       H 40       H 41       H 42
+ ------------------------------------------------------------------------------
+     H   37   0.887105
+     H   38   0.005798   0.887912
+     H   39   0.000000   0.000001   0.858509
+     H   40   0.000000   0.000000   0.000003   0.969945
+     H   41   0.000000   0.000000   0.000000   0.000381   0.869975
+     H   42   0.000000   0.000000   0.000001   0.000535   0.000461   0.975451
+     H   43   0.000002   0.000003   0.000005   0.000000   0.000000   0.000000
+     H   44   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+     H   45   0.000000   0.000000   0.000000   0.000101   0.000000   0.000005
+
+
+                  H 43       H 44       H 45
+ ------------------------------------------
+     H   43   0.806153
+     H   44   0.000588   0.964586
+     H   45   0.000000   0.000000   0.865775
+
+          JOB ENDED NORMALLY
+
+
+
+ TOTAL JOB TIME:             2.37 SECONDS
+
+ == MOPAC DONE ==

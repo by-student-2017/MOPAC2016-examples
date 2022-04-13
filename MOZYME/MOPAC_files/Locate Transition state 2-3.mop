@@ -1,0 +1,5 @@
+geo-ok opt output  EPS=78.4 LOCATE-TS(C:4,30,30,30,30;set:1)  T=1W CHARGE=-1 HTML +
+ GEO_DAT="Step 3.arc" GEO_REF="Step 2.arc" geo-ok
+Locate Transition state between Step 2 and Step 3
+
+

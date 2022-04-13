@@ -1,0 +1,959 @@
+ *******************************************************************************
+ ** Site#: 10005        For non-commercial use only     Version 15.172W 64BITS**
+ *******************************************************************************
+ ** Cite this work as:                                                        **
+ **                                                                           **
+ ** (a) MOPAC2012, James J. P. Stewart, Stewart Computational Chemistry,      **
+ **  Version 15.172W web: HTTP://OpenMOPAC.net         Days remaining: 364    **
+ **                                                                           **
+ **                                 AND                                       **
+ **                                                                           **
+ ** (b) Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.     **
+ **                DOI: 10.1021/ct3004645.                                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2012                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Mon Jun 22 16:28:39 2015  *
+ *  PDBOUT     - PRINT GEOMETY IN PDB FORMAT
+ *  START_RES- STARTING RESIDUE NUMBERS DEFINED
+ *  Keyword:   START_RES=(119B-1157) 
+ *  CHAIN      - PDB CHAIN LETTERS EXPLICITLY DEFINED
+ *  Keyword:   CHAINS=(B) 
+ *  MOZYME     - USE LOCALIZED M.O.s IN SOLVING THE SCF EQUATIONS
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM =    -1
+ *
+ *
+ *
+ *  EPS= 78.40 - USE ANDREAS KLAMT'S COSMO IMPLICIT SOLVATION MODEL
+ *  T=         - A TIME OF      2.0 WEEKS   REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY  7200.000 SECONDS
+ *  GNORM=     - EXIT WHEN GRADIENT NORM DROPS BELOW   5.00    
+ *  BONDS      - NON-HYDROGEN BOND-ORDERS TO BE PRINTED
+ *  HTML       - WRITE HTML SCRIPT TO READ PDB FILE USING JSMOL
+ *  PL         - MONITOR CONVERGENCE IN DENSITY MATRIX
+ *******************************************************************************
+ START_RES=(119B-1157)  CHAINS=(B)  charge=-1 mozyme opt gnorm=5 eps=78.4 pl t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(ATOM      1  CB  ASP B 119)   -9.20500000  *   -0.9710000  *   -0.3610000  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.77700000  *   -0.9080000  *    0.1260000  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.89700000  *   -1.3990000  *   -0.7570000  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.45800000  *   -0.4420000  *    1.2440000  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.31000000  *   -0.4010000  *   -1.2910000  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.48300000  *   -2.0070000  *   -0.5830000  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.11300000  *    0.3970000  *   -1.4930000  *
+     8       P(HETATM    8  P   8OG B1157)    6.31900000  *   -0.9320000  *   -0.4450000  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.66700000  *   -1.0600000  *    0.3760000  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.96400000  *   -2.1940000  *   -1.5520000  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.97000000  *   -0.7460000  *    0.5690000  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.57900000  *   -0.6580000  *    0.0370000  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.16200000  *    0.8030000  *   -0.1090000  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.78100000  *    0.7940000  *   -0.6320000  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.83800000  *    1.2220000  *    0.4300000  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.67600000  *    1.3110000  *    1.7180000  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.28700000  *    0.3200000  *    0.4840000  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.26000000  *   -1.0280000  *    0.9180000  *
+    19       O(HETATM   19  O8  8OG B1157)    0.72600000  *   -1.6520000  *    1.3900000  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.54000000  *   -1.5050000  *    0.7160000  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.35700000  *   -0.5060000  *    0.1570000  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.71500000  *   -0.4590000  *   -0.2360000  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.51100000  *   -1.4890000  *   -0.1150000  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.15500000  *    0.7340000  *   -0.7570000  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.29800000  *    1.7830000  *   -0.8660000  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.97900000  *    1.8020000  *   -0.5010000  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.57000000  *    0.6260000  *    0.0030000  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.80000000  *    2.9390000  *   -1.3930000  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.09900000  *    1.5790000  *    1.2100000  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.28900000  *    2.9840000  *    0.8520000  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.22600000  *   -3.0980000  *   -1.2720000  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.51100000  *   -1.1740000  *   -0.9230000  *
+    33       H(HETATM   33 2H5P 8OG B1157)    2.96200000  *   -1.1780000  *    0.7700000  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.43200000  *    2.1900000  *    0.1340000  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.63800000  *    0.3630000  *    2.2580000  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.31700000  *    2.1040000  *    2.3800000  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.76300000  *    2.9800000  *   -1.6770000  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.20700000  *    3.7450000  *   -1.4960000  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.82400000  *   -2.4440000  *    0.9440000  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.79700000  *    1.3210000  *   -0.8300000  *
+    41       H(HETATM   41 1H3P 8OG B1157)    3.24400000  *    3.5400000  *    1.6560000  *
+    42       H(HETATM   42 2H3P 8OG B1157)    3.87100000  *    1.2550000  *    1.9150000  *
+    43       H(HETATM   43  H6  8OG B1157)    1.00000000  *  120.0000000  *  -11.0000000  *    23    22    24
+    44       H(ATOM     44 3HB  ASP B 119)   -9.88000000  *   -0.5650000  *    0.3930000  *
+    45       H(HETATM   45  HP3 8OG B1157)    6.66900000  *    0.4040000  *   -2.3020000  *
+ 
+
+     ===================== shared-memory parallel CPU Section ======================
+     **                                                                           **
+     **  MOPAC calculations will run in shared-memory parallel CPUs               **
+     **                                                                           **
+     **  Number of Threads =  4                                                   **
+     **                                                                           **
+     **                                                                           **
+     **  For information on this work, see:                                       **
+     **                                                                           **
+     **  Maia, J.D.C., et al., J. Chem. Theory Comput. 2012, 8, 3072-3081.        **
+     **        DOI: 10.1021/ct3004645.                                            **
+     **                                                                           **
+     ===================== shared-memory parallel CPU Section ======================
+      
+
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00894-012-1667-x
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+                RESIDUE SEQUENCE IN PROTEIN Chain: B
+
+      110          D
+
+ Ion Atom No.           Label               Charge
+ 
+  1   P    8   (HETATM    8  P   8OG B1157)   +1  (1.6 Angstroms from anion  O    9, Label: HETATM    9  OP1 8OG B1157)
+ 
+  1   O    4   (ATOM      4  OD2 ASP B 119)   -1
+  2   O    9   (HETATM    9  OP1 8OG B1157)   -1  (1.6 Angstroms from cation  P    8, Label: HETATM    8  P   8OG B1157)
+
+                  COMPUTED CHARGE ON SYSTEM:  -1
+      Geometry optimization using EF
+
+ PLS ESCF USING THE OLD LMOs:     2695.899147 KCAL/MOL
+
+ ITER.      1 PLS= 0.635E+01           ENERGY     838.03069 DELTAE  838.0306870
+ ITER.      2 PLS= 0.752E+01           ENERGY    -150.14374 DELTAE -988.1744225
+ ITER.      3 PLS= 0.194E+01           ENERGY    -537.99387 DELTAE -387.8501318
+ ITER.      4 PLS= 0.148E+01           ENERGY    -546.67428 DELTAE   -8.6804120
+ ITER.      5 PLS= 0.544E+01           ENERGY    -489.06652 DELTAE   57.6077616
+ ITER.      6 PLS= 0.579E+00           ENERGY    -580.76571 DELTAE  -91.6991940
+ ITER.      7 PLS= 0.357E+00           ENERGY    -480.22938 DELTAE  100.5363269
+ ITER.      8 PLS= 0.435E+01           ENERGY    -546.85669 DELTAE  -66.6273075
+ ITER.      9 PLS= 0.870E+00           ENERGY    -573.97218 DELTAE  -27.1154877
+ ITER.     10 PLS= 0.758E+00           ENERGY    -563.55943 DELTAE   10.4127540
+ ITER.     11 PLS= 0.152E+00           ENERGY    -565.21553 DELTAE   -1.6561035
+ ITER.     12 PLS= 0.436E+00           ENERGY    -572.64535 DELTAE   -7.4298213
+ ITER.     13 PLS= 0.266E+00           ENERGY    -568.18417 DELTAE    4.4611770
+ ITER.     14 PLS= 0.905E-01           ENERGY    -568.52308 DELTAE   -0.3389062
+ ITER.     15 PLS= 0.570E-01           ENERGY    -569.44109 DELTAE   -0.9180074
+ ITER.     16 PLS= 0.123E+00           ENERGY    -568.88529 DELTAE    0.5557981
+ ITER.     17 PLS= 0.199E-01           ENERGY    -568.90710 DELTAE   -0.0218135
+ ITER.     18 PLS= 0.172E-01           ENERGY    -568.91818 DELTAE   -0.0110808
+ ITER.     19 PLS= 0.140E-01           ENERGY    -568.92427 DELTAE   -0.0060850
+ ITER.     20 PLS= 0.112E-01           ENERGY    -568.92797 DELTAE   -0.0036987
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.355 TIME LEFT:  2.00W  GRAD.:   288.771 HEAT: -568.9280
+ ITER.      1 PLS= 0.886E-02           ENERGY    -573.58123 DELTAE   -4.6532580
+ ITER.      2 PLS= 0.921E+00           ENERGY    -591.98343 DELTAE  -18.4022046
+ ITER.      3 PLS= 0.250E+00           ENERGY    -595.14323 DELTAE   -3.1598019
+ ITER.      4 PLS= 0.151E+00           ENERGY    -594.87278 DELTAE    0.2704559
+ ITER.      5 PLS= 0.748E-01           ENERGY    -595.10630 DELTAE   -0.2335275
+ ITER.      6 PLS= 0.610E-01           ENERGY    -595.39719 DELTAE   -0.2908899
+ ITER.      7 PLS= 0.380E-01           ENERGY    -595.25720 DELTAE    0.1399912
+ CYCLE:     2 TIME:   0.203 TIME LEFT:  2.00W  GRAD.:   198.622 HEAT: -595.2572
+ ITER.      1 PLS= 0.311E-01           ENERGY    -541.06600 DELTAE   54.1912005
+ ITER.      2 PLS= 0.151E+01           ENERGY    -580.11686 DELTAE  -39.0508613
+ ITER.      3 PLS= 0.440E+00           ENERGY    -589.21337 DELTAE   -9.0965037
+ ITER.      4 PLS= 0.220E+00           ENERGY    -588.26208 DELTAE    0.9512850
+ ITER.      5 PLS= 0.104E+00           ENERGY    -589.21864 DELTAE   -0.9565575
+ ITER.      6 PLS= 0.119E+00           ENERGY    -589.89851 DELTAE   -0.6798700
+ ITER.      7 PLS= 0.656E-01           ENERGY    -589.74536 DELTAE    0.1531534
+ ITER.      8 PLS= 0.927E-01           ENERGY    -589.81995 DELTAE   -0.0745938
+ ITER.      9 PLS= 0.511E-01           ENERGY    -589.86144 DELTAE   -0.0414909
+ ITER.     10 PLS= 0.512E-01           ENERGY    -589.88479 DELTAE   -0.0233474
+ ITER.      1 PLS= 0.333E-01           ENERGY    -592.25016 DELTAE   -2.3653722
+ ITER.      2 PLS= 0.881E+00           ENERGY    -602.30871 DELTAE  -10.0585507
+ ITER.      3 PLS= 0.404E+00           ENERGY    -604.29215 DELTAE   -1.9834351
+ ITER.      4 PLS= 0.123E+00           ENERGY    -604.13393 DELTAE    0.1582203
+ ITER.      5 PLS= 0.447E-01           ENERGY    -604.28756 DELTAE   -0.1536302
+ ITER.      6 PLS= 0.436E-01           ENERGY    -604.46153 DELTAE   -0.1739708
+ ITER.      7 PLS= 0.371E-01           ENERGY    -604.38781 DELTAE    0.0737179
+ CYCLE:     3 TIME:   0.453 TIME LEFT:  2.00W  GRAD.:   141.129 HEAT: -604.3878
+ ITER.      1 PLS= 0.296E-01           ENERGY    -586.57064 DELTAE   17.8171666
+ ITER.      2 PLS= 0.958E+00           ENERGY    -599.40485 DELTAE  -12.8342121
+ ITER.      3 PLS= 0.282E+00           ENERGY    -602.31663 DELTAE   -2.9117765
+ ITER.      4 PLS= 0.136E+00           ENERGY    -601.88881 DELTAE    0.4278166
+ ITER.      5 PLS= 0.601E-01           ENERGY    -602.07122 DELTAE   -0.1824068
+ ITER.      6 PLS= 0.540E-01           ENERGY    -602.19956 DELTAE   -0.1283368
+ ITER.      7 PLS= 0.306E-01           ENERGY    -602.17168 DELTAE    0.0278740
+ ITER.      8 PLS= 0.365E-01           ENERGY    -602.18373 DELTAE   -0.0120493
+ ITER.      1 PLS= 0.205E-01           ENERGY    -605.66298 DELTAE   -3.4792452
+ ITER.      2 PLS= 0.495E+00           ENERGY    -608.45808 DELTAE   -2.7951048
+ ITER.      3 PLS= 0.152E+00           ENERGY    -609.33148 DELTAE   -0.8733927
+ ITER.      4 PLS= 0.920E-01           ENERGY    -609.11806 DELTAE    0.2134120
+ ITER.      5 PLS= 0.195E-01           ENERGY    -609.14783 DELTAE   -0.0297663
+ ITER.      6 PLS= 0.177E-01           ENERGY    -609.15984 DELTAE   -0.0120119
+ ITER.      7 PLS= 0.957E-02           ENERGY    -609.16538 DELTAE   -0.0055390
+ CYCLE:     4 TIME:   0.406 TIME LEFT:  2.00W  GRAD.:   105.198 HEAT: -609.1654
+ ITER.      1 PLS= 0.958E-02           ENERGY    -595.05553 DELTAE   14.1098523
+ ITER.      2 PLS= 0.101E+01           ENERGY    -605.56533 DELTAE  -10.5097967
+ ITER.      3 PLS= 0.228E+00           ENERGY    -607.74106 DELTAE   -2.1757398
+ ITER.      4 PLS= 0.144E+00           ENERGY    -607.27233 DELTAE    0.4687303
+ ITER.      5 PLS= 0.407E-01           ENERGY    -607.36289 DELTAE   -0.0905507
+ ITER.      6 PLS= 0.259E-01           ENERGY    -607.39550 DELTAE   -0.0326137
+ ITER.      7 PLS= 0.193E-01           ENERGY    -607.40944 DELTAE   -0.0139430
+ ITER.      8 PLS= 0.121E-01           ENERGY    -607.41566 DELTAE   -0.0062215
+ ITER.      1 PLS= 0.983E-02           ENERGY    -609.00599 DELTAE   -1.5903227
+ ITER.      2 PLS= 0.466E+00           ENERGY    -611.60603 DELTAE   -2.6000441
+ ITER.      3 PLS= 0.114E+00           ENERGY    -612.16668 DELTAE   -0.5606497
+ ITER.      4 PLS= 0.685E-01           ENERGY    -612.06188 DELTAE    0.1048016
+ ITER.      5 PLS= 0.242E-01           ENERGY    -612.08234 DELTAE   -0.0204621
+ ITER.      6 PLS= 0.146E-01           ENERGY    -612.09032 DELTAE   -0.0079745
+ ITER.      7 PLS= 0.100E-01           ENERGY    -612.09371 DELTAE   -0.0033911
+ CYCLE:     5 TIME:   0.391 TIME LEFT:  2.00W  GRAD.:    87.073 HEAT: -612.0937
+ ITER.      1 PLS= 0.648E-02           ENERGY    -607.38717 DELTAE    4.7065363
+ ITER.      2 PLS= 0.550E+00           ENERGY    -611.61126 DELTAE   -4.2240890
+ ITER.      3 PLS= 0.110E+00           ENERGY    -612.55191 DELTAE   -0.9406533
+ ITER.      4 PLS= 0.782E-01           ENERGY    -612.41244 DELTAE    0.1394698
+ ITER.      5 PLS= 0.348E-01           ENERGY    -612.45983 DELTAE   -0.0473870
+ ITER.      6 PLS= 0.248E-01           ENERGY    -612.47961 DELTAE   -0.0197809
+ ITER.      7 PLS= 0.147E-01           ENERGY    -612.48879 DELTAE   -0.0091778
+ ITER.      8 PLS= 0.113E-01           ENERGY    -612.49330 DELTAE   -0.0045152
+ CYCLE:     6 TIME:   0.203 TIME LEFT:  2.00W  GRAD.:   138.266 HEAT: -612.4933
+ ITER.      1 PLS= 0.797E-02           ENERGY    -610.28897 DELTAE    2.2043320
+ ITER.      2 PLS= 0.460E+00           ENERGY    -615.30619 DELTAE   -5.0172182
+ ITER.      3 PLS= 0.381E+00           ENERGY    -616.91330 DELTAE   -1.6071126
+ ITER.      4 PLS= 0.110E+00           ENERGY    -616.44361 DELTAE    0.4696961
+ ITER.      5 PLS= 0.495E-01           ENERGY    -616.50355 DELTAE   -0.0599430
+ ITER.      6 PLS= 0.290E-01           ENERGY    -616.52989 DELTAE   -0.0263425
+ ITER.      7 PLS= 0.239E-01           ENERGY    -616.54225 DELTAE   -0.0123546
+ ITER.      8 PLS= 0.134E-01           ENERGY    -616.54826 DELTAE   -0.0060156
+ CYCLE:     7 TIME:   0.219 TIME LEFT:  2.00W  GRAD.:    64.011 HEAT: -616.5483
+ ITER.      1 PLS= 0.128E-01           ENERGY    -600.25463 DELTAE   16.2936329
+ ITER.      2 PLS= 0.777E+00           ENERGY    -610.65079 DELTAE  -10.3961656
+ ITER.      3 PLS= 0.332E+00           ENERGY    -613.59307 DELTAE   -2.9422729
+ ITER.      4 PLS= 0.133E+00           ENERGY    -612.87254 DELTAE    0.7205318
+ ITER.      5 PLS= 0.526E-01           ENERGY    -613.04606 DELTAE   -0.1735265
+ ITER.      6 PLS= 0.419E-01           ENERGY    -613.23537 DELTAE   -0.1893127
+ ITER.      7 PLS= 0.427E-01           ENERGY    -613.15632 DELTAE    0.0790544
+ ITER.      8 PLS= 0.242E-01           ENERGY    -613.16625 DELTAE   -0.0099340
+ ITER.      1 PLS= 0.135E-01           ENERGY    -614.51615 DELTAE   -1.3498986
+ ITER.      2 PLS= 0.402E+00           ENERGY    -616.82203 DELTAE   -2.3058812
+ ITER.      3 PLS= 0.165E+00           ENERGY    -617.50883 DELTAE   -0.6867999
+ ITER.      4 PLS= 0.624E-01           ENERGY    -617.34548 DELTAE    0.1633578
+ ITER.      5 PLS= 0.241E-01           ENERGY    -617.37422 DELTAE   -0.0287402
+ ITER.      6 PLS= 0.170E-01           ENERGY    -617.38675 DELTAE   -0.0125297
+ ITER.      7 PLS= 0.108E-01           ENERGY    -617.39269 DELTAE   -0.0059481
+ ITER.      8 PLS= 0.942E-02           ENERGY    -617.39566 DELTAE   -0.0029673
+ CYCLE:     8 TIME:   0.402 TIME LEFT:  2.00W  GRAD.:    72.037 HEAT: -617.3957
+ ITER.      1 PLS= 0.578E-02           ENERGY    -616.37792 DELTAE    1.0177461
+ ITER.      2 PLS= 0.361E+00           ENERGY    -618.29746 DELTAE   -1.9195456
+ ITER.      3 PLS= 0.150E+00           ENERGY    -618.76455 DELTAE   -0.4670939
+ ITER.      4 PLS= 0.644E-01           ENERGY    -618.66804 DELTAE    0.0965145
+ ITER.      5 PLS= 0.308E-01           ENERGY    -618.68766 DELTAE   -0.0196200
+ ITER.      6 PLS= 0.195E-01           ENERGY    -618.69638 DELTAE   -0.0087213
+ ITER.      7 PLS= 0.151E-01           ENERGY    -618.70059 DELTAE   -0.0042048
+ CYCLE:     9 TIME:   0.172 TIME LEFT:  2.00W  GRAD.:    61.928 HEAT: -618.7006
+ ITER.      1 PLS= 0.904E-02           ENERGY    -616.09021 DELTAE    2.6103807
+ ITER.      2 PLS= 0.304E+00           ENERGY    -618.66250 DELTAE   -2.5722967
+ ITER.      3 PLS= 0.109E+00           ENERGY    -619.57370 DELTAE   -0.9111971
+ ITER.      4 PLS= 0.837E-01           ENERGY    -619.36766 DELTAE    0.2060364
+ ITER.      5 PLS= 0.320E-01           ENERGY    -619.41045 DELTAE   -0.0427887
+ ITER.      6 PLS= 0.213E-01           ENERGY    -619.42959 DELTAE   -0.0191425
+ ITER.      7 PLS= 0.145E-01           ENERGY    -619.43870 DELTAE   -0.0091054
+ ITER.      8 PLS= 0.986E-02           ENERGY    -619.44319 DELTAE   -0.0044933
+ CYCLE:    10 TIME:   0.219 TIME LEFT:  2.00W  GRAD.:    75.029 HEAT: -619.4432
+ ITER.      1 PLS= 0.675E-02           ENERGY    -615.46596 DELTAE    3.9772311
+ ITER.      2 PLS= 0.438E+00           ENERGY    -619.24465 DELTAE   -3.7786892
+ ITER.      3 PLS= 0.147E+00           ENERGY    -620.74031 DELTAE   -1.4956638
+ ITER.      4 PLS= 0.120E+00           ENERGY    -620.28186 DELTAE    0.4584561
+ ITER.      5 PLS= 0.416E-01           ENERGY    -620.34242 DELTAE   -0.0605658
+ ITER.      6 PLS= 0.249E-01           ENERGY    -620.36941 DELTAE   -0.0269881
+ ITER.      7 PLS= 0.161E-01           ENERGY    -620.38248 DELTAE   -0.0130693
+ ITER.      8 PLS= 0.104E-01           ENERGY    -620.38909 DELTAE   -0.0066104
+ CYCLE:    11 TIME:   0.203 TIME LEFT:  2.00W  GRAD.:    81.390 HEAT: -620.3891
+ ITER.      1 PLS= 0.822E-02           ENERGY    -612.52597 DELTAE    7.8631235
+ ITER.      2 PLS= 0.384E+00           ENERGY    -618.26560 DELTAE   -5.7396354
+ ITER.      3 PLS= 0.199E+00           ENERGY    -620.43997 DELTAE   -2.1743643
+ ITER.      4 PLS= 0.149E+00           ENERGY    -619.87033 DELTAE    0.5696387
+ ITER.      5 PLS= 0.435E-01           ENERGY    -619.94961 DELTAE   -0.0792837
+ ITER.      6 PLS= 0.290E-01           ENERGY    -619.98293 DELTAE   -0.0333128
+ ITER.      7 PLS= 0.184E-01           ENERGY    -619.99860 DELTAE   -0.0156722
+ ITER.      8 PLS= 0.124E-01           ENERGY    -620.00631 DELTAE   -0.0077093
+ ITER.      9 PLS= 0.847E-02           ENERGY    -620.01028 DELTAE   -0.0039678
+ ITER.      1 PLS= 0.593E-02           ENERGY    -620.16629 DELTAE   -0.1560187
+ ITER.      2 PLS= 0.224E+00           ENERGY    -621.49618 DELTAE   -1.3298881
+ ITER.      3 PLS= 0.997E-01           ENERGY    -621.94221 DELTAE   -0.4460292
+ ITER.      4 PLS= 0.707E-01           ENERGY    -621.85242 DELTAE    0.0897934
+ ITER.      5 PLS= 0.241E-01           ENERGY    -621.87100 DELTAE   -0.0185781
+ ITER.      6 PLS= 0.150E-01           ENERGY    -621.87877 DELTAE   -0.0077739
+ ITER.      7 PLS= 0.978E-02           ENERGY    -621.88227 DELTAE   -0.0035031
+ CYCLE:    12 TIME:   0.391 TIME LEFT:  2.00W  GRAD.:    42.336 HEAT: -621.8823
+ ITER.      1 PLS= 0.650E-02           ENERGY    -618.82479 DELTAE    3.0574871
+ ITER.      2 PLS= 0.254E+00           ENERGY    -620.79144 DELTAE   -1.9666529
+ ITER.      3 PLS= 0.577E-01           ENERGY    -621.40149 DELTAE   -0.6100506
+ ITER.      4 PLS= 0.438E-01           ENERGY    -621.30200 DELTAE    0.0994926
+ ITER.      5 PLS= 0.225E-01           ENERGY    -621.33886 DELTAE   -0.0368669
+ ITER.      6 PLS= 0.177E-01           ENERGY    -621.35658 DELTAE   -0.0177120
+ ITER.      7 PLS= 0.138E-01           ENERGY    -621.36569 DELTAE   -0.0091090
+ ITER.      8 PLS= 0.108E-01           ENERGY    -621.37048 DELTAE   -0.0047990
+ ITER.      1 PLS= 0.842E-02           ENERGY    -621.67153 DELTAE   -0.3010487
+ ITER.      2 PLS= 0.137E+00           ENERGY    -621.98684 DELTAE   -0.3153064
+ ITER.      3 PLS= 0.102E+00           ENERGY    -622.14458 DELTAE   -0.1577401
+ ITER.      4 PLS= 0.246E-01           ENERGY    -622.11376 DELTAE    0.0308216
+ ITER.      5 PLS= 0.112E-01           ENERGY    -622.12182 DELTAE   -0.0080584
+ ITER.      6 PLS= 0.729E-02           ENERGY    -622.12545 DELTAE   -0.0036363
+ CYCLE:    13 TIME:   0.391 TIME LEFT:  2.00W  GRAD.:    40.176 HEAT: -622.1255
+ ITER.      1 PLS= 0.504E-02           ENERGY    -622.11178 DELTAE    0.0136738
+ ITER.      2 PLS= 0.156E+00           ENERGY    -622.43620 DELTAE   -0.3244169
+ ITER.      3 PLS= 0.641E-01           ENERGY    -622.63129 DELTAE   -0.1950920
+ ITER.      4 PLS= 0.391E-01           ENERGY    -622.58278 DELTAE    0.0485092
+ ITER.      5 PLS= 0.113E-01           ENERGY    -622.58908 DELTAE   -0.0062980
+ ITER.      6 PLS= 0.696E-02           ENERGY    -622.59170 DELTAE   -0.0026285
+ CYCLE:    14 TIME:   0.172 TIME LEFT:  2.00W  GRAD.:    31.053 HEAT: -622.5917
+ ITER.      1 PLS= 0.406E-02           ENERGY    -621.84426 DELTAE    0.7474487
+ ITER.      2 PLS= 0.158E+00           ENERGY    -622.52246 DELTAE   -0.6782061
+ ITER.      3 PLS= 0.548E-01           ENERGY    -622.78336 DELTAE   -0.2608951
+ ITER.      4 PLS= 0.477E-01           ENERGY    -622.73881 DELTAE    0.0445516
+ ITER.      5 PLS= 0.214E-01           ENERGY    -622.75288 DELTAE   -0.0140741
+ ITER.      6 PLS= 0.136E-01           ENERGY    -622.75916 DELTAE   -0.0062839
+ ITER.      7 PLS= 0.921E-02           ENERGY    -622.76213 DELTAE   -0.0029628
+ CYCLE:    15 TIME:   0.188 TIME LEFT:  2.00W  GRAD.:    38.992 HEAT: -622.7621
+ ITER.      1 PLS= 0.624E-02           ENERGY    -621.52303 DELTAE    1.2390974
+ ITER.      2 PLS= 0.229E+00           ENERGY    -622.43014 DELTAE   -0.9071082
+ ITER.      3 PLS= 0.101E+00           ENERGY    -622.86634 DELTAE   -0.4362021
+ ITER.      4 PLS= 0.746E-01           ENERGY    -622.74295 DELTAE    0.1233866
+ ITER.      5 PLS= 0.223E-01           ENERGY    -622.75916 DELTAE   -0.0162113
+ ITER.      6 PLS= 0.131E-01           ENERGY    -622.76606 DELTAE   -0.0068965
+ ITER.      7 PLS= 0.819E-02           ENERGY    -622.76923 DELTAE   -0.0031658
+ CYCLE:    16 TIME:   0.188 TIME LEFT:  2.00W  GRAD.:    59.983 HEAT: -622.7692
+ ITER.      1 PLS= 0.538E-02           ENERGY    -621.03509 DELTAE    1.7341407
+ ITER.      2 PLS= 0.178E+00           ENERGY    -622.33166 DELTAE   -1.2965780
+ ITER.      3 PLS= 0.116E+00           ENERGY    -622.87806 DELTAE   -0.5464004
+ ITER.      4 PLS= 0.727E-01           ENERGY    -622.75061 DELTAE    0.1274531
+ ITER.      5 PLS= 0.210E-01           ENERGY    -622.77210 DELTAE   -0.0214897
+ ITER.      6 PLS= 0.140E-01           ENERGY    -622.78135 DELTAE   -0.0092516
+ ITER.      7 PLS= 0.877E-02           ENERGY    -622.78568 DELTAE   -0.0043309
+ CYCLE:    17 TIME:   0.172 TIME LEFT:  2.00W  GRAD.:    50.078 HEAT: -622.7857
+ ITER.      1 PLS= 0.563E-02           ENERGY    -621.71027 DELTAE    1.0754164
+ ITER.      2 PLS= 0.163E+00           ENERGY    -622.60424 DELTAE   -0.8939753
+ ITER.      3 PLS= 0.429E-01           ENERGY    -622.88085 DELTAE   -0.2766109
+ ITER.      4 PLS= 0.304E-01           ENERGY    -622.83543 DELTAE    0.0454268
+ ITER.      5 PLS= 0.151E-01           ENERGY    -622.84931 DELTAE   -0.0138815
+ ITER.      6 PLS= 0.113E-01           ENERGY    -622.85547 DELTAE   -0.0061613
+ ITER.      7 PLS= 0.725E-02           ENERGY    -622.85842 DELTAE   -0.0029498
+ CYCLE:    18 TIME:   0.203 TIME LEFT:  2.00W  GRAD.:    57.388 HEAT: -622.8584
+ ITER.      1 PLS= 0.667E-02           ENERGY    -620.86341 DELTAE    1.9950100
+ ITER.      2 PLS= 0.142E+00           ENERGY    -622.15117 DELTAE   -1.2877639
+ ITER.      3 PLS= 0.529E-01           ENERGY    -622.50659 DELTAE   -0.3554156
+ ITER.      4 PLS= 0.416E-01           ENERGY    -622.44079 DELTAE    0.0658022
+ ITER.      5 PLS= 0.118E-01           ENERGY    -622.45469 DELTAE   -0.0139045
+ ITER.      6 PLS= 0.764E-02           ENERGY    -622.46032 DELTAE   -0.0056336
+ ITER.      7 PLS= 0.524E-02           ENERGY    -622.46275 DELTAE   -0.0024221
+ ITER.      1 PLS= 0.353E-02           ENERGY    -623.07203 DELTAE   -0.6092796
+ ITER.      2 PLS= 0.806E-01           ENERGY    -623.29825 DELTAE   -0.2262242
+ ITER.      3 PLS= 0.349E-01           ENERGY    -623.40076 DELTAE   -0.1025113
+ ITER.      4 PLS= 0.265E-01           ENERGY    -623.38216 DELTAE    0.0185966
+ ITER.      5 PLS= 0.764E-02           ENERGY    -623.38595 DELTAE   -0.0037816
+ ITER.      6 PLS= 0.490E-02           ENERGY    -623.38748 DELTAE   -0.0015337
+ CYCLE:    19 TIME:   0.355 TIME LEFT:  2.00W  GRAD.:    27.941 HEAT: -623.3875
+ ITER.      1 PLS= 0.851E-02           ENERGY    -622.66465 DELTAE    0.7228304
+ ITER.      2 PLS= 0.169E+00           ENERGY    -623.07251 DELTAE   -0.4078578
+ ITER.      3 PLS= 0.732E-01           ENERGY    -623.30670 DELTAE   -0.2341896
+ ITER.      4 PLS= 0.571E-01           ENERGY    -623.25376 DELTAE    0.0529397
+ ITER.      5 PLS= 0.133E-01           ENERGY    -623.26331 DELTAE   -0.0095551
+ ITER.      6 PLS= 0.879E-02           ENERGY    -623.26726 DELTAE   -0.0039477
+ ITER.      1 PLS= 0.550E-02           ENERGY    -623.39623 DELTAE   -0.1289666
+ ITER.      2 PLS= 0.872E-01           ENERGY    -623.36550 DELTAE    0.0307252
+ ITER.      3 PLS= 0.362E-01           ENERGY    -623.39387 DELTAE   -0.0283718
+ ITER.      4 PLS= 0.188E-01           ENERGY    -623.40238 DELTAE   -0.0085069
+ ITER.      5 PLS= 0.107E-01           ENERGY    -623.40548 DELTAE   -0.0031033
+ CYCLE:    20 TIME:   0.312 TIME LEFT:  2.00W  GRAD.:    27.996 HEAT: -623.4055
+ ITER.      1 PLS= 0.625E-02           ENERGY    -623.44902 DELTAE   -0.0435349
+ ITER.      2 PLS= 0.504E-01           ENERGY    -623.43261 DELTAE    0.0164115
+ ITER.      3 PLS= 0.290E-01           ENERGY    -623.46113 DELTAE   -0.0285270
+ ITER.      4 PLS= 0.962E-02           ENERGY    -623.46864 DELTAE   -0.0075027
+ ITER.      5 PLS= 0.608E-02           ENERGY    -623.47122 DELTAE   -0.0025843
+ CYCLE:    21 TIME:   0.141 TIME LEFT:  2.00W  GRAD.:    30.755 HEAT: -623.4712
+ ITER.      1 PLS= 0.409E-02           ENERGY    -623.63325 DELTAE   -0.1620339
+ ITER.      2 PLS= 0.553E-01           ENERGY    -623.58499 DELTAE    0.0482634
+ ITER.      3 PLS= 0.204E-01           ENERGY    -623.60809 DELTAE   -0.0230990
+ ITER.      4 PLS= 0.871E-02           ENERGY    -623.61503 DELTAE   -0.0069417
+ ITER.      5 PLS= 0.570E-02           ENERGY    -623.61773 DELTAE   -0.0027020
+ CYCLE:    22 TIME:   0.156 TIME LEFT:  2.00W  GRAD.:    20.396 HEAT: -623.6177
+ ITER.      1 PLS= 0.401E-02           ENERGY    -623.39941 DELTAE    0.2183215
+ ITER.      2 PLS= 0.601E-01           ENERGY    -623.48089 DELTAE   -0.0814766
+ ITER.      3 PLS= 0.319E-01           ENERGY    -623.53254 DELTAE   -0.0516462
+ ITER.      4 PLS= 0.127E-01           ENERGY    -623.54878 DELTAE   -0.0162463
+ ITER.      5 PLS= 0.909E-02           ENERGY    -623.55536 DELTAE   -0.0065787
+ ITER.      6 PLS= 0.821E-02           ENERGY    -623.55844 DELTAE   -0.0030825
+ ITER.      1 PLS= 0.470E-02           ENERGY    -623.72923 DELTAE   -0.1707850
+ ITER.      2 PLS= 0.296E-01           ENERGY    -623.60515 DELTAE    0.1240803
+ ITER.      3 PLS= 0.157E-01           ENERGY    -623.62135 DELTAE   -0.0162005
+ ITER.      4 PLS= 0.816E-02           ENERGY    -623.61859 DELTAE    0.0027572
+ ITER.      5 PLS= 0.272E-02           ENERGY    -623.61919 DELTAE   -0.0005993
+ CYCLE:    23 TIME:   0.297 TIME LEFT:  2.00W  GRAD.:    21.736 HEAT: -623.6192
+ ITER.      1 PLS= 0.167E-02           ENERGY    -623.39922 DELTAE    0.2199747
+ ITER.      2 PLS= 0.364E-01           ENERGY    -623.28933 DELTAE    0.1098849
+ ITER.      3 PLS= 0.160E-01           ENERGY    -623.30551 DELTAE   -0.0161842
+ ITER.      4 PLS= 0.113E-01           ENERGY    -623.30352 DELTAE    0.0019972
+ ITER.      5 PLS= 0.347E-02           ENERGY    -623.30428 DELTAE   -0.0007633
+ ITER.      1 PLS= 0.220E-02           ENERGY    -623.73131 DELTAE   -0.4270245
+ ITER.      2 PLS= 0.148E-01           ENERGY    -623.56310 DELTAE    0.1682050
+ ITER.      3 PLS= 0.751E-02           ENERGY    -623.56807 DELTAE   -0.0049721
+ ITER.      4 PLS= 0.513E-02           ENERGY    -623.56725 DELTAE    0.0008223
+ ITER.      1 PLS= 0.161E-02           ENERGY    -623.82421 DELTAE   -0.2569641
+ ITER.      2 PLS= 0.955E-02           ENERGY    -623.65023 DELTAE    0.1739884
+ ITER.      3 PLS= 0.505E-02           ENERGY    -623.65335 DELTAE   -0.0031218
+ ITER.      4 PLS= 0.352E-02           ENERGY    -623.65284 DELTAE    0.0005063
+ CYCLE:    24 TIME:   0.375 TIME LEFT:  2.00W  GRAD.:    26.258 HEAT: -623.6528
+ ITER.      1 PLS= 0.141E-02           ENERGY    -623.85080 DELTAE   -0.1979621
+ ITER.      2 PLS= 0.127E-01           ENERGY    -623.68008 DELTAE    0.1707263
+ ITER.      3 PLS= 0.628E-02           ENERGY    -623.68377 DELTAE   -0.0036920
+ ITER.      4 PLS= 0.383E-02           ENERGY    -623.68339 DELTAE    0.0003821
+ CYCLE:    25 TIME:   0.125 TIME LEFT:  2.00W  GRAD.:     9.920 HEAT: -623.6834
+ ITER.      1 PLS= 0.201E-02           ENERGY    -623.77219 DELTAE   -0.0888029
+ ITER.      2 PLS= 0.133E-01           ENERGY    -623.59929 DELTAE    0.1729036
+ ITER.      3 PLS= 0.663E-02           ENERGY    -623.60269 DELTAE   -0.0034020
+ ITER.      4 PLS= 0.435E-02           ENERGY    -623.60224 DELTAE    0.0004511
+ ITER.      1 PLS= 0.159E-02           ENERGY    -623.88078 DELTAE   -0.2785386
+ ITER.      2 PLS= 0.628E-02           ENERGY    -623.70147 DELTAE    0.1793091
+ ITER.      3 PLS= 0.443E-02           ENERGY    -623.70334 DELTAE   -0.0018732
+ ITER.      4 PLS= 0.310E-02           ENERGY    -623.70298 DELTAE    0.0003621
+ CYCLE:    26 TIME:   0.266 TIME LEFT:  2.00W  GRAD.:    26.721 HEAT: -623.7030
+ ITER.      1 PLS= 0.145E-02           ENERGY    -623.86416 DELTAE   -0.1611794
+ ITER.      2 PLS= 0.186E-01           ENERGY    -623.69507 DELTAE    0.1690908
+ ITER.      3 PLS= 0.642E-02           ENERGY    -623.69917 DELTAE   -0.0041016
+ ITER.      4 PLS= 0.475E-02           ENERGY    -623.69851 DELTAE    0.0006611
+ ITER.      1 PLS= 0.169E-02           ENERGY    -623.35599 DELTAE    0.3425222
+ ITER.      2 PLS= 0.667E-02           ENERGY    -623.17894 DELTAE    0.1770428
+ ITER.      3 PLS= 0.400E-02           ENERGY    -623.18082 DELTAE   -0.0018766
+ ITER.      4 PLS= 0.309E-02           ENERGY    -623.18047 DELTAE    0.0003487
+ ITER.      1 PLS= 0.150E-02           ENERGY    -623.88389 DELTAE   -0.7034158
+ ITER.      2 PLS= 0.606E-02           ENERGY    -623.70593 DELTAE    0.1779547
+ ITER.      3 PLS= 0.408E-02           ENERGY    -623.70759 DELTAE   -0.0016581
+ ITER.      4 PLS= 0.312E-02           ENERGY    -623.70728 DELTAE    0.0003058
+ CYCLE:    27 TIME:   0.391 TIME LEFT:  2.00W  GRAD.:   102.721 HEAT: -623.7073
+ ITER.      1 PLS= 0.138E-02           ENERGY    -623.73555 DELTAE   -0.0282691
+ ITER.      2 PLS= 0.116E-01           ENERGY    -623.55800 DELTAE    0.1775546
+ ITER.      3 PLS= 0.614E-02           ENERGY    -623.56004 DELTAE   -0.0020423
+ ITER.      4 PLS= 0.362E-02           ENERGY    -623.55969 DELTAE    0.0003483
+ ITER.      1 PLS= 0.136E-02           ENERGY    -623.86192 DELTAE   -0.3022310
+ ITER.      2 PLS= 0.599E-02           ENERGY    -623.68348 DELTAE    0.1784425
+ ITER.      3 PLS= 0.437E-02           ENERGY    -623.68499 DELTAE   -0.0015077
+ ITER.      4 PLS= 0.305E-02           ENERGY    -623.68469 DELTAE    0.0002971
+ ITER.      1 PLS= 0.152E-02           ENERGY    -623.89460 DELTAE   -0.2099135
+ ITER.      2 PLS= 0.611E-02           ENERGY    -623.71609 DELTAE    0.1785156
+ ITER.      3 PLS= 0.436E-02           ENERGY    -623.71753 DELTAE   -0.0014430
+ ITER.      4 PLS= 0.304E-02           ENERGY    -623.71725 DELTAE    0.0002793
+ CYCLE:    28 TIME:   0.391 TIME LEFT:  2.00W  GRAD.:    81.995 HEAT: -623.7173
+ ITER.      1 PLS= 0.139E-02           ENERGY    -623.89240 DELTAE   -0.1751450
+ ITER.      2 PLS= 0.663E-02           ENERGY    -623.71175 DELTAE    0.1806507
+ ITER.      3 PLS= 0.433E-02           ENERGY    -623.71318 DELTAE   -0.0014365
+ ITER.      4 PLS= 0.300E-02           ENERGY    -623.71291 DELTAE    0.0002712
+ ITER.      1 PLS= 0.137E-02           ENERGY    -623.90338 DELTAE   -0.1904690
+ ITER.      2 PLS= 0.595E-02           ENERGY    -623.72478 DELTAE    0.1785982
+ ITER.      3 PLS= 0.434E-02           ENERGY    -623.72619 DELTAE   -0.0014043
+ ITER.      4 PLS= 0.298E-02           ENERGY    -623.72590 DELTAE    0.0002839
+ CYCLE:    29 TIME:   0.230 TIME LEFT:  2.00W  GRAD.:    21.002 HEAT: -623.7259
+ ITER.      1 PLS= 0.151E-02           ENERGY    -623.88864 DELTAE   -0.1627359
+ ITER.      2 PLS= 0.671E-02           ENERGY    -623.70793 DELTAE    0.1807067
+ ITER.      3 PLS= 0.432E-02           ENERGY    -623.70931 DELTAE   -0.0013792
+ ITER.      4 PLS= 0.295E-02           ENERGY    -623.70904 DELTAE    0.0002724
+ ITER.      1 PLS= 0.135E-02           ENERGY    -623.89410 DELTAE   -0.1850656
+ ITER.      2 PLS= 0.629E-02           ENERGY    -623.71334 DELTAE    0.1807629
+ ITER.      3 PLS= 0.431E-02           ENERGY    -623.71472 DELTAE   -0.0013746
+ ITER.      4 PLS= 0.298E-02           ENERGY    -623.71446 DELTAE    0.0002586
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+ ITER.      1 PLS= 0.136E-02           ENERGY    -623.90340 DELTAE   -0.1889469
+ ITER.      2 PLS= 0.600E-02           ENERGY    -623.72478 DELTAE    0.1786226
+ ITER.      3 PLS= 0.432E-02           ENERGY    -623.72619 DELTAE   -0.0014122
+ ITER.      4 PLS= 0.296E-02           ENERGY    -623.72590 DELTAE    0.0002912
+
+ -------------------------------------------------------------------------------
+ START_RES=(119B-1157)  CHAINS=(B)  charge=-1 mozyme opt gnorm=5 eps=78.4 pl t=2w html pdbout bonds
+ 6-enol-8-oxo-dGMP, Acetate at the D119 position, B3LYP
+
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2012 (Version: 15.172W)
+                                                       Mon Jun 22 16:28:47 2015
+                                                       No. of days left = 364
+
+
+
+
+          FINAL HEAT OF FORMATION =       -623.72590 KCAL/MOL =   -2609.66918 KJ/MOL
+          VAN DER WAALS AREA      =        393.12 SQUARE ANGSTROMS
+
+
+          TOTAL ENERGY            =      -5774.02660 EV
+          ELECTRONIC ENERGY       =     -41692.89678 EV
+          CORE-CORE REPULSION     =      35681.20996 EV
+          DIELECTRIC ENERGY       =         -4.14357 EV
+          COSMO AREA              =        393.12 SQUARE ANGSTROMS
+          COSMO VOLUME            =        431.49 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =         21.00212
+          NO. OF FILLED LEVELS    =         78
+          MOLECULAR WEIGHT        =        422.268
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            O     9    H    44    17.30510
+            H    31    H    41     6.93773
+            H    35    H    38     4.81897
+
+
+          SCF CALCULATIONS        =         49
+ 
+          WALL-CLOCK TIME         =          8.332 SECONDS
+          COMPUTATION TIME        =         30.327 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+  Atom                                       Gradients                      Geometry                  |Grad|
+ 
+    1  C(ATOM      1  CB  ASP B 119)    0.171   -0.083   -0.186   -9.17486   -0.96837   -0.35780       0.266
+    2  C(ATOM      2  CG  ASP B 119)    0.375   -0.171   -0.056   -7.77202   -0.89467    0.12965       0.416
+    3  O(ATOM      3  OD1 ASP B 119)    0.620   -0.548    0.452   -6.89629   -1.36350   -0.73687       0.943
+    4  O(ATOM      4  OD2 ASP B 119)   -0.572    0.133    0.143   -7.43679   -0.45674    1.21822       0.604
+    6  H(ATOM      6 2HB  ASP B 119)   -0.222    0.033   -0.020   -9.48087   -2.00545   -0.57482       0.226
+    7  O(HETATM    7  OP3 8OG B1157)   -0.515   -0.513   -0.006    6.08620    0.38800   -1.40636       0.727
+    8  P(HETATM    8  P   8OG B1157)    0.203   -0.518    0.065    6.21752   -0.89085   -0.47730       0.561
+    9  O(HETATM    9  OP1 8OG B1157)    0.493   -1.187   -0.113    7.41567   -1.02278    0.35067       1.291
+   10  O(HETATM   10  OP2 8OG B1157)    0.301   -0.286    0.043    5.92267   -2.06671   -1.50504       0.417
+   11  O(HETATM   11  O5P 8OG B1157)    0.733   -0.290    0.087    4.95939   -0.73259    0.48874       0.793
+   12  C(HETATM   12  C5P 8OG B1157)    0.694    0.318    0.071    3.60900   -0.66565   -0.00845       0.767
+   13  C(HETATM   13  C4P 8OG B1157)    0.291    0.165    0.288    3.14984    0.79681   -0.13186       0.441
+   14  O(HETATM   14  O4P 8OG B1157)    0.341   -0.239    0.129    1.79578    0.75204   -0.60033       0.436
+   15  C(HETATM   15  C1P 8OG B1157)    0.120   -0.306   -0.108    0.89692    1.22715    0.39875       0.346
+   16  C(HETATM   16  C2P 8OG B1157)   -0.086   -0.204    0.052    1.68480    1.32322    1.71429       0.227
+   17  N(HETATM   17  N9  8OG B1157)   -0.117   -0.264   -0.099   -0.23448    0.31383    0.44984       0.306
+   18  C(HETATM   18  C8  8OG B1157)   -0.621   -0.129   -0.103   -0.24321   -1.04345    0.91147       0.643
+   19  O(HETATM   19  O8  8OG B1157)   -0.580   -0.171    0.105    0.70023   -1.64380    1.38892       0.614
+   20  N(HETATM   20  N7  8OG B1157)   -0.596    0.270    0.192   -1.53101   -1.53419    0.74593       0.682
+   21  C(HETATM   21  C5  8OG B1157)   -0.931    0.363   -0.032   -2.33120   -0.52630    0.17052       1.000
+   22  C(HETATM   22  C6  8OG B1157)   -3.508    4.225    8.327   -3.70485   -0.46686   -0.21207       9.975
+   23  O(HETATM   23  O6  8OG B1157)    2.993   -3.609   -8.495   -4.46696   -1.45554   -0.10738       9.703
+   24  N(HETATM   24  N1  8OG B1157)   -4.130    4.035    9.134   -4.17495    0.71983   -0.72873      10.806
+   25  C(HETATM   25  C2  8OG B1157)    1.876   -2.847   -8.226   -3.30206    1.76626   -0.87977       8.904
+   26  N(HETATM   26  N3  8OG B1157)    0.130   -0.482    0.247   -1.95438    1.78352   -0.54554       0.557
+   27  C(HETATM   27  C4  8OG B1157)   -0.073    0.274   -0.203   -1.51838    0.61859   -0.02217       0.349
+   28  N(HETATM   28  N2  8OG B1157)    0.497   -0.541   -0.075   -3.80112    2.91914   -1.39901       0.738
+   29  C(HETATM   29  C3P 8OG B1157)   -0.213    0.379    0.068    3.12024    1.54211    1.21908       0.440
+   30  O(HETATM   30  O3P 8OG B1157)   -1.386    0.666   -0.396    3.31628    2.90564    0.88781       1.588
+   31  H(HETATM   31  HP2 8OG B1157)    0.121   -0.174   -0.170    6.25332   -2.96124   -1.10165       0.272
+   32  H(HETATM   32 1H5P 8OG B1157)    1.111    0.757   -0.262    3.40016   -1.21091   -0.95167       1.369
+   33  H(HETATM   33 2H5P 8OG B1157)    1.320   -0.352   -0.007    3.08151   -1.19871    0.81958       1.366
+   34  H(HETATM   34  H1P 8OG B1157)    0.379   -0.262    0.016    0.53793    2.22392    0.02522       0.462
+   35  H(HETATM   35 1H2P 8OG B1157)    0.501   -0.423   -0.122    1.61396    0.39812    2.32135       0.667
+   36  H(HETATM   36 2H2P 8OG B1157)   -0.447   -0.452    0.080    1.32210    2.14000    2.35959       0.641
+   37  H(HETATM   37 1H2  8OG B1157)    0.159   -0.102    0.036   -4.76173    2.98155   -1.69230       0.192
+   38  H(HETATM   38 2H2  8OG B1157)   -0.102    0.172    0.427   -3.21929    3.72964   -1.52925       0.472
+   39  H(HETATM   39  H7  8OG B1157)   -0.172    0.015   -0.223   -1.84997   -2.46420    0.96126       0.282
+   40  H(HETATM   40  H4P 8OG B1157)    0.231    0.488    0.325    3.69810    1.36869   -0.91332       0.630
+   41  H(HETATM   41 1H3P 8OG B1157)    0.037    0.759   -0.313    3.23622    3.47785    1.68249       0.822
+   42  H(HETATM   42 2H3P 8OG B1157)    0.229    1.281    0.144    3.91049    1.23876    1.93194       1.310
+   43  H(HETATM   43  H6  8OG B1157)   -1.909    1.482    4.985    1.42715  118.40206   -4.73187
+   44  H(ATOM     44 3HB  ASP B 119)    0.686   -0.055    0.234   -9.88336   -0.56529    0.38171       0.727
+   45  H(HETATM   45  HP3 8OG B1157)   -0.313    0.052    0.071    6.69847    0.26273   -2.23692       0.326
+ 
+
+
+
+
+  ATOM               CHEMICAL                 BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER               SYMBOL                  (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                                           NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C(ATOM      1  CB  ASP B 119)   -9.17486047  *   -0.9683718  *   -0.3577950  *
+     2       C(ATOM      2  CG  ASP B 119)   -7.77201739  *   -0.8946652  *    0.1296490  *
+     3       O(ATOM      3  OD1 ASP B 119)   -6.89628814  *   -1.3635026  *   -0.7368668  *
+     4       O(ATOM      4  OD2 ASP B 119)   -7.43679008  *   -0.4567416  *    1.2182250  *
+     5       H(ATOM      5 1HB  ASP B 119)   -9.31296865  *   -0.4013773  *   -1.2936447  *
+     6       H(ATOM      6 2HB  ASP B 119)   -9.48087308  *   -2.0054481  *   -0.5748217  *
+     7       O(HETATM    7  OP3 8OG B1157)    6.08620366  *    0.3880010  *   -1.4063555  *
+     8       P(HETATM    8  P   8OG B1157)    6.21751530  *   -0.8908535  *   -0.4773006  *
+     9       O(HETATM    9  OP1 8OG B1157)    7.41566600  *   -1.0227792  *    0.3506711  *
+    10       O(HETATM   10  OP2 8OG B1157)    5.92267435  *   -2.0667115  *   -1.5050449  *
+    11       O(HETATM   11  O5P 8OG B1157)    4.95938799  *   -0.7325914  *    0.4887391  *
+    12       C(HETATM   12  C5P 8OG B1157)    3.60900471  *   -0.6656512  *   -0.0084531  *
+    13       C(HETATM   13  C4P 8OG B1157)    3.14984192  *    0.7968108  *   -0.1318620  *
+    14       O(HETATM   14  O4P 8OG B1157)    1.79577646  *    0.7520408  *   -0.6003317  *
+    15       C(HETATM   15  C1P 8OG B1157)    0.89691556  *    1.2271504  *    0.3987521  *
+    16       C(HETATM   16  C2P 8OG B1157)    1.68480384  *    1.3232225  *    1.7142918  *
+    17       N(HETATM   17  N9  8OG B1157)   -0.23447540  *    0.3138277  *    0.4498416  *
+    18       C(HETATM   18  C8  8OG B1157)   -0.24320655  *   -1.0434535  *    0.9114733  *
+    19       O(HETATM   19  O8  8OG B1157)    0.70022798  *   -1.6437952  *    1.3889228  *
+    20       N(HETATM   20  N7  8OG B1157)   -1.53100933  *   -1.5341944  *    0.7459328  *
+    21       C(HETATM   21  C5  8OG B1157)   -2.33120077  *   -0.5262994  *    0.1705215  *
+    22       C(HETATM   22  C6  8OG B1157)   -3.70484948  *   -0.4668603  *   -0.2120711  *
+    23       O(HETATM   23  O6  8OG B1157)   -4.46696351  *   -1.4555438  *   -0.1073773  *
+    24       N(HETATM   24  N1  8OG B1157)   -4.17495158  *    0.7198287  *   -0.7287309  *
+    25       C(HETATM   25  C2  8OG B1157)   -3.30206018  *    1.7662572  *   -0.8797651  *
+    26       N(HETATM   26  N3  8OG B1157)   -1.95437760  *    1.7835186  *   -0.5455371  *
+    27       C(HETATM   27  C4  8OG B1157)   -1.51837737  *    0.6185865  *   -0.0221704  *
+    28       N(HETATM   28  N2  8OG B1157)   -3.80111775  *    2.9191375  *   -1.3990119  *
+    29       C(HETATM   29  C3P 8OG B1157)    3.12023628  *    1.5421133  *    1.2190776  *
+    30       O(HETATM   30  O3P 8OG B1157)    3.31627809  *    2.9056423  *    0.8878149  *
+    31       H(HETATM   31  HP2 8OG B1157)    6.25331701  *   -2.9612443  *   -1.1016483  *
+    32       H(HETATM   32 1H5P 8OG B1157)    3.40015810  *   -1.2109074  *   -0.9516701  *
+    33       H(HETATM   33 2H5P 8OG B1157)    3.08151500  *   -1.1987098  *    0.8195782  *
+    34       H(HETATM   34  H1P 8OG B1157)    0.53792948  *    2.2239173  *    0.0252213  *
+    35       H(HETATM   35 1H2P 8OG B1157)    1.61396142  *    0.3981181  *    2.3213486  *
+    36       H(HETATM   36 2H2P 8OG B1157)    1.32210081  *    2.1400040  *    2.3595947  *
+    37       H(HETATM   37 1H2  8OG B1157)   -4.76172990  *    2.9815450  *   -1.6922997  *
+    38       H(HETATM   38 2H2  8OG B1157)   -3.21928816  *    3.7296352  *   -1.5292499  *
+    39       H(HETATM   39  H7  8OG B1157)   -1.84997309  *   -2.4642019  *    0.9612567  *
+    40       H(HETATM   40  H4P 8OG B1157)    3.69809644  *    1.3686918  *   -0.9133221  *
+    41       H(HETATM   41 1H3P 8OG B1157)    3.23622412  *    3.4778464  *    1.6824868  *
+    42       H(HETATM   42 2H3P 8OG B1157)    3.91049015  *    1.2387559  *    1.9319441  *
+    43       H(HETATM   43  H6  8OG B1157)    1.42714800  *  118.4020626  *   -4.7318677  *    23    22    24
+    44       H(ATOM     44 3HB  ASP B 119)   -9.88335677  *   -0.5652923  *    0.3817138  *
+    45       H(HETATM   45  HP3 8OG B1157)    6.69846954  *    0.2627288  *   -2.2369231  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       -9.174860468    -0.968371837    -0.357795006
+   2    C       -7.772017389    -0.894665234     0.129649047
+   3    O       -6.896288142    -1.363502611    -0.736866810
+   4    O       -7.436790078    -0.456741618     1.218224958
+   5    H       -9.312968648    -0.401377288    -1.293644691
+   6    H       -9.480873083    -2.005448111    -0.574821726
+   7    O        6.086203662     0.388000992    -1.406355511
+   8    P        6.217515296    -0.890853524    -0.477300563
+   9    O        7.415666004    -1.022779186     0.350671101
+  10    O        5.922674346    -2.066711459    -1.505044908
+  11    O        4.959387989    -0.732591448     0.488739092
+  12    C        3.609004708    -0.665651152    -0.008453122
+  13    C        3.149841922     0.796810826    -0.131861965
+  14    O        1.795776460     0.752040827    -0.600331735
+  15    C        0.896915560     1.227150371     0.398752093
+  16    C        1.684803841     1.323222522     1.714291773
+  17    N       -0.234475402     0.313827659     0.449841584
+  18    C       -0.243206550    -1.043453472     0.911473349
+  19    O        0.700227976    -1.643795185     1.388922827
+  20    N       -1.531009329    -1.534194438     0.745932757
+  21    C       -2.331200772    -0.526299430     0.170521498
+  22    C       -3.704849479    -0.466860289    -0.212071090
+  23    O       -4.466963506    -1.455543826    -0.107377286
+  24    N       -4.174951579     0.719828685    -0.728730904
+  25    C       -3.302060176     1.766257244    -0.879765113
+  26    N       -1.954377603     1.783518565    -0.545537072
+  27    C       -1.518377372     0.618586491    -0.022170448
+  28    N       -3.801117754     2.919137530    -1.399011928
+  29    C        3.120236281     1.542113282     1.219077575
+  30    O        3.316278091     2.905642318     0.887814923
+  31    H        6.253317006    -2.961244279    -1.101648270
+  32    H        3.400158103    -1.210907351    -0.951670141
+  33    H        3.081514996    -1.198709842     0.819578196
+  34    H        0.537929483     2.223917278     0.025221338
+  35    H        1.613961419     0.398118060     2.321348632
+  36    H        1.322100806     2.140003991     2.359594679
+  37    H       -4.761729905     2.981545041    -1.692299686
+  38    H       -3.219288161     3.729635220    -1.529249942
+  39    H       -1.849973092    -2.464201874     0.961256721
+  40    H        3.698096440     1.368691836    -0.913322064
+  41    H        3.236224125     3.477846353     1.682486828
+  42    H        3.910490150     1.238755868     1.931944097
+  43    H       -5.845190265    -1.288267541    -0.437923874
+  44    H       -9.883356771    -0.565292322     0.381713841
+  45    H        6.698469538     0.262728795    -2.236923130
+
+
+           Empirical Formula: C12 H17 N5 O10 P  =    45 atoms
+
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.                 TYPE                        CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C(ATOM      1  CB  ASP B 119)          -0.546745        4.5467     1.06277     3.48397
+    2          C(ATOM      2  CG  ASP B 119)           0.761294        3.2387     1.09351     2.14519
+    3          O(ATOM      3  OD1 ASP B 119)          -0.669268        6.6693     1.84826     4.82101
+    4          O(ATOM      4  OD2 ASP B 119)          -0.694593        6.6946     1.87637     4.81822
+    5          H(ATOM      5 1HB  ASP B 119)           0.198484        0.8015     0.80152
+    6          H(ATOM      6 2HB  ASP B 119)           0.197790        0.8022     0.80221
+    7          O(HETATM    7  OP3 8OG B1157)          -0.335028        6.3350     1.83840     4.49663
+    8          P(HETATM    8  P   8OG B1157)           0.336508        4.6635     1.65906     2.83980     0.16463
+    9          O(HETATM    9  OP1 8OG B1157)          -0.375471        6.3755     1.88049     4.49498
+   10          O(HETATM   10  OP2 8OG B1157)          -0.391990        6.3920     1.83281     4.55918
+   11          O(HETATM   11  O5P 8OG B1157)          -0.217935        6.2179     1.85043     4.36750
+   12          C(HETATM   12  C5P 8OG B1157)          -0.072696        4.0727     1.09631     2.97639
+   13          C(HETATM   13  C4P 8OG B1157)           0.072523        3.9275     1.11194     2.81554
+   14          O(HETATM   14  O4P 8OG B1157)          -0.480195        6.4802     1.88207     4.59813
+   15          C(HETATM   15  C1P 8OG B1157)           0.350780        3.6492     1.09777     2.55145
+   16          C(HETATM   16  C2P 8OG B1157)          -0.403014        4.4030     1.08387     3.31914
+   17          N(HETATM   17  N9  8OG B1157)          -0.483958        5.4840     1.57683     3.90713
+   18          C(HETATM   18  C8  8OG B1157)           0.695313        3.3047     1.02904     2.27565
+   19          O(HETATM   19  O8  8OG B1157)          -0.621796        6.6218     1.87860     4.74320
+   20          N(HETATM   20  N7  8OG B1157)          -0.449581        5.4496     1.52796     3.92162
+   21          C(HETATM   21  C5  8OG B1157)          -0.312774        4.3128     1.03489     3.27788
+   22          C(HETATM   22  C6  8OG B1157)           0.656566        3.3434     1.04760     2.29584
+   23          O(HETATM   23  O6  8OG B1157)          -0.694186        6.6942     1.87111     4.82308
+   24          N(HETATM   24  N1  8OG B1157)          -0.758209        5.7582     1.77436     3.98385
+   25          C(HETATM   25  C2  8OG B1157)           0.597157        3.4028     1.03914     2.36370
+   26          N(HETATM   26  N3  8OG B1157)          -0.693395        5.6934     1.77269     3.92071
+   27          C(HETATM   27  C4  8OG B1157)           0.397547        3.6025     1.04066     2.56180
+   28          N(HETATM   28  N2  8OG B1157)          -0.576291        5.5763     1.51499     4.06130
+   29          C(HETATM   29  C3P 8OG B1157)           0.142053        3.8579     1.10045     2.75750
+   30          O(HETATM   30  O3P 8OG B1157)          -0.633443        6.6334     1.84510     4.78834
+   31          H(HETATM   31  HP2 8OG B1157)           0.371779        0.6282     0.62822
+   32          H(HETATM   32 1H5P 8OG B1157)           0.165858        0.8341     0.83414
+   33          H(HETATM   33 2H5P 8OG B1157)           0.171604        0.8284     0.82840
+   34          H(HETATM   34  H1P 8OG B1157)           0.169711        0.8303     0.83029
+   35          H(HETATM   35 1H2P 8OG B1157)           0.196152        0.8038     0.80385
+   36          H(HETATM   36 2H2P 8OG B1157)           0.183038        0.8170     0.81696
+   37          H(HETATM   37 1H2  8OG B1157)           0.343107        0.6569     0.65689
+   38          H(HETATM   38 2H2  8OG B1157)           0.343323        0.6567     0.65668
+   39          H(HETATM   39  H7  8OG B1157)           0.375774        0.6242     0.62423
+   40          H(HETATM   40  H4P 8OG B1157)           0.172017        0.8280     0.82798
+   41          H(HETATM   41 1H3P 8OG B1157)           0.361035        0.6390     0.63897
+   42          H(HETATM   42 2H3P 8OG B1157)           0.155177        0.8448     0.84482
+   43          H(HETATM   43  H6  8OG B1157)           0.442304        0.5577     0.55770
+   44          H(ATOM     44 3HB  ASP B 119)           0.188047        0.8120     0.81195
+   45          H(HETATM   45  HP3 8OG B1157)           0.365628        0.6344     0.63437
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    14.010     4.288    -2.869    14.930
+ HYBRID         0.724    -0.708     0.105     1.019
+ SUM           14.735     3.580    -2.763    15.413
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+                   Atom                  s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C(ATOM      1  CB  ASP B 119)   1.06277   1.05995   1.22031   1.20371
+    2  C(ATOM      2  CG  ASP B 119)   1.09351   0.81121   0.61778   0.71621
+    3  O(ATOM      3  OD1 ASP B 119)   1.84826   1.46776   1.75987   1.59339
+    4  O(ATOM      4  OD2 ASP B 119)   1.87637   1.85442   1.58398   1.37982
+    5  H(ATOM      5 1HB  ASP B 119)   0.80152
+    6  H(ATOM      6 2HB  ASP B 119)   0.80221
+    7  O(HETATM    7  OP3 8OG B1157)   1.83840   1.67223   1.34500   1.47940
+    8  P(HETATM    8  P   8OG B1157)   1.65906   0.95780   0.94151   0.94049   0.03649   0.03254   0.03300   0.03307   0.02954
+    9  O(HETATM    9  OP1 8OG B1157)   1.88049   1.19606   1.77415   1.52477
+   10  O(HETATM   10  OP2 8OG B1157)   1.83281   1.79383   1.35113   1.41422
+   11  O(HETATM   11  O5P 8OG B1157)   1.85043   1.20724   1.86063   1.29963
+   12  C(HETATM   12  C5P 8OG B1157)   1.09631   0.79383   1.01622   1.16634
+   13  C(HETATM   13  C4P 8OG B1157)   1.11194   0.79323   1.00445   1.01786
+   14  O(HETATM   14  O4P 8OG B1157)   1.88207   1.26025   1.88545   1.45243
+   15  C(HETATM   15  C1P 8OG B1157)   1.09777   0.77042   0.90471   0.87632
+   16  C(HETATM   16  C2P 8OG B1157)   1.08387   1.03790   1.21147   1.06978
+   17  N(HETATM   17  N9  8OG B1157)   1.57683   1.14808   1.19873   1.56033
+   18  C(HETATM   18  C8  8OG B1157)   1.02904   0.75941   0.74067   0.77557
+   19  O(HETATM   19  O8  8OG B1157)   1.87860   1.46504   1.67011   1.60805
+   20  N(HETATM   20  N7  8OG B1157)   1.52796   1.13572   1.21440   1.57150
+   21  C(HETATM   21  C5  8OG B1157)   1.03489   1.01229   0.94940   1.31619
+   22  C(HETATM   22  C6  8OG B1157)   1.04760   0.81143   0.76644   0.71797
+   23  O(HETATM   23  O6  8OG B1157)   1.87111   1.62622   1.46458   1.73228
+   24  N(HETATM   24  N1  8OG B1157)   1.77436   1.38932   1.12706   1.46747
+   25  C(HETATM   25  C2  8OG B1157)   1.03914   0.77241   0.80003   0.79126
+   26  N(HETATM   26  N3  8OG B1157)   1.77269   1.18983   1.29960   1.43128
+   27  C(HETATM   27  C4  8OG B1157)   1.04066   0.82267   0.87357   0.86555
+   28  N(HETATM   28  N2  8OG B1157)   1.51499   1.25066   1.19278   1.61787
+   29  C(HETATM   29  C3P 8OG B1157)   1.10045   0.99227   0.76044   1.00478
+   30  O(HETATM   30  O3P 8OG B1157)   1.84510   1.95958   1.31694   1.51183
+   31  H(HETATM   31  HP2 8OG B1157)   0.62822
+   32  H(HETATM   32 1H5P 8OG B1157)   0.83414
+   33  H(HETATM   33 2H5P 8OG B1157)   0.82840
+   34  H(HETATM   34  H1P 8OG B1157)   0.83029
+   35  H(HETATM   35 1H2P 8OG B1157)   0.80385
+   36  H(HETATM   36 2H2P 8OG B1157)   0.81696
+   37  H(HETATM   37 1H2  8OG B1157)   0.65689
+   38  H(HETATM   38 2H2  8OG B1157)   0.65668
+   39  H(HETATM   39  H7  8OG B1157)   0.62423
+   40  H(HETATM   40  H4P 8OG B1157)   0.82798
+   41  H(HETATM   41 1H3P 8OG B1157)   0.63897
+   42  H(HETATM   42 2H3P 8OG B1157)   0.84482
+   43  H(HETATM   43  H6  8OG B1157)   0.55770
+   44  H(ATOM     44 3HB  ASP B 119)   0.81195
+   45  H(HETATM   45  HP3 8OG B1157)   0.63437
+
+                          BOND ORDERS BETWEEN ATOMS (VALENCIES)
+
+     1  C(ATOM      1  CB  ASP B 119)     (3.898) C(ATOM      2  CG  ASP B 119) 0.979
+                                                  H(ATOM     44 3HB  ASP B 119) 0.951
+                                                  H(ATOM      5 1HB  ASP B 119) 0.939
+ 
+     2  C(ATOM      2  CG  ASP B 119)     (3.717) O(ATOM      4  OD2 ASP B 119) 1.594
+                                                  O(ATOM      3  OD1 ASP B 119) 1.106
+                                                  C(ATOM      1  CB  ASP B 119) 0.979
+ 
+     3  O(ATOM      3  OD1 ASP B 119)     (2.039) C(ATOM      2  CG  ASP B 119) 1.106
+                                                  H(HETATM   43  H6  8OG B1157) 0.605
+                                                  O(ATOM      4  OD2 ASP B 119) 0.145
+ 
+     4  O(ATOM      4  OD2 ASP B 119)     (1.911) C(ATOM      2  CG  ASP B 119) 1.594
+                                                  O(ATOM      3  OD1 ASP B 119) 0.145
+                                                  C(ATOM      1  CB  ASP B 119) 0.047
+ 
+     5  H(ATOM      5 1HB  ASP B 119)     (0.961) C(ATOM      1  CB  ASP B 119) 0.939
+ 
+     6  H(ATOM      6 2HB  ASP B 119)     (0.961) C(ATOM      1  CB  ASP B 119) 0.938
+ 
+     7  O(HETATM    7  OP3 8OG B1157)     (2.318) P(HETATM    8  P   8OG B1157) 0.852
+                                                  H(HETATM   45  HP3 8OG B1157) 0.815
+                                                  O(HETATM    9  OP1 8OG B1157) 0.199
+ 
+     8  P(HETATM    8  P   8OG B1157)     (3.557) O(HETATM    9  OP1 8OG B1157) 1.260
+                                                  O(HETATM    7  OP3 8OG B1157) 0.852
+                                                  O(HETATM   10  OP2 8OG B1157) 0.826
+ 
+     9  O(HETATM    9  OP1 8OG B1157)     (2.105) P(HETATM    8  P   8OG B1157) 1.260
+                                                  O(HETATM   10  OP2 8OG B1157) 0.207
+                                                  O(HETATM    7  OP3 8OG B1157) 0.199
+ 
+    10  O(HETATM   10  OP2 8OG B1157)     (2.250) P(HETATM    8  P   8OG B1157) 0.826
+                                                  H(HETATM   31  HP2 8OG B1157) 0.814
+                                                  O(HETATM    9  OP1 8OG B1157) 0.207
+ 
+    11  O(HETATM   11  O5P 8OG B1157)     (2.328) C(HETATM   12  C5P 8OG B1157) 0.919
+                                                  P(HETATM    8  P   8OG B1157) 0.825
+                                                  O(HETATM    9  OP1 8OG B1157) 0.188
+ 
+    12  C(HETATM   12  C5P 8OG B1157)     (3.903) C(HETATM   13  C4P 8OG B1157) 0.974
+                                                  H(HETATM   32 1H5P 8OG B1157) 0.953
+                                                  H(HETATM   33 2H5P 8OG B1157) 0.942
+ 
+    13  C(HETATM   13  C4P 8OG B1157)     (3.918) C(HETATM   29  C3P 8OG B1157) 0.982
+                                                  C(HETATM   12  C5P 8OG B1157) 0.974
+                                                  H(HETATM   40  H4P 8OG B1157) 0.944
+ 
+    14  O(HETATM   14  O4P 8OG B1157)     (2.065) C(HETATM   15  C1P 8OG B1157) 0.924
+                                                  C(HETATM   13  C4P 8OG B1157) 0.916
+                                                  N(HETATM   17  N9  8OG B1157) 0.028
+ 
+    15  C(HETATM   15  C1P 8OG B1157)     (3.860) C(HETATM   16  C2P 8OG B1157) 0.985
+                                                  H(HETATM   34  H1P 8OG B1157) 0.941
+                                                  O(HETATM   14  O4P 8OG B1157) 0.924
+ 
+    16  C(HETATM   16  C2P 8OG B1157)     (3.937) C(HETATM   15  C1P 8OG B1157) 0.985
+                                                  C(HETATM   29  C3P 8OG B1157) 0.981
+                                                  H(HETATM   36 2H2P 8OG B1157) 0.949
+ 
+    17  N(HETATM   17  N9  8OG B1157)     (3.249) C(HETATM   27  C4  8OG B1157) 1.087
+                                                  C(HETATM   18  C8  8OG B1157) 0.965
+                                                  C(HETATM   15  C1P 8OG B1157) 0.858
+ 
+    18  C(HETATM   18  C8  8OG B1157)     (3.823) O(HETATM   19  O8  8OG B1157) 1.551
+                                                  N(HETATM   20  N7  8OG B1157) 1.178
+                                                  N(HETATM   17  N9  8OG B1157) 0.965
+ 
+    19  O(HETATM   19  O8  8OG B1157)     (2.021) C(HETATM   18  C8  8OG B1157) 1.551
+                                                  N(HETATM   20  N7  8OG B1157) 0.138
+                                                  N(HETATM   17  N9  8OG B1157) 0.096
+ 
+    20  N(HETATM   20  N7  8OG B1157)     (3.285) C(HETATM   18  C8  8OG B1157) 1.178
+                                                  C(HETATM   21  C5  8OG B1157) 0.998
+                                                  H(HETATM   39  H7  8OG B1157) 0.809
+ 
+    21  C(HETATM   21  C5  8OG B1157)     (3.845) C(HETATM   27  C4  8OG B1157) 1.334
+                                                  C(HETATM   22  C6  8OG B1157) 1.130
+                                                  N(HETATM   20  N7  8OG B1157) 0.998
+ 
+    22  C(HETATM   22  C6  8OG B1157)     (3.823) O(HETATM   23  O6  8OG B1157) 1.384
+                                                  N(HETATM   24  N1  8OG B1157) 1.197
+                                                  C(HETATM   21  C5  8OG B1157) 1.130
+ 
+    23  O(HETATM   23  O6  8OG B1157)     (1.961) C(HETATM   22  C6  8OG B1157) 1.384
+                                                  H(HETATM   43  H6  8OG B1157) 0.172
+                                                  N(HETATM   24  N1  8OG B1157) 0.093
+ 
+    24  N(HETATM   24  N1  8OG B1157)     (2.889) C(HETATM   25  C2  8OG B1157) 1.255
+                                                  C(HETATM   22  C6  8OG B1157) 1.197
+                                                  O(HETATM   23  O6  8OG B1157) 0.093
+ 
+    25  C(HETATM   25  C2  8OG B1157)     (3.860) N(HETATM   28  N2  8OG B1157) 1.271
+                                                  N(HETATM   24  N1  8OG B1157) 1.255
+                                                  N(HETATM   26  N3  8OG B1157) 1.195
+ 
+    26  N(HETATM   26  N3  8OG B1157)     (2.935) C(HETATM   27  C4  8OG B1157) 1.296
+                                                  C(HETATM   25  C2  8OG B1157) 1.195
+                                                  N(HETATM   28  N2  8OG B1157) 0.061
+ 
+    27  C(HETATM   27  C4  8OG B1157)     (3.923) C(HETATM   21  C5  8OG B1157) 1.334
+                                                  N(HETATM   26  N3  8OG B1157) 1.296
+                                                  N(HETATM   17  N9  8OG B1157) 1.087
+ 
+    28  N(HETATM   28  N2  8OG B1157)     (3.203) C(HETATM   25  C2  8OG B1157) 1.271
+                                                  H(HETATM   37 1H2  8OG B1157) 0.847
+                                                  H(HETATM   38 2H2  8OG B1157) 0.847
+ 
+    29  C(HETATM   29  C3P 8OG B1157)     (3.908) C(HETATM   13  C4P 8OG B1157) 0.982
+                                                  C(HETATM   16  C2P 8OG B1157) 0.981
+                                                  H(HETATM   42 2H3P 8OG B1157) 0.953
+ 
+    30  O(HETATM   30  O3P 8OG B1157)     (1.915) C(HETATM   29  C3P 8OG B1157) 0.924
+                                                  H(HETATM   41 1H3P 8OG B1157) 0.853
+                                                  C(HETATM   16  C2P 8OG B1157) 0.021
+ 
+    31  H(HETATM   31  HP2 8OG B1157)     (0.862) O(HETATM   10  OP2 8OG B1157) 0.814
+                                                  P(HETATM    8  P   8OG B1157) 0.031
+                                                  O(HETATM    7  OP3 8OG B1157) 0.012
+ 
+    32  H(HETATM   32 1H5P 8OG B1157)     (0.972) C(HETATM   12  C5P 8OG B1157) 0.953
+ 
+    33  H(HETATM   33 2H5P 8OG B1157)     (0.971) C(HETATM   12  C5P 8OG B1157) 0.942
+                                                  P(HETATM    8  P   8OG B1157) 0.011
+ 
+    34  H(HETATM   34  H1P 8OG B1157)     (0.971) C(HETATM   15  C1P 8OG B1157) 0.941
+ 
+    35  H(HETATM   35 1H2P 8OG B1157)     (0.962) C(HETATM   16  C2P 8OG B1157) 0.944
+ 
+    36  H(HETATM   36 2H2P 8OG B1157)     (0.966) C(HETATM   16  C2P 8OG B1157) 0.949
+ 
+    37  H(HETATM   37 1H2  8OG B1157)     (0.882) N(HETATM   28  N2  8OG B1157) 0.847
+                                                  C(HETATM   25  C2  8OG B1157) 0.013
+ 
+    38  H(HETATM   38 2H2  8OG B1157)     (0.882) N(HETATM   28  N2  8OG B1157) 0.847
+                                                  C(HETATM   25  C2  8OG B1157) 0.013
+ 
+    39  H(HETATM   39  H7  8OG B1157)     (0.859) N(HETATM   20  N7  8OG B1157) 0.809
+                                                  C(HETATM   18  C8  8OG B1157) 0.014
+                                                  C(HETATM   21  C5  8OG B1157) 0.011
+ 
+    40  H(HETATM   40  H4P 8OG B1157)     (0.970) C(HETATM   13  C4P 8OG B1157) 0.944
+ 
+    41  H(HETATM   41 1H3P 8OG B1157)     (0.870) O(HETATM   30  O3P 8OG B1157) 0.853
+                                                  C(HETATM   13  C4P 8OG B1157) 0.010
+ 
+    42  H(HETATM   42 2H3P 8OG B1157)     (0.976) C(HETATM   29  C3P 8OG B1157) 0.953
+ 
+    43  H(HETATM   43  H6  8OG B1157)     (0.804) O(ATOM      3  OD1 ASP B 119) 0.605
+                                                  O(HETATM   23  O6  8OG B1157) 0.172
+                                                  C(ATOM      1  CB  ASP B 119) 0.011
+ 
+    44  H(ATOM     44 3HB  ASP B 119)     (0.965) C(ATOM      1  CB  ASP B 119) 0.951
+ 
+    45  H(HETATM   45  HP3 8OG B1157)     (0.866) O(HETATM    7  OP3 8OG B1157) 0.815
+                                                  P(HETATM    8  P   8OG B1157) 0.033
+                                                  O(HETATM   11  O5P 8OG B1157) 0.012
+ 
+
+          JOB ENDED NORMALLY
+
+
+
+ TOTAL JOB TIME:             8.35 SECONDS
+
+ == MOPAC DONE ==

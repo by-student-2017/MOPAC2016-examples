@@ -1,0 +1,1473 @@
+HEADER  data-set: test
+REMARK  MOPAC 2012, Version: 15.033M Date: Feb  4 2015 16:08
+REMARK  MOPAC 2012, Version: 14.358W Date: Dec 25 2014 14:58
+REMARK  MOPAC 2012, Version: 14.358W Date: Dec 25 2014 14:52
+REMARK  MOPAC 2012, Version: 14.358W Date: Dec 25 2014 14:45
+HELIX    1   1 THR A   44  GLY F   58  1                                  15
+HELIX    2   2 PRO A  112  MET F  116  5                                   5
+HELIX    3   3 ASP A  119  GLN F  129  1                                  11
+HELIX    4   4 THR B   44  GLY B   58  1                                  15
+HELIX    5   5 GLN B  107  ILE B  111  5                                   5
+HELIX    6   6 PRO B  112  ASP B  115  5                                   4
+HELIX    7   7 ASP B  119  GLN B  129  1                                  11
+SHEET    1  AA 2 TRP A  32  ASN F  33  0
+SHEET    2  AA 2 ARG A  17  LYS F  23  1  O  GLY F  21   N  ASN F  33
+SHEET    1  AB 2 MET A 101  GLN F 107  0
+SHEET    2  AB 2 ARG A  17  LYS F  23 -1  O  VAL F  18   N  PHE F 106
+SHEET    1  BA13 PHE B  35  LYS B  38  0
+SHEET    2  BA13 SER B   4  VAL B  12 -1  O  THR B   8   N  GLY B  37
+SHEET    3  BA13 LEU B  80  THR B  88  1  O  LEU B  80   N  ARG B   5
+SHEET    4  BA13 HIS B  65  PHE B  74 -1  O  HIS B  65   N  CYS B  87
+SHEET    5  BA13 LYS B 132  GLN B 140  1  O  PHE B 133   N  GLN B  69
+SHEET    6  BA13 THR B 144  VAL B 153 -1  O  THR B 144   N  GLN B 140
+SHEET    7  BA13 THR A 144  GLU F 152  1  O  TYR F 148   N  LEU B 150
+SHEET    8  BA13 PHE A 133  GLN F 140 -1  O  HIS F 134   N  ARG F 151
+SHEET    9  BA13 HIS A  65  PHE F  74  1  O  VAL F  67   N  PHE F 133
+SHEET   10  BA13 LEU A  80  THR F  88 -1  O  MET F  81   N  PHE F  72
+SHEET   11  BA13 SER A   4  GLN F  14  1  O  ARG F   5   N  ASP F  82
+SHEET   12  BA13 ARG A  17  LYS F  23 -1  O  ARG F  17   N  GLN F  14
+SHEET   13  BA13 TRP A  32  ASN F  33  1  O  ASN F  33   N  GLY F  21
+SHEET    1  BB13 PHE B  35  LYS B  38  0
+SHEET    2  BB13 SER B   4  VAL B  12 -1  O  THR B   8   N  GLY B  37
+SHEET    3  BB13 LEU B  80  THR B  88  1  O  LEU B  80   N  ARG B   5
+SHEET    4  BB13 HIS B  65  PHE B  74 -1  O  HIS B  65   N  CYS B  87
+SHEET    5  BB13 LYS B 132  GLN B 140  1  O  PHE B 133   N  GLN B  69
+SHEET    6  BB13 THR B 144  VAL B 153 -1  O  THR B 144   N  GLN B 140
+SHEET    7  BB13 THR A 144  GLU F 152  1  O  TYR F 148   N  LEU B 150
+SHEET    8  BB13 PHE A 133  GLN F 140 -1  O  HIS F 134   N  ARG F 151
+SHEET    9  BB13 HIS A  65  PHE F  74  1  O  VAL F  67   N  PHE F 133
+SHEET   10  BB13 LEU A  80  THR F  88 -1  O  MET F  81   N  PHE F  72
+SHEET   11  BB13 SER A   4  GLN F  14  1  O  ARG F   5   N  ASP F  82
+SHEET   12  BB13 ARG A  17  LYS F  23 -1  O  ARG F  17   N  GLN F  14
+SHEET   13  BB13 MET A 101  GLN F 107 -1  O  ARG F 102   N  MET F  22
+SHEET    1  AC 2 THR A  60  VAL F  61  0
+SHEET    2  AC 2 ILE A  91  GLN F  92 -1  O  GLN F  92   N  THR F  60
+SHEET    1  BC 3 TRP B  32  ASN B  33  0
+SHEET    2  BC 3 LEU B  19  LYS B  23 -1  O  GLY B  21   N  ASN B  33
+SHEET    3  BC 3 MET B 101  TRP B 105 -1  O  ARG B 102   N  MET B  22
+SHEET    1  BD 2 THR B  60  VAL B  61  0
+SHEET    2  BD 2 ILE B  91  GLN B  92 -1  O  GLN B  92   N  THR B  60
+ATOM      1  N   ALA A   3      -2.629   8.215 -18.135  1.00  0.00      PROT N 
+ATOM      2  CA  ALA A   3      -3.701   7.255 -17.668  1.00  0.00      PROT C 
+ATOM      3  C   ALA A   3      -3.034   5.923 -17.310  1.00  0.00      PROT C 
+ATOM      4  O   ALA A   3      -2.194   5.443 -18.064  1.00  0.00      PROT O 
+ATOM      5  CB  ALA A   3      -4.680   6.979 -18.800  1.00  0.00      PROT C 
+ATOM      6  N   SER A   4      -3.480   5.262 -16.213  1.00  0.00      PROT N 
+ATOM      7  CA  SER A   4      -2.934   3.946 -15.870  1.00  0.00      PROT C 
+ATOM      8  C   SER A   4      -4.139   3.135 -15.369  1.00  0.00      PROT C 
+ATOM      9  O   SER A   4      -4.746   3.484 -14.362  1.00  0.00      PROT O 
+ATOM     10  CB  SER A   4      -1.874   4.038 -14.749  1.00  0.00      PROT C 
+ATOM     11  OG  SER A   4      -2.407   4.546 -13.554  1.00  0.00      PROT O 
+ATOM     12  N   ARG A   5      -4.535   2.057 -16.096  1.00  0.00      PROT N 
+ATOM     13  CA  ARG A   5      -5.738   1.340 -15.680  1.00  0.00      PROT C 
+ATOM     14  C   ARG A   5      -5.403   0.442 -14.486  1.00  0.00      PROT C 
+ATOM     15  O   ARG A   5      -4.371  -0.200 -14.412  1.00  0.00      PROT O 
+ATOM     16  CB  ARG A   5      -6.257   0.441 -16.811  1.00  0.00      PROT C 
+ATOM     17  CG  ARG A   5      -7.600  -0.178 -16.433  1.00  0.00      PROT C 
+ATOM     18  CD  ARG A   5      -8.692   0.893 -16.278  1.00  0.00      PROT C 
+ATOM     19  NE  ARG A   5      -9.609   0.906 -17.426  1.00  0.00      PROT N 
+ATOM     20  CZ  ARG A   5     -10.601  -0.025 -17.534  1.00  0.00      PROT C 
+ATOM     21  NH1 ARG A   5     -10.842  -0.961 -16.575  1.00  0.00      PROT N 
+ATOM     22  NH2 ARG A   5     -11.286  -0.104 -18.726  1.00  0.00      PROT N 
+ATOM     23  N   LEU A   6      -6.361   0.320 -13.516  1.00  0.00      PROT N 
+ATOM     24  CA  LEU A   6      -6.078  -0.516 -12.353  1.00  0.00      PROT C 
+ATOM     25  C   LEU A   6      -6.322  -1.978 -12.777  1.00  0.00      PROT C 
+ATOM     26  O   LEU A   6      -7.403  -2.327 -13.249  1.00  0.00      PROT O 
+ATOM     27  CB  LEU A   6      -7.042  -0.213 -11.196  1.00  0.00      PROT C 
+ATOM     28  CG  LEU A   6      -7.015   1.259 -10.742  1.00  0.00      PROT C 
+ATOM     29  CD1 LEU A   6      -8.203   1.509  -9.805  1.00  0.00      PROT C 
+ATOM     30  CD2 LEU A   6      -5.705   1.601 -10.034  1.00  0.00      PROT C 
+ATOM     31  N   TYR A   7      -5.337  -2.877 -12.538  1.00  0.00      PROT N 
+ATOM     32  CA  TYR A   7      -5.498  -4.298 -12.830  1.00  0.00      PROT C 
+ATOM     33  C   TYR A   7      -5.140  -5.033 -11.524  1.00  0.00      PROT C 
+ATOM     34  O   TYR A   7      -4.485  -4.476 -10.646  1.00  0.00      PROT O 
+ATOM     35  CB  TYR A   7      -4.501  -4.794 -13.892  1.00  0.00      PROT C 
+ATOM     36  CG  TYR A   7      -4.783  -4.293 -15.269  1.00  0.00      PROT C 
+ATOM     37  CD1 TYR A   7      -4.308  -3.047 -15.681  1.00  0.00      PROT C 
+ATOM     38  CD2 TYR A   7      -5.440  -5.127 -16.178  1.00  0.00      PROT C 
+ATOM     39  CE1 TYR A   7      -4.454  -2.650 -17.005  1.00  0.00      PROT C 
+ATOM     40  CE2 TYR A   7      -5.545  -4.780 -17.515  1.00  0.00      PROT C 
+ATOM     41  CZ  TYR A   7      -5.051  -3.530 -17.912  1.00  0.00      PROT C 
+ATOM     42  OH  TYR A   7      -5.203  -3.218 -19.210  1.00  0.00      PROT O 
+ATOM     43  N   THR A   8      -5.511  -6.330 -11.407  1.00  0.00      PROT N 
+ATOM     44  CA  THR A   8      -5.233  -7.073 -10.183  1.00  0.00      PROT C 
+ATOM     45  C   THR A   8      -4.409  -8.308 -10.558  1.00  0.00      PROT C 
+ATOM     46  O   THR A   8      -4.349  -8.723 -11.704  1.00  0.00      PROT O 
+ATOM     47  CB  THR A   8      -6.575  -7.563  -9.554  1.00  0.00      PROT C 
+ATOM     48  OG1 THR A   8      -7.187  -8.395 -10.529  1.00  0.00      PROT O 
+ATOM     49  CG2 THR A   8      -7.514  -6.405  -9.299  1.00  0.00      PROT C 
+ATOM     50  N   LEU A   9      -3.869  -9.017  -9.515  1.00  0.00      PROT N 
+ATOM     51  CA  LEU A   9      -3.116 -10.242  -9.829  1.00  0.00      PROT C 
+ATOM     52  C   LEU A   9      -3.035 -11.006  -8.498  1.00  0.00      PROT C 
+ATOM     53  O   LEU A   9      -2.497 -10.490  -7.531  1.00  0.00      PROT O 
+ATOM     54  CB  LEU A   9      -1.694  -9.934 -10.315  1.00  0.00      PROT C 
+ATOM     55  CG  LEU A   9      -1.029 -11.189 -10.902  1.00  0.00      PROT C 
+ATOM     56  CD1 LEU A   9      -1.584 -11.485 -12.297  1.00  0.00      PROT C 
+ATOM     57  CD2 LEU A   9       0.484 -10.977 -10.981  1.00  0.00      PROT C 
+ATOM     58  N   VAL A  10      -3.570 -12.258  -8.445  1.00  0.00      PROT N 
+ATOM     59  CA  VAL A  10      -3.669 -12.974  -7.177  1.00  0.00      PROT C 
+ATOM     60  C   VAL A  10      -2.597 -14.075  -7.167  1.00  0.00      PROT C 
+ATOM     61  O   VAL A  10      -2.584 -14.952  -8.033  1.00  0.00      PROT O 
+ATOM     62  CB  VAL A  10      -5.036 -13.703  -7.053  1.00  0.00      PROT C 
+ATOM     63  CG1 VAL A  10      -4.996 -14.656  -5.857  1.00  0.00      PROT C 
+ATOM     64  CG2 VAL A  10      -6.149 -12.673  -6.914  1.00  0.00      PROT C 
+ATOM     65  N   LEU A  11      -1.725 -14.061  -6.126  1.00  0.00      PROT N 
+ATOM     66  CA  LEU A  11      -0.658 -15.051  -6.020  1.00  0.00      PROT C 
+ATOM     67  C   LEU A  11      -0.798 -15.702  -4.635  1.00  0.00      PROT C 
+ATOM     68  O   LEU A  11      -0.471 -15.142  -3.602  1.00  0.00      PROT O 
+ATOM     69  CB  LEU A  11       0.744 -14.441  -6.131  1.00  0.00      PROT C 
+ATOM     70  CG  LEU A  11       1.253 -14.345  -7.581  1.00  0.00      PROT C 
+ATOM     71  CD1 LEU A  11       1.025 -15.649  -8.346  1.00  0.00      PROT C 
+ATOM     72  CD2 LEU A  11       0.599 -13.173  -8.314  1.00  0.00      PROT C 
+ATOM     73  N   VAL A  12      -1.277 -16.979  -4.661  1.00  0.00      PROT N 
+ATOM     74  CA  VAL A  12      -1.407 -17.736  -3.423  1.00  0.00      PROT C 
+ATOM     75  C   VAL A  12       0.004 -18.285  -3.135  1.00  0.00      PROT C 
+ATOM     76  O   VAL A  12       0.591 -18.993  -3.942  1.00  0.00      PROT O 
+ATOM     77  CB  VAL A  12      -2.384 -18.927  -3.537  1.00  0.00      PROT C 
+ATOM     78  CG1 VAL A  12      -2.749 -19.373  -2.120  1.00  0.00      PROT C 
+ATOM     79  CG2 VAL A  12      -3.639 -18.545  -4.320  1.00  0.00      PROT C 
+ATOM     80  N   LEU A  13       0.581 -17.912  -1.958  1.00  0.00      PROT N 
+ATOM     81  CA  LEU A  13       1.981 -18.223  -1.691  1.00  0.00      PROT C 
+ATOM     82  C   LEU A  13       2.033 -18.938  -0.329  1.00  0.00      PROT C 
+ATOM     83  O   LEU A  13       1.878 -18.347   0.730  1.00  0.00      PROT O 
+ATOM     84  CB  LEU A  13       2.804 -16.932  -1.613  1.00  0.00      PROT C 
+ATOM     85  CG  LEU A  13       4.310 -17.191  -1.468  1.00  0.00      PROT C 
+ATOM     86  CD1 LEU A  13       4.872 -17.998  -2.638  1.00  0.00      PROT C 
+ATOM     87  CD2 LEU A  13       5.013 -15.832  -1.394  1.00  0.00      PROT C 
+ATOM     88  N   GLN A  14       2.183 -20.296  -0.405  1.00  0.00      PROT N 
+ATOM     89  CA  GLN A  14       2.337 -21.111   0.790  1.00  0.00      PROT C 
+ATOM     90  C   GLN A  14       3.826 -21.152   1.151  1.00  0.00      PROT C 
+ATOM     91  O   GLN A  14       4.687 -20.798   0.341  1.00  0.00      PROT O 
+ATOM     92  CB  GLN A  14       1.825 -22.538   0.518  1.00  0.00      PROT C 
+ATOM     93  CG  GLN A  14       0.412 -22.465  -0.058  1.00  0.00      PROT C 
+ATOM     94  CD  GLN A  14      -0.432 -23.627   0.386  1.00  0.00      PROT C 
+ATOM     95  OE1 GLN A  14      -0.016 -24.802   0.286  1.00  0.00      PROT O 
+ATOM     96  NE2 GLN A  14      -1.685 -23.395   0.809  1.00  0.00      PROT N 
+ATOM     97  N   PRO A  15       4.215 -21.624   2.359  1.00  0.00      PROT N 
+ATOM     98  CA  PRO A  15       5.633 -21.674   2.738  1.00  0.00      PROT C 
+ATOM     99  C   PRO A  15       6.528 -22.224   1.625  1.00  0.00      PROT C 
+ATOM    100  O   PRO A  15       7.640 -21.732   1.455  1.00  0.00      PROT O 
+ATOM    101  CD  PRO A  15       3.338 -22.032   3.475  1.00  0.00      PROT C 
+ATOM    102  CB  PRO A  15       5.682 -22.569   3.990  1.00  0.00      PROT C 
+ATOM    103  CG  PRO A  15       4.283 -22.446   4.618  1.00  0.00      PROT C 
+ATOM    104  N   GLN A  16       6.098 -23.266   0.856  1.00  0.00      PROT N 
+ATOM    105  CA  GLN A  16       6.979 -23.857  -0.145  1.00  0.00      PROT C 
+ATOM    106  C   GLN A  16       6.453 -23.684  -1.577  1.00  0.00      PROT C 
+ATOM    107  O   GLN A  16       6.997 -24.341  -2.469  1.00  0.00      PROT O 
+ATOM    108  CB  GLN A  16       7.102 -25.377   0.079  1.00  0.00      PROT C 
+ATOM    109  CG  GLN A  16       8.029 -25.709   1.242  1.00  0.00      PROT C 
+ATOM    110  CD  GLN A  16       8.265 -27.197   1.280  1.00  0.00      PROT C 
+ATOM    111  OE1 GLN A  16       8.192 -27.907   0.276  1.00  0.00      PROT O 
+ATOM    112  NE2 GLN A  16       8.556 -27.771   2.480  1.00  0.00      PROT N 
+ATOM    113  N   ARG A  17       5.402 -22.888  -1.898  1.00  0.00      PROT N 
+ATOM    114  CA  ARG A  17       4.939 -22.966  -3.293  1.00  0.00      PROT C 
+ATOM    115  C   ARG A  17       4.033 -21.784  -3.622  1.00  0.00      PROT C 
+ATOM    116  O   ARG A  17       3.386 -21.200  -2.767  1.00  0.00      PROT O 
+ATOM    117  CB  ARG A  17       4.148 -24.273  -3.526  1.00  0.00      PROT C 
+ATOM    118  CG  ARG A  17       2.973 -24.424  -2.557  1.00  0.00      PROT C 
+ATOM    119  CD  ARG A  17       2.255 -25.748  -2.841  1.00  0.00      PROT C 
+ATOM    120  NE  ARG A  17       1.127 -25.916  -1.910  1.00  0.00      PROT N 
+ATOM    121  CZ  ARG A  17       0.053 -26.704  -2.235  1.00  0.00      PROT C 
+ATOM    122  NH1 ARG A  17       0.163 -27.714  -3.137  1.00  0.00      PROT N 
+ATOM    123  NH2 ARG A  17      -1.145 -26.483  -1.604  1.00  0.00      PROT N 
+ATOM    124  N   VAL A  18       3.975 -21.407  -4.933  1.00  0.00      PROT N 
+ATOM    125  CA  VAL A  18       3.015 -20.378  -5.337  1.00  0.00      PROT C 
+ATOM    126  C   VAL A  18       2.014 -21.001  -6.318  1.00  0.00      PROT C 
+ATOM    127  O   VAL A  18       2.288 -21.988  -6.988  1.00  0.00      PROT O 
+ATOM    128  CB  VAL A  18       3.753 -19.172  -5.980  1.00  0.00      PROT C 
+ATOM    129  CG1 VAL A  18       4.080 -19.435  -7.448  1.00  0.00      PROT C 
+ATOM    130  CG2 VAL A  18       2.891 -17.918  -5.819  1.00  0.00      PROT C 
+ATOM    131  N   LEU A  19       0.803 -20.382  -6.426  1.00  0.00      PROT N 
+ATOM    132  CA  LEU A  19      -0.238 -20.938  -7.293  1.00  0.00      PROT C 
+ATOM    133  C   LEU A  19      -0.297 -20.044  -8.544  1.00  0.00      PROT C 
+ATOM    134  O   LEU A  19      -0.532 -18.843  -8.499  1.00  0.00      PROT O 
+ATOM    135  CB  LEU A  19      -1.594 -20.910  -6.576  1.00  0.00      PROT C 
+ATOM    136  CG  LEU A  19      -2.735 -21.474  -7.436  1.00  0.00      PROT C 
+ATOM    137  CD1 LEU A  19      -2.494 -22.938  -7.803  1.00  0.00      PROT C 
+ATOM    138  CD2 LEU A  19      -4.046 -21.329  -6.655  1.00  0.00      PROT C 
+ATOM    139  N   LEU A  20      -0.042 -20.656  -9.735  1.00  0.00      PROT N 
+ATOM    140  CA  LEU A  20      -0.083 -19.887 -10.975  1.00  0.00      PROT C 
+ATOM    141  C   LEU A  20      -1.107 -20.544 -11.904  1.00  0.00      PROT C 
+ATOM    142  O   LEU A  20      -1.273 -21.755 -11.926  1.00  0.00      PROT O 
+ATOM    143  CB  LEU A  20       1.261 -19.944 -11.728  1.00  0.00      PROT C 
+ATOM    144  CG  LEU A  20       2.439 -19.529 -10.835  1.00  0.00      PROT C 
+ATOM    145  CD1 LEU A  20       3.755 -19.782 -11.573  1.00  0.00      PROT C 
+ATOM    146  CD2 LEU A  20       2.310 -18.057 -10.442  1.00  0.00      PROT C 
+ATOM    147  N   GLY A  21      -1.815 -19.733 -12.740  1.00  0.00      PROT N 
+ATOM    148  CA  GLY A  21      -2.510 -20.335 -13.868  1.00  0.00      PROT C 
+ATOM    149  C   GLY A  21      -1.668 -20.121 -15.122  1.00  0.00      PROT C 
+ATOM    150  O   GLY A  21      -0.865 -19.206 -15.208  1.00  0.00      PROT O 
+ATOM    151  N   MET A  22      -1.905 -20.970 -16.170  1.00  0.00      PROT N 
+ATOM    152  CA  MET A  22      -1.273 -20.732 -17.465  1.00  0.00      PROT C 
+ATOM    153  C   MET A  22      -2.380 -20.026 -18.271  1.00  0.00      PROT C 
+ATOM    154  O   MET A  22      -3.430 -20.577 -18.602  1.00  0.00      PROT O 
+ATOM    155  CB  MET A  22      -0.842 -22.028 -18.156  1.00  0.00      PROT C 
+ATOM    156  CG  MET A  22      -0.585 -21.841 -19.645  1.00  0.00      PROT C 
+ATOM    157  SD  MET A  22       0.645 -20.561 -20.070  1.00  0.00      PROT S 
+ATOM    158  CE  MET A  22       2.198 -21.219 -19.419  1.00  0.00      PROT C 
+ATOM    159  N   LYS A  23      -2.133 -18.726 -18.564  1.00  0.00      PROT N 
+ATOM    160  CA  LYS A  23      -3.151 -17.895 -19.203  1.00  0.00      PROT C 
+ATOM    161  C   LYS A  23      -3.317 -18.410 -20.638  1.00  0.00      PROT C 
+ATOM    162  O   LYS A  23      -2.389 -18.517 -21.435  1.00  0.00      PROT O 
+ATOM    163  CB  LYS A  23      -2.705 -16.429 -19.231  1.00  0.00      PROT C 
+ATOM    164  CG  LYS A  23      -3.792 -15.500 -19.775  1.00  0.00      PROT C 
+ATOM    165  CD  LYS A  23      -4.948 -15.366 -18.780  1.00  0.00      PROT C 
+ATOM    166  CE  LYS A  23      -5.887 -14.213 -19.120  1.00  0.00      PROT C 
+ATOM    167  NZ  LYS A  23      -5.161 -12.890 -18.973  1.00  0.00      PROT N 
+ATOM    168  N   LYS A  24      -4.589 -18.689 -21.046  1.00  0.00      PROT N 
+ATOM    169  CA  LYS A  24      -4.836 -19.205 -22.388  1.00  0.00      PROT C 
+ATOM    170  C   LYS A  24      -5.037 -18.046 -23.379  1.00  0.00      PROT C 
+ATOM    171  O   LYS A  24      -4.711 -18.175 -24.557  1.00  0.00      PROT O 
+ATOM    172  CB  LYS A  24      -6.088 -20.095 -22.384  1.00  0.00      PROT C 
+ATOM    173  CG  LYS A  24      -5.804 -21.377 -21.587  1.00  0.00      PROT C 
+ATOM    174  CD  LYS A  24      -6.962 -21.741 -20.658  1.00  0.00      PROT C 
+ATOM    175  CE  LYS A  24      -8.174 -22.206 -21.468  1.00  0.00      PROT C 
+ATOM    176  NZ  LYS A  24      -9.153 -22.871 -20.530  1.00  0.00      PROT N 
+ATOM    177  N   ARG A  25      -5.599 -16.897 -22.918  1.00  0.00      PROT N 
+ATOM    178  CA  ARG A  25      -6.053 -15.853 -23.830  1.00  0.00      PROT C 
+ATOM    179  C   ARG A  25      -5.564 -14.476 -23.352  1.00  0.00      PROT C 
+ATOM    180  O   ARG A  25      -5.269 -14.240 -22.192  1.00  0.00      PROT O 
+ATOM    181  CB  ARG A  25      -7.598 -15.809 -23.844  1.00  0.00      PROT C 
+ATOM    182  CG  ARG A  25      -8.187 -15.509 -22.463  1.00  0.00      PROT C 
+ATOM    183  CD  ARG A  25      -9.653 -15.086 -22.552  1.00  0.00      PROT C 
+ATOM    184  NE  ARG A  25     -10.495 -16.255 -22.859  1.00  0.00      PROT N 
+ATOM    185  CZ  ARG A  25     -11.817 -16.133 -23.118  1.00  0.00      PROT C 
+ATOM    186  NH1 ARG A  25     -12.486 -14.945 -22.896  1.00  0.00      PROT N 
+ATOM    187  NH2 ARG A  25     -12.568 -17.277 -23.284  1.00  0.00      PROT N 
+ATOM    188  N   GLY A  26      -5.575 -13.505 -24.313  1.00  0.00      PROT N 
+ATOM    189  CA  GLY A  26      -5.506 -12.105 -23.928  1.00  0.00      PROT C 
+ATOM    190  C   GLY A  26      -4.125 -11.716 -23.431  1.00  0.00      PROT C 
+ATOM    191  O   GLY A  26      -3.086 -12.077 -23.971  1.00  0.00      PROT O 
+ATOM    192  N   PHE A  27      -4.101 -10.830 -22.388  1.00  0.00      PROT N 
+ATOM    193  CA  PHE A  27      -2.829 -10.274 -21.925  1.00  0.00      PROT C 
+ATOM    194  C   PHE A  27      -2.250 -11.302 -20.945  1.00  0.00      PROT C 
+ATOM    195  O   PHE A  27      -2.906 -11.708 -19.989  1.00  0.00      PROT O 
+ATOM    196  CB  PHE A  27      -3.050  -8.922 -21.226  1.00  0.00      PROT C 
+ATOM    197  CG  PHE A  27      -2.018  -7.940 -21.678  1.00  0.00      PROT C 
+ATOM    198  CD1 PHE A  27      -2.095  -7.383 -22.956  1.00  0.00      PROT C 
+ATOM    199  CD2 PHE A  27      -0.976  -7.585 -20.823  1.00  0.00      PROT C 
+ATOM    200  CE1 PHE A  27      -1.132  -6.469 -23.374  1.00  0.00      PROT C 
+ATOM    201  CE2 PHE A  27      -0.005  -6.683 -21.250  1.00  0.00      PROT C 
+ATOM    202  CZ  PHE A  27      -0.087  -6.119 -22.521  1.00  0.00      PROT C 
+ATOM    203  N   GLY A  28      -1.014 -11.810 -21.203  1.00  0.00      PROT N 
+ATOM    204  CA  GLY A  28      -0.567 -13.020 -20.526  1.00  0.00      PROT C 
+ATOM    205  C   GLY A  28      -0.779 -14.267 -21.370  1.00  0.00      PROT C 
+ATOM    206  O   GLY A  28      -0.276 -15.331 -21.036  1.00  0.00      PROT O 
+ATOM    207  N   ALA A  29      -1.509 -14.213 -22.525  1.00  0.00      PROT N 
+ATOM    208  CA  ALA A  29      -1.756 -15.464 -23.258  1.00  0.00      PROT C 
+ATOM    209  C   ALA A  29      -0.414 -16.194 -23.479  1.00  0.00      PROT C 
+ATOM    210  O   ALA A  29       0.453 -15.774 -24.225  1.00  0.00      PROT O 
+ATOM    211  CB  ALA A  29      -2.364 -15.174 -24.625  1.00  0.00      PROT C 
+ATOM    212  N   GLY A  30      -0.313 -17.435 -22.892  1.00  0.00      PROT N 
+ATOM    213  CA  GLY A  30       0.937 -18.179 -22.980  1.00  0.00      PROT C 
+ATOM    214  C   GLY A  30       1.896 -17.934 -21.812  1.00  0.00      PROT C 
+ATOM    215  O   GLY A  30       3.079 -18.235 -21.962  1.00  0.00      PROT O 
+ATOM    216  N   ARG A  31       1.400 -17.478 -20.636  1.00  0.00      PROT N 
+ATOM    217  CA  ARG A  31       2.261 -17.186 -19.491  1.00  0.00      PROT C 
+ATOM    218  C   ARG A  31       1.593 -17.801 -18.249  1.00  0.00      PROT C 
+ATOM    219  O   ARG A  31       0.444 -17.500 -17.957  1.00  0.00      PROT O 
+ATOM    220  CB  ARG A  31       2.284 -15.676 -19.193  1.00  0.00      PROT C 
+ATOM    221  CG  ARG A  31       2.898 -14.913 -20.358  1.00  0.00      PROT C 
+ATOM    222  CD  ARG A  31       3.164 -13.464 -19.935  1.00  0.00      PROT C 
+ATOM    223  NE  ARG A  31       4.436 -13.013 -20.516  1.00  0.00      PROT N 
+ATOM    224  CZ  ARG A  31       4.456 -12.359 -21.726  1.00  0.00      PROT C 
+ATOM    225  NH1 ARG A  31       3.417 -11.596 -22.160  1.00  0.00      PROT N 
+ATOM    226  NH2 ARG A  31       5.606 -12.458 -22.468  1.00  0.00      PROT N 
+ATOM    227  N   TRP A  32       2.385 -18.575 -17.452  1.00  0.00      PROT N 
+ATOM    228  CA  TRP A  32       1.978 -18.813 -16.070  1.00  0.00      PROT C 
+ATOM    229  C   TRP A  32       1.927 -17.440 -15.374  1.00  0.00      PROT C 
+ATOM    230  O   TRP A  32       2.676 -16.533 -15.710  1.00  0.00      PROT O 
+ATOM    231  CB  TRP A  32       2.999 -19.679 -15.310  1.00  0.00      PROT C 
+ATOM    232  CG  TRP A  32       3.044 -21.046 -15.854  1.00  0.00      PROT C 
+ATOM    233  CD1 TRP A  32       4.018 -21.566 -16.697  1.00  0.00      PROT C 
+ATOM    234  NE1 TRP A  32       3.724 -22.894 -16.995  1.00  0.00      PROT N 
+ATOM    235  CD2 TRP A  32       2.084 -22.083 -15.622  1.00  0.00      PROT C 
+ATOM    236  CE2 TRP A  32       2.524 -23.227 -16.369  1.00  0.00      PROT C 
+ATOM    237  CE3 TRP A  32       0.905 -22.162 -14.872  1.00  0.00      PROT C 
+ATOM    238  CZ2 TRP A  32       1.787 -24.419 -16.384  1.00  0.00      PROT C 
+ATOM    239  CZ3 TRP A  32       0.185 -23.339 -14.893  1.00  0.00      PROT C 
+ATOM    240  CH2 TRP A  32       0.620 -24.453 -15.645  1.00  0.00      PROT C 
+ATOM    241  N   ASN A  33       1.058 -17.316 -14.326  1.00  0.00      PROT N 
+ATOM    242  CA  ASN A  33       0.857 -15.988 -13.738  1.00  0.00      PROT C 
+ATOM    243  C   ASN A  33      -0.057 -16.165 -12.519  1.00  0.00      PROT C 
+ATOM    244  O   ASN A  33      -0.720 -17.175 -12.348  1.00  0.00      PROT O 
+ATOM    245  CB  ASN A  33       0.172 -15.057 -14.755  1.00  0.00      PROT C 
+ATOM    246  CG  ASN A  33       0.337 -13.609 -14.389  1.00  0.00      PROT C 
+ATOM    247  OD1 ASN A  33       0.870 -13.265 -13.336  1.00  0.00      PROT O 
+ATOM    248  ND2 ASN A  33      -0.221 -12.678 -15.220  1.00  0.00      PROT N 
+ATOM    249  N   GLY A  34      -0.073 -15.140 -11.602  1.00  0.00      PROT N 
+ATOM    250  CA  GLY A  34      -1.218 -15.105 -10.701  1.00  0.00      PROT C 
+ATOM    251  C   GLY A  34      -2.484 -14.760 -11.480  1.00  0.00      PROT C 
+ATOM    252  O   GLY A  34      -2.469 -14.617 -12.693  1.00  0.00      PROT O 
+ATOM    253  N   PHE A  35      -3.620 -14.629 -10.734  1.00  0.00      PROT N 
+ATOM    254  CA  PHE A  35      -4.941 -14.589 -11.368  1.00  0.00      PROT C 
+ATOM    255  C   PHE A  35      -5.350 -13.112 -11.411  1.00  0.00      PROT C 
+ATOM    256  O   PHE A  35      -5.413 -12.431 -10.381  1.00  0.00      PROT O 
+ATOM    257  CB  PHE A  35      -5.958 -15.404 -10.550  1.00  0.00      PROT C 
+ATOM    258  CG  PHE A  35      -5.445 -16.801 -10.390  1.00  0.00      PROT C 
+ATOM    259  CD1 PHE A  35      -5.428 -17.661 -11.491  1.00  0.00      PROT C 
+ATOM    260  CD2 PHE A  35      -4.930 -17.236  -9.168  1.00  0.00      PROT C 
+ATOM    261  CE1 PHE A  35      -4.907 -18.946 -11.372  1.00  0.00      PROT C 
+ATOM    262  CE2 PHE A  35      -4.394 -18.518  -9.055  1.00  0.00      PROT C 
+ATOM    263  CZ  PHE A  35      -4.381 -19.374 -10.154  1.00  0.00      PROT C 
+ATOM    264  N   GLY A  36      -5.589 -12.549 -12.613  1.00  0.00      PROT N 
+ATOM    265  CA  GLY A  36      -5.615 -11.092 -12.697  1.00  0.00      PROT C 
+ATOM    266  C   GLY A  36      -6.588 -10.650 -13.775  1.00  0.00      PROT C 
+ATOM    267  O   GLY A  36      -6.757 -11.323 -14.777  1.00  0.00      PROT O 
+ATOM    268  N   GLY A  37      -7.295  -9.492 -13.510  1.00  0.00      PROT N 
+ATOM    269  CA  GLY A  37      -7.907  -8.792 -14.645  1.00  0.00      PROT C 
+ATOM    270  C   GLY A  37      -7.982  -7.301 -14.369  1.00  0.00      PROT C 
+ATOM    271  O   GLY A  37      -7.404  -6.734 -13.442  1.00  0.00      PROT O 
+ATOM    272  N   LYS A  38      -8.750  -6.575 -15.232  1.00  0.00      PROT N 
+ATOM    273  CA  LYS A  38      -8.910  -5.141 -15.030  1.00  0.00      PROT C 
+ATOM    274  C   LYS A  38      -9.839  -4.933 -13.825  1.00  0.00      PROT C 
+ATOM    275  O   LYS A  38     -10.964  -5.411 -13.768  1.00  0.00      PROT O 
+ATOM    276  CB  LYS A  38      -9.585  -4.473 -16.245  1.00  0.00      PROT C 
+ATOM    277  CG  LYS A  38      -8.546  -4.142 -17.317  1.00  0.00      PROT C 
+ATOM    278  CD  LYS A  38      -9.147  -3.342 -18.481  1.00  0.00      PROT C 
+ATOM    279  CE  LYS A  38      -8.031  -2.636 -19.257  1.00  0.00      PROT C 
+ATOM    280  NZ  LYS A  38      -8.551  -1.470 -20.071  1.00  0.00      PROT N 
+ATOM    281  N   VAL A  39      -9.376  -4.202 -12.766  1.00  0.00      PROT N 
+ATOM    282  CA  VAL A  39     -10.311  -3.880 -11.674  1.00  0.00      PROT C 
+ATOM    283  C   VAL A  39     -11.619  -3.418 -12.341  1.00  0.00      PROT C 
+ATOM    284  O   VAL A  39     -11.620  -2.439 -13.098  1.00  0.00      PROT O 
+ATOM    285  CB  VAL A  39      -9.773  -2.741 -10.784  1.00  0.00      PROT C 
+ATOM    286  CG1 VAL A  39     -10.810  -2.398  -9.715  1.00  0.00      PROT C 
+ATOM    287  CG2 VAL A  39      -8.461  -3.169 -10.128  1.00  0.00      PROT C 
+ATOM    288  N   GLN A  40     -12.730  -4.132 -12.074  1.00  0.00      PROT N 
+ATOM    289  CA  GLN A  40     -13.956  -3.923 -12.838  1.00  0.00      PROT C 
+ATOM    290  C   GLN A  40     -14.735  -2.843 -12.077  1.00  0.00      PROT C 
+ATOM    291  O   GLN A  40     -15.060  -2.969 -10.905  1.00  0.00      PROT O 
+ATOM    292  CB  GLN A  40     -14.767  -5.229 -12.944  1.00  0.00      PROT C 
+ATOM    293  CG  GLN A  40     -14.328  -5.976 -14.204  1.00  0.00      PROT C 
+ATOM    294  CD  GLN A  40     -14.993  -7.324 -14.329  1.00  0.00      PROT C 
+ATOM    295  OE1 GLN A  40     -16.212  -7.473 -14.246  1.00  0.00      PROT O 
+ATOM    296  NE2 GLN A  40     -14.189  -8.375 -14.639  1.00  0.00      PROT N 
+ATOM    297  N   GLU A  41     -15.044  -1.704 -12.767  1.00  0.00      PROT N 
+ATOM    298  CA  GLU A  41     -15.649  -0.573 -12.051  1.00  0.00      PROT C 
+ATOM    299  C   GLU A  41     -16.738  -1.129 -11.114  1.00  0.00      PROT C 
+ATOM    300  O   GLU A  41     -17.554  -1.969 -11.476  1.00  0.00      PROT O 
+ATOM    301  CB  GLU A  41     -16.298   0.412 -13.033  1.00  0.00      PROT C 
+ATOM    302  CG  GLU A  41     -15.255   1.270 -13.746  1.00  0.00      PROT C 
+ATOM    303  CD  GLU A  41     -15.100   0.909 -15.211  1.00  0.00      PROT C 
+ATOM    304  OE1 GLU A  41     -16.102   0.860 -15.951  1.00  0.00      PROT O 
+ATOM    305  OE2 GLU A  41     -13.940   0.713 -15.655  1.00  0.00      PROT O 
+ATOM    306  N   GLY A  42     -16.768  -0.588  -9.861  1.00  0.00      PROT N 
+ATOM    307  CA  GLY A  42     -17.724  -1.049  -8.863  1.00  0.00      PROT C 
+ATOM    308  C   GLY A  42     -17.057  -1.866  -7.757  1.00  0.00      PROT C 
+ATOM    309  O   GLY A  42     -17.522  -1.841  -6.621  1.00  0.00      PROT O 
+ATOM    310  N   GLU A  43     -15.996  -2.653  -8.074  1.00  0.00      PROT N 
+ATOM    311  CA  GLU A  43     -15.295  -3.421  -7.047  1.00  0.00      PROT C 
+ATOM    312  C   GLU A  43     -14.035  -2.651  -6.616  1.00  0.00      PROT C 
+ATOM    313  O   GLU A  43     -13.521  -1.787  -7.305  1.00  0.00      PROT O 
+ATOM    314  CB  GLU A  43     -14.893  -4.802  -7.606  1.00  0.00      PROT C 
+ATOM    315  CG  GLU A  43     -13.724  -4.740  -8.583  1.00  0.00      PROT C 
+ATOM    316  CD  GLU A  43     -13.571  -6.045  -9.328  1.00  0.00      PROT C 
+ATOM    317  OE1 GLU A  43     -14.232  -7.043  -8.986  1.00  0.00      PROT O 
+ATOM    318  OE2 GLU A  43     -12.738  -6.091 -10.274  1.00  0.00      PROT O 
+ATOM    319  N   THR A  44     -13.526  -2.987  -5.389  1.00  0.00      PROT N 
+ATOM    320  CA  THR A  44     -12.225  -2.477  -4.980  1.00  0.00      PROT C 
+ATOM    321  C   THR A  44     -11.143  -3.253  -5.749  1.00  0.00      PROT C 
+ATOM    322  O   THR A  44     -11.365  -4.342  -6.254  1.00  0.00      PROT O 
+ATOM    323  CB  THR A  44     -11.987  -2.683  -3.455  1.00  0.00      PROT C 
+ATOM    324  OG1 THR A  44     -11.916  -4.081  -3.291  1.00  0.00      PROT O 
+ATOM    325  CG2 THR A  44     -13.099  -2.091  -2.606  1.00  0.00      PROT C 
+ATOM    326  N   ILE A  45      -9.916  -2.655  -5.902  1.00  0.00      PROT N 
+ATOM    327  CA  ILE A  45      -8.856  -3.393  -6.605  1.00  0.00      PROT C 
+ATOM    328  C   ILE A  45      -8.704  -4.794  -5.964  1.00  0.00      PROT C 
+ATOM    329  O   ILE A  45      -8.733  -5.824  -6.616  1.00  0.00      PROT O 
+ATOM    330  CB  ILE A  45      -7.506  -2.639  -6.504  1.00  0.00      PROT C 
+ATOM    331  CG1 ILE A  45      -7.602  -1.228  -7.109  1.00  0.00      PROT C 
+ATOM    332  CG2 ILE A  45      -6.404  -3.444  -7.193  1.00  0.00      PROT C 
+ATOM    333  CD1 ILE A  45      -6.374  -0.395  -6.745  1.00  0.00      PROT C 
+ATOM    334  N   GLU A  46      -8.527  -4.780  -4.613  1.00  0.00      PROT N 
+ATOM    335  CA  GLU A  46      -8.469  -5.970  -3.758  1.00  0.00      PROT C 
+ATOM    336  C   GLU A  46      -9.564  -6.992  -4.089  1.00  0.00      PROT C 
+ATOM    337  O   GLU A  46      -9.327  -8.193  -4.109  1.00  0.00      PROT O 
+ATOM    338  CB  GLU A  46      -8.688  -5.462  -2.322  1.00  0.00      PROT C 
+ATOM    339  CG  GLU A  46      -8.228  -6.432  -1.246  1.00  0.00      PROT C 
+ATOM    340  CD  GLU A  46      -8.706  -5.857   0.080  1.00  0.00      PROT C 
+ATOM    341  OE1 GLU A  46      -8.646  -4.631   0.266  1.00  0.00      PROT O 
+ATOM    342  OE2 GLU A  46      -9.222  -6.641   0.923  1.00  0.00      PROT O 
+ATOM    343  N   ASP A  47     -10.825  -6.514  -4.284  1.00  0.00      PROT N 
+ATOM    344  CA  ASP A  47     -11.926  -7.433  -4.547  1.00  0.00      PROT C 
+ATOM    345  C   ASP A  47     -11.908  -7.885  -6.017  1.00  0.00      PROT C 
+ATOM    346  O   ASP A  47     -12.289  -9.034  -6.259  1.00  0.00      PROT O 
+ATOM    347  CB  ASP A  47     -13.261  -6.786  -4.210  1.00  0.00      PROT C 
+ATOM    348  CG  ASP A  47     -13.509  -6.799  -2.704  1.00  0.00      PROT C 
+ATOM    349  OD1 ASP A  47     -12.648  -7.305  -1.952  1.00  0.00      PROT O 
+ATOM    350  OD2 ASP A  47     -14.595  -6.332  -2.305  1.00  0.00      PROT O 
+ATOM    351  N   GLY A  48     -11.424  -7.079  -6.989  1.00  0.00      PROT N 
+ATOM    352  CA  GLY A  48     -11.161  -7.647  -8.308  1.00  0.00      PROT C 
+ATOM    353  C   GLY A  48     -10.157  -8.778  -8.174  1.00  0.00      PROT C 
+ATOM    354  O   GLY A  48     -10.342  -9.868  -8.688  1.00  0.00      PROT O 
+ATOM    355  N   ALA A  49      -9.042  -8.572  -7.399  1.00  0.00      PROT N 
+ATOM    356  CA  ALA A  49      -8.150  -9.702  -7.129  1.00  0.00      PROT C 
+ATOM    357  C   ALA A  49      -8.982 -10.903  -6.636  1.00  0.00      PROT C 
+ATOM    358  O   ALA A  49      -8.983 -11.962  -7.247  1.00  0.00      PROT O 
+ATOM    359  CB  ALA A  49      -7.090  -9.295  -6.117  1.00  0.00      PROT C 
+ATOM    360  N   ARG A  50      -9.736 -10.773  -5.504  1.00  0.00      PROT N 
+ATOM    361  CA  ARG A  50     -10.608 -11.881  -5.092  1.00  0.00      PROT C 
+ATOM    362  C   ARG A  50     -11.394 -12.488  -6.272  1.00  0.00      PROT C 
+ATOM    363  O   ARG A  50     -11.570 -13.704  -6.344  1.00  0.00      PROT O 
+ATOM    364  CB  ARG A  50     -11.663 -11.403  -4.082  1.00  0.00      PROT C 
+ATOM    365  CG  ARG A  50     -11.026 -10.993  -2.760  1.00  0.00      PROT C 
+ATOM    366  CD  ARG A  50     -12.123 -10.630  -1.746  1.00  0.00      PROT C 
+ATOM    367  NE  ARG A  50     -11.626 -10.799  -0.368  1.00  0.00      PROT N 
+ATOM    368  CZ  ARG A  50     -10.676  -9.911   0.108  1.00  0.00      PROT C 
+ATOM    369  NH1 ARG A  50     -10.652  -8.619  -0.283  1.00  0.00      PROT N 
+ATOM    370  NH2 ARG A  50      -9.746 -10.349   1.015  1.00  0.00      PROT N 
+ATOM    371  N   ARG A  51     -11.983 -11.621  -7.128  1.00  0.00      PROT N 
+ATOM    372  CA  ARG A  51     -12.853 -12.060  -8.218  1.00  0.00      PROT C 
+ATOM    373  C   ARG A  51     -12.053 -12.816  -9.295  1.00  0.00      PROT C 
+ATOM    374  O   ARG A  51     -12.591 -13.764  -9.858  1.00  0.00      PROT O 
+ATOM    375  CB  ARG A  51     -13.514 -10.818  -8.841  1.00  0.00      PROT C 
+ATOM    376  CG  ARG A  51     -14.527 -11.219  -9.908  1.00  0.00      PROT C 
+ATOM    377  CD  ARG A  51     -15.173 -10.001 -10.599  1.00  0.00      PROT C 
+ATOM    378  NE  ARG A  51     -14.229  -8.930 -10.952  1.00  0.00      PROT N 
+ATOM    379  CZ  ARG A  51     -13.086  -9.241 -11.670  1.00  0.00      PROT C 
+ATOM    380  NH1 ARG A  51     -13.057 -10.289 -12.538  1.00  0.00      PROT N 
+ATOM    381  NH2 ARG A  51     -11.988  -8.462 -11.496  1.00  0.00      PROT N 
+ATOM    382  N   GLU A  52     -10.797 -12.409  -9.590  1.00  0.00      PROT N 
+ATOM    383  CA  GLU A  52      -9.964 -13.067 -10.598  1.00  0.00      PROT C 
+ATOM    384  C   GLU A  52      -9.438 -14.386 -10.029  1.00  0.00      PROT C 
+ATOM    385  O   GLU A  52      -9.445 -15.434 -10.665  1.00  0.00      PROT O 
+ATOM    386  CB  GLU A  52      -8.779 -12.165 -10.977  1.00  0.00      PROT C 
+ATOM    387  CG  GLU A  52      -9.288 -10.828 -11.499  1.00  0.00      PROT C 
+ATOM    388  CD  GLU A  52      -9.997 -10.985 -12.828  1.00  0.00      PROT C 
+ATOM    389  OE1 GLU A  52     -10.157 -12.101 -13.328  1.00  0.00      PROT O 
+ATOM    390  OE2 GLU A  52     -10.441  -9.913 -13.345  1.00  0.00      PROT O 
+ATOM    391  N   LEU A  53      -8.987 -14.420  -8.735  1.00  0.00      PROT N 
+ATOM    392  CA  LEU A  53      -8.835 -15.744  -8.127  1.00  0.00      PROT C 
+ATOM    393  C   LEU A  53     -10.101 -16.572  -8.432  1.00  0.00      PROT C 
+ATOM    394  O   LEU A  53     -10.020 -17.699  -8.925  1.00  0.00      PROT O 
+ATOM    395  CB  LEU A  53      -8.649 -15.616  -6.614  1.00  0.00      PROT C 
+ATOM    396  CG  LEU A  53      -8.504 -16.991  -5.942  1.00  0.00      PROT C 
+ATOM    397  CD1 LEU A  53      -7.135 -17.615  -6.221  1.00  0.00      PROT C 
+ATOM    398  CD2 LEU A  53      -8.717 -16.823  -4.437  1.00  0.00      PROT C 
+ATOM    399  N   GLN A  54     -11.327 -16.032  -8.209  1.00  0.00      PROT N 
+ATOM    400  CA  GLN A  54     -12.513 -16.889  -8.324  1.00  0.00      PROT C 
+ATOM    401  C   GLN A  54     -12.911 -17.109  -9.798  1.00  0.00      PROT C 
+ATOM    402  O   GLN A  54     -13.492 -18.152 -10.096  1.00  0.00      PROT O 
+ATOM    403  CB  GLN A  54     -13.629 -16.288  -7.453  1.00  0.00      PROT C 
+ATOM    404  CG  GLN A  54     -15.016 -16.815  -7.789  1.00  0.00      PROT C 
+ATOM    405  CD  GLN A  54     -15.877 -15.900  -8.620  1.00  0.00      PROT C 
+ATOM    406  OE1 GLN A  54     -17.095 -16.098  -8.685  1.00  0.00      PROT O 
+ATOM    407  NE2 GLN A  54     -15.346 -14.842  -9.287  1.00  0.00      PROT N 
+ATOM    408  N   GLU A  55     -12.609 -16.188 -10.747  1.00  0.00      PROT N 
+ATOM    409  CA  GLU A  55     -12.977 -16.380 -12.151  1.00  0.00      PROT C 
+ATOM    410  C   GLU A  55     -11.899 -17.199 -12.890  1.00  0.00      PROT C 
+ATOM    411  O   GLU A  55     -12.201 -18.087 -13.681  1.00  0.00      PROT O 
+ATOM    412  CB  GLU A  55     -13.108 -15.036 -12.891  1.00  0.00      PROT C 
+ATOM    413  CG  GLU A  55     -14.398 -14.329 -12.497  1.00  0.00      PROT C 
+ATOM    414  CD  GLU A  55     -14.654 -13.125 -13.390  1.00  0.00      PROT C 
+ATOM    415  OE1 GLU A  55     -14.366 -13.178 -14.592  1.00  0.00      PROT O 
+ATOM    416  OE2 GLU A  55     -15.233 -12.140 -12.852  1.00  0.00      PROT O 
+ATOM    417  N   GLU A  56     -10.609 -16.867 -12.627  1.00  0.00      PROT N 
+ATOM    418  CA  GLU A  56      -9.488 -17.479 -13.320  1.00  0.00      PROT C 
+ATOM    419  C   GLU A  56      -9.027 -18.760 -12.598  1.00  0.00      PROT C 
+ATOM    420  O   GLU A  56      -8.757 -19.758 -13.269  1.00  0.00      PROT O 
+ATOM    421  CB  GLU A  56      -8.295 -16.519 -13.369  1.00  0.00      PROT C 
+ATOM    422  CG  GLU A  56      -8.487 -15.411 -14.396  1.00  0.00      PROT C 
+ATOM    423  CD  GLU A  56      -7.105 -14.961 -14.866  1.00  0.00      PROT C 
+ATOM    424  OE1 GLU A  56      -6.233 -14.782 -13.995  1.00  0.00      PROT O 
+ATOM    425  OE2 GLU A  56      -6.909 -14.874 -16.098  1.00  0.00      PROT O 
+ATOM    426  N   SER A  57      -8.899 -18.784 -11.243  1.00  0.00      PROT N 
+ATOM    427  CA  SER A  57      -8.570 -20.028 -10.554  1.00  0.00      PROT C 
+ATOM    428  C   SER A  57      -9.804 -20.722  -9.966  1.00  0.00      PROT C 
+ATOM    429  O   SER A  57      -9.723 -21.887  -9.593  1.00  0.00      PROT O 
+ATOM    430  CB  SER A  57      -7.582 -19.801  -9.388  1.00  0.00      PROT C 
+ATOM    431  OG  SER A  57      -8.278 -19.563  -8.193  1.00  0.00      PROT O 
+ATOM    432  N   GLY A  58     -10.997 -20.054  -9.911  1.00  0.00      PROT N 
+ATOM    433  CA  GLY A  58     -12.168 -20.684  -9.313  1.00  0.00      PROT C 
+ATOM    434  C   GLY A  58     -12.185 -20.699  -7.782  1.00  0.00      PROT C 
+ATOM    435  O   GLY A  58     -13.261 -20.870  -7.212  1.00  0.00      PROT O 
+ATOM    436  N   LEU A  59     -11.030 -20.488  -7.099  1.00  0.00      PROT N 
+ATOM    437  CA  LEU A  59     -10.989 -20.448  -5.640  1.00  0.00      PROT C 
+ATOM    438  C   LEU A  59     -11.617 -19.136  -5.143  1.00  0.00      PROT C 
+ATOM    439  O   LEU A  59     -11.722 -18.145  -5.837  1.00  0.00      PROT O 
+ATOM    440  CB  LEU A  59      -9.525 -20.394  -5.169  1.00  0.00      PROT C 
+ATOM    441  CG  LEU A  59      -8.814 -21.745  -5.327  1.00  0.00      PROT C 
+ATOM    442  CD1 LEU A  59      -7.337 -21.492  -5.644  1.00  0.00      PROT C 
+ATOM    443  CD2 LEU A  59      -8.973 -22.570  -4.051  1.00  0.00      PROT C 
+ATOM    444  N   THR A  60     -11.993 -19.140  -3.820  1.00  0.00      PROT N 
+ATOM    445  CA  THR A  60     -12.269 -17.872  -3.161  1.00  0.00      PROT C 
+ATOM    446  C   THR A  60     -11.184 -17.655  -2.106  1.00  0.00      PROT C 
+ATOM    447  O   THR A  60     -10.292 -18.475  -1.918  1.00  0.00      PROT O 
+ATOM    448  CB  THR A  60     -13.707 -17.860  -2.571  1.00  0.00      PROT C 
+ATOM    449  OG1 THR A  60     -13.922 -19.067  -1.877  1.00  0.00      PROT O 
+ATOM    450  CG2 THR A  60     -14.743 -17.820  -3.688  1.00  0.00      PROT C 
+ATOM    451  N   VAL A  61     -11.195 -16.513  -1.346  1.00  0.00      PROT N 
+ATOM    452  CA  VAL A  61     -10.060 -16.288  -0.443  1.00  0.00      PROT C 
+ATOM    453  C   VAL A  61     -10.487 -15.379   0.704  1.00  0.00      PROT C 
+ATOM    454  O   VAL A  61     -11.206 -14.391   0.584  1.00  0.00      PROT O 
+ATOM    455  CB  VAL A  61      -8.840 -15.676  -1.183  1.00  0.00      PROT C 
+ATOM    456  CG1 VAL A  61      -9.188 -14.381  -1.909  1.00  0.00      PROT C 
+ATOM    457  CG2 VAL A  61      -7.686 -15.435  -0.221  1.00  0.00      PROT C 
+ATOM    458  N   ASP A  62      -9.983 -15.701   1.936  1.00  0.00      PROT N 
+ATOM    459  CA  ASP A  62     -10.254 -14.810   3.066  1.00  0.00      PROT C 
+ATOM    460  C   ASP A  62      -9.450 -13.505   2.905  1.00  0.00      PROT C 
+ATOM    461  O   ASP A  62     -10.045 -12.432   2.868  1.00  0.00      PROT O 
+ATOM    462  CB  ASP A  62      -9.918 -15.484   4.390  1.00  0.00      PROT C 
+ATOM    463  CG  ASP A  62     -10.688 -14.841   5.545  1.00  0.00      PROT C 
+ATOM    464  OD1 ASP A  62     -11.794 -14.327   5.312  1.00  0.00      PROT O 
+ATOM    465  OD2 ASP A  62     -10.165 -14.894   6.674  1.00  0.00      PROT O 
+ATOM    466  N   ALA A  63      -8.094 -13.569   2.828  1.00  0.00      PROT N 
+ATOM    467  CA  ALA A  63      -7.287 -12.347   2.870  1.00  0.00      PROT C 
+ATOM    468  C   ALA A  63      -6.370 -12.332   1.631  1.00  0.00      PROT C 
+ATOM    469  O   ALA A  63      -5.483 -13.135   1.432  1.00  0.00      PROT O 
+ATOM    470  CB  ALA A  63      -6.388 -12.345   4.104  1.00  0.00      PROT C 
+ATOM    471  N   LEU A  64      -6.566 -11.286   0.756  1.00  0.00      PROT N 
+ATOM    472  CA  LEU A  64      -5.598 -11.015  -0.302  1.00  0.00      PROT C 
+ATOM    473  C   LEU A  64      -4.882  -9.711   0.094  1.00  0.00      PROT C 
+ATOM    474  O   LEU A  64      -5.523  -8.728   0.456  1.00  0.00      PROT O 
+ATOM    475  CB  LEU A  64      -6.287 -10.800  -1.658  1.00  0.00      PROT C 
+ATOM    476  CG  LEU A  64      -6.382 -12.124  -2.434  1.00  0.00      PROT C 
+ATOM    477  CD1 LEU A  64      -7.380 -11.966  -3.582  1.00  0.00      PROT C 
+ATOM    478  CD2 LEU A  64      -5.022 -12.551  -2.990  1.00  0.00      PROT C 
+ATOM    479  N   HIS A  65      -3.525  -9.692   0.031  1.00  0.00      PROT N 
+ATOM    480  CA  HIS A  65      -2.776  -8.594   0.634  1.00  0.00      PROT C 
+ATOM    481  C   HIS A  65      -2.042  -7.820  -0.470  1.00  0.00      PROT C 
+ATOM    482  O   HIS A  65      -1.398  -8.406  -1.336  1.00  0.00      PROT O 
+ATOM    483  CB  HIS A  65      -1.703  -9.137   1.603  1.00  0.00      PROT C 
+ATOM    484  CG  HIS A  65      -2.370  -9.657   2.808  1.00  0.00      PROT C 
+ATOM    485  ND1 HIS A  65      -2.531 -11.021   3.068  1.00  0.00      PROT N 
+ATOM    486  CD2 HIS A  65      -2.997  -8.959   3.837  1.00  0.00      PROT C 
+ATOM    487  NE2 HIS A  65      -3.529  -9.909   4.706  1.00  0.00      PROT N 
+ATOM    488  CE1 HIS A  65      -3.228 -11.159   4.228  1.00  0.00      PROT C 
+ATOM    489  N   LYS A  66      -2.158  -6.474  -0.407  1.00  0.00      PROT N 
+ATOM    490  CA  LYS A  66      -1.479  -5.592  -1.348  1.00  0.00      PROT C 
+ATOM    491  C   LYS A  66       0.041  -5.776  -1.202  1.00  0.00      PROT C 
+ATOM    492  O   LYS A  66       0.723  -5.087  -0.453  1.00  0.00      PROT O 
+ATOM    493  CB  LYS A  66      -1.797  -4.123  -1.026  1.00  0.00      PROT C 
+ATOM    494  CG  LYS A  66      -3.057  -3.649  -1.745  1.00  0.00      PROT C 
+ATOM    495  CD  LYS A  66      -3.394  -2.204  -1.361  1.00  0.00      PROT C 
+ATOM    496  CE  LYS A  66      -4.261  -2.118  -0.102  1.00  0.00      PROT C 
+ATOM    497  NZ  LYS A  66      -3.470  -1.646   1.098  1.00  0.00      PROT N 
+ATOM    498  N   VAL A  67       0.623  -6.707  -2.012  1.00  0.00      PROT N 
+ATOM    499  CA  VAL A  67       2.068  -6.856  -1.996  1.00  0.00      PROT C 
+ATOM    500  C   VAL A  67       2.689  -6.017  -3.120  1.00  0.00      PROT C 
+ATOM    501  O   VAL A  67       3.830  -5.602  -2.950  1.00  0.00      PROT O 
+ATOM    502  CB  VAL A  67       2.573  -8.314  -2.098  1.00  0.00      PROT C 
+ATOM    503  CG1 VAL A  67       2.294  -9.034  -0.779  1.00  0.00      PROT C 
+ATOM    504  CG2 VAL A  67       1.952  -9.062  -3.274  1.00  0.00      PROT C 
+ATOM    505  N   GLY A  68       1.983  -5.666  -4.235  1.00  0.00      PROT N 
+ATOM    506  CA  GLY A  68       2.695  -4.841  -5.204  1.00  0.00      PROT C 
+ATOM    507  C   GLY A  68       1.784  -4.024  -6.093  1.00  0.00      PROT C 
+ATOM    508  O   GLY A  68       0.634  -4.335  -6.396  1.00  0.00      PROT O 
+ATOM    509  N   GLN A  69       2.365  -2.915  -6.623  1.00  0.00      PROT N 
+ATOM    510  CA  GLN A  69       1.766  -2.189  -7.748  1.00  0.00      PROT C 
+ATOM    511  C   GLN A  69       2.830  -2.266  -8.862  1.00  0.00      PROT C 
+ATOM    512  O   GLN A  69       4.001  -2.053  -8.561  1.00  0.00      PROT O 
+ATOM    513  CB  GLN A  69       1.575  -0.717  -7.360  1.00  0.00      PROT C 
+ATOM    514  CG  GLN A  69       1.144   0.146  -8.541  1.00  0.00      PROT C 
+ATOM    515  CD  GLN A  69       1.142   1.595  -8.115  1.00  0.00      PROT C 
+ATOM    516  OE1 GLN A  69       1.417   1.954  -6.975  1.00  0.00      PROT O 
+ATOM    517  NE2 GLN A  69       0.792   2.531  -9.044  1.00  0.00      PROT N 
+ATOM    518  N   ILE A  70       2.446  -2.639 -10.105  1.00  0.00      PROT N 
+ATOM    519  CA  ILE A  70       3.412  -2.673 -11.206  1.00  0.00      PROT C 
+ATOM    520  C   ILE A  70       2.765  -1.810 -12.302  1.00  0.00      PROT C 
+ATOM    521  O   ILE A  70       1.640  -2.049 -12.701  1.00  0.00      PROT O 
+ATOM    522  CB  ILE A  70       3.624  -4.105 -11.774  1.00  0.00      PROT C 
+ATOM    523  CG1 ILE A  70       3.802  -5.156 -10.665  1.00  0.00      PROT C 
+ATOM    524  CG2 ILE A  70       4.857  -4.069 -12.681  1.00  0.00      PROT C 
+ATOM    525  CD1 ILE A  70       3.525  -6.560 -11.199  1.00  0.00      PROT C 
+ATOM    526  N   VAL A  71       3.493  -0.770 -12.816  1.00  0.00      PROT N 
+ATOM    527  CA  VAL A  71       2.840   0.153 -13.746  1.00  0.00      PROT C 
+ATOM    528  C   VAL A  71       3.500  -0.158 -15.095  1.00  0.00      PROT C 
+ATOM    529  O   VAL A  71       4.658   0.153 -15.343  1.00  0.00      PROT O 
+ATOM    530  CB  VAL A  71       3.078   1.634 -13.373  1.00  0.00      PROT C 
+ATOM    531  CG1 VAL A  71       2.381   2.521 -14.408  1.00  0.00      PROT C 
+ATOM    532  CG2 VAL A  71       2.531   1.909 -11.974  1.00  0.00      PROT C 
+ATOM    533  N   PHE A  72       2.726  -0.795 -16.019  1.00  0.00      PROT N 
+ATOM    534  CA  PHE A  72       3.318  -1.209 -17.284  1.00  0.00      PROT C 
+ATOM    535  C   PHE A  72       3.050  -0.109 -18.313  1.00  0.00      PROT C 
+ATOM    536  O   PHE A  72       1.951   0.418 -18.435  1.00  0.00      PROT O 
+ATOM    537  CB  PHE A  72       2.674  -2.495 -17.829  1.00  0.00      PROT C 
+ATOM    538  CG  PHE A  72       2.972  -3.614 -16.887  1.00  0.00      PROT C 
+ATOM    539  CD1 PHE A  72       4.191  -4.283 -17.005  1.00  0.00      PROT C 
+ATOM    540  CD2 PHE A  72       2.075  -3.960 -15.879  1.00  0.00      PROT C 
+ATOM    541  CE1 PHE A  72       4.505  -5.304 -16.115  1.00  0.00      PROT C 
+ATOM    542  CE2 PHE A  72       2.398  -4.982 -14.990  1.00  0.00      PROT C 
+ATOM    543  CZ  PHE A  72       3.607  -5.657 -15.109  1.00  0.00      PROT C 
+ATOM    544  N   GLU A  73       4.081   0.224 -19.137  1.00  0.00      PROT N 
+ATOM    545  CA  GLU A  73       3.831   1.061 -20.310  1.00  0.00      PROT C 
+ATOM    546  C   GLU A  73       4.053   0.130 -21.508  1.00  0.00      PROT C 
+ATOM    547  O   GLU A  73       5.148  -0.395 -21.664  1.00  0.00      PROT O 
+ATOM    548  CB  GLU A  73       4.847   2.206 -20.378  1.00  0.00      PROT C 
+ATOM    549  CG  GLU A  73       4.655   3.016 -21.651  1.00  0.00      PROT C 
+ATOM    550  CD  GLU A  73       5.547   4.243 -21.659  1.00  0.00      PROT C 
+ATOM    551  OE1 GLU A  73       6.063   4.644 -20.590  1.00  0.00      PROT O 
+ATOM    552  OE2 GLU A  73       5.681   4.849 -22.743  1.00  0.00      PROT O 
+ATOM    553  N   PHE A  74       3.002  -0.166 -22.321  1.00  0.00      PROT N 
+ATOM    554  CA  PHE A  74       3.276  -1.010 -23.489  1.00  0.00      PROT C 
+ATOM    555  C   PHE A  74       3.499  -0.047 -24.655  1.00  0.00      PROT C 
+ATOM    556  O   PHE A  74       2.652   0.772 -24.969  1.00  0.00      PROT O 
+ATOM    557  CB  PHE A  74       2.097  -1.954 -23.781  1.00  0.00      PROT C 
+ATOM    558  CG  PHE A  74       2.318  -3.191 -22.971  1.00  0.00      PROT C 
+ATOM    559  CD1 PHE A  74       2.919  -4.308 -23.546  1.00  0.00      PROT C 
+ATOM    560  CD2 PHE A  74       1.997  -3.180 -21.611  1.00  0.00      PROT C 
+ATOM    561  CE1 PHE A  74       3.247  -5.402 -22.747  1.00  0.00      PROT C 
+ATOM    562  CE2 PHE A  74       2.332  -4.273 -20.820  1.00  0.00      PROT C 
+ATOM    563  CZ  PHE A  74       2.980  -5.372 -21.381  1.00  0.00      PROT C 
+ATOM    564  N   VAL A  75       4.709  -0.071 -25.282  1.00  0.00      PROT N 
+ATOM    565  CA  VAL A  75       5.013   0.924 -26.312  1.00  0.00      PROT C 
+ATOM    566  C   VAL A  75       3.736   1.195 -27.134  1.00  0.00      PROT C 
+ATOM    567  O   VAL A  75       3.259   0.344 -27.877  1.00  0.00      PROT O 
+ATOM    568  CB  VAL A  75       6.129   0.418 -27.260  1.00  0.00      PROT C 
+ATOM    569  CG1 VAL A  75       6.252   1.349 -28.466  1.00  0.00      PROT C 
+ATOM    570  CG2 VAL A  75       7.460   0.352 -26.511  1.00  0.00      PROT C 
+ATOM    571  N   GLY A  76       3.225   2.458 -27.039  1.00  0.00      PROT N 
+ATOM    572  CA  GLY A  76       2.078   2.869 -27.829  1.00  0.00      PROT C 
+ATOM    573  C   GLY A  76       0.705   2.672 -27.192  1.00  0.00      PROT C 
+ATOM    574  O   GLY A  76      -0.293   2.958 -27.865  1.00  0.00      PROT O 
+ATOM    575  N   GLU A  77       0.562   2.217 -25.924  1.00  0.00      PROT N 
+ATOM    576  CA  GLU A  77      -0.771   1.970 -25.373  1.00  0.00      PROT C 
+ATOM    577  C   GLU A  77      -1.088   3.158 -24.446  1.00  0.00      PROT C 
+ATOM    578  O   GLU A  77      -0.297   3.540 -23.591  1.00  0.00      PROT O 
+ATOM    579  CB  GLU A  77      -0.823   0.669 -24.549  1.00  0.00      PROT C 
+ATOM    580  CG  GLU A  77      -0.653  -0.542 -25.457  1.00  0.00      PROT C 
+ATOM    581  CD  GLU A  77      -1.285  -1.823 -24.904  1.00  0.00      PROT C 
+ATOM    582  OE1 GLU A  77      -1.776  -1.853 -23.766  1.00  0.00      PROT O 
+ATOM    583  OE2 GLU A  77      -1.321  -2.784 -25.700  1.00  0.00      PROT O 
+ATOM    584  N   PRO A  78      -2.284   3.797 -24.589  1.00  0.00      PROT N 
+ATOM    585  CA  PRO A  78      -2.609   5.008 -23.827  1.00  0.00      PROT C 
+ATOM    586  C   PRO A  78      -2.875   4.707 -22.349  1.00  0.00      PROT C 
+ATOM    587  O   PRO A  78      -2.659   5.557 -21.495  1.00  0.00      PROT O 
+ATOM    588  CD  PRO A  78      -3.361   3.433 -25.534  1.00  0.00      PROT C 
+ATOM    589  CB  PRO A  78      -3.886   5.579 -24.472  1.00  0.00      PROT C 
+ATOM    590  CG  PRO A  78      -4.516   4.407 -25.241  1.00  0.00      PROT C 
+ATOM    591  N   GLU A  79      -3.400   3.497 -21.985  1.00  0.00      PROT N 
+ATOM    592  CA  GLU A  79      -3.403   3.134 -20.569  1.00  0.00      PROT C 
+ATOM    593  C   GLU A  79      -2.021   2.527 -20.243  1.00  0.00      PROT C 
+ATOM    594  O   GLU A  79      -1.556   1.578 -20.876  1.00  0.00      PROT O 
+ATOM    595  CB  GLU A  79      -4.470   2.068 -20.254  1.00  0.00      PROT C 
+ATOM    596  CG  GLU A  79      -5.877   2.652 -20.180  1.00  0.00      PROT C 
+ATOM    597  CD  GLU A  79      -6.945   1.592 -19.975  1.00  0.00      PROT C 
+ATOM    598  OE1 GLU A  79      -6.659   0.381 -20.192  1.00  0.00      PROT O 
+ATOM    599  OE2 GLU A  79      -8.082   1.951 -19.623  1.00  0.00      PROT O 
+ATOM    600  N   LEU A  80      -1.326   3.049 -19.199  1.00  0.00      PROT N 
+ATOM    601  CA  LEU A  80      -0.291   2.228 -18.560  1.00  0.00      PROT C 
+ATOM    602  C   LEU A  80      -1.083   1.162 -17.775  1.00  0.00      PROT C 
+ATOM    603  O   LEU A  80      -2.232   1.402 -17.417  1.00  0.00      PROT O 
+ATOM    604  CB  LEU A  80       0.559   3.022 -17.560  1.00  0.00      PROT C 
+ATOM    605  CG  LEU A  80       1.100   4.347 -18.129  1.00  0.00      PROT C 
+ATOM    606  CD1 LEU A  80       1.893   5.070 -17.033  1.00  0.00      PROT C 
+ATOM    607  CD2 LEU A  80       1.986   4.105 -19.351  1.00  0.00      PROT C 
+ATOM    608  N   MET A  81      -0.510  -0.041 -17.526  1.00  0.00      PROT N 
+ATOM    609  CA  MET A  81      -1.286  -1.071 -16.842  1.00  0.00      PROT C 
+ATOM    610  C   MET A  81      -0.860  -1.043 -15.365  1.00  0.00      PROT C 
+ATOM    611  O   MET A  81       0.177  -1.549 -14.962  1.00  0.00      PROT O 
+ATOM    612  CB  MET A  81      -1.040  -2.459 -17.456  1.00  0.00      PROT C 
+ATOM    613  CG  MET A  81      -1.384  -2.427 -18.941  1.00  0.00      PROT C 
+ATOM    614  SD  MET A  81      -1.116  -4.041 -19.749  1.00  0.00      PROT S 
+ATOM    615  CE  MET A  81      -2.574  -4.999 -19.260  1.00  0.00      PROT C 
+ATOM    616  N   ASP A  82      -1.713  -0.407 -14.517  1.00  0.00      PROT N 
+ATOM    617  CA  ASP A  82      -1.433  -0.276 -13.085  1.00  0.00      PROT C 
+ATOM    618  C   ASP A  82      -1.903  -1.575 -12.393  1.00  0.00      PROT C 
+ATOM    619  O   ASP A  82      -2.938  -1.630 -11.731  1.00  0.00      PROT O 
+ATOM    620  CB  ASP A  82      -2.205   0.920 -12.536  1.00  0.00      PROT C 
+ATOM    621  CG  ASP A  82      -1.704   1.295 -11.152  1.00  0.00      PROT C 
+ATOM    622  OD1 ASP A  82      -0.548   1.003 -10.833  1.00  0.00      PROT O 
+ATOM    623  OD2 ASP A  82      -2.543   1.878 -10.412  1.00  0.00      PROT O 
+ATOM    624  N   VAL A  83      -1.110  -2.658 -12.591  1.00  0.00      PROT N 
+ATOM    625  CA  VAL A  83      -1.414  -3.965 -12.023  1.00  0.00      PROT C 
+ATOM    626  C   VAL A  83      -1.118  -3.942 -10.517  1.00  0.00      PROT C 
+ATOM    627  O   VAL A  83      -0.235  -3.290  -9.992  1.00  0.00      PROT O 
+ATOM    628  CB  VAL A  83      -0.560  -5.061 -12.724  1.00  0.00      PROT C 
+ATOM    629  CG1 VAL A  83      -0.833  -6.439 -12.120  1.00  0.00      PROT C 
+ATOM    630  CG2 VAL A  83      -0.865  -5.071 -14.223  1.00  0.00      PROT C 
+ATOM    631  N   HIS A  84      -1.936  -4.733  -9.747  1.00  0.00      PROT N 
+ATOM    632  CA  HIS A  84      -1.836  -4.703  -8.291  1.00  0.00      PROT C 
+ATOM    633  C   HIS A  84      -1.795  -6.178  -7.877  1.00  0.00      PROT C 
+ATOM    634  O   HIS A  84      -2.757  -6.907  -8.069  1.00  0.00      PROT O 
+ATOM    635  CB  HIS A  84      -3.075  -4.045  -7.656  1.00  0.00      PROT C 
+ATOM    636  CG  HIS A  84      -3.055  -2.610  -7.976  1.00  0.00      PROT C 
+ATOM    637  ND1 HIS A  84      -3.595  -2.104  -9.168  1.00  0.00      PROT N 
+ATOM    638  CD2 HIS A  84      -2.480  -1.538  -7.301  1.00  0.00      PROT C 
+ATOM    639  NE2 HIS A  84      -2.668  -0.405  -8.088  1.00  0.00      PROT N 
+ATOM    640  CE1 HIS A  84      -3.320  -0.763  -9.232  1.00  0.00      PROT C 
+ATOM    641  N   VAL A  85      -0.603  -6.613  -7.390  1.00  0.00      PROT N 
+ATOM    642  CA  VAL A  85      -0.416  -8.001  -7.003  1.00  0.00      PROT C 
+ATOM    643  C   VAL A  85      -0.864  -8.129  -5.538  1.00  0.00      PROT C 
+ATOM    644  O   VAL A  85      -0.564  -7.314  -4.666  1.00  0.00      PROT O 
+ATOM    645  CB  VAL A  85       1.070  -8.419  -7.137  1.00  0.00      PROT C 
+ATOM    646  CG1 VAL A  85       1.208  -9.884  -6.726  1.00  0.00      PROT C 
+ATOM    647  CG2 VAL A  85       1.543  -8.227  -8.578  1.00  0.00      PROT C 
+ATOM    648  N   PHE A  86      -1.625  -9.214  -5.271  1.00  0.00      PROT N 
+ATOM    649  CA  PHE A  86      -2.161  -9.480  -3.945  1.00  0.00      PROT C 
+ATOM    650  C   PHE A  86      -1.629 -10.874  -3.585  1.00  0.00      PROT C 
+ATOM    651  O   PHE A  86      -1.727 -11.794  -4.381  1.00  0.00      PROT O 
+ATOM    652  CB  PHE A  86      -3.700  -9.541  -3.973  1.00  0.00      PROT C 
+ATOM    653  CG  PHE A  86      -4.248  -8.165  -4.170  1.00  0.00      PROT C 
+ATOM    654  CD1 PHE A  86      -4.349  -7.645  -5.461  1.00  0.00      PROT C 
+ATOM    655  CD2 PHE A  86      -4.622  -7.391  -3.071  1.00  0.00      PROT C 
+ATOM    656  CE1 PHE A  86      -4.816  -6.348  -5.651  1.00  0.00      PROT C 
+ATOM    657  CE2 PHE A  86      -5.085  -6.094  -3.267  1.00  0.00      PROT C 
+ATOM    658  CZ  PHE A  86      -5.176  -5.567  -4.554  1.00  0.00      PROT C 
+ATOM    659  N   CYS A  87      -0.988 -10.999  -2.390  1.00  0.00      PROT N 
+ATOM    660  CA  CYS A  87      -0.548 -12.323  -1.948  1.00  0.00      PROT C 
+ATOM    661  C   CYS A  87      -1.686 -12.934  -1.115  1.00  0.00      PROT C 
+ATOM    662  O   CYS A  87      -2.501 -12.226  -0.536  1.00  0.00      PROT O 
+ATOM    663  CB  CYS A  87       0.683 -12.167  -1.052  1.00  0.00      PROT C 
+ATOM    664  SG  CYS A  87       1.360 -13.809  -0.620  1.00  0.00      PROT S 
+ATOM    665  N   THR A  88      -1.779 -14.289  -1.067  1.00  0.00      PROT N 
+ATOM    666  CA  THR A  88      -2.667 -14.888  -0.077  1.00  0.00      PROT C 
+ATOM    667  C   THR A  88      -2.229 -16.316   0.224  1.00  0.00      PROT C 
+ATOM    668  O   THR A  88      -1.658 -17.021  -0.602  1.00  0.00      PROT O 
+ATOM    669  CB  THR A  88      -4.134 -14.947  -0.612  1.00  0.00      PROT C 
+ATOM    670  OG1 THR A  88      -4.918 -15.558   0.387  1.00  0.00      PROT O 
+ATOM    671  CG2 THR A  88      -4.288 -15.812  -1.856  1.00  0.00      PROT C 
+ATOM    672  N   ASP A  89      -2.622 -16.816   1.420  1.00  0.00      PROT N 
+ATOM    673  CA  ASP A  89      -2.616 -18.261   1.619  1.00  0.00      PROT C 
+ATOM    674  C   ASP A  89      -3.852 -18.665   2.441  1.00  0.00      PROT C 
+ATOM    675  O   ASP A  89      -3.852 -19.556   3.270  1.00  0.00      PROT O 
+ATOM    676  CB  ASP A  89      -1.337 -18.756   2.285  1.00  0.00      PROT C 
+ATOM    677  CG  ASP A  89      -1.234 -20.264   2.113  1.00  0.00      PROT C 
+ATOM    678  OD1 ASP A  89      -2.072 -20.830   1.383  1.00  0.00      PROT O 
+ATOM    679  OD2 ASP A  89      -0.304 -20.850   2.714  1.00  0.00      PROT O 
+ATOM    680  N   SER A  90      -5.019 -18.040   2.057  1.00  0.00      PROT N 
+ATOM    681  CA  SER A  90      -6.293 -18.309   2.709  1.00  0.00      PROT C 
+ATOM    682  C   SER A  90      -7.314 -18.596   1.599  1.00  0.00      PROT C 
+ATOM    683  O   SER A  90      -8.505 -18.291   1.675  1.00  0.00      PROT O 
+ATOM    684  CB  SER A  90      -6.740 -17.114   3.596  1.00  0.00      PROT C 
+ATOM    685  OG  SER A  90      -6.449 -15.906   2.965  1.00  0.00      PROT O 
+ATOM    686  N   ILE A  91      -6.845 -19.227   0.487  1.00  0.00      PROT N 
+ATOM    687  CA  ILE A  91      -7.753 -19.641  -0.575  1.00  0.00      PROT C 
+ATOM    688  C   ILE A  91      -8.623 -20.801  -0.058  1.00  0.00      PROT C 
+ATOM    689  O   ILE A  91      -8.242 -21.599   0.780  1.00  0.00      PROT O 
+ATOM    690  CB  ILE A  91      -7.000 -20.094  -1.847  1.00  0.00      PROT C 
+ATOM    691  CG1 ILE A  91      -5.936 -21.159  -1.529  1.00  0.00      PROT C 
+ATOM    692  CG2 ILE A  91      -6.400 -18.865  -2.525  1.00  0.00      PROT C 
+ATOM    693  CD1 ILE A  91      -5.484 -21.907  -2.779  1.00  0.00      PROT C 
+ATOM    694  N   GLN A  92      -9.879 -20.855  -0.591  1.00  0.00      PROT N 
+ATOM    695  CA  GLN A  92     -10.905 -21.729  -0.034  1.00  0.00      PROT C 
+ATOM    696  C   GLN A  92     -11.356 -22.607  -1.214  1.00  0.00      PROT C 
+ATOM    697  O   GLN A  92     -11.704 -22.078  -2.266  1.00  0.00      PROT O 
+ATOM    698  CB  GLN A  92     -12.125 -20.897   0.420  1.00  0.00      PROT C 
+ATOM    699  CG  GLN A  92     -11.730 -19.814   1.420  1.00  0.00      PROT C 
+ATOM    700  CD  GLN A  92     -12.764 -18.725   1.494  1.00  0.00      PROT C 
+ATOM    701  OE1 GLN A  92     -13.763 -18.678   0.769  1.00  0.00      PROT O 
+ATOM    702  NE2 GLN A  92     -12.579 -17.742   2.418  1.00  0.00      PROT N 
+ATOM    703  N   GLY A  93     -11.343 -23.957  -1.045  1.00  0.00      PROT N 
+ATOM    704  CA  GLY A  93     -11.604 -24.841  -2.171  1.00  0.00      PROT C 
+ATOM    705  C   GLY A  93     -10.279 -25.334  -2.757  1.00  0.00      PROT C 
+ATOM    706  O   GLY A  93      -9.264 -25.409  -2.077  1.00  0.00      PROT O 
+ATOM    707  N   THR A  94     -10.331 -25.735  -4.060  1.00  0.00      PROT N 
+ATOM    708  CA  THR A  94      -9.159 -26.193  -4.803  1.00  0.00      PROT C 
+ATOM    709  C   THR A  94      -9.082 -25.370  -6.095  1.00  0.00      PROT C 
+ATOM    710  O   THR A  94     -10.124 -25.101  -6.696  1.00  0.00      PROT O 
+ATOM    711  CB  THR A  94      -9.363 -27.696  -5.191  1.00  0.00      PROT C 
+ATOM    712  OG1 THR A  94      -9.279 -28.460  -4.005  1.00  0.00      PROT O 
+ATOM    713  CG2 THR A  94      -8.254 -28.219  -6.084  1.00  0.00      PROT C 
+ATOM    714  N   PRO A  95      -7.896 -24.932  -6.576  1.00  0.00      PROT N 
+ATOM    715  CA  PRO A  95      -7.809 -24.243  -7.871  1.00  0.00      PROT C 
+ATOM    716  C   PRO A  95      -8.222 -25.189  -9.017  1.00  0.00      PROT C 
+ATOM    717  O   PRO A  95      -7.978 -26.381  -9.012  1.00  0.00      PROT O 
+ATOM    718  CD  PRO A  95      -6.569 -25.152  -5.969  1.00  0.00      PROT C 
+ATOM    719  CB  PRO A  95      -6.328 -23.858  -8.049  1.00  0.00      PROT C 
+ATOM    720  CG  PRO A  95      -5.547 -24.695  -7.024  1.00  0.00      PROT C 
+ATOM    721  N   VAL A  96      -8.829 -24.569 -10.073  1.00  0.00      PROT N 
+ATOM    722  CA  VAL A  96      -9.340 -25.335 -11.205  1.00  0.00      PROT C 
+ATOM    723  C   VAL A  96      -9.111 -24.475 -12.456  1.00  0.00      PROT C 
+ATOM    724  O   VAL A  96      -8.811 -23.285 -12.364  1.00  0.00      PROT O 
+ATOM    725  CB  VAL A  96     -10.856 -25.677 -11.083  1.00  0.00      PROT C 
+ATOM    726  CG1 VAL A  96     -11.105 -26.458  -9.793  1.00  0.00      PROT C 
+ATOM    727  CG2 VAL A  96     -11.729 -24.424 -11.126  1.00  0.00      PROT C 
+ATOM    728  N   GLU A  97      -9.212 -25.096 -13.662  1.00  0.00      PROT N 
+ATOM    729  CA  GLU A  97      -9.024 -24.344 -14.902  1.00  0.00      PROT C 
+ATOM    730  C   GLU A  97     -10.325 -23.606 -15.264  1.00  0.00      PROT C 
+ATOM    731  O   GLU A  97     -11.426 -24.146 -15.186  1.00  0.00      PROT O 
+ATOM    732  CB  GLU A  97      -8.667 -25.303 -16.048  1.00  0.00      PROT C 
+ATOM    733  CG  GLU A  97      -8.498 -24.543 -17.357  1.00  0.00      PROT C 
+ATOM    734  CD  GLU A  97      -7.797 -25.390 -18.402  1.00  0.00      PROT C 
+ATOM    735  OE1 GLU A  97      -7.360 -26.511 -18.135  1.00  0.00      PROT O 
+ATOM    736  OE2 GLU A  97      -7.717 -24.877 -19.560  1.00  0.00      PROT O 
+ATOM    737  N   SER A  98     -10.169 -22.316 -15.656  1.00  0.00      PROT N 
+ATOM    738  CA  SER A  98     -11.259 -21.523 -16.206  1.00  0.00      PROT C 
+ATOM    739  C   SER A  98     -10.941 -21.260 -17.682  1.00  0.00      PROT C 
+ATOM    740  O   SER A  98      -9.888 -21.612 -18.196  1.00  0.00      PROT O 
+ATOM    741  CB  SER A  98     -11.314 -20.154 -15.479  1.00  0.00      PROT C 
+ATOM    742  OG  SER A  98     -10.056 -19.536 -15.599  1.00  0.00      PROT O 
+ATOM    743  N   ASP A  99     -11.842 -20.494 -18.368  1.00  0.00      PROT N 
+ATOM    744  CA  ASP A  99     -11.554 -20.096 -19.746  1.00  0.00      PROT C 
+ATOM    745  C   ASP A  99     -10.175 -19.409 -19.820  1.00  0.00      PROT C 
+ATOM    746  O   ASP A  99      -9.455 -19.581 -20.802  1.00  0.00      PROT O 
+ATOM    747  CB  ASP A  99     -12.596 -19.092 -20.244  1.00  0.00      PROT C 
+ATOM    748  CG  ASP A  99     -14.001 -19.687 -20.225  1.00  0.00      PROT C 
+ATOM    749  OD1 ASP A  99     -14.156 -20.904 -20.324  1.00  0.00      PROT O 
+ATOM    750  OD2 ASP A  99     -14.952 -18.862 -20.106  1.00  0.00      PROT O 
+ATOM    751  N   GLU A 100      -9.778 -18.604 -18.803  1.00  0.00      PROT N 
+ATOM    752  CA  GLU A 100      -8.513 -17.882 -18.904  1.00  0.00      PROT C 
+ATOM    753  C   GLU A 100      -7.329 -18.686 -18.356  1.00  0.00      PROT C 
+ATOM    754  O   GLU A 100      -6.221 -18.518 -18.852  1.00  0.00      PROT O 
+ATOM    755  CB  GLU A 100      -8.579 -16.579 -18.087  1.00  0.00      PROT C 
+ATOM    756  CG  GLU A 100      -9.414 -15.541 -18.820  1.00  0.00      PROT C 
+ATOM    757  CD  GLU A 100      -9.823 -14.433 -17.855  1.00  0.00      PROT C 
+ATOM    758  OE1 GLU A 100     -10.505 -14.736 -16.857  1.00  0.00      PROT O 
+ATOM    759  OE2 GLU A 100      -9.493 -13.265 -18.172  1.00  0.00      PROT O 
+ATOM    760  N   MET A 101      -7.471 -19.464 -17.249  1.00  0.00      PROT N 
+ATOM    761  CA  MET A 101      -6.264 -19.914 -16.557  1.00  0.00      PROT C 
+ATOM    762  C   MET A 101      -6.363 -21.407 -16.236  1.00  0.00      PROT C 
+ATOM    763  O   MET A 101      -7.348 -21.929 -15.742  1.00  0.00      PROT O 
+ATOM    764  CB  MET A 101      -6.122 -19.170 -15.210  1.00  0.00      PROT C 
+ATOM    765  CG  MET A 101      -5.625 -17.750 -15.404  1.00  0.00      PROT C 
+ATOM    766  SD  MET A 101      -3.818 -17.715 -15.730  1.00  0.00      PROT S 
+ATOM    767  CE  MET A 101      -3.336 -16.117 -15.023  1.00  0.00      PROT C 
+ATOM    768  N   ARG A 102      -5.210 -22.122 -16.434  1.00  0.00      PROT N 
+ATOM    769  CA  ARG A 102      -5.129 -23.532 -16.043  1.00  0.00      PROT C 
+ATOM    770  C   ARG A 102      -4.109 -23.589 -14.891  1.00  0.00      PROT C 
+ATOM    771  O   ARG A 102      -2.948 -23.242 -15.078  1.00  0.00      PROT O 
+ATOM    772  CB  ARG A 102      -4.597 -24.366 -17.210  1.00  0.00      PROT C 
+ATOM    773  CG  ARG A 102      -4.435 -25.830 -16.813  1.00  0.00      PROT C 
+ATOM    774  CD  ARG A 102      -4.179 -26.704 -18.048  1.00  0.00      PROT C 
+ATOM    775  NE  ARG A 102      -3.173 -26.135 -18.966  1.00  0.00      PROT N 
+ATOM    776  CZ  ARG A 102      -1.852 -26.021 -18.586  1.00  0.00      PROT C 
+ATOM    777  NH1 ARG A 102      -1.335 -26.694 -17.530  1.00  0.00      PROT N 
+ATOM    778  NH2 ARG A 102      -1.039 -25.172 -19.295  1.00  0.00      PROT N 
+ATOM    779  N   PRO A 103      -4.455 -24.030 -13.647  1.00  0.00      PROT N 
+ATOM    780  CA  PRO A 103      -3.618 -23.657 -12.501  1.00  0.00      PROT C 
+ATOM    781  C   PRO A 103      -2.757 -24.840 -12.042  1.00  0.00      PROT C 
+ATOM    782  O   PRO A 103      -3.168 -26.000 -12.034  1.00  0.00      PROT O 
+ATOM    783  CD  PRO A 103      -5.820 -24.387 -13.211  1.00  0.00      PROT C 
+ATOM    784  CB  PRO A 103      -4.617 -23.324 -11.373  1.00  0.00      PROT C 
+ATOM    785  CG  PRO A 103      -5.818 -24.233 -11.674  1.00  0.00      PROT C 
+ATOM    786  N   CYS A 104      -1.543 -24.504 -11.532  1.00  0.00      PROT N 
+ATOM    787  CA  CYS A 104      -0.604 -25.494 -11.015  1.00  0.00      PROT C 
+ATOM    788  C   CYS A 104       0.052 -24.853  -9.775  1.00  0.00      PROT C 
+ATOM    789  O   CYS A 104       0.231 -23.655  -9.667  1.00  0.00      PROT O 
+ATOM    790  CB  CYS A 104       0.499 -25.811 -12.029  1.00  0.00      PROT C 
+ATOM    791  SG  CYS A 104      -0.013 -27.254 -13.044  1.00  0.00      PROT S 
+ATOM    792  N   TRP A 105       0.410 -25.716  -8.773  1.00  0.00      PROT N 
+ATOM    793  CA  TRP A 105       1.167 -25.207  -7.632  1.00  0.00      PROT C 
+ATOM    794  C   TRP A 105       2.653 -25.472  -7.951  1.00  0.00      PROT C 
+ATOM    795  O   TRP A 105       3.006 -26.569  -8.392  1.00  0.00      PROT O 
+ATOM    796  CB  TRP A 105       0.816 -25.977  -6.349  1.00  0.00      PROT C 
+ATOM    797  CG  TRP A 105      -0.368 -25.428  -5.667  1.00  0.00      PROT C 
+ATOM    798  CD1 TRP A 105      -1.627 -26.010  -5.593  1.00  0.00      PROT C 
+ATOM    799  NE1 TRP A 105      -2.457 -25.243  -4.779  1.00  0.00      PROT N 
+ATOM    800  CD2 TRP A 105      -0.399 -24.243  -4.859  1.00  0.00      PROT C 
+ATOM    801  CE2 TRP A 105      -1.710 -24.174  -4.286  1.00  0.00      PROT C 
+ATOM    802  CE3 TRP A 105       0.537 -23.251  -4.556  1.00  0.00      PROT C 
+ATOM    803  CZ2 TRP A 105      -2.064 -23.158  -3.388  1.00  0.00      PROT C 
+ATOM    804  CZ3 TRP A 105       0.178 -22.244  -3.681  1.00  0.00      PROT C 
+ATOM    805  CH2 TRP A 105      -1.105 -22.210  -3.094  1.00  0.00      PROT C 
+ATOM    806  N   PHE A 106       3.532 -24.470  -7.728  1.00  0.00      PROT N 
+ATOM    807  CA  PHE A 106       4.930 -24.575  -8.146  1.00  0.00      PROT C 
+ATOM    808  C   PHE A 106       5.773 -24.428  -6.872  1.00  0.00      PROT C 
+ATOM    809  O   PHE A 106       5.488 -23.607  -6.013  1.00  0.00      PROT O 
+ATOM    810  CB  PHE A 106       5.302 -23.430  -9.107  1.00  0.00      PROT C 
+ATOM    811  CG  PHE A 106       4.550 -23.581 -10.391  1.00  0.00      PROT C 
+ATOM    812  CD1 PHE A 106       3.263 -23.053 -10.520  1.00  0.00      PROT C 
+ATOM    813  CD2 PHE A 106       5.126 -24.275 -11.456  1.00  0.00      PROT C 
+ATOM    814  CE1 PHE A 106       2.566 -23.212 -11.715  1.00  0.00      PROT C 
+ATOM    815  CE2 PHE A 106       4.435 -24.408 -12.658  1.00  0.00      PROT C 
+ATOM    816  CZ  PHE A 106       3.157 -23.871 -12.790  1.00  0.00      PROT C 
+ATOM    817  N   GLN A 107       6.783 -25.334  -6.685  1.00  0.00      PROT N 
+ATOM    818  CA  GLN A 107       7.735 -25.090  -5.596  1.00  0.00      PROT C 
+ATOM    819  C   GLN A 107       8.465 -23.772  -5.914  1.00  0.00      PROT C 
+ATOM    820  O   GLN A 107       8.425 -23.266  -7.020  1.00  0.00      PROT O 
+ATOM    821  CB  GLN A 107       8.757 -26.225  -5.482  1.00  0.00      PROT C 
+ATOM    822  CG  GLN A 107       8.122 -27.558  -5.105  1.00  0.00      PROT C 
+ATOM    823  CD  GLN A 107       7.710 -27.668  -3.657  1.00  0.00      PROT C 
+ATOM    824  OE1 GLN A 107       6.555 -27.997  -3.347  1.00  0.00      PROT O 
+ATOM    825  NE2 GLN A 107       8.639 -27.514  -2.680  1.00  0.00      PROT N 
+ATOM    826  N   LEU A 108       9.136 -23.182  -4.878  1.00  0.00      PROT N 
+ATOM    827  CA  LEU A 108       9.604 -21.801  -4.999  1.00  0.00      PROT C 
+ATOM    828  C   LEU A 108      10.866 -21.714  -5.877  1.00  0.00      PROT C 
+ATOM    829  O   LEU A 108      11.140 -20.678  -6.465  1.00  0.00      PROT O 
+ATOM    830  CB  LEU A 108       9.898 -21.219  -3.611  1.00  0.00      PROT C 
+ATOM    831  CG  LEU A 108       8.656 -21.288  -2.701  1.00  0.00      PROT C 
+ATOM    832  CD1 LEU A 108       9.069 -21.020  -1.253  1.00  0.00      PROT C 
+ATOM    833  CD2 LEU A 108       7.588 -20.292  -3.151  1.00  0.00      PROT C 
+ATOM    834  N   ASP A 109      11.657 -22.832  -5.935  1.00  0.00      PROT N 
+ATOM    835  CA  ASP A 109      12.660 -23.012  -6.982  1.00  0.00      PROT C 
+ATOM    836  C   ASP A 109      11.988 -23.249  -8.357  1.00  0.00      PROT C 
+ATOM    837  O   ASP A 109      12.401 -22.677  -9.365  1.00  0.00      PROT O 
+ATOM    838  CB  ASP A 109      13.538 -24.229  -6.667  1.00  0.00      PROT C 
+ATOM    839  CG  ASP A 109      12.766 -25.530  -6.438  1.00  0.00      PROT C 
+ATOM    840  OD1 ASP A 109      11.570 -25.477  -6.085  1.00  0.00      PROT O 
+ATOM    841  OD2 ASP A 109      13.387 -26.600  -6.599  1.00  0.00      PROT O 
+ATOM    842  N   GLN A 110      10.949 -24.117  -8.411  1.00  0.00      PROT N 
+ATOM    843  CA  GLN A 110      10.358 -24.580  -9.667  1.00  0.00      PROT C 
+ATOM    844  C   GLN A 110       9.263 -23.623 -10.165  1.00  0.00      PROT C 
+ATOM    845  O   GLN A 110       8.230 -24.046 -10.676  1.00  0.00      PROT O 
+ATOM    846  CB  GLN A 110       9.733 -25.968  -9.426  1.00  0.00      PROT C 
+ATOM    847  CG  GLN A 110      10.807 -27.026  -9.168  1.00  0.00      PROT C 
+ATOM    848  CD  GLN A 110      10.335 -28.064  -8.184  1.00  0.00      PROT C 
+ATOM    849  OE1 GLN A 110       9.278 -28.691  -8.328  1.00  0.00      PROT O 
+ATOM    850  NE2 GLN A 110      11.145 -28.372  -7.136  1.00  0.00      PROT N 
+ATOM    851  N   ILE A 111       9.468 -22.281 -10.068  1.00  0.00      PROT N 
+ATOM    852  CA  ILE A 111       8.460 -21.370 -10.609  1.00  0.00      PROT C 
+ATOM    853  C   ILE A 111       8.931 -21.001 -12.023  1.00  0.00      PROT C 
+ATOM    854  O   ILE A 111      10.091 -20.680 -12.262  1.00  0.00      PROT O 
+ATOM    855  CB  ILE A 111       8.285 -20.129  -9.701  1.00  0.00      PROT C 
+ATOM    856  CG1 ILE A 111       7.443 -20.554  -8.484  1.00  0.00      PROT C 
+ATOM    857  CG2 ILE A 111       7.589 -19.010 -10.469  1.00  0.00      PROT C 
+ATOM    858  CD1 ILE A 111       7.590 -19.568  -7.333  1.00  0.00      PROT C 
+ATOM    859  N   PRO A 112       8.030 -21.071 -13.044  1.00  0.00      PROT N 
+ATOM    860  CA  PRO A 112       8.441 -20.978 -14.447  1.00  0.00      PROT C 
+ATOM    861  C   PRO A 112       8.590 -19.512 -14.883  1.00  0.00      PROT C 
+ATOM    862  O   PRO A 112       7.963 -19.084 -15.846  1.00  0.00      PROT O 
+ATOM    863  CD  PRO A 112       6.628 -21.517 -12.910  1.00  0.00      PROT C 
+ATOM    864  CB  PRO A 112       7.320 -21.674 -15.249  1.00  0.00      PROT C 
+ATOM    865  CG  PRO A 112       6.083 -21.623 -14.341  1.00  0.00      PROT C 
+ATOM    866  N   PHE A 113       9.459 -18.709 -14.204  1.00  0.00      PROT N 
+ATOM    867  CA  PHE A 113       9.573 -17.279 -14.512  1.00  0.00      PROT C 
+ATOM    868  C   PHE A 113       9.838 -17.042 -16.009  1.00  0.00      PROT C 
+ATOM    869  O   PHE A 113       9.318 -16.074 -16.569  1.00  0.00      PROT O 
+ATOM    870  CB  PHE A 113      10.718 -16.628 -13.719  1.00  0.00      PROT C 
+ATOM    871  CG  PHE A 113      10.474 -16.725 -12.246  1.00  0.00      PROT C 
+ATOM    872  CD1 PHE A 113       9.396 -16.052 -11.667  1.00  0.00      PROT C 
+ATOM    873  CD2 PHE A 113      11.320 -17.501 -11.452  1.00  0.00      PROT C 
+ATOM    874  CE1 PHE A 113       9.156 -16.182 -10.303  1.00  0.00      PROT C 
+ATOM    875  CE2 PHE A 113      11.092 -17.603 -10.081  1.00  0.00      PROT C 
+ATOM    876  CZ  PHE A 113      10.010 -16.942  -9.507  1.00  0.00      PROT C 
+ATOM    877  N   LYS A 114      10.663 -17.893 -16.669  1.00  0.00      PROT N 
+ATOM    878  CA  LYS A 114      10.935 -17.768 -18.106  1.00  0.00      PROT C 
+ATOM    879  C   LYS A 114       9.666 -17.866 -18.979  1.00  0.00      PROT C 
+ATOM    880  O   LYS A 114       9.642 -17.356 -20.087  1.00  0.00      PROT O 
+ATOM    881  CB  LYS A 114      11.896 -18.886 -18.545  1.00  0.00      PROT C 
+ATOM    882  CG  LYS A 114      11.247 -20.272 -18.447  1.00  0.00      PROT C 
+ATOM    883  CD  LYS A 114      12.299 -21.383 -18.392  1.00  0.00      PROT C 
+ATOM    884  CE  LYS A 114      11.610 -22.700 -18.032  1.00  0.00      PROT C 
+ATOM    885  NZ  LYS A 114      12.626 -23.812 -17.920  1.00  0.00      PROT N 
+ATOM    886  N   ASP A 115       8.611 -18.566 -18.473  1.00  0.00      PROT N 
+ATOM    887  CA  ASP A 115       7.330 -18.672 -19.171  1.00  0.00      PROT C 
+ATOM    888  C   ASP A 115       6.253 -17.903 -18.373  1.00  0.00      PROT C 
+ATOM    889  O   ASP A 115       5.112 -18.321 -18.286  1.00  0.00      PROT O 
+ATOM    890  CB  ASP A 115       6.912 -20.137 -19.318  1.00  0.00      PROT C 
+ATOM    891  CG  ASP A 115       6.635 -20.527 -20.761  1.00  0.00      PROT C 
+ATOM    892  OD1 ASP A 115       6.700 -19.669 -21.665  1.00  0.00      PROT O 
+ATOM    893  OD2 ASP A 115       6.385 -21.730 -20.986  1.00  0.00      PROT O 
+ATOM    894  N   MET A 116       6.631 -16.678 -17.895  1.00  0.00      PROT N 
+ATOM    895  CA  MET A 116       5.717 -15.852 -17.109  1.00  0.00      PROT C 
+ATOM    896  C   MET A 116       5.895 -14.434 -17.642  1.00  0.00      PROT C 
+ATOM    897  O   MET A 116       6.760 -14.137 -18.481  1.00  0.00      PROT O 
+ATOM    898  CB  MET A 116       6.075 -15.855 -15.607  1.00  0.00      PROT C 
+ATOM    899  CG  MET A 116       5.664 -17.185 -14.996  1.00  0.00      PROT C 
+ATOM    900  SD  MET A 116       6.153 -17.338 -13.243  1.00  0.00      PROT S 
+ATOM    901  CE  MET A 116       4.840 -16.461 -12.352  1.00  0.00      PROT C 
+ATOM    902  N   TRP A 117       5.089 -13.450 -17.191  1.00  0.00      PROT N 
+ATOM    903  CA  TRP A 117       5.457 -12.082 -17.571  1.00  0.00      PROT C 
+ATOM    904  C   TRP A 117       6.941 -11.882 -17.262  1.00  0.00      PROT C 
+ATOM    905  O   TRP A 117       7.437 -12.184 -16.182  1.00  0.00      PROT O 
+ATOM    906  CB  TRP A 117       4.587 -11.082 -16.807  1.00  0.00      PROT C 
+ATOM    907  CG  TRP A 117       3.349 -10.910 -17.585  1.00  0.00      PROT C 
+ATOM    908  CD1 TRP A 117       2.130 -11.529 -17.396  1.00  0.00      PROT C 
+ATOM    909  NE1 TRP A 117       1.244 -11.157 -18.419  1.00  0.00      PROT N 
+ATOM    910  CD2 TRP A 117       3.239 -10.077 -18.752  1.00  0.00      PROT C 
+ATOM    911  CE2 TRP A 117       1.900 -10.221 -19.229  1.00  0.00      PROT C 
+ATOM    912  CE3 TRP A 117       4.147  -9.272 -19.441  1.00  0.00      PROT C 
+ATOM    913  CZ2 TRP A 117       1.471  -9.564 -20.386  1.00  0.00      PROT C 
+ATOM    914  CZ3 TRP A 117       3.726  -8.652 -20.603  1.00  0.00      PROT C 
+ATOM    915  CH2 TRP A 117       2.399  -8.783 -21.055  1.00  0.00      PROT C 
+ATOM    916  N   PRO A 118       7.724 -11.219 -18.177  1.00  0.00      PROT N 
+ATOM    917  CA  PRO A 118       9.157 -11.039 -17.882  1.00  0.00      PROT C 
+ATOM    918  C   PRO A 118       9.377 -10.195 -16.637  1.00  0.00      PROT C 
+ATOM    919  O   PRO A 118      10.454 -10.246 -16.039  1.00  0.00      PROT O 
+ATOM    920  CD  PRO A 118       7.495 -11.213 -19.639  1.00  0.00      PROT C 
+ATOM    921  CB  PRO A 118       9.739 -10.373 -19.142  1.00  0.00      PROT C 
+ATOM    922  CG  PRO A 118       8.873 -10.940 -20.277  1.00  0.00      PROT C 
+ATOM    923  N   ASP A 119       8.407  -9.357 -16.177  1.00  0.00      PROT N 
+ATOM    924  CA  ASP A 119       8.646  -8.662 -14.914  1.00  0.00      PROT C 
+ATOM    925  C   ASP A 119       8.468  -9.593 -13.698  1.00  0.00      PROT C 
+ATOM    926  O   ASP A 119       9.042  -9.257 -12.663  1.00  0.00      PROT O 
+ATOM    927  CB  ASP A 119       7.771  -7.431 -14.769  1.00  0.00      PROT C 
+ATOM    928  CG  ASP A 119       6.292  -7.745 -14.818  1.00  0.00      PROT C 
+ATOM    929  OD1 ASP A 119       5.943  -8.152 -16.011  1.00  0.00      PROT O 
+ATOM    930  OD2 ASP A 119       5.569  -7.580 -13.862  1.00  0.00      PROT O 
+ATOM    931  N   ASP A 120       7.816 -10.772 -13.828  1.00  0.00      PROT N 
+ATOM    932  CA  ASP A 120       7.701 -11.712 -12.705  1.00  0.00      PROT C 
+ATOM    933  C   ASP A 120       9.095 -12.134 -12.232  1.00  0.00      PROT C 
+ATOM    934  O   ASP A 120       9.381 -12.122 -11.038  1.00  0.00      PROT O 
+ATOM    935  CB  ASP A 120       6.935 -12.966 -13.129  1.00  0.00      PROT C 
+ATOM    936  CG  ASP A 120       5.471 -12.623 -13.447  1.00  0.00      PROT C 
+ATOM    937  OD1 ASP A 120       5.220 -11.432 -13.692  1.00  0.00      PROT O 
+ATOM    938  OD2 ASP A 120       4.658 -13.561 -13.446  1.00  0.00      PROT O 
+ATOM    939  N   SER A 121      10.058 -12.467 -13.135  1.00  0.00      PROT N 
+ATOM    940  CA  SER A 121      11.385 -12.803 -12.622  1.00  0.00      PROT C 
+ATOM    941  C   SER A 121      12.005 -11.675 -11.766  1.00  0.00      PROT C 
+ATOM    942  O   SER A 121      13.011 -11.918 -11.102  1.00  0.00      PROT O 
+ATOM    943  CB  SER A 121      12.351 -13.167 -13.775  1.00  0.00      PROT C 
+ATOM    944  OG  SER A 121      12.865 -14.457 -13.579  1.00  0.00      PROT O 
+ATOM    945  N   TYR A 122      11.442 -10.438 -11.759  1.00  0.00      PROT N 
+ATOM    946  CA  TYR A 122      11.934  -9.358 -10.913  1.00  0.00      PROT C 
+ATOM    947  C   TYR A 122      11.014  -9.197  -9.676  1.00  0.00      PROT C 
+ATOM    948  O   TYR A 122      11.453  -9.293  -8.539  1.00  0.00      PROT O 
+ATOM    949  CB  TYR A 122      11.949  -8.016 -11.679  1.00  0.00      PROT C 
+ATOM    950  CG  TYR A 122      12.754  -8.077 -12.938  1.00  0.00      PROT C 
+ATOM    951  CD1 TYR A 122      14.082  -7.647 -12.961  1.00  0.00      PROT C 
+ATOM    952  CD2 TYR A 122      12.150  -8.524 -14.116  1.00  0.00      PROT C 
+ATOM    953  CE1 TYR A 122      14.802  -7.652 -14.152  1.00  0.00      PROT C 
+ATOM    954  CE2 TYR A 122      12.838  -8.517 -15.322  1.00  0.00      PROT C 
+ATOM    955  CZ  TYR A 122      14.165  -8.082 -15.318  1.00  0.00      PROT C 
+ATOM    956  OH  TYR A 122      14.817  -8.142 -16.502  1.00  0.00      PROT O 
+ATOM    957  N   TRP A 123       9.699  -8.862  -9.870  1.00  0.00      PROT N 
+ATOM    958  CA  TRP A 123       8.840  -8.632  -8.705  1.00  0.00      PROT C 
+ATOM    959  C   TRP A 123       8.427  -9.941  -8.024  1.00  0.00      PROT C 
+ATOM    960  O   TRP A 123       8.219  -9.998  -6.817  1.00  0.00      PROT O 
+ATOM    961  CB  TRP A 123       7.571  -7.843  -9.104  1.00  0.00      PROT C 
+ATOM    962  CG  TRP A 123       6.607  -8.601  -9.921  1.00  0.00      PROT C 
+ATOM    963  CD1 TRP A 123       6.421  -8.499 -11.300  1.00  0.00      PROT C 
+ATOM    964  NE1 TRP A 123       5.417  -9.359 -11.707  1.00  0.00      PROT N 
+ATOM    965  CD2 TRP A 123       5.648  -9.553  -9.440  1.00  0.00      PROT C 
+ATOM    966  CE2 TRP A 123       4.926 -10.021 -10.587  1.00  0.00      PROT C 
+ATOM    967  CE3 TRP A 123       5.336 -10.078  -8.181  1.00  0.00      PROT C 
+ATOM    968  CZ2 TRP A 123       3.933 -11.005 -10.482  1.00  0.00      PROT C 
+ATOM    969  CZ3 TRP A 123       4.356 -11.045  -8.086  1.00  0.00      PROT C 
+ATOM    970  CH2 TRP A 123       3.663 -11.506  -9.227  1.00  0.00      PROT C 
+ATOM    971  N   PHE A 124       8.250 -11.032  -8.820  1.00  0.00      PROT N 
+ATOM    972  CA  PHE A 124       7.753 -12.287  -8.268  1.00  0.00      PROT C 
+ATOM    973  C   PHE A 124       8.752 -12.848  -7.251  1.00  0.00      PROT C 
+ATOM    974  O   PHE A 124       8.341 -13.193  -6.145  1.00  0.00      PROT O 
+ATOM    975  CB  PHE A 124       7.464 -13.273  -9.407  1.00  0.00      PROT C 
+ATOM    976  CG  PHE A 124       6.355 -14.208  -9.058  1.00  0.00      PROT C 
+ATOM    977  CD1 PHE A 124       5.178 -14.175  -9.807  1.00  0.00      PROT C 
+ATOM    978  CD2 PHE A 124       6.494 -15.114  -8.007  1.00  0.00      PROT C 
+ATOM    979  CE1 PHE A 124       4.135 -15.042  -9.498  1.00  0.00      PROT C 
+ATOM    980  CE2 PHE A 124       5.453 -15.987  -7.709  1.00  0.00      PROT C 
+ATOM    981  CZ  PHE A 124       4.277 -15.950  -8.452  1.00  0.00      PROT C 
+ATOM    982  N   PRO A 125      10.095 -12.872  -7.465  1.00  0.00      PROT N 
+ATOM    983  CA  PRO A 125      10.986 -13.279  -6.371  1.00  0.00      PROT C 
+ATOM    984  C   PRO A 125      10.701 -12.496  -5.081  1.00  0.00      PROT C 
+ATOM    985  O   PRO A 125      10.845 -13.093  -4.010  1.00  0.00      PROT O 
+ATOM    986  CD  PRO A 125      10.828 -12.737  -8.738  1.00  0.00      PROT C 
+ATOM    987  CB  PRO A 125      12.413 -13.009  -6.873  1.00  0.00      PROT C 
+ATOM    988  CG  PRO A 125      12.306 -13.012  -8.405  1.00  0.00      PROT C 
+ATOM    989  N   LEU A 126      10.359 -11.186  -5.147  1.00  0.00      PROT N 
+ATOM    990  CA  LEU A 126      10.000 -10.422  -3.945  1.00  0.00      PROT C 
+ATOM    991  C   LEU A 126       8.707 -10.999  -3.344  1.00  0.00      PROT C 
+ATOM    992  O   LEU A 126       8.626 -11.271  -2.149  1.00  0.00      PROT O 
+ATOM    993  CB  LEU A 126       9.768  -8.942  -4.278  1.00  0.00      PROT C 
+ATOM    994  CG  LEU A 126      11.076  -8.199  -4.603  1.00  0.00      PROT C 
+ATOM    995  CD1 LEU A 126      10.746  -6.804  -5.151  1.00  0.00      PROT C 
+ATOM    996  CD2 LEU A 126      11.959  -8.064  -3.363  1.00  0.00      PROT C 
+ATOM    997  N   LEU A 127       7.659 -11.254  -4.176  1.00  0.00      PROT N 
+ATOM    998  CA  LEU A 127       6.486 -11.969  -3.661  1.00  0.00      PROT C 
+ATOM    999  C   LEU A 127       6.943 -13.224  -2.890  1.00  0.00      PROT C 
+ATOM   1000  O   LEU A 127       6.508 -13.491  -1.770  1.00  0.00      PROT O 
+ATOM   1001  CB  LEU A 127       5.561 -12.368  -4.820  1.00  0.00      PROT C 
+ATOM   1002  CG  LEU A 127       4.285 -13.072  -4.313  1.00  0.00      PROT C 
+ATOM   1003  CD1 LEU A 127       3.035 -12.291  -4.725  1.00  0.00      PROT C 
+ATOM   1004  CD2 LEU A 127       4.214 -14.502  -4.858  1.00  0.00      PROT C 
+ATOM   1005  N   LEU A 128       7.816 -14.068  -3.505  1.00  0.00      PROT N 
+ATOM   1006  CA  LEU A 128       8.277 -15.282  -2.837  1.00  0.00      PROT C 
+ATOM   1007  C   LEU A 128       9.012 -14.940  -1.530  1.00  0.00      PROT C 
+ATOM   1008  O   LEU A 128       8.876 -15.654  -0.533  1.00  0.00      PROT O 
+ATOM   1009  CB  LEU A 128       9.255 -16.081  -3.706  1.00  0.00      PROT C 
+ATOM   1010  CG  LEU A 128       8.700 -16.424  -5.099  1.00  0.00      PROT C 
+ATOM   1011  CD1 LEU A 128       9.708 -17.338  -5.799  1.00  0.00      PROT C 
+ATOM   1012  CD2 LEU A 128       7.335 -17.102  -4.987  1.00  0.00      PROT C 
+ATOM   1013  N   GLN A 129       9.827 -13.858  -1.515  1.00  0.00      PROT N 
+ATOM   1014  CA  GLN A 129      10.579 -13.488  -0.321  1.00  0.00      PROT C 
+ATOM   1015  C   GLN A 129       9.704 -12.678   0.662  1.00  0.00      PROT C 
+ATOM   1016  O   GLN A 129      10.218 -12.301   1.718  1.00  0.00      PROT O 
+ATOM   1017  CB  GLN A 129      11.763 -12.588  -0.701  1.00  0.00      PROT C 
+ATOM   1018  CG  GLN A 129      12.793 -13.303  -1.572  1.00  0.00      PROT C 
+ATOM   1019  CD  GLN A 129      13.395 -12.363  -2.579  1.00  0.00      PROT C 
+ATOM   1020  OE1 GLN A 129      13.056 -11.173  -2.663  1.00  0.00      PROT O 
+ATOM   1021  NE2 GLN A 129      14.287 -12.858  -3.487  1.00  0.00      PROT N 
+ATOM   1022  N   LYS A 130       8.412 -12.452   0.340  1.00  0.00      PROT N 
+ATOM   1023  CA  LYS A 130       7.441 -11.822   1.227  1.00  0.00      PROT C 
+ATOM   1024  C   LYS A 130       7.598 -10.292   1.257  1.00  0.00      PROT C 
+ATOM   1025  O   LYS A 130       7.138  -9.659   2.206  1.00  0.00      PROT O 
+ATOM   1026  CB  LYS A 130       7.493 -12.352   2.672  1.00  0.00      PROT C 
+ATOM   1027  CG  LYS A 130       7.467 -13.881   2.754  1.00  0.00      PROT C 
+ATOM   1028  CD  LYS A 130       6.092 -14.488   2.454  1.00  0.00      PROT C 
+ATOM   1029  CE  LYS A 130       6.197 -15.799   1.674  1.00  0.00      PROT C 
+ATOM   1030  NZ  LYS A 130       6.938 -16.861   2.458  1.00  0.00      PROT N 
+ATOM   1031  N   LYS A 131       8.262  -9.664   0.245  1.00  0.00      PROT N 
+ATOM   1032  CA  LYS A 131       8.393  -8.211   0.230  1.00  0.00      PROT C 
+ATOM   1033  C   LYS A 131       7.270  -7.606  -0.627  1.00  0.00      PROT C 
+ATOM   1034  O   LYS A 131       6.731  -8.207  -1.544  1.00  0.00      PROT O 
+ATOM   1035  CB  LYS A 131       9.717  -7.750  -0.412  1.00  0.00      PROT C 
+ATOM   1036  CG  LYS A 131      10.946  -8.351   0.267  1.00  0.00      PROT C 
+ATOM   1037  CD  LYS A 131      10.973  -8.038   1.765  1.00  0.00      PROT C 
+ATOM   1038  CE  LYS A 131      12.107  -8.762   2.484  1.00  0.00      PROT C 
+ATOM   1039  NZ  LYS A 131      11.947 -10.266   2.345  1.00  0.00      PROT N 
+ATOM   1040  N   LYS A 132       6.880  -6.339  -0.276  1.00  0.00      PROT N 
+ATOM   1041  CA  LYS A 132       5.982  -5.605  -1.167  1.00  0.00      PROT C 
+ATOM   1042  C   LYS A 132       6.843  -4.838  -2.187  1.00  0.00      PROT C 
+ATOM   1043  O   LYS A 132       8.014  -4.540  -1.957  1.00  0.00      PROT O 
+ATOM   1044  CB  LYS A 132       5.162  -4.565  -0.390  1.00  0.00      PROT C 
+ATOM   1045  CG  LYS A 132       4.363  -5.177   0.761  1.00  0.00      PROT C 
+ATOM   1046  CD  LYS A 132       3.426  -4.127   1.363  1.00  0.00      PROT C 
+ATOM   1047  CE  LYS A 132       2.959  -4.577   2.749  1.00  0.00      PROT C 
+ATOM   1048  NZ  LYS A 132       2.057  -3.512   3.331  1.00  0.00      PROT N 
+ATOM   1049  N   PHE A 133       6.261  -4.454  -3.353  1.00  0.00      PROT N 
+ATOM   1050  CA  PHE A 133       7.077  -3.849  -4.398  1.00  0.00      PROT C 
+ATOM   1051  C   PHE A 133       6.199  -2.868  -5.180  1.00  0.00      PROT C 
+ATOM   1052  O   PHE A 133       5.014  -3.057  -5.395  1.00  0.00      PROT O 
+ATOM   1053  CB  PHE A 133       7.637  -4.909  -5.376  1.00  0.00      PROT C 
+ATOM   1054  CG  PHE A 133       6.582  -5.869  -5.828  1.00  0.00      PROT C 
+ATOM   1055  CD1 PHE A 133       5.836  -5.611  -6.979  1.00  0.00      PROT C 
+ATOM   1056  CD2 PHE A 133       6.330  -7.020  -5.076  1.00  0.00      PROT C 
+ATOM   1057  CE1 PHE A 133       4.833  -6.498  -7.369  1.00  0.00      PROT C 
+ATOM   1058  CE2 PHE A 133       5.315  -7.892  -5.456  1.00  0.00      PROT C 
+ATOM   1059  CZ  PHE A 133       4.563  -7.628  -6.600  1.00  0.00      PROT C 
+ATOM   1060  N   HIS A 134       6.835  -1.747  -5.639  1.00  0.00      PROT N 
+ATOM   1061  CA  HIS A 134       6.200  -0.915  -6.653  1.00  0.00      PROT C 
+ATOM   1062  C   HIS A 134       7.111  -0.989  -7.885  1.00  0.00      PROT C 
+ATOM   1063  O   HIS A 134       8.308  -0.683  -7.792  1.00  0.00      PROT O 
+ATOM   1064  CB  HIS A 134       6.172   0.568  -6.251  1.00  0.00      PROT C 
+ATOM   1065  CG  HIS A 134       4.860   1.007  -5.749  1.00  0.00      PROT C 
+ATOM   1066  ND1 HIS A 134       4.360   2.277  -6.094  1.00  0.00      PROT N 
+ATOM   1067  CD2 HIS A 134       3.928   0.426  -4.901  1.00  0.00      PROT C 
+ATOM   1068  NE2 HIS A 134       2.880   1.339  -4.738  1.00  0.00      PROT N 
+ATOM   1069  CE1 HIS A 134       3.145   2.451  -5.476  1.00  0.00      PROT C 
+ATOM   1070  N   GLY A 135       6.605  -1.471  -9.034  1.00  0.00      PROT N 
+ATOM   1071  CA  GLY A 135       7.435  -1.504 -10.226  1.00  0.00      PROT C 
+ATOM   1072  C   GLY A 135       6.811  -0.633 -11.308  1.00  0.00      PROT C 
+ATOM   1073  O   GLY A 135       5.663  -0.214 -11.192  1.00  0.00      PROT O 
+ATOM   1074  N   TYR A 136       7.569  -0.485 -12.417  1.00  0.00      PROT N 
+ATOM   1075  CA  TYR A 136       7.099   0.156 -13.648  1.00  0.00      PROT C 
+ATOM   1076  C   TYR A 136       7.818  -0.664 -14.730  1.00  0.00      PROT C 
+ATOM   1077  O   TYR A 136       9.028  -0.838 -14.648  1.00  0.00      PROT O 
+ATOM   1078  CB  TYR A 136       7.549   1.620 -13.782  1.00  0.00      PROT C 
+ATOM   1079  CG  TYR A 136       7.547   2.047 -15.217  1.00  0.00      PROT C 
+ATOM   1080  CD1 TYR A 136       6.361   2.418 -15.856  1.00  0.00      PROT C 
+ATOM   1081  CD2 TYR A 136       8.756   2.083 -15.922  1.00  0.00      PROT C 
+ATOM   1082  CE1 TYR A 136       6.372   2.853 -17.180  1.00  0.00      PROT C 
+ATOM   1083  CE2 TYR A 136       8.792   2.506 -17.243  1.00  0.00      PROT C 
+ATOM   1084  CZ  TYR A 136       7.591   2.892 -17.858  1.00  0.00      PROT C 
+ATOM   1085  OH  TYR A 136       7.711   3.257 -19.147  1.00  0.00      PROT O 
+ATOM   1086  N   PHE A 137       7.084  -1.257 -15.706  1.00  0.00      PROT N 
+ATOM   1087  CA  PHE A 137       7.777  -2.074 -16.704  1.00  0.00      PROT C 
+ATOM   1088  C   PHE A 137       7.220  -1.643 -18.067  1.00  0.00      PROT C 
+ATOM   1089  O   PHE A 137       6.055  -1.835 -18.384  1.00  0.00      PROT O 
+ATOM   1090  CB  PHE A 137       7.517  -3.574 -16.469  1.00  0.00      PROT C 
+ATOM   1091  CG  PHE A 137       8.389  -4.107 -15.375  1.00  0.00      PROT C 
+ATOM   1092  CD1 PHE A 137       8.085  -3.840 -14.038  1.00  0.00      PROT C 
+ATOM   1093  CD2 PHE A 137       9.507  -4.885 -15.681  1.00  0.00      PROT C 
+ATOM   1094  CE1 PHE A 137       8.899  -4.332 -13.021  1.00  0.00      PROT C 
+ATOM   1095  CE2 PHE A 137      10.317  -5.385 -14.662  1.00  0.00      PROT C 
+ATOM   1096  CZ  PHE A 137      10.017  -5.106 -13.331  1.00  0.00      PROT C 
+ATOM   1097  N   LYS A 138       8.085  -0.969 -18.874  1.00  0.00      PROT N 
+ATOM   1098  CA  LYS A 138       7.698  -0.623 -20.237  1.00  0.00      PROT C 
+ATOM   1099  C   LYS A 138       8.077  -1.821 -21.119  1.00  0.00      PROT C 
+ATOM   1100  O   LYS A 138       9.189  -2.329 -21.019  1.00  0.00      PROT O 
+ATOM   1101  CB  LYS A 138       8.486   0.594 -20.723  1.00  0.00      PROT C 
+ATOM   1102  CG  LYS A 138       7.999   1.048 -22.100  1.00  0.00      PROT C 
+ATOM   1103  CD  LYS A 138       8.684   2.370 -22.439  1.00  0.00      PROT C 
+ATOM   1104  CE  LYS A 138       8.199   2.899 -23.786  1.00  0.00      PROT C 
+ATOM   1105  NZ  LYS A 138       9.257   3.806 -24.373  1.00  0.00      PROT N 
+ATOM   1106  N   PHE A 139       7.110  -2.312 -21.929  1.00  0.00      PROT N 
+ATOM   1107  CA  PHE A 139       7.314  -3.503 -22.743  1.00  0.00      PROT C 
+ATOM   1108  C   PHE A 139       7.224  -3.066 -24.210  1.00  0.00      PROT C 
+ATOM   1109  O   PHE A 139       6.481  -2.164 -24.558  1.00  0.00      PROT O 
+ATOM   1110  CB  PHE A 139       6.169  -4.505 -22.503  1.00  0.00      PROT C 
+ATOM   1111  CG  PHE A 139       6.499  -5.472 -21.412  1.00  0.00      PROT C 
+ATOM   1112  CD1 PHE A 139       6.343  -5.110 -20.073  1.00  0.00      PROT C 
+ATOM   1113  CD2 PHE A 139       6.924  -6.760 -21.741  1.00  0.00      PROT C 
+ATOM   1114  CE1 PHE A 139       6.592  -6.046 -19.072  1.00  0.00      PROT C 
+ATOM   1115  CE2 PHE A 139       7.177  -7.689 -20.736  1.00  0.00      PROT C 
+ATOM   1116  CZ  PHE A 139       7.005  -7.336 -19.400  1.00  0.00      PROT C 
+ATOM   1117  N   GLN A 140       8.008  -3.730 -25.116  1.00  0.00      PROT N 
+ATOM   1118  CA  GLN A 140       7.756  -3.538 -26.543  1.00  0.00      PROT C 
+ATOM   1119  C   GLN A 140       7.057  -4.826 -27.010  1.00  0.00      PROT C 
+ATOM   1120  O   GLN A 140       7.640  -5.901 -26.934  1.00  0.00      PROT O 
+ATOM   1121  CB  GLN A 140       9.074  -3.351 -27.306  1.00  0.00      PROT C 
+ATOM   1122  CG  GLN A 140       8.831  -2.660 -28.650  1.00  0.00      PROT C 
+ATOM   1123  CD  GLN A 140      10.073  -1.906 -29.055  1.00  0.00      PROT C 
+ATOM   1124  OE1 GLN A 140      11.176  -2.440 -29.119  1.00  0.00      PROT O 
+ATOM   1125  NE2 GLN A 140       9.956  -0.573 -29.329  1.00  0.00      PROT N 
+ATOM   1126  N   GLY A 141       5.790  -4.725 -27.509  1.00  0.00      PROT N 
+ATOM   1127  CA  GLY A 141       5.024  -5.960 -27.676  1.00  0.00      PROT C 
+ATOM   1128  C   GLY A 141       4.667  -6.522 -26.301  1.00  0.00      PROT C 
+ATOM   1129  O   GLY A 141       4.746  -5.852 -25.290  1.00  0.00      PROT O 
+ATOM   1130  N   GLN A 142       4.207  -7.820 -26.270  1.00  0.00      PROT N 
+ATOM   1131  CA  GLN A 142       3.880  -8.432 -24.984  1.00  0.00      PROT C 
+ATOM   1132  C   GLN A 142       5.088  -9.134 -24.338  1.00  0.00      PROT C 
+ATOM   1133  O   GLN A 142       4.973  -9.652 -23.239  1.00  0.00      PROT O 
+ATOM   1134  CB  GLN A 142       2.750  -9.473 -25.147  1.00  0.00      PROT C 
+ATOM   1135  CG  GLN A 142       1.418  -8.957 -24.595  1.00  0.00      PROT C 
+ATOM   1136  CD  GLN A 142       0.569 -10.102 -24.094  1.00  0.00      PROT C 
+ATOM   1137  OE1 GLN A 142       0.858 -10.743 -23.086  1.00  0.00      PROT O 
+ATOM   1138  NE2 GLN A 142      -0.578 -10.408 -24.771  1.00  0.00      PROT N 
+ATOM   1139  N   ASP A 143       6.319  -9.126 -24.961  1.00  0.00      PROT N 
+ATOM   1140  CA  ASP A 143       7.319 -10.085 -24.489  1.00  0.00      PROT C 
+ATOM   1141  C   ASP A 143       8.634  -9.412 -24.071  1.00  0.00      PROT C 
+ATOM   1142  O   ASP A 143       9.422 -10.047 -23.368  1.00  0.00      PROT O 
+ATOM   1143  CB  ASP A 143       7.646 -11.115 -25.572  1.00  0.00      PROT C 
+ATOM   1144  CG  ASP A 143       6.439 -11.998 -25.886  1.00  0.00      PROT C 
+ATOM   1145  OD1 ASP A 143       5.448 -11.955 -25.130  1.00  0.00      PROT O 
+ATOM   1146  OD2 ASP A 143       6.513 -12.734 -26.885  1.00  0.00      PROT O 
+ATOM   1147  N   THR A 144       8.938  -8.153 -24.481  1.00  0.00      PROT N 
+ATOM   1148  CA  THR A 144      10.252  -7.585 -24.187  1.00  0.00      PROT C 
+ATOM   1149  C   THR A 144      10.063  -6.446 -23.182  1.00  0.00      PROT C 
+ATOM   1150  O   THR A 144       9.303  -5.529 -23.458  1.00  0.00      PROT O 
+ATOM   1151  CB  THR A 144      10.828  -6.942 -25.490  1.00  0.00      PROT C 
+ATOM   1152  OG1 THR A 144      10.881  -7.954 -26.477  1.00  0.00      PROT O 
+ATOM   1153  CG2 THR A 144      12.255  -6.468 -25.287  1.00  0.00      PROT C 
+ATOM   1154  N   ILE A 145      10.747  -6.457 -22.003  1.00  0.00      PROT N 
+ATOM   1155  CA  ILE A 145      10.722  -5.225 -21.205  1.00  0.00      PROT C 
+ATOM   1156  C   ILE A 145      11.817  -4.311 -21.795  1.00  0.00      PROT C 
+ATOM   1157  O   ILE A 145      12.987  -4.654 -21.834  1.00  0.00      PROT O 
+ATOM   1158  CB  ILE A 145      11.082  -5.462 -19.719  1.00  0.00      PROT C 
+ATOM   1159  CG1 ILE A 145      10.129  -6.475 -19.069  1.00  0.00      PROT C 
+ATOM   1160  CG2 ILE A 145      11.013  -4.119 -18.991  1.00  0.00      PROT C 
+ATOM   1161  CD1 ILE A 145      10.829  -7.197 -17.920  1.00  0.00      PROT C 
+ATOM   1162  N   LEU A 146      11.401  -3.110 -22.302  1.00  0.00      PROT N 
+ATOM   1163  CA  LEU A 146      12.381  -2.080 -22.629  1.00  0.00      PROT C 
+ATOM   1164  C   LEU A 146      12.892  -1.421 -21.327  1.00  0.00      PROT C 
+ATOM   1165  O   LEU A 146      14.102  -1.300 -21.135  1.00  0.00      PROT O 
+ATOM   1166  CB  LEU A 146      11.777  -0.978 -23.505  1.00  0.00      PROT C 
+ATOM   1167  CG  LEU A 146      11.258  -1.495 -24.857  1.00  0.00      PROT C 
+ATOM   1168  CD1 LEU A 146      10.685  -0.304 -25.635  1.00  0.00      PROT C 
+ATOM   1169  CD2 LEU A 146      12.365  -2.168 -25.672  1.00  0.00      PROT C 
+ATOM   1170  N   ASP A 147      11.987  -1.025 -20.389  1.00  0.00      PROT N 
+ATOM   1171  CA  ASP A 147      12.389  -0.145 -19.292  1.00  0.00      PROT C 
+ATOM   1172  C   ASP A 147      11.787  -0.734 -18.007  1.00  0.00      PROT C 
+ATOM   1173  O   ASP A 147      10.686  -1.272 -18.021  1.00  0.00      PROT O 
+ATOM   1174  CB  ASP A 147      11.786   1.266 -19.399  1.00  0.00      PROT C 
+ATOM   1175  CG  ASP A 147      11.885   1.907 -20.776  1.00  0.00      PROT C 
+ATOM   1176  OD1 ASP A 147      12.120   1.211 -21.778  1.00  0.00      PROT O 
+ATOM   1177  OD2 ASP A 147      11.698   3.146 -20.820  1.00  0.00      PROT O 
+ATOM   1178  N   TYR A 148      12.451  -0.621 -16.822  1.00  0.00      PROT N 
+ATOM   1179  CA  TYR A 148      11.653  -0.947 -15.631  1.00  0.00      PROT C 
+ATOM   1180  C   TYR A 148      12.303  -0.393 -14.363  1.00  0.00      PROT C 
+ATOM   1181  O   TYR A 148      13.507  -0.238 -14.234  1.00  0.00      PROT O 
+ATOM   1182  CB  TYR A 148      11.437  -2.461 -15.436  1.00  0.00      PROT C 
+ATOM   1183  CG  TYR A 148      12.711  -3.189 -15.171  1.00  0.00      PROT C 
+ATOM   1184  CD1 TYR A 148      13.130  -3.439 -13.861  1.00  0.00      PROT C 
+ATOM   1185  CD2 TYR A 148      13.502  -3.586 -16.251  1.00  0.00      PROT C 
+ATOM   1186  CE1 TYR A 148      14.365  -4.033 -13.619  1.00  0.00      PROT C 
+ATOM   1187  CE2 TYR A 148      14.750  -4.156 -16.037  1.00  0.00      PROT C 
+ATOM   1188  CZ  TYR A 148      15.162  -4.353 -14.716  1.00  0.00      PROT C 
+ATOM   1189  OH  TYR A 148      16.413  -4.874 -14.578  1.00  0.00      PROT O 
+ATOM   1190  N   THR A 149      11.410  -0.112 -13.366  1.00  0.00      PROT N 
+ATOM   1191  CA  THR A 149      11.831   0.184 -12.008  1.00  0.00      PROT C 
+ATOM   1192  C   THR A 149      11.128  -0.826 -11.087  1.00  0.00      PROT C 
+ATOM   1193  O   THR A 149      10.069  -1.364 -11.386  1.00  0.00      PROT O 
+ATOM   1194  CB  THR A 149      11.392   1.618 -11.578  1.00  0.00      PROT C 
+ATOM   1195  OG1 THR A 149       9.973   1.605 -11.518  1.00  0.00      PROT O 
+ATOM   1196  CG2 THR A 149      11.774   2.674 -12.600  1.00  0.00      PROT C 
+ATOM   1197  N   LEU A 150      11.708  -1.104  -9.880  1.00  0.00      PROT N 
+ATOM   1198  CA  LEU A 150      11.054  -2.078  -8.996  1.00  0.00      PROT C 
+ATOM   1199  C   LEU A 150      11.639  -1.891  -7.590  1.00  0.00      PROT C 
+ATOM   1200  O   LEU A 150      12.777  -2.260  -7.313  1.00  0.00      PROT O 
+ATOM   1201  CB  LEU A 150      11.309  -3.525  -9.454  1.00  0.00      PROT C 
+ATOM   1202  CG  LEU A 150      10.596  -4.537  -8.541  1.00  0.00      PROT C 
+ATOM   1203  CD1 LEU A 150       9.080  -4.509  -8.767  1.00  0.00      PROT C 
+ATOM   1204  CD2 LEU A 150      11.152  -5.935  -8.821  1.00  0.00      PROT C 
+ATOM   1205  N   ARG A 151      10.830  -1.328  -6.648  1.00  0.00      PROT N 
+ATOM   1206  CA  ARG A 151      11.375  -0.933  -5.351  1.00  0.00      PROT C 
+ATOM   1207  C   ARG A 151      10.514  -1.589  -4.266  1.00  0.00      PROT C 
+ATOM   1208  O   ARG A 151       9.290  -1.546  -4.264  1.00  0.00      PROT O 
+ATOM   1209  CB  ARG A 151      11.394   0.592  -5.167  1.00  0.00      PROT C 
+ATOM   1210  CG  ARG A 151      10.039   1.271  -5.365  1.00  0.00      PROT C 
+ATOM   1211  CD  ARG A 151      10.231   2.797  -5.294  1.00  0.00      PROT C 
+ATOM   1212  NE  ARG A 151       9.339   3.486  -6.246  1.00  0.00      PROT N 
+ATOM   1213  CZ  ARG A 151       8.037   3.752  -5.940  1.00  0.00      PROT C 
+ATOM   1214  NH1 ARG A 151       7.409   3.113  -4.899  1.00  0.00      PROT N 
+ATOM   1215  NH2 ARG A 151       7.264   4.390  -6.887  1.00  0.00      PROT N 
+ATOM   1216  N   GLU A 152      11.196  -2.201  -3.260  1.00  0.00      PROT N 
+ATOM   1217  CA  GLU A 152      10.473  -2.803  -2.135  1.00  0.00      PROT C 
+ATOM   1218  C   GLU A 152       9.797  -1.663  -1.351  1.00  0.00      PROT C 
+ATOM   1219  O   GLU A 152      10.434  -0.798  -0.772  1.00  0.00      PROT O 
+ATOM   1220  CB  GLU A 152      11.444  -3.525  -1.192  1.00  0.00      PROT C 
+ATOM   1221  CG  GLU A 152      11.956  -4.809  -1.831  1.00  0.00      PROT C 
+ATOM   1222  CD  GLU A 152      13.149  -5.372  -1.067  1.00  0.00      PROT C 
+ATOM   1223  OE1 GLU A 152      13.585  -4.771  -0.071  1.00  0.00      PROT O 
+ATOM   1224  OE2 GLU A 152      13.654  -6.420  -1.528  1.00  0.00      PROT O 
+ATOM   1225  N   VAL A 153       8.428  -1.700  -1.281  1.00  0.00      PROT N 
+ATOM   1226  CA  VAL A 153       7.697  -0.599  -0.673  1.00  0.00      PROT C 
+ATOM   1227  C   VAL A 153       7.120  -1.042   0.679  1.00  0.00      PROT C 
+ATOM   1228  O   VAL A 153       7.002  -2.203   1.039  1.00  0.00      PROT O 
+ATOM   1229  CB  VAL A 153       6.514  -0.107  -1.554  1.00  0.00      PROT C 
+ATOM   1230  CG1 VAL A 153       7.062   0.547  -2.819  1.00  0.00      PROT C 
+ATOM   1231  CG2 VAL A 153       5.525  -1.219  -1.900  1.00  0.00      PROT C 
+ATOM   1232  N   ASP A 154       6.665  -0.020   1.472  1.00  0.00      PROT N 
+ATOM   1233  CA  ASP A 154       5.885  -0.308   2.675  1.00  0.00      PROT C 
+ATOM   1234  C   ASP A 154       4.383  -0.187   2.330  1.00  0.00      PROT C 
+ATOM   1235  O   ASP A 154       3.585  -1.031   2.695  1.00  0.00      PROT O 
+ATOM   1236  CB  ASP A 154       6.228   0.654   3.808  1.00  0.00      PROT C 
+ATOM   1237  CG  ASP A 154       7.363   0.106   4.675  1.00  0.00      PROT C 
+ATOM   1238  OD1 ASP A 154       7.447  -1.123   4.841  1.00  0.00      PROT O 
+ATOM   1239  OD2 ASP A 154       8.134   0.933   5.200  1.00  0.00      PROT O 
+ATOM   1240  N   THR A 155       3.984   0.926   1.634  1.00  0.00      PROT N 
+ATOM   1241  CA  THR A 155       2.603   1.069   1.185  1.00  0.00      PROT C 
+ATOM   1242  C   THR A 155       2.523   0.770  -0.322  1.00  0.00      PROT C 
+ATOM   1243  O   THR A 155       3.287   1.289  -1.131  1.00  0.00      PROT O 
+ATOM   1244  CB  THR A 155       2.127   2.533   1.417  1.00  0.00      PROT C 
+ATOM   1245  OG1 THR A 155       2.172   2.797   2.808  1.00  0.00      PROT O 
+ATOM   1246  CG2 THR A 155       0.673   2.714   1.016  1.00  0.00      PROT C 
+ATOM   1247  N   VAL A 156       1.551  -0.096  -0.709  1.00  0.00      PROT N 
+ATOM   1248  CA  VAL A 156       1.404  -0.517  -2.099  1.00  0.00      PROT C 
+ATOM   1249  C   VAL A 156       0.224   0.242  -2.751  1.00  0.00      PROT C 
+ATOM   1250  O   VAL A 156       0.483   0.941  -3.748  1.00  0.00      PROT O 
+ATOM   1251  CB  VAL A 156       1.133  -2.041  -2.182  1.00  0.00      PROT C 
+ATOM   1252  OXT VAL A 156      -0.935   0.100  -2.300  1.00  0.00      PROT O 
+ATOM   1253  CG1 VAL A 156       0.556  -2.410  -3.547  1.00  0.00      PROT C 
+ATOM   1254  CG2 VAL A 156       2.434  -2.798  -1.927  1.00  0.00      PROT C 
+TER    1255      VAL A 156
+HETATM 1256  OP3 8OG A1157      -6.696 -10.618 -18.253  1.00  0.00      PROT O 
+HETATM 1257  P   8OG A1157      -6.615  -9.182 -18.955  1.00  0.00      PROT P 
+HETATM 1258  OP1 8OG A1157      -7.851  -8.364 -18.795  1.00  0.00      PROT O 
+HETATM 1259  OP2 8OG A1157      -6.108  -9.490 -20.333  1.00  0.00      PROT O 
+HETATM 1260  O5' 8OG A1157      -5.518  -8.406 -18.061  1.00  0.00      PROT O 
+HETATM 1261  C5' 8OG A1157      -4.214  -8.953 -17.814  1.00  0.00      PROT C 
+HETATM 1262  C4' 8OG A1157      -4.167  -9.429 -16.351  1.00  0.00      PROT C 
+HETATM 1263  O4' 8OG A1157      -2.843  -9.887 -16.077  1.00  0.00      PROT O 
+HETATM 1264  C1' 8OG A1157      -2.113  -8.967 -15.279  1.00  0.00      PROT C 
+HETATM 1265  C2' 8OG A1157      -3.031  -7.773 -14.974  1.00  0.00      PROT C 
+HETATM 1266  N9  8OG A1157      -0.924  -8.602 -16.019  1.00  0.00      PROT N 
+HETATM 1267  C8  8OG A1157      -0.810  -7.607 -17.058  1.00  0.00      PROT C 
+HETATM 1268  O8  8OG A1157      -1.750  -7.130 -17.659  1.00  0.00      PROT O 
+HETATM 1269  N7  8OG A1157       0.529  -7.311 -17.210  1.00  0.00      PROT N 
+HETATM 1270  C5  8OG A1157       1.278  -8.133 -16.341  1.00  0.00      PROT C 
+HETATM 1271  C6  8OG A1157       2.666  -8.335 -16.102  1.00  0.00      PROT C 
+HETATM 1272  O6  8OG A1157       3.595  -7.780 -16.759  1.00  0.00      PROT O 
+HETATM 1273  N1  8OG A1157       3.026  -9.213 -15.119  1.00  0.00      PROT N 
+HETATM 1274  C2  8OG A1157       2.084  -9.949 -14.475  1.00  0.00      PROT C 
+HETATM 1275  N3  8OG A1157       0.712  -9.853 -14.683  1.00  0.00      PROT N 
+HETATM 1276  C4  8OG A1157       0.374  -8.919 -15.588  1.00  0.00      PROT C 
+HETATM 1277  N2  8OG A1157       2.515 -10.869 -13.557  1.00  0.00      PROT N 
+HETATM 1278  C3' 8OG A1157      -4.420  -8.264 -15.377  1.00  0.00      PROT C 
+HETATM 1279  O3' 8OG A1157      -5.125  -8.767 -14.277  1.00  0.00      PROT O 
+HETATM 1280  S   SO4 A1158      -3.089  -4.804   2.988  1.00  0.00      PROT S 
+HETATM 1281  O1  SO4 A1158      -2.280  -5.465   4.047  1.00  0.00      PROT O 
+HETATM 1282  O2  SO4 A1158      -3.346  -5.766   1.836  1.00  0.00      PROT O 
+HETATM 1283  O3  SO4 A1158      -4.379  -4.269   3.523  1.00  0.00      PROT O 
+HETATM 1284  O4  SO4 A1158      -2.307  -3.611   2.374  1.00  0.00      PROT O 
+HETATM 1285  S   SO4 A1159      -3.018 -15.007   4.509  1.00  0.00      PROT S 
+HETATM 1286  O1  SO4 A1159      -1.660 -14.570   3.976  1.00  0.00      PROT O 
+HETATM 1287  O2  SO4 A1159      -3.857 -15.483   3.320  1.00  0.00      PROT O 
+HETATM 1288  O3  SO4 A1159      -2.822 -16.120   5.500  1.00  0.00      PROT O 
+HETATM 1289  O4  SO4 A1159      -3.700 -13.845   5.185  1.00  0.00      PROT O 
+HETATM 1290  O   HOH A2001      -0.928   6.894 -19.945  1.00  0.00      PROT O 
+HETATM 1291  O   HOH A2002      -9.583  -1.007 -14.079  1.00  0.00      PROT O 
+HETATM 1292  O   HOH A2003      -4.345  -0.841 -19.640  1.00  0.00      PROT O 
+HETATM 1293  O   HOH A2004      -9.542  -7.288 -11.242  1.00  0.00      PROT O 
+HETATM 1294  O   HOH A2005       1.754 -28.797  -7.567  1.00  0.00      PROT O 
+HETATM 1295  O   HOH A2006      -2.396 -17.482  -7.142  1.00  0.00      PROT O 
+HETATM 1296  O   HOH A2007      -2.264 -19.256 -24.812  1.00  0.00      PROT O 
+HETATM 1297  O   HOH A2008       1.620 -19.089   3.300  1.00  0.00      PROT O 
+HETATM 1298  O   HOH A2009       6.793 -19.234   0.909  1.00  0.00      PROT O 
+HETATM 1299  O   HOH A2010       1.637 -25.264   2.355  1.00  0.00      PROT O 
+HETATM 1300  O   HOH A2011       3.832 -25.176   0.817  1.00  0.00      PROT O 
+HETATM 1301  O   HOH A2012       9.605 -24.929  -2.619  1.00  0.00      PROT O 
+HETATM 1302  O   HOH A2013       2.299 -28.245  -4.994  1.00  0.00      PROT O 
+HETATM 1303  O   HOH A2014      -4.765 -26.325  -3.534  1.00  0.00      PROT O 
+HETATM 1304  O   HOH A2015      -6.021  -2.349  -3.113  1.00  0.00      PROT O 
+HETATM 1305  O   HOH A2016     -14.709 -13.194  -1.147  1.00  0.00      PROT O 
+HETATM 1306  O   HOH A2017      -2.069 -20.876 -22.682  1.00  0.00      PROT O 
+HETATM 1307  O   HOH A2018      -9.445 -12.839 -20.815  1.00  0.00      PROT O 
+HETATM 1308  O   HOH A2019      -7.518 -11.245 -21.775  1.00  0.00      PROT O 
+HETATM 1309  O   HOH A2020     -10.267 -18.977 -23.280  1.00  0.00      PROT O 
+HETATM 1310  O   HOH A2021     -15.250 -15.971 -23.270  1.00  0.00      PROT O 
+HETATM 1311  O   HOH A2022       1.090 -11.542   2.088  1.00  0.00      PROT O 
+HETATM 1312  O   HOH A2023      -6.330 -14.773 -26.751  1.00  0.00      PROT O 
+HETATM 1313  O   HOH A2024      -1.472 -11.471 -17.736  1.00  0.00      PROT O 
+HETATM 1314  O   HOH A2025      -3.919  -2.736  -4.740  1.00  0.00      PROT O 
+HETATM 1315  O   HOH A2026      -0.489 -14.601 -17.642  1.00  0.00      PROT O 
+HETATM 1316  O   HOH A2027       5.542 -17.255 -21.565  1.00  0.00      PROT O 
+HETATM 1317  O   HOH A2028       6.587 -14.840 -21.061  1.00  0.00      PROT O 
+HETATM 1318  O   HOH A2029       2.997 -13.873 -15.490  1.00  0.00      PROT O 
+HETATM 1319  O   HOH A2030       5.541 -23.505 -19.170  1.00  0.00      PROT O 
+HETATM 1320  O   HOH A2031      -2.921 -13.626 -17.086  1.00  0.00      PROT O 
+HETATM 1321  O   HOH A2032       3.688 -12.062   1.662  1.00  0.00      PROT O 
+HETATM 1322  O   HOH A2033      -3.398 -12.885 -14.528  1.00  0.00      PROT O 
+HETATM 1323  O   HOH A2034      -5.285 -12.837 -16.460  1.00  0.00      PROT O 
+HETATM 1324  O   HOH A2035      -8.707 -11.243 -16.610  1.00  0.00      PROT O 
+HETATM 1325  O   HOH A2036      -9.984  -8.007 -17.181  1.00  0.00      PROT O 
+HETATM 1326  O   HOH A2037     -11.468  -7.855 -14.731  1.00  0.00      PROT O 
+HETATM 1327  O   HOH A2038     -13.157  -1.801 -15.197  1.00  0.00      PROT O 
+HETATM 1328  O   HOH A2039     -17.259  -4.464 -10.505  1.00  0.00      PROT O 
+HETATM 1329  O   HOH A2040     -18.664   0.665 -15.211  1.00  0.00      PROT O 
+HETATM 1330  O   HOH A2041     -11.852   2.288 -15.103  1.00  0.00      PROT O 
+HETATM 1331  O   HOH A2042     -15.583  -4.776  -4.242  1.00  0.00      PROT O 
+HETATM 1332  O   HOH A2043     -11.944  -5.001  -0.767  1.00  0.00      PROT O 
+HETATM 1333  O   HOH A2044      -8.652  -2.071  -3.479  1.00  0.00      PROT O 
+HETATM 1334  O   HOH A2045      13.644  -9.066 -18.738  1.00  0.00      PROT O 
+HETATM 1335  O   HOH A2046      -6.369  -3.823  -0.899  1.00  0.00      PROT O 
+HETATM 1336  O   HOH A2047      -5.378  -6.062   0.178  1.00  0.00      PROT O 
+HETATM 1337  O   HOH A2048      -7.761  -8.638   1.934  1.00  0.00      PROT O 
+HETATM 1338  O   HOH A2049     -14.674  -9.675  -5.204  1.00  0.00      PROT O 
+HETATM 1339  O   HOH A2050      10.644 -18.028  -1.411  1.00  0.00      PROT O 
+HETATM 1340  O   HOH A2051      12.785 -16.286  -6.938  1.00  0.00      PROT O 
+HETATM 1341  O   HOH A2052     -11.712 -15.054  -4.020  1.00  0.00      PROT O 
+HETATM 1342  O   HOH A2053     -12.148 -13.612  -1.797  1.00  0.00      PROT O 
+HETATM 1343  O   HOH A2054       7.093   3.077  -9.890  1.00  0.00      PROT O 
+HETATM 1344  O   HOH A2055     -13.601 -10.847 -15.669  1.00  0.00      PROT O 
+HETATM 1345  O   HOH A2056     -11.021 -10.134 -15.931  1.00  0.00      PROT O 
+HETATM 1346  O   HOH A2057     -11.561 -12.655 -15.536  1.00  0.00      PROT O 
+HETATM 1347  O   HOH A2058      14.631  -5.505 -19.309  1.00  0.00      PROT O 
+HETATM 1348  O   HOH A2059     -14.270 -19.256 -12.418  1.00  0.00      PROT O 
+HETATM 1349  O   HOH A2060       7.883   5.057 -14.204  1.00  0.00      PROT O 
+HETATM 1350  O   HOH A2061     -16.877 -13.019 -10.969  1.00  0.00      PROT O 
+HETATM 1351  O   HOH A2062     -10.844 -21.578 -12.827  1.00  0.00      PROT O 
+HETATM 1352  O   HOH A2063      -6.802 -21.540 -12.822  1.00  0.00      PROT O 
+HETATM 1353  O   HOH A2064     -11.454 -23.177  -8.007  1.00  0.00      PROT O 
+HETATM 1354  O   HOH A2065     -13.888 -22.686  -5.353  1.00  0.00      PROT O 
+HETATM 1355  O   HOH A2066     -14.222 -21.503  -2.971  1.00  0.00      PROT O 
+HETATM 1356  O   HOH A2067      -1.204 -12.946   2.004  1.00  0.00      PROT O 
+HETATM 1357  O   HOH A2068       0.087  -3.439   1.564  1.00  0.00      PROT O 
+HETATM 1358  O   HOH A2069      -1.722   0.330   0.216  1.00  0.00      PROT O 
+HETATM 1359  O   HOH A2070      -1.503  -4.789  -4.821  1.00  0.00      PROT O 
+HETATM 1360  O   HOH A2071      -2.098   2.123  -7.944  1.00  0.00      PROT O 
+HETATM 1361  O   HOH A2072       4.890   4.110 -25.193  1.00  0.00      PROT O 
+HETATM 1362  O   HOH A2073       0.922   1.833 -21.898  1.00  0.00      PROT O 
+HETATM 1363  O   HOH A2074       4.100  -2.209 -27.984  1.00  0.00      PROT O 
+HETATM 1364  O   HOH A2075      -0.194   2.981 -30.543  1.00  0.00      PROT O 
+HETATM 1365  O   HOH A2076      -4.248  -0.458 -25.777  1.00  0.00      PROT O 
+HETATM 1366  O   HOH A2077      -3.008  -0.406 -21.920  1.00  0.00      PROT O 
+HETATM 1367  O   HOH A2078      -4.311   1.122 -23.614  1.00  0.00      PROT O 
+HETATM 1368  O   HOH A2079       4.194 -12.431  -0.943  1.00  0.00      PROT O 
+HETATM 1369  O   HOH A2080     -10.154 -18.700   3.750  1.00  0.00      PROT O 
+HETATM 1370  O   HOH A2081      -6.777 -24.719  -2.799  1.00  0.00      PROT O 
+HETATM 1371  O   HOH A2082     -12.593 -25.016  -5.612  1.00  0.00      PROT O 
+HETATM 1372  O   HOH A2083     -13.128 -22.633 -13.758  1.00  0.00      PROT O 
+HETATM 1373  O   HOH A2084      -5.292 -24.906 -20.682  1.00  0.00      PROT O 
+HETATM 1374  O   HOH A2085     -11.379 -17.263 -16.788  1.00  0.00      PROT O 
+HETATM 1375  O   HOH A2086     -14.161 -20.436 -16.740  1.00  0.00      PROT O 
+HETATM 1376  O   HOH A2087     -16.377 -19.544 -17.952  1.00  0.00      PROT O 
+HETATM 1377  O   HOH A2088     -14.519 -16.361 -20.719  1.00  0.00      PROT O 
+HETATM 1378  O   HOH A2089     -11.698 -11.749 -18.050  1.00  0.00      PROT O 
+HETATM 1379  O   HOH A2090      -3.676 -23.047 -19.624  1.00  0.00      PROT O 
+HETATM 1380  O   HOH A2091      -2.801 -28.357 -15.765  1.00  0.00      PROT O 
+HETATM 1381  O   HOH A2092      -2.035 -23.374 -21.713  1.00  0.00      PROT O 
+HETATM 1382  O   HOH A2093      -4.477 -27.099 -14.104  1.00  0.00      PROT O 
+HETATM 1383  O   HOH A2094      -2.776 -27.772 -10.060  1.00  0.00      PROT O 
+HETATM 1384  O   HOH A2095       4.957 -28.210  -7.549  1.00  0.00      PROT O 
+HETATM 1385  O   HOH A2096       7.106 -27.177  -8.762  1.00  0.00      PROT O 
+HETATM 1386  O   HOH A2097       4.754 -27.171  -5.086  1.00  0.00      PROT O 
+HETATM 1387  O   HOH A2098      12.651 -20.106  -8.614  1.00  0.00      PROT O 
+HETATM 1388  O   HOH A2099       8.193 -25.768 -12.733  1.00  0.00      PROT O 
+HETATM 1389  O   HOH A2100      11.377 -20.454 -15.255  1.00  0.00      PROT O 
+HETATM 1390  O   HOH A2101       9.704 -13.545 -15.750  1.00  0.00      PROT O 
+HETATM 1391  O   HOH A2102       9.447 -14.164 -18.458  1.00  0.00      PROT O 
+HETATM 1392  O   HOH A2103      12.641 -11.077 -17.278  1.00  0.00      PROT O 
+HETATM 1393  O   HOH A2104      11.956 -13.672 -17.218  1.00  0.00      PROT O 
+HETATM 1394  O   HOH A2105      13.701 -14.505 -11.034  1.00  0.00      PROT O 
+HETATM 1395  O   HOH A2106      13.851 -10.023  -7.574  1.00  0.00      PROT O 
+HETATM 1396  O   HOH A2107       9.675 -16.347   1.931  1.00  0.00      PROT O 
+HETATM 1397  O   HOH A2108       7.970 -18.085  -1.208  1.00  0.00      PROT O 
+HETATM 1398  O   HOH A2109      11.332 -14.460   2.856  1.00  0.00      PROT O 
+HETATM 1399  O   HOH A2110      13.938  -9.961  -4.888  1.00  0.00      PROT O 
+HETATM 1400  O   HOH A2111      13.374 -10.274  -0.152  1.00  0.00      PROT O 
+HETATM 1401  O   HOH A2112      12.432 -15.198  -4.510  1.00  0.00      PROT O 
+HETATM 1402  O   HOH A2113       5.000  -8.192   1.519  1.00  0.00      PROT O 
+HETATM 1403  O   HOH A2114       5.386 -10.149  -0.266  1.00  0.00      PROT O 
+HETATM 1404  O   HOH A2115       8.615  -4.314   0.646  1.00  0.00      PROT O 
+HETATM 1405  O   HOH A2116       0.242  -0.774   1.652  1.00  0.00      PROT O 
+HETATM 1406  O   HOH A2117       9.106   1.568  -8.981  1.00  0.00      PROT O 
+HETATM 1407  O   HOH A2118       5.207   1.361  -9.050  1.00  0.00      PROT O 
+HETATM 1408  O   HOH A2119       9.894   4.736 -19.646  1.00  0.00      PROT O 
+HETATM 1409  O   HOH A2120      11.698   2.436 -24.089  1.00  0.00      PROT O 
+HETATM 1410  O   HOH A2121       7.302   4.019 -26.371  1.00  0.00      PROT O 
+HETATM 1411  O   HOH A2122       7.908  -8.487 -27.555  1.00  0.00      PROT O 
+HETATM 1412  O   HOH A2123       5.473  -9.345 -28.270  1.00  0.00      PROT O 
+HETATM 1413  O   HOH A2124       9.106 -12.682 -22.973  1.00  0.00      PROT O 
+HETATM 1414  O   HOH A2125      13.178  -7.634 -20.963  1.00  0.00      PROT O 
+HETATM 1415  O   HOH A2126      14.806  -2.833 -19.040  1.00  0.00      PROT O 
+HETATM 1416  O   HOH A2127      10.490   5.066 -22.244  1.00  0.00      PROT O 
+HETATM 1417  O   HOH A2128      16.789  -6.431 -16.737  1.00  0.00      PROT O 
+HETATM 1418  O   HOH A2129       8.654   3.908 -11.909  1.00  0.00      PROT O 
+HETATM 1419  O   HOH A2130      13.304  -3.386  -4.927  1.00  0.00      PROT O 
+HETATM 1420  O   HOH A2131      14.820  -8.035   0.166  1.00  0.00      PROT O 
+HETATM 1421  O   HOH A2132       5.366   2.708  -0.209  1.00  0.00      PROT O 
+HETATM 1422  O   HOH A2133      -2.432  -0.520  -4.436  1.00  0.00      PROT O 
+HETATM 1423  O   HOH A2134       2.516  -6.371 -18.755  1.00  0.00      PROT O 
+END

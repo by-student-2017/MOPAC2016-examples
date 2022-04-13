@@ -1,0 +1,26 @@
+hide *
+select *
+set labelfront
+set antialiasDisplay on
+ribbon
+display selected
+spacefill 0%
+wireframe off
+hbonds off
+select 1157
+spacefill 15%
+wireframe 0.1
+#hbonds on
+select 51.CA;    label First alpha helix;   color label black; font label 20 bold; 
+select 134.CA;   label beta sheet;          color label black; font label 20 bold; 
+select 1157.H7;  label 8-Oxo-dGMP;          color label black; font label 20 bold; 
+select 129.CA;   label Second alpha helix;  color label black; font label 20 bold; 
+select 37-59
+color pink
+select -77
+center {visible}
+zoom 0
+#
+#  Use "show orientation" to get the next line.
+#
+reset;center {-0.031437158469943396 -11.0982175546448 -10.914025956284151}; rotate z -7.81; rotate y 148.37; rotate z -121.25; zoom 124.03; translate x 4.63; translate y -1.95; set rotationRadius 24.95;
