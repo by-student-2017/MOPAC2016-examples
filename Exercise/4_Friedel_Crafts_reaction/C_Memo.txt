@@ -1,0 +1,56 @@
+toluene
+
+HOMO LUMO ENERGIES (EV) =         -9.330  0.520
+
+
+                (HOMO)
+
+   Root No.      18   
+
+                 4 a" 
+
+                -9.330
+  
+  S   C    1    0.0000
+  Px  C    1    0.0000
+  Py  C    1   -0.0000
+  Pz  C    1    0.5502
+
+  S   C    2   -0.0000 <- ortho
+  Px  C    2    0.0000 <- ortho
+  Py  C    2    0.0000 <- ortho
+  Pz  C    2    0.3024 <- ortho
+
+  S   C    3    0.0000 <- meta
+  Px  C    3   -0.0000 <- meta
+  Py  C    3   -0.0000 <- meta
+  Pz  C    3   -0.2642 <- meta
+
+  S   C    4    0.0000 <- para
+  Px  C    4   -0.0000 <- para
+  Py  C    4   -0.0000 <- para
+  Pz  C    4   -0.5438 <- para: Most likely site of electrophilic reaction
+
+  S   C    5    0.0000
+  Px  C    5   -0.0000
+  Py  C    5   -0.0000
+  Pz  C    5   -0.2375
+
+  S   C    6   -0.0000
+  Px  C    6    0.0000
+  Py  C    6    0.0000
+  Pz  C    6    0.3226
+
+  S   C    7    0.0000
+  Px  C    7    0.0000
+  Py  C    7    0.0000
+  Pz  C    7   -0.1603
+
+  S   H    8   -0.0000
+  S   H    9   -0.0000
+  S   H   10    0.0000
+  S   H   11   -0.0000
+  S   H   12   -0.0000
+  S   H   13   -0.0001
+  S   H   14    0.1646
+  S   H   15   -0.1645
