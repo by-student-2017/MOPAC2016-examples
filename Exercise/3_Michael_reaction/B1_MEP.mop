@@ -1,6 +1,6 @@
 AM1 CHARGE=-1 EF
 CH2CHCN <--> CH2NO2
-input file for minimum energy pathd
+input file for minimum energy path
  C(01) 0.0        0   0.0      0    0.0      0 0 0 0
  C(02) 1.4481160  1   0.0      0    0.0      0 1 0 0
  H(03) 1.0905873  1 118.676415 1    0.0      0 2 1 0
