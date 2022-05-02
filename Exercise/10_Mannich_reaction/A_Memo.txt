@@ -1,0 +1,7 @@
+bond length (C-N) [nm], ETWO/atom [eV]
+CH3-NH2:  0.14681 nm (Single bond),  -74.5351/7=-10.647
+CH3=NH :  0.12756 nm (Double bond),  -59.7342/5=-11.946
+Iminium:  0.13034 nm, -143.9076/12=-11.992
+
+Note: From the distance between "C-N", "Iminium" is close to a double bond.
+  It is even better if the two central energies between "C-N" can be compared.
