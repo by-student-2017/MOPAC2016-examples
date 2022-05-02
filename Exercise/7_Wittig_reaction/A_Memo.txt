@@ -1,0 +1,11 @@
+
+FINAL HEAT OF FORMATION (kcal/mol)
+Y    : [Ph3P-CH2Y]+, (Ph3P=CHY), difference
+H    : 214.29698, 116.20298,  -98.09408
+Me   : 212.55314, 111.63461, -100.91853
+COOMe: 144.62392,  23.91604, -120.70788
+CN   : 290.00741, 136.39537, -153.61204
+COPh : 248.61158,  97.91738, -150.6942
+
+Note: The acidity of the phosphonium salt is believed to be determined by 
+the degree of stabilization of the ylide produced.
