@@ -1,4 +1,4 @@
-PM3 CHARGE=0 IRC=-1 LARGE=100
+PM3 CHARGE=0 IRC=1 LARGE=100
 (irc)
 (GEO_DAT="C2_NLLSQ.arc")
   H    -0.00317742 +1  -0.00112863 +1   0.01476801 +1                         0.0711
