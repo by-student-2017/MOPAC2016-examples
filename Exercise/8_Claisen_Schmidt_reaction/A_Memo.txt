@@ -1,0 +1,10 @@
+
+FINAL HEAT OF FORMATION (kcal/mol)
+cis       : -39.23237 kcal/mol
+trans     : -40.90246 kcal/mol <- stable
+difference:  -1.67016 kcal/mol (trans - cis)
+
+FINAL HEAT OF FORMATION (kcal/mol) (in water)
+cis       : -47.50670 kcal/mol
+trans     : -48.54887 kcal/mol <- stable
+difference:  -1.04217 kcal/mol (trans - cis)
