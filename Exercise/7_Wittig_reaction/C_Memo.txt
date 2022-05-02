@@ -1,0 +1,7 @@
+FINAL HEAT OF FORMATION (kcal/mol)
+
+Erythro
+94.55741 kcal/mol
+
+Threo
+91.81846 kcal/mol
