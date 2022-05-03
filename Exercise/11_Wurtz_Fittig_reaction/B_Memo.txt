@@ -1,0 +1,10 @@
+         :  heat of formation
+Reactions:   56.566 kcal/mol
+TS       :   57.632 kcal/mol
+Products :  -11.211 kcal/mol
+
+Activation energy = E(TS) - E(Reactions)
+  = 57.632 - 56.566 = 1.066 [kcal/mol]
+
+PhBr + MeBr + Ph-Na -> Ph-Me + PhBr + NaBr
+(MeBe + Ph-Na -> Ph-Me + NaBr)

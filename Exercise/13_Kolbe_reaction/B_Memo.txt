@@ -1,0 +1,14 @@
+
+Note
+  The diagonal elements of "SPIN DENSITY MATRIX" represent the spin density.
+
+  The radical intermediate obtained by extracting one electron from the carboxylate anion results in asymmetric two "C-O" bonds (one "C-O" bond distance is as long as about 0.01 nm (=0.1 Angstrom)). Since the cause of the asymmetry is considered to be the localization of radical electrons, we will consider on which atom the radical electrons are localized. It turns out that the most negatively charged atom is "O10".
+
+  Since the atom in which radical electrons may exist is considered to be oxygen, the electron and spin densities of both oxygen atoms are determined.
+  
+  The diagonal elements of "SPIN DENSITY MATRIX" = (alpha - beta)
+  ATOMIC ORBITAL ELECTRON POPULATIONS            = (alpha + beta)
+
+ PX  O    9   0.034310  -0.001629  -0.001276   0.802360 <- "0.802360" is a large value.
+ 
+ The spin density is highest in the 2px orbit on "O9". The total charge is smaller than the "O10" oxygen atom, but there is a bias of alpha electrons in this orbit of the "O9" oxygen atom. Therefore, it can be seen that the radical electrons are localized on "O9". This bias of radical electrons is considered to be the cause of the unequal "C-O" distance.

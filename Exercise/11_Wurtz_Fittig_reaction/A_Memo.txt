@@ -1,0 +1,9 @@
+Note: I couldn't find the transition state. 
+The result was that sodium reacted with bromobenzene to reach a stable state.
+
+            :  heat of formation
+Ph-Br + 2Na :  29.74162 kcal/mol
+Ph-Na + NaBr: -44.69226 kcal/mol
+
+PhBr + MeBr + 2Na -> Ph-Na + MeBr + NaBr
+(Ph-Br + 2Na -> Ph-Na + NaBr)

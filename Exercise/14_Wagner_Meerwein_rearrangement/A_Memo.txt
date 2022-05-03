@@ -1,0 +1,30 @@
+
+A1_1a
+FINAL HEAT OF FORMATION =        200.14743 KCAL/MOL =     837.41685 KJ/MOL
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C          -0.159697        4.1597     1.21849     2.94121
+    2          C           0.309276        3.6907     1.34882     2.34191
+
+A2_1a
+FINAL HEAT OF FORMATION =        205.72243 KCAL/MOL =     860.74266 KJ/MOL
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C          -0.166850        4.1668     1.20849     2.95836
+    2          C           0.535013        3.4650     1.25401     2.21097
+
+
+A1_1b
+FINAL HEAT OF FORMATION =        166.43089 KCAL/MOL =     696.34686 KJ/MOL
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C           0.323793        3.6762     1.28181     2.39440
+    3          C          -0.245785        4.2458     1.22520     3.02059
+
+A2_1b
+FINAL HEAT OF FORMATION =        171.76780 KCAL/MOL =     718.67648 KJ/MOL
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C           0.404414        3.5956     1.24961     2.34597
+    3          C          -0.180410        4.1804     1.16637     3.01405
+
+Note
+  The "1b" structure is more stable in any Hamiltonian.
+  Focusing on the charge, it can be confirmed that "C2" is positive for "1a" and "C1" is positive for "1b".
+---------------------------------------------------------------------------

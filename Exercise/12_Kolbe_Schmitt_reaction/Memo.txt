@@ -1,0 +1,25 @@
+
+A: ortho
+         :  heat of formation
+Reactions: -118.525 kcal/mol
+TS       : -115.159 kcal/mol
+Products : -117.280 kcal/mol
+
+Activation energy = E(TS) - E(Reactions)
+  = -115.159 - -118.525 = 3.366 [kcal/mol]
+
+
+B: para
+         :  heat of formation
+Reactions: -120.803 kcal/mol
+TS       : -112.346 kcal/mol
+Products : -114.075 kcal/mol
+
+Activation energy = E(TS) - E(Reactions)
+  = -112.34 - -120.803 = 8.463 [kcal/mol]
+
+Note
+  Since the activation energy is lower in the ortho position, 
+it means that the ortho position is prioritized in terms of kinetics.
+  This calculation result agrees with the experimental result that 
+the ortho form has priority at low temperature.

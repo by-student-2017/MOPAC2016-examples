@@ -1,0 +1,21 @@
+
+CH3CH3CHCOO anion
+FINAL HEAT OF FORMATION =       -126.98945 KCAL/MOL =    -531.32385 KJ/MOL
+
+CH3CH3CH anion + CO2
+FINAL HEAT OF FORMATION =        -68.19617 KCAL/MOL =    -285.33278 KJ/MOL
+
+Heat of reaction = -68.19617 - -126.98945 = 58.79328 kcal/mol
+
+
+C: Radical
+         :  heat of formation
+Reactions: -54.994 kcal/mol
+TS       : -47.600 kcal/mol
+Products : -76.726 kcal/mol
+
+Heat of reaction = -76.726 - -54.994 = -21.732 kcal/mol
+
+Note
+  From the viewpoint of heat of reaction, 
+it is suggested that the reaction via the radical intermediate occurs preferentially.

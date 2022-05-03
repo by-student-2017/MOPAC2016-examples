@@ -1,0 +1,12 @@
+
+Ionization potential = -HOMO (koopman's theorem) [eV]
+            : in vaccum, in water
+CH3CH3CHCOO-: 4.086, 9.829
+CH3NH3CHCOO-: 4.177, 9.452
+CH3SHCHCOO- : 4.840, 9.253
+
+Note
+  Since it is an electrolytic reaction, the ionization potentials are compared, and the smaller the value, the easier it is to emit electrons.
+  The ionization potential approximates the orbital energy of HOMO with the opposite sign (Koopman's theorem). Therefore, by optimizing the orbital of the target molecule and comparing its HOMO energies, the difference in electrolytic potential will be explained.
+  The stable structure of the anion is obtained, and the ionization potential at that time is obtained.
+  Considering the solvent (water), it can be explained that the ionization potential of the anion having a hetero atom is very small but small, and it is oxidized at a low potential.
