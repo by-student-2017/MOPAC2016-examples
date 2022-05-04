@@ -1,0 +1,54 @@
+
+B1_1a_intermediate_VECTORS
+HOMO LUMO ENERGIES (EV) =         -9.798 -0.301
+                (HOMO)    (LUMO)
+   Root No.      41        42        43        44        45        46        47        48
+
+                41 A      42 A      43 A      44 A      45 A      46 A      47 A      48 A   
+
+                -9.798    -0.301     0.028     0.088     0.993     2.169     2.329     2.492
+  
+  S   C    3   -0.0030   -0.0702   -0.0906   -0.0597    0.0047   -0.0703    0.2169   -0.4117
+  Px  C    3   -0.0597   -0.1321   -0.0692   -0.0469    0.0044   -0.0502    0.0703   -0.2114
+  Py  C    3    0.0551    0.0496   -0.0220   -0.0066   -0.0007    0.0073    0.0228    0.0011
+  Pz  C    3    0.5398 <-
+
+
+B1_1b_intermediate_VECTORS
+HOMO LUMO ENERGIES (EV) =        -10.098 -0.313
+                (HOMO)    (LUMO)
+   Root No.      38        39        40        41        42        43        44        45
+
+                38 A      39 A      40 A      41 A      42 A      43 A      44 A      45 A   
+
+               -10.098    -0.313     0.016     0.055     0.962     2.136     2.347     2.481
+  
+  S   C    3   -0.0041    0.0766   -0.0564   -0.0878    0.0032   -0.0744   -0.3106   -0.3465
+  Px  C    3   -0.0758    0.1469   -0.0301   -0.0564    0.0028   -0.0517   -0.1145   -0.1925
+  Py  C    3    0.0444   -0.0429   -0.0158   -0.0108   -0.0005    0.0072   -0.0146    0.0010
+  Pz  C    3    0.5362 <-
+
+
+B1_1c_intermediate_VECTORS
+HOMO LUMO ENERGIES (EV) =         -9.683 -0.516
+                (HOMO)    (LUMO)
+   Root No.      41        42        43        44        45        46        47        48
+
+                41 A      42 A      43 A      44 A      45 A      46 A      47 A      48 A   
+
+                -9.683    -0.516    -0.188    -0.117     0.906     1.168     2.076     2.107
+  
+  S   C    3   -0.0017   -0.0464   -0.0479    0.1131    0.0035   -0.0166   -0.0939    0.1803
+  Px  C    3   -0.0471   -0.1096   -0.0438    0.1034    0.0033    0.0214   -0.0608    0.0465
+  Py  C    3    0.0388    0.0467   -0.0065    0.0025   -0.0007   -0.0006    0.0083    0.0194
+  Pz  C    3    0.4479 <-
+
+Note
+  The oxidation rate of the Baeyer-Villiger reaction between para-substituted acetophenone and
+ trifluoroperacetic acid is in the order of p-methyl > unsubstituted > p-chloro.
+ Estimate the reaction mechanism from the frontier orbital theory.
+ Assuming that the dislocation group attacks the oxygen atom by electron donation,
+ the larger the coefficient of "C3" in HOMO of the peroxide-added intermediate,
+ the more involved in the reaction and the easier it is to dislocate.
+  The coefficient of "C3" increases in the order of p-methyl> unsubstituted> p-chloro, 
+which is consistent with the experimental results. ,

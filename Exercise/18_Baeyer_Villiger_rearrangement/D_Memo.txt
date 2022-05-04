@@ -1,0 +1,87 @@
+
+D1_1a_OH_VECTORS
+HOMO LUMO ENERGIES (EV) =         -9.493 -0.447
+                 (HOMO)   (LUMO)
+   Root No.      23        24        25        26        27        28        29        30
+
+                 5 a"      6 a"      7 a"      8 a"     19 a'     20 a'      9 a"     21 a'  
+
+                -9.493    -0.447     0.026     1.334     2.359     2.512     2.615     2.962
+  
+  S   C    2   -0.0000   -0.0000   -0.0000    0.0000   -0.1236   -0.4384   -0.0000    0.0403
+  Px  C    2   -0.0000    0.0000    0.0000    0.0000   -0.0450   -0.0876   -0.0000    0.1485
+  Py  C    2    0.0000    0.0000    0.0000    0.0000    0.0654    0.1843   -0.0000    0.1603
+  Pz  C    2    0.5341 <-
+
+
+D1_1b_CH3_VECTORS
+HOMO LUMO ENERGIES (EV) =         -9.758 -0.474
+                 (HOMO)   (LUMO)
+   Root No.      23        24        25        26        27        28        29        30
+
+                 5 a"      6 a"      7 a"      8 a"     19 a'      9 a"     20 a'     21 a'  
+
+                -9.758    -0.474     0.170     1.337     2.507     2.659     2.946     3.146
+
+  S   C    2   -0.0000    0.0000   -0.0000    0.0000   -0.4388    0.0000    0.0383   -0.1237
+  Px  C    2    0.0000    0.0000    0.0000   -0.0000   -0.0998    0.0000    0.0056   -0.1640
+  Py  C    2    0.0000    0.0000   -0.0000   -0.0000    0.2097   -0.0000   -0.1023   -0.2046
+  Pz  C    2    0.5480 <-
+
+
+D1_1c_H_VECTORS
+HOMO LUMO ENERGIES (EV) =        -10.051 -0.484
+                 (HOMO)   (LUMO)
+   Root No.      20        21        22        23        24        25        26        27
+
+                 4 a"      5 a"      6 a"      7 a"     17 a'      8 a"     18 a'     19 a'  
+
+               -10.051    -0.484     0.112     1.332     2.455     2.667     3.020     3.142
+
+  S   C    2    0.0000   -0.0000    0.0000    0.0000   -0.4419   -0.0000   -0.0330   -0.1364
+  Px  C    2    0.0000    0.0000   -0.0000    0.0000   -0.1004   -0.0000   -0.0187   -0.1796
+  Py  C    2   -0.0000    0.0000   -0.0000    0.0000    0.2114   -0.0000   -0.1793   -0.1896
+  Pz  C    2   -0.3587 <-
+
+
+D1_1d_NO2_VECTORS
+HOMO LUMO ENERGIES (EV) =        -10.825 -1.684
+                 (HOMO)   (LUMO)
+   Root No.      28        29        30        31        32        33        34        35
+
+                 6 a"      7 a"      8 a"      9 a"     10 a"     23 a'     24 a'     11 a"  
+
+               -10.825    -1.684    -0.642     0.100     0.815     1.038     1.761     1.876
+
+  S   C    2   -0.0000   -0.0000   -0.0002    0.0000    0.0002   -0.0079   -0.4736   -0.0017
+  Px  C    2   -0.0000   -0.0006    0.0000   -0.0011   -0.0006    0.0127   -0.0946   -0.0012
+  Py  C    2    0.0001   -0.0003   -0.0001   -0.0006   -0.0004   -0.0245    0.1904    0.0002
+  Pz  C    2    0.0480 <-
+
+
+Note
+  It is known that in the Baeyer-villiger reaction,
+ the aryl group is more easily rearranged than the alkyl group.
+  In addition, electron-donating substituents facilitate the reaction.
+
+Note
+  This is the site where the carbon atom "C2" of the phenyl group bonded to
+ the carbon atom of the aldehyde is rearranged. The larger the coefficient of "C2" in HOMO,
+ the easier it is to rearrange.
+
+Note
+  Those having an electron-donating substituent (-OH, -CH3) have a larger coefficient of carbon "C2",
+ and electron-donating property occurs. However, the relationship between -OH and -CH3 does not match
+ the experimental results.
+
+Note
+  Since it is considered that the larger the activation energy of the rearrangement reaction is,
+ the more difficult it is to react, the reaction expected from the magnitude of the activation energy in
+ the aryl rearrangement reaction is in agreement with the experimental results.
+
+Note
+  This reaction is rate-determining in the rearrangement reaction that occurs after the addition of peroxide,
+ which is consistent with the report by Stoute et al. The ease of dislocation is affected by the magnitude of
+ electron donation at the site of dislocation (the magnitude of the coefficient in HOMO in the calculation),
+ and the activation of the reaction can be seen to see the difference in reactivity due to
+ the influence of substituents. Just compare the energies.
