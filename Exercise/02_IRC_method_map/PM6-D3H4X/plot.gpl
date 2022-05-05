@@ -1,0 +1,23 @@
+#!/usr/bin/gnuplot
+
+#set key outside
+#set key below 
+set nokey
+
+set title "Contour Map"
+set xlabel "Amount of change in interatomic distance, dr_1 [Angstrom]"
+set ylabel "Amount of change in interatomic distance, dr_2 [Angstrom]"
+#set cbrange[0:0.095]
+set pm3d map interpolate 46,46
+set contour
+set cntrparam levels 46
+set palette
+set mxtics 2
+set mytics 2
+set grid xtics mxtics
+set grid ytics mytics
+splot "plot_mep.ump" t "MEP"
+
+set terminal png truecolor enhanced
+set out "plot.png"
+replot

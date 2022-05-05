@@ -5,10 +5,3 @@ Products : 156.576 kcal/mol
 
 Activation energy = E(TS) - E(Reactions)
   = 165.319 - 147.633 = 17.686 [kcal/mol]
-
-
-Ref. 2-Ethoxynaphthalene + cation
-         :  heat of formation (PM3 method)
-Reactions: 156.8 kcal/mol
-TS       : 171.2 kcal/mol
-Products : 163.1 kcal/mol
