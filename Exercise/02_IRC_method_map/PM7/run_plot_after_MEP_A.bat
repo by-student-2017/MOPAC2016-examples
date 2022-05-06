@@ -2,7 +2,9 @@ set Series=A
 
 @echo off
 
-del plot_mep.ump
+if exist plot_mep.ump (
+  del plot_mep.ump
+)
 
 set INPUT_FILE=%Series%1_MEP.ump
 
