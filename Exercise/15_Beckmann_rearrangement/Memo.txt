@@ -1,0 +1,5 @@
+The transition state of the rearrangement reaction and the stability in the product are compared. By comparing the activation energies from the original system to the transition state, it can be explained that if the phenyl group rearrangement is smaller than the methyl group rearrangement, the phenyl group is likely to be rearranged.
+
+Since I did not get one result with one imaginary frequency in the calculation of the methyl group dislocation, it is highly possible that the activation energy is slightly higher than it should be.
+
+It is necessary to further investigate whether the phenyl group rearrangement is advantageous.
