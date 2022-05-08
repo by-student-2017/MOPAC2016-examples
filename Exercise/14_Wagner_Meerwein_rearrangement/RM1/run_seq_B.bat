@@ -1,4 +1,7 @@
-set Series=F
+set Series=B
+
+set JMol=C:\jmol-14.30.2\Jmol.jar
+
 
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%1_MEP.mop
 
@@ -10,8 +13,8 @@ pause
 
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%4_IRC_products.mop
 
-REM C:\jmol-14.30.2\Jmol.jar %Series%4_IRC_products.xyz
+%JMol% %Series%4_IRC_products.xyz
 
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%4_IRC_reactions.mop
 
-REM C:\jmol-14.30.2\Jmol.jar %Series%4_IRC_reactions.xyz
+%JMol% %Series%4_IRC_reactions.xyz
