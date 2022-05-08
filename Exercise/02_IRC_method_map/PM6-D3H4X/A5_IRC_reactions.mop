@@ -1,6 +1,6 @@
 PM6-D3H4X CHARGE=0 IRC=1 LARGE=100 LET
 (irc)
-(GEO_DAT="A2_SADLLE.arc" or GEO_DAT="A2_TS.arc")
+(GEO_REF="A2_SADLLE.arc" or GEO_REF="A2_TS.arc")
   C    -0.07670414 +1   0.04427013 +1   0.03062254 +1                        -0.0988
  Br     2.34766195 +1  -0.12685396 +1  -0.15775584 +1                        -0.7049
   H     0.06830007 +1   1.13178324 +1  -0.01271314 +1                         0.1602

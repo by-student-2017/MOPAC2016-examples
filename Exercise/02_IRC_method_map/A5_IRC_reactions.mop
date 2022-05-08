@@ -1,6 +1,6 @@
 PM3 CHARGE=0 IRC=1 LARGE=100 LET
 (irc)
-(GEO_DAT="A2_SADLLE.arc" or GEO_DAT="A2_TS.arc")
+(GEO_REF="A2_SADLLE.arc" or GEO_REF="A2_TS.arc")
   C    -0.05004305 +1  -0.29911155 +1  -0.35254568 +1                         0.1792
  Br     2.22153286 +1  -0.59729802 +1  -0.49460647 +1                        -0.5878
   H     0.12119246 +1   0.77208054 +1  -0.30883565 +1                         0.0679

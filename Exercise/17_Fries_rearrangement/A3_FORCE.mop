@@ -1,6 +1,6 @@
 PM7 CHARGE=1 FORCE LET
 ortho (in vaccum)
-Force calculation (GEO_DAT="A2_TS.arc")
+Force calculation (GEO_REF="A2_TS.arc")
   C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0 -0.4697
   C     2.33846988 +1    0.0000000 +0    0.0000000 +0     1     0     0  0.5965
   C     1.40807870 +1   89.0318268 +1    0.0000000 +0     1     2     0  0.4499

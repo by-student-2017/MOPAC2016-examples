@@ -1,6 +1,6 @@
 PM6-D3H4 CHARGE=0 FORCE LET
 Title
-Force calculation (GEO_DAT="B2_TS.arc")
+Force calculation (GEO_REF="B2_TS.arc")
   C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0 -0.2824
   C     1.38381104 +1    0.0000000 +0    0.0000000 +0     1     0     0 -0.2825
   H     1.09107495 +1  119.5976308 +1    0.0000000 +0     1     2     0  0.1451
