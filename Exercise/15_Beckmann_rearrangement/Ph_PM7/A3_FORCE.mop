@@ -1,6 +1,6 @@
 PM7 CHARGE=1 EPS=78.4 UHF FORCE LET
 Phenyl group
-Force calculation (GEO_REF="A2_TS.arc")
+Force calculation (GEO_DAT="A2_TS.arc")
   N     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0 -0.0690
   C     1.23759893 +1    0.0000000 +0    0.0000000 +0     1     0     0  0.3069
   C     1.44021438 +1  153.3739695 +1    0.0000000 +0     2     1     0 -0.4580
