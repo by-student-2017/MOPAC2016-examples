@@ -1,6 +1,6 @@
 PM7 CHARGE=1 FORCE LET
 para-toluene
-Force calculation (GEO_REF="F2_TS.arc")
+Force calculation (GEO_DAT="F2_TS.arc")
   C(01)   0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0 -0.3562
   C(02)   1.41254278 +1    0.0000000 +0    0.0000000 +0     1     0     0 -0.0592
   C(03)   1.38350697 +1  120.1769423 +1    0.0000000 +0     2     1     0 -0.2305
