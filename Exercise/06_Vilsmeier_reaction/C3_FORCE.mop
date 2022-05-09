@@ -1,6 +1,6 @@
 PM3 CHARGE=1 FORCE LET
 anisole + cation 
-Force calculation (GEO_REF="C2_TS.arc")
+Force calculation (GEO_DAT="C2_TS.arc")
   C(01)   0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0  0.2751
   C(02)   1.42361061 +1    0.0000000 +0    0.0000000 +0     1     0     0 -0.1987
   C(03)   1.36851854 +1  119.5628617 +1    0.0000000 +0     2     1     0  0.0290
