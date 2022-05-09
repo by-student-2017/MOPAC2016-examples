@@ -1,6 +1,6 @@
 PM3 CHARGE=0 FORCE LET
 Title
-Force calculation (GEO_REF="A2_SADLLE.arc" or GEO_REF="A2_TS.arc")
+Force calculation (GEO_DAT="A3_SADLLE.arc" or GEO_DAT="A3_TS.arc")
   C    -0.09555371 +1  -0.28940839 +1  -0.34673812 +1                         0.1634
  Br     2.23457247 +1  -0.60071900 +1  -0.49680921 +1                        -0.6542
   H     0.12637025 +1   0.77430431 +1  -0.29280275 +1                         0.0725

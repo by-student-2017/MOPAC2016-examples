@@ -2,6 +2,7 @@ set Series=A
 
 set JMol=C:\jmol-14.30.2\Jmol.jar
 
+
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%1_MEP.mop
 
 pause
