@@ -1,6 +1,6 @@
 AM1 EPS=78.4 CHARGE=0 FORCE LET
 trans(fr)
-Force calculation (GEO_REF="B2_TS.arc")
+Force calculation (GEO_DAT="B2_TS.arc")
   C(01)   0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0 -0.0826
   C(02)   1.40901609 +1    0.0000000 +0    0.0000000 +0     1     0     0 -0.1247
   C(03)   1.39524839 +1  120.3714448 +1    0.0000000 +0     2     1     0 -0.1420

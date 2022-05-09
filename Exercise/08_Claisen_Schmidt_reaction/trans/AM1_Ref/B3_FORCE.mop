@@ -1,0 +1,3 @@
+AM1 EPS=78.4 CHARGE=0 FORCE LET GEO_DAT="B2_TS.arc"
+trans(fr)
+
