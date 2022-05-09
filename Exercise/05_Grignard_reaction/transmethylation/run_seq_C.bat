@@ -13,7 +13,7 @@ pause
 
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%4_IRC_products.mop
 
-%JMol% %Series%4_IRC_products.xyz
+start %JMol% %Series%4_IRC_products.xyz
 
 "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%4_IRC_reactions.mop
 
