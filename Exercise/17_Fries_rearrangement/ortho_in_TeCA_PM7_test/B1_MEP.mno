@@ -1,0 +1,3308 @@
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 22.066W, James J. P. Stewart,   **
+ **                           web-site: HTTP://OpenMOPAC.net.                 **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Tue May 10 09:58:10 2022  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = +1
+ *
+ *
+ *
+ *  EPS=8.2    - USE ANDREAS KLAMT'S COSMO IMPLICIT SOLVATION MODEL
+ *  EF         - USE EF ROUTINE FOR MINIMUM SEARCH
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *******************************************************************************
+
+
+           POINTS ON REACTION COORDINATE
+              1.45    1.50    1.60    1.70    1.80    1.90    2.00    2.05
+              2.10    2.15    2.20    2.30    2.40    2.50    2.60
+PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.45000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.36964800  *  117.7509480  *    0.0000000        1     2     0
+     4       C          1.49805000  *  117.0736400  *  147.5715400  *     1     2     3
+     5       O          1.22229600  *  119.1193700  * -128.0319140  *     2     1     3
+     6       C          1.49939400  *  119.6755000  *  160.8170000  *     3     1     2
+     7       C          1.34081700  *  121.7555000  * -158.8877340  *     4     1     2
+     8       C          1.33872400  *  120.6419920  *   -7.7797540  *     6     3     1
+     9       O          1.36093800  *  119.8098220  *  -19.5798370  *     3     1     2
+    10       H          1.08640500  *  119.5368120  *   22.9265510  *     4     1     2
+    11       H          1.08538000  *  120.2327870  * -178.2586830  *     7     4     1
+    12       H          1.08354400  *  121.0819450  *  173.6625360  *     6     3     1
+    13       H          1.08544200  *  120.2719420  * -178.9096240  *     8     6     3
+    14      Al          1.82916700  *  130.6135570  * -179.7178000  *     9     3     1
+    15      Cl          2.21102500  *  109.6607340  *  -59.8835860  *    14     9     3
+    16      Cl          2.21140400  *  109.7458850  *   60.8852670  *    14     9     3
+    17       H          1.08779200  *   98.9586580  * -105.4888110  *     1     2     3
+    18       C          1.50690900  *  123.1395070  *   54.3336580  *     2     1     3
+    19       H          1.10875400  *  112.2914110  *    1.7772290  *    18     2     1
+    20       H          1.11013600  *  109.6798480  * -119.9042270  *    18     2     1
+    21       H          1.11016200  *  109.2004280  *  120.7043610  *    18     2     1
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C          0.0000      0.0000      0.0000
+     2         C          1.4500      0.0000      0.0000
+     3         C         -0.6377      1.2121      0.0000
+     4         C         -0.6818     -1.1259     -0.7153
+     5         O          2.0448     -0.6579     -0.8411
+     6         C         -2.0723      1.2961     -0.4281
+     7         C         -1.9500     -1.0275     -1.1393
+     8         C         -2.6903      0.2323     -0.9558
+     9         O          0.0318      2.3289      0.3957
+    10         H         -0.1504     -2.0603     -0.8727
+    11         H         -2.4290     -1.8687     -1.6301
+    12         H         -2.6287      2.2218     -0.3410
+    13         H         -3.7237      0.3048     -1.2799
+    14        Al         -0.5209      4.0683      0.5171
+    15        Cl         -1.1667      4.7842     -1.4727
+    16        Cl         -2.1974      4.2212      1.9510
+    17         H         -0.1694     -0.2870      1.0355
+    18         C          2.2738      0.7357      1.0251
+    19         H          1.6451      1.2420      1.7852
+    20         H          2.9145      1.4883      0.5197
+    21         H          2.9216      0.0110      1.5613
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 34
+
+  ABOUT TO ENTER EF FROM PATH
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.234 TIME LEFT:  2.00D  GRAD.:   276.290 HEAT:  16.65309
+ CYCLE:     2 TIME:   0.184 TIME LEFT:  2.00D  GRAD.:   493.160 HEAT:  9.112341
+ CYCLE:     3 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:   185.318 HEAT: -6.965648
+ CYCLE:     4 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:   165.627 HEAT: -20.13825
+ CYCLE:     5 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    59.608 HEAT: -31.50525
+ CYCLE:     6 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    69.575 HEAT: -37.65098
+ CYCLE:     7 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:   107.247 HEAT: -38.91577
+ CYCLE:     8 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    61.825 HEAT: -42.89673
+ CYCLE:     9 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:    59.148 HEAT: -43.40705
+ CYCLE:    10 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    26.721 HEAT: -44.84027
+ CYCLE:    11 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    19.718 HEAT: -45.37011
+ CYCLE:    12 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    19.013 HEAT: -45.88749
+ CYCLE:    13 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    22.317 HEAT: -46.74399
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    20.772 HEAT: -48.54058
+ CYCLE:    15 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    43.600 HEAT: -49.77582
+ CYCLE:    16 TIME:   0.055 TIME LEFT:  2.00D  GRAD.:   115.366 HEAT: -50.54752
+ CYCLE:    17 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:   158.746 HEAT: -50.90860
+ CYCLE:    18 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:   148.226 HEAT: -55.98341
+ CYCLE:    19 TIME:   0.090 TIME LEFT:  2.00D  GRAD.:   147.641 HEAT: -59.99705
+ CYCLE:    20 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    91.312 HEAT: -64.97800
+ CYCLE:    21 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:   104.820 HEAT: -67.13364
+
+
+ ALL CONVERGERS ARE NOW FORCED ON
+ SHIFT=10, PULAY ON, CAMP-KING ON
+ AND ITERATION COUNTER RESET
+
+
+ CYCLE:    22 TIME:   2.797 TIME LEFT:  2.00D  GRAD.:    51.582 HEAT: -68.35280
+ CYCLE:    23 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    81.141 HEAT: -68.94473
+ CYCLE:    24 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    28.350 HEAT: -69.58903
+ CYCLE:    25 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    43.903 HEAT: -69.71376
+ CYCLE:    26 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    37.175 HEAT: -69.95081
+ CYCLE:    27 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    28.602 HEAT: -70.13937
+ CYCLE:    28 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    12.837 HEAT: -70.24396
+ CYCLE:    29 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    10.421 HEAT: -70.33143
+ CYCLE:    30 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     7.220 HEAT: -70.38147
+ CYCLE:    31 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     9.193 HEAT: -70.47779
+ CYCLE:    32 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     6.754 HEAT: -70.51156
+ CYCLE:    33 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     2.054 HEAT: -70.58255
+ CYCLE:    34 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     6.031 HEAT: -70.62208
+ CYCLE:    35 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     8.965 HEAT: -70.67971
+ CYCLE:    36 TIME:   0.121 TIME LEFT:  2.00D  GRAD.:     3.729 HEAT: -70.70764
+ CYCLE:    37 TIME:   0.320 TIME LEFT:  2.00D  GRAD.:     1.983 HEAT: -70.70997
+ CYCLE:    38 TIME:   0.301 TIME LEFT:  2.00D  GRAD.:     1.757 HEAT: -70.70634
+ CYCLE:    39 TIME:   0.414 TIME LEFT:  2.00D  GRAD.:     1.671 HEAT: -70.70659
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+  OPTIMIZED VALUES OF PARAMETERS, INITIAL POINT
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:16 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -70.70995 KCAL/MOL =    -295.85045 KJ/MOL
+          VAN DER WAALS AREA      =        225.92 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.37584 EV
+          COSMO AREA              =        225.92 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.12 CUBIC ANGSTROMS
+          GRADIENT NORM           =          1.98347          =       0.43283 PER ATOM
+          FOR REACTION COORDINATE =          1.45000 ANGSTROMS
+          REACTION GRADIENT       =        -57.39871 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         11.362728 EV
+          HOMO LUMO ENERGIES (EV) =        -11.363 -2.877
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     7.99815
+            H    21    H    12     5.77106
+            H    17   Cl    16     4.26927
+          SCF CALCULATIONS        =         78
+ 
+          WALL-CLOCK TIME         =          6.316 SECONDS
+          COMPUTATION TIME        =         10.359 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.45000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.50541656  *  113.1271448  *    0.0000000        1     2     0
+     4       C          1.49644415  *  113.4734955  *  129.6325035  *     1     2     3
+     5       O          1.20445636  *  122.4892876  * -119.0970353  *     2     1     3
+     6       C          1.40948652  *  122.3583945  *  141.4377860  *     3     1     2
+     7       C          1.34939793  *  122.0997559  * -139.3324112  *     4     1     2
+     8       C          1.36990233  *  119.6237463  *   -6.7731577  *     6     3     1
+     9       O          1.26509529  *  117.2799894  *  -38.2676925  *     3     1     2
+    10       H          1.09883210  *  115.3357311  *   42.5579701  *     4     1     2
+    11       H          1.09809876  *  120.8623408  * -177.6738531  *     7     4     1
+    12       H          1.09832523  *  118.6413463  *  174.7829921  *     6     3     1
+    13       H          1.10290681  *  120.6369740  * -179.3908492  *     8     6     3
+    14      Al          1.82053230  *  148.7240001  *    4.7737322  *     9     3     1
+    15      Cl          2.01953990  *  115.2693964  *  -99.1453583  *    14     9     3
+    16      Cl          2.02748870  *  111.7293226  *  113.2073388  *    14     9     3
+    17       H          1.17274800  *  108.6005793  * -116.3372994  *     1     2     3
+    18       C          1.52063898  *  118.2736393  *   61.2822865  *     2     1     3
+    19       H          1.16342690  *  114.0496772  *   20.6823087  *    18     2     1
+    20       H          1.16764567  *  110.6385615  * -116.6121970  *    18     2     1
+    21       H          1.13282025  *  108.7519041  *  133.3815535  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.450000000     0.000000000     0.000000000
+   3    C       -0.591286759     1.384434542     0.000000000
+   4    C       -0.596070821    -0.875531231    -1.057113869
+   5    O        2.096963990    -0.494046090    -0.887733726
+   6    C       -1.743748634     1.712521622    -0.742187800
+   7    C       -1.676992311    -0.501062332    -1.772834873
+   8    C       -2.279677033     0.791521067    -1.603100760
+   9    O       -0.007191898     2.264412882     0.696374471
+  10    H       -0.112366091    -1.853817304    -1.185246917
+  11    H       -2.120685526    -1.175196534    -2.517482637
+  12    H       -2.173489591     2.717105607    -0.630599121
+  13    H       -3.175188645     1.034078157    -2.199446663
+  14   Al        1.396490838     2.729135007     1.758469554
+  15   Cl        1.029521244     2.677596031     3.743719784
+  16   Cl        2.577761474     4.120250916     0.875233087
+  17    H       -0.374070129    -0.493117647     0.996114647
+  18    C        2.170300937     0.643487915     1.174492561
+  19    H        1.519510214     0.741271682     2.133904841
+  20    H        2.796332220     1.563021594     0.819613621
+  21    H        2.991680805    -0.053830293     1.524298439
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -34.23279 -33.12040 -31.88535 -29.85030 -28.10301 -27.30617 -26.98195 -26.29422
+ -24.51574 -22.69560 -21.45901 -20.23024 -19.13937 -18.63600 -18.45789 -17.76193
+ -17.20935 -16.75028 -16.28703 -16.04983 -15.71327 -15.17769 -14.77730 -14.64643
+ -14.19835 -14.07993 -13.61011 -13.45412 -13.24052 -12.99037 -12.59450 -12.20830
+ -12.05242 -11.36273  -2.87727  -1.24952  -1.09645  -0.20221   0.14189   0.38539
+   0.41002   0.79675   1.14294   1.19105   1.56468   2.07731   2.17980   2.38190
+   2.64440   2.86336   2.95460   3.23824   3.35473   3.51127   3.76301   4.29757
+   4.36130   4.47355   4.83133   4.93516  16.58330  16.81891  17.49296  18.28700
+  18.67751  68.99276  69.11062  69.44669  69.66666  69.74579  69.94433  69.94971
+  70.31345  70.57173  70.83681
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.411353        4.4114     1.07946     3.33189
+    2          C           0.537198        3.4628     1.09272     2.37009
+    3          C           0.678491        3.3215     1.11894     2.20257
+    4          C           0.036215        3.9638     1.11294     2.85084
+    5          O          -0.416546        6.4165     1.87827     4.53828
+    6          C          -0.390533        4.3905     1.08089     3.30964
+    7          C          -0.267949        4.2679     1.08615     3.18180
+    8          C           0.163427        3.8366     1.12399     2.71258
+    9          O          -0.537115        6.5371     1.67002     4.86710
+   10          H           0.200768        0.7992     0.79923
+   11          H           0.209642        0.7904     0.79036
+   12          H           0.231635        0.7684     0.76836
+   13          H           0.200437        0.7996     0.79956
+   14         Al           0.480457        2.5195     0.22139     1.34634     0.95181
+   15         Cl          -0.161395        7.1614     1.95461     5.20365     0.00313
+   16         Cl          -0.184823        7.1848     1.95488     5.22678     0.00317
+   17          H           0.315266        0.6847     0.68473
+   18          C          -0.466110        4.4661     1.04705     3.41906
+   19          H           0.244361        0.7556     0.75564
+   20          H           0.261098        0.7389     0.73890
+   21          H           0.276829        0.7232     0.72317
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -5.831    -8.124    -2.732    10.367
+ HYBRID         0.141     0.285     0.260     0.411
+ SUM           -5.690    -7.840    -2.472     9.998
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.07946   1.08241   1.06162   1.18786
+    2  C   1.09272   0.85408   0.71438   0.80163
+    3  C   1.11894   0.78450   0.77037   0.64770
+    4  C   1.11294   0.94667   1.04043   0.86374
+    5  O   1.87827   1.70531   1.40484   1.42813
+    6  C   1.08089   1.05822   1.15158   1.09984
+    7  C   1.08615   1.03821   1.04767   1.09592
+    8  C   1.12399   0.95038   0.92023   0.84197
+    9  O   1.67002   1.66665   1.60950   1.59094
+   10  H   0.79923
+   11  H   0.79036
+   12  H   0.76836
+   13  H   0.79956
+   14 Al   0.22139   0.41555   0.42479   0.50601   0.16540   0.20569   0.22199   0.18455   0.17419
+   15 Cl   1.95461   1.80387   1.81899   1.58079   0.00051   0.00078   0.00034   0.00104   0.00046
+   16 Cl   1.95488   1.74754   1.69213   1.78711   0.00106   0.00038   0.00072   0.00036   0.00066
+   17  H   0.68473
+   18  C   1.04705   1.16768   1.17839   1.07299
+   19  H   0.75564
+   20  H   0.73890
+   21  H   0.72317
+ CYCLE:     1 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    36.269 HEAT: -72.29864
+ CYCLE:     2 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    34.995 HEAT: -72.30120
+ CYCLE:     3 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    33.788 HEAT: -72.30457
+ CYCLE:     4 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    32.430 HEAT: -72.30929
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    30.767 HEAT: -72.31519
+ CYCLE:     6 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    28.662 HEAT: -72.32246
+ CYCLE:     7 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    24.580 HEAT: -72.32729
+ CYCLE:     8 TIME:   0.090 TIME LEFT:  2.00D  GRAD.:    22.098 HEAT: -72.33588
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+ ********************************************************************************
+
+                 REACTION COORDINATE =       1.5000  ANGSTROMS 
+
+ ********************************************************************************
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:17 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -72.33589 KCAL/MOL =    -302.65337 KJ/MOL
+          VAN DER WAALS AREA      =        226.45 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.35895 EV
+          COSMO AREA              =        226.45 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.80 CUBIC ANGSTROMS
+          GRADIENT NORM           =         22.09812          =       4.82220 PER ATOM
+          FOR REACTION COORDINATE =          1.50000 ANGSTROMS
+          REACTION GRADIENT       =         -7.20003 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         11.348435 EV
+          HOMO LUMO ENERGIES (EV) =        -11.348 -2.866
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     7.99730
+            H    21    H    12     5.80154
+            H    17   Cl    16     4.27386
+          SCF CALCULATIONS        =         12
+ 
+          WALL-CLOCK TIME         =          6.789 SECONDS
+          COMPUTATION TIME        =         11.188 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE        GRADIENT
+      1          3  C    BOND            1.504619      7.311894  KCAL/ANGSTROM
+      2          3  C    ANGLE         113.056351     10.235894  KCAL/RADIAN  
+      3          4  C    BOND            1.496036      4.377787  KCAL/ANGSTROM
+      4          4  C    ANGLE         113.460849      2.076253  KCAL/RADIAN  
+      5          4  C    DIHEDRAL      129.620710      2.498745  KCAL/RADIAN  
+      6          5  O    BOND            1.203765      6.981820  KCAL/ANGSTROM
+      7          5  O    ANGLE         122.462131      5.061886  KCAL/RADIAN  
+      8          5  O    DIHEDRAL      240.900323      0.510060  KCAL/RADIAN  
+      9          6  C    BOND            1.409467      0.231136  KCAL/ANGSTROM
+     10          6  C    ANGLE         122.350387      1.795446  KCAL/RADIAN  
+     11          6  C    DIHEDRAL      141.438304     -0.090934  KCAL/RADIAN  
+     12          7  C    BOND            1.349441     -0.487678  KCAL/ANGSTROM
+     13          7  C    ANGLE         122.093989      1.317228  KCAL/RADIAN  
+     14          7  C    DIHEDRAL      220.666561      0.147588  KCAL/RADIAN  
+     15          8  C    BOND            1.369930     -0.353646  KCAL/ANGSTROM
+     16          8  C    ANGLE         119.617677      1.289402  KCAL/RADIAN  
+     17          8  C    DIHEDRAL      353.225113      0.314577  KCAL/RADIAN  
+     18          9  O    BOND            1.265064     -0.395603  KCAL/ANGSTROM
+     19          9  O    ANGLE         117.223951      7.093065  KCAL/RADIAN  
+     20          9  O    DIHEDRAL      321.761642     -4.839620  KCAL/RADIAN  
+     21         10  H    BOND            1.098810      0.228676  KCAL/ANGSTROM
+     22         10  H    ANGLE         115.336419     -0.149373  KCAL/RADIAN  
+     23         10  H    DIHEDRAL       42.556593      0.253185  KCAL/RADIAN  
+     24         11  H    BOND            1.098090      0.119203  KCAL/ANGSTROM
+     25         11  H    ANGLE         120.862873     -0.129694  KCAL/RADIAN  
+     26         11  H    DIHEDRAL      182.326352     -0.047574  KCAL/RADIAN  
+     27         12  H    BOND            1.098325     -0.000259  KCAL/ANGSTROM
+     28         12  H    ANGLE         118.641109      0.035706  KCAL/RADIAN  
+     29         12  H    DIHEDRAL      174.783088     -0.020989  KCAL/RADIAN  
+     30         13  H    BOND            1.102898      0.101634  KCAL/ANGSTROM
+     31         13  H    ANGLE         120.636848      0.019095  KCAL/RADIAN  
+     32         13  H    DIHEDRAL      180.608943      0.038044  KCAL/RADIAN  
+     33         14 Al    BOND            1.820376      1.357354  KCAL/ANGSTROM
+     34         14 Al    ANGLE         211.307518     -3.772393  KCAL/RADIAN  
+     35         14 Al    DIHEDRAL      184.786914     -2.343592  KCAL/RADIAN  
+     36         15 Cl    BOND            2.019477      0.409846  KCAL/ANGSTROM
+     37         15 Cl    ANGLE         115.271412     -0.391097  KCAL/RADIAN  
+     38         15 Cl    DIHEDRAL      260.857041     -0.318758  KCAL/RADIAN  
+     39         16 Cl    BOND            2.027450      0.145674  KCAL/ANGSTROM
+     40         16 Cl    ANGLE         111.730763     -0.270916  KCAL/RADIAN  
+     41         16 Cl    DIHEDRAL      113.206619      0.012333  KCAL/RADIAN  
+     42         17  H    BOND            1.172423      3.451725  KCAL/ANGSTROM
+     43         17  H    ANGLE         108.586055      2.738261  KCAL/RADIAN  
+     44         17  H    DIHEDRAL      243.663063     -0.058162  KCAL/RADIAN  
+     45         18  C    BOND            1.520366      3.154685  KCAL/ANGSTROM
+     46         18  C    ANGLE         118.216975      9.369698  KCAL/RADIAN  
+     47         18  C    DIHEDRAL       61.270715      1.086010  KCAL/RADIAN  
+     48         19  H    BOND            1.163381      0.302959  KCAL/ANGSTROM
+     49         19  H    ANGLE         114.049076      0.184630  KCAL/RADIAN  
+     50         19  H    DIHEDRAL       20.684399     -0.626279  KCAL/RADIAN  
+     51         20  H    BOND            1.167536      0.960099  KCAL/ANGSTROM
+     52         20  H    ANGLE         110.640403     -0.248952  KCAL/RADIAN  
+     53         20  H    DIHEDRAL      243.397429     -1.554591  KCAL/RADIAN  
+     54         21  H    BOND            1.132790      0.217632  KCAL/ANGSTROM
+     55         21  H    ANGLE         108.752610     -0.113788  KCAL/RADIAN  
+     56         21  H    DIHEDRAL      133.383275     -0.313404  KCAL/RADIAN  
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.50000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.50461888  *  113.0563509  *    0.0000000        1     2     0
+     4       C          1.49603622  *  113.4608485  *  129.6207098  *     1     2     3
+     5       O          1.20376476  *  122.4621312  * -119.0996767  *     2     1     3
+     6       C          1.40946727  *  122.3503872  *  141.4383042  *     3     1     2
+     7       C          1.34944055  *  122.0939893  * -139.3334393  *     4     1     2
+     8       C          1.36992979  *  119.6176766  *   -6.7748871  *     6     3     1
+     9       O          1.26506438  *  117.2239507  *  -38.2383585  *     3     1     2
+    10       H          1.09881034  *  115.3364195  *   42.5565929  *     4     1     2
+    11       H          1.09808970  *  120.8628726  * -177.6736478  *     7     4     1
+    12       H          1.09832547  *  118.6411091  *  174.7830881  *     6     3     1
+    13       H          1.10289809  *  120.6368476  * -179.3910568  *     8     6     3
+    14      Al          1.82037586  *  148.6924818  *    4.7869142  *     9     3     1
+    15      Cl          2.01947650  *  115.2714123  *  -99.1429587  *    14     9     3
+    16      Cl          2.02744952  *  111.7307627  *  113.2066195  *    14     9     3
+    17       H          1.17242302  *  108.5860548  * -116.3369372  *     1     2     3
+    18       C          1.52036641  *  118.2169750  *   61.2707151  *     2     1     3
+    19       H          1.16338078  *  114.0490762  *   20.6843987  *    18     2     1
+    20       H          1.16753568  *  110.6404029  * -116.6025714  *    18     2     1
+    21       H          1.13278989  *  108.7526101  *  133.3832752  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.500000000     0.000000000     0.000000000
+   3    C       -0.589263314     1.384430102     0.000000000
+   4    C       -0.595605424    -0.875158869    -1.057107141
+   5    O        2.146111181    -0.493952300    -0.887468909
+   6    C       -1.741320048     1.713748384    -0.742234956
+   7    C       -1.676508745    -0.500574137    -1.772875318
+   8    C       -2.278149169     0.793179784    -1.603092422
+   9    O       -0.002927728     2.262966346     0.696256081
+  10    H       -0.111744526    -1.853324612    -1.185382516
+  11    H       -2.120062902    -1.174531163    -2.517752912
+  12    H       -2.169928037     2.718826907    -0.630739661
+  13    H       -3.173362966     1.036588718    -2.199522250
+  14   Al        1.402803923     2.723599645     1.757153693
+  15   Cl        1.037864458     2.671382643     3.742695913
+  16   Cl        2.586408771     4.112584593     0.873778390
+  17    H       -0.373684775    -0.493016750     0.995926663
+  18    C        2.218847252     0.643951753     1.174776061
+  19    H        1.567206777     0.741575726     2.133571711
+  20    H        2.844556877     1.563739908     0.820351477
+  21    H        3.040256849    -0.052863401     1.525415275
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -34.07598 -33.09318 -31.86220 -29.72958 -28.02692 -27.27436 -26.98641 -26.29082
+ -24.39047 -22.66513 -21.43588 -20.20330 -19.03028 -18.58591 -18.42399 -17.76209
+ -17.20291 -16.72487 -16.30707 -16.03809 -15.68460 -15.18042 -14.79871 -14.65617
+ -14.21159 -14.08639 -13.60839 -13.45127 -13.23691 -12.99181 -12.59358 -12.19744
+ -12.06565 -11.34843  -2.86584  -1.22273  -1.07852  -0.20131   0.13018   0.36652
+   0.39277   0.81296   1.02157   1.22726   1.56661   2.07559   2.16779   2.39501
+   2.63264   2.87524   2.95892   3.25542   3.37135   3.51546   3.78041   4.28824
+   4.37320   4.48568   4.84222   4.94579  16.56410  16.79044  17.45370  18.25126
+  18.65517  68.97508  69.09382  69.43054  69.64986  69.73062  69.92854  69.93404
+  70.30027  70.55602  70.82504
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.404367        4.4044     1.08765     3.31672
+    2          C           0.541210        3.4588     1.10477     2.35402
+    3          C           0.674729        3.3253     1.11963     2.20564
+    4          C           0.031689        3.9683     1.11292     2.85539
+    5          O          -0.412888        6.4129     1.87797     4.53492
+    6          C          -0.391094        4.3911     1.08089     3.31020
+    7          C          -0.267451        4.2675     1.08620     3.18125
+    8          C           0.162342        3.8377     1.12401     2.71365
+    9          O          -0.537576        6.5376     1.66988     4.86770
+   10          H           0.199924        0.8001     0.80008
+   11          H           0.209179        0.7908     0.79082
+   12          H           0.231090        0.7689     0.76891
+   13          H           0.200177        0.7998     0.79982
+   14         Al           0.480288        2.5197     0.22230     1.34769     0.94972
+   15         Cl          -0.159238        7.1592     1.95458     5.20153     0.00312
+   16         Cl          -0.183886        7.1839     1.95487     5.22583     0.00319
+   17          H           0.308945        0.6911     0.69106
+   18          C          -0.467784        4.4678     1.04728     3.42051
+   19          H           0.243355        0.7566     0.75665
+   20          H           0.263552        0.7364     0.73645
+   21          H           0.277803        0.7222     0.72220
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -5.619    -8.064    -2.696    10.191
+ HYBRID         0.092     0.263     0.233     0.364
+ SUM           -5.526    -7.800    -2.462     9.872
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.08765   1.07789   1.05583   1.18300
+    2  C   1.10477   0.84648   0.70867   0.79887
+    3  C   1.11963   0.78537   0.77347   0.64679
+    4  C   1.11292   0.94789   1.04211   0.86540
+    5  O   1.87797   1.69779   1.40639   1.43074
+    6  C   1.08089   1.05878   1.15143   1.10000
+    7  C   1.08620   1.03855   1.04719   1.09550
+    8  C   1.12401   0.95035   0.92071   0.84259
+    9  O   1.66988   1.66530   1.61115   1.59124
+   10  H   0.80008
+   11  H   0.79082
+   12  H   0.76891
+   13  H   0.79982
+   14 Al   0.22230   0.41694   0.42413   0.50662   0.16413   0.20560   0.22235   0.18322   0.17441
+   15 Cl   1.95458   1.80350   1.81834   1.57969   0.00050   0.00079   0.00034   0.00103   0.00047
+   16 Cl   1.95487   1.74730   1.69192   1.78660   0.00107   0.00038   0.00072   0.00036   0.00066
+   17  H   0.69106
+   18  C   1.04728   1.16711   1.18197   1.07143
+   19  H   0.75665
+   20  H   0.73645
+   21  H   0.72220
+ ********************************************************************************
+
+                 REACTION COORDINATE =       1.6000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    59.619 HEAT: -69.70292
+ CYCLE:     2 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    59.575 HEAT: -69.70969
+ CYCLE:     3 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    59.335 HEAT: -69.71734
+ CYCLE:     4 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    58.520 HEAT: -69.73117
+ CYCLE:     5 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    57.264 HEAT: -69.75432
+ CYCLE:     6 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    54.809 HEAT: -69.82098
+ CYCLE:     7 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    49.746 HEAT: -69.89213
+ CYCLE:     8 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    41.320 HEAT: -69.98907
+ CYCLE:     9 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    32.125 HEAT: -70.20854
+ CYCLE:    10 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    21.842 HEAT: -70.61623
+ CYCLE:    11 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    15.643 HEAT: -70.93470
+ CYCLE:    12 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    14.733 HEAT: -70.95823
+ CYCLE:    13 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    13.348 HEAT: -71.02161
+ CYCLE:    14 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    10.752 HEAT: -71.12662
+ CYCLE:    15 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     6.455 HEAT: -71.28881
+ CYCLE:    16 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     4.952 HEAT: -71.39000
+ CYCLE:    17 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     3.100 HEAT: -71.47870
+ CYCLE:    18 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:     1.873 HEAT: -71.50808
+ CYCLE:    19 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     1.757 HEAT: -71.51403
+ CYCLE:    20 TIME:   0.066 TIME LEFT:  2.00D  GRAD.:     1.606 HEAT: -71.50664
+ CYCLE:    21 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    10.328 HEAT: -71.58375
+ CYCLE:    22 TIME:   0.094 TIME LEFT:  2.00D  GRAD.:     3.103 HEAT: -71.58507
+ CYCLE:    23 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.491 HEAT: -71.58892
+ CYCLE:    24 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     2.551 HEAT: -71.60645
+ CYCLE:    25 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     1.773 HEAT: -71.67411
+ CYCLE:    26 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     1.289 HEAT: -71.68129
+ CYCLE:    27 TIME:   0.055 TIME LEFT:  2.00D  GRAD.:     5.551 HEAT: -71.72498
+ CYCLE:    28 TIME:   0.055 TIME LEFT:  2.00D  GRAD.:    13.464 HEAT: -71.76947
+ CYCLE:    29 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     3.607 HEAT: -71.77037
+ CYCLE:    30 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.373 HEAT: -71.81452
+ CYCLE:    31 TIME:   0.055 TIME LEFT:  2.00D  GRAD.:     1.399 HEAT: -71.82295
+ CYCLE:    32 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    19.930 HEAT: -71.90710
+ CYCLE:    33 TIME:   0.191 TIME LEFT:  2.00D  GRAD.:     4.967 HEAT: -71.91073
+ CYCLE:    34 TIME:   0.203 TIME LEFT:  2.00D  GRAD.:     2.039 HEAT: -71.90739
+ CYCLE:    35 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.276 HEAT: -71.90615
+ CYCLE:    36 TIME:   0.105 TIME LEFT:  2.00D  GRAD.:     2.178 HEAT: -71.90752
+ CYCLE:    37 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.390 HEAT: -71.90240
+ CYCLE:    38 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.468 HEAT: -71.89870
+ CYCLE:    39 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     0.866 HEAT: -71.89489
+
+     GRADIENT =  0.86558 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:19 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -71.89496 KCAL/MOL =    -300.80851 KJ/MOL
+          VAN DER WAALS AREA      =        226.46 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.33188 EV
+          COSMO AREA              =        226.46 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.77 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.86558          =       0.18889 PER ATOM
+          FOR REACTION COORDINATE =          1.60000 ANGSTROMS
+          REACTION GRADIENT       =         29.66794 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         11.302858 EV
+          HOMO LUMO ENERGIES (EV) =        -11.303 -2.858
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.10061
+            H    21    H    12     5.65568
+            H    17   Cl    16     4.38291
+          SCF CALCULATIONS        =         49
+ 
+          WALL-CLOCK TIME         =          8.914 SECONDS
+          COMPUTATION TIME        =         14.469 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.60000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.48777689  *  112.6569039  *    0.0000000        1     2     0
+     4       C          1.48290478  *  110.7722939  *  128.1955299  *     1     2     3
+     5       O          1.19319367  *  118.6385592  * -130.7218472  *     2     1     3
+     6       C          1.40998037  *  122.4899357  *  135.8035927  *     3     1     2
+     7       C          1.35151727  *  121.8748421  * -135.4459709  *     4     1     2
+     8       C          1.37121867  *  119.2539991  *   -5.1829765  *     6     3     1
+     9       O          1.26927471  *  117.4861751  *  -45.3889738  *     3     1     2
+    10       H          1.09894833  *  115.8648089  *   45.9452828  *     4     1     2
+    11       H          1.09732577  *  120.9544705  * -178.0163623  *     7     4     1
+    12       H          1.09733561  *  118.9001114  *  176.0325447  *     6     3     1
+    13       H          1.10252563  *  120.5628370  * -179.7253238  *     8     6     3
+    14      Al          1.80312497  *  149.9448441  *   27.3515735  *     9     3     1
+    15      Cl          2.02289525  *  116.7279630  * -111.4053582  *    14     9     3
+    16      Cl          2.02935611  *  113.0306415  *   99.6404238  *    14     9     3
+    17       H          1.15221355  *  104.8273128  * -117.1672239  *     1     2     3
+    18       C          1.50136579  *  117.8793946  *   50.2864331  *     2     1     3
+    19       H          1.16481510  *  112.8697661  *   37.6367592  *    18     2     1
+    20       H          1.17046642  *  110.1121671  *  -99.3490565  *    18     2     1
+    21       H          1.13575787  *  109.1835554  *  150.3254436  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.600000000     0.000000000     0.000000000
+   3    C       -0.573109555     1.372962318     0.000000000
+   4    C       -0.525919408    -0.857345616    -1.089666860
+   5    O        2.171876987    -0.683192584    -0.793672310
+   6    C       -1.651729031     1.743427644    -0.829083905
+   7    C       -1.543718714    -0.457791156    -1.884046954
+   8    C       -2.131120819     0.844349887    -1.746734894
+   9    O       -0.069018329     2.218186003     0.801590445
+  10    H       -0.053041905    -1.843832023    -1.194160209
+  11    H       -1.942492555    -1.117347135    -2.665129011
+  12    H       -2.070978878     2.753085337    -0.734393118
+  13    H       -2.970685588     1.112916162    -2.408977984
+  14   Al        1.337411437     2.814739957     1.759368274
+  15   Cl        1.194824368     2.669538745     3.772001061
+  16   Cl        2.315336523     4.349823241     0.861889546
+  17    H       -0.294859066    -0.508570161     0.990964470
+  18    C        2.302056593     0.847955669     1.020875591
+  19    H        1.762481201     0.853413226     2.053165676
+  20    H        2.648082006     1.856168308     0.537382753
+  21    H        3.300405422     0.371755101     1.278709996
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -33.94982 -33.26128 -31.83254 -29.74718 -27.94588 -27.23107 -27.02477 -26.28562
+ -24.13272 -22.64283 -21.43335 -20.25168 -19.05699 -18.50105 -18.35867 -17.87684
+ -17.18100 -16.67755 -16.29965 -16.08159 -15.62368 -15.18503 -14.90197 -14.67080
+ -14.19966 -14.05233 -13.64658 -13.45925 -13.22472 -12.99376 -12.56627 -12.16225
+ -12.03812 -11.30286  -2.85755  -1.18688  -1.01703  -0.18474   0.10367   0.34795
+   0.41781   0.76970   0.99048   1.34449   1.63778   2.06775   2.31251   2.45599
+   2.54668   2.88413   2.97538   3.34020   3.42636   3.65639   3.83216   4.19309
+   4.41478   4.53430   4.88808   4.98779  16.61674  16.78724  17.44080  18.38040
+  18.73732  69.04996  69.18338  69.48721  69.72777  69.79885  69.97717  69.98209
+  70.36380  70.63052  70.89736
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.401210        4.4012     1.09689     3.30432
+    2          C           0.555138        3.4449     1.12169     2.32317
+    3          C           0.667803        3.3322     1.11790     2.21430
+    4          C           0.030423        3.9696     1.11165     2.85792
+    5          O          -0.397402        6.3974     1.87288     4.52452
+    6          C          -0.391256        4.3913     1.08170     3.30955
+    7          C          -0.270325        4.2703     1.08601     3.18431
+    8          C           0.159032        3.8410     1.12371     2.71725
+    9          O          -0.538825        6.5388     1.66236     4.87647
+   10          H           0.198995        0.8010     0.80101
+   11          H           0.207337        0.7927     0.79266
+   12          H           0.228813        0.7712     0.77119
+   13          H           0.198747        0.8013     0.80125
+   14         Al           0.486365        2.5136     0.21964     1.33923     0.95477
+   15         Cl          -0.172417        7.1724     1.95488     5.21444     0.00310
+   16         Cl          -0.191559        7.1916     1.95525     5.23310     0.00320
+   17          H           0.294102        0.7059     0.70590
+   18          C          -0.454251        4.4543     1.04317     3.41108
+   19          H           0.252227        0.7478     0.74777
+   20          H           0.261071        0.7389     0.73893
+   21          H           0.277193        0.7228     0.72281
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -4.188    -7.435    -3.909     9.386
+ HYBRID        -0.125     0.253     0.301     0.412
+ SUM           -4.313    -7.182    -3.609     9.122
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.09689   1.09175   1.04587   1.16670
+    2  C   1.12169   0.82644   0.73532   0.76141
+    3  C   1.11790   0.76304   0.78501   0.66625
+    4  C   1.11165   0.93464   1.04570   0.87759
+    5  O   1.87288   1.72306   1.39556   1.40591
+    6  C   1.08170   1.07860   1.15035   1.08061
+    7  C   1.08601   1.04269   1.04450   1.09713
+    8  C   1.12371   0.91725   0.92530   0.87471
+    9  O   1.66236   1.67899   1.63046   1.56702
+   10  H   0.80101
+   11  H   0.79266
+   12  H   0.77119
+   13  H   0.80125
+   14 Al   0.21964   0.39517   0.43715   0.50691   0.15548   0.19876   0.22330   0.19909   0.17814
+   15 Cl   1.95488   1.81397   1.82219   1.57828   0.00045   0.00083   0.00027   0.00107   0.00047
+   16 Cl   1.95525   1.77502   1.66884   1.78924   0.00097   0.00035   0.00072   0.00041   0.00076
+   17  H   0.70590
+   18  C   1.04317   1.20609   1.13546   1.06953
+   19  H   0.74777
+   20  H   0.73893
+   21  H   0.72281
+ ********************************************************************************
+
+                 REACTION COORDINATE =       1.7000  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    73.605 HEAT: -66.83534
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    15.458 HEAT: -67.76984
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     5.918 HEAT: -67.82227
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     2.936 HEAT: -67.85910
+ CYCLE:     5 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     1.864 HEAT: -67.85041
+ CYCLE:     6 TIME:   0.172 TIME LEFT:  2.00D  GRAD.:     1.348 HEAT: -67.85207
+ CYCLE:     7 TIME:   0.211 TIME LEFT:  2.00D  GRAD.:    10.188 HEAT: -67.84573
+ CYCLE:     8 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     6.164 HEAT: -67.83632
+ CYCLE:     9 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     1.687 HEAT: -67.87238
+ CYCLE:    10 TIME:   0.129 TIME LEFT:  2.00D  GRAD.:     1.174 HEAT: -67.87149
+ CYCLE:    11 TIME:   0.203 TIME LEFT:  2.00D  GRAD.:     0.850 HEAT: -67.87086
+
+     GRADIENT =  0.85002 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:20 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -67.87086 KCAL/MOL =    -283.97169 KJ/MOL
+          VAN DER WAALS AREA      =        226.39 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.30497 EV
+          COSMO AREA              =        226.39 SQUARE ANGSTROMS
+          COSMO VOLUME            =        243.18 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.85002          =       0.18549 PER ATOM
+          FOR REACTION COORDINATE =          1.70000 ANGSTROMS
+          REACTION GRADIENT       =         47.99541 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         11.238618 EV
+          HOMO LUMO ENERGIES (EV) =        -11.239 -2.843
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.09127
+            H    21    H    12     5.64526
+            H    17   Cl    16     4.39609
+          SCF CALCULATIONS        =         26
+ 
+          WALL-CLOCK TIME         =          9.953 SECONDS
+          COMPUTATION TIME        =         16.453 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.70000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.47679374  *  111.2565652  *    0.0000000        1     2     0
+     4       C          1.47366306  *  109.7665426  *  127.1422208  *     1     2     3
+     5       O          1.18521040  *  116.4496457  * -130.5562139  *     2     1     3
+     6       C          1.41010042  *  122.4528649  *  134.0291818  *     3     1     2
+     7       C          1.35334483  *  121.6167342  * -133.3928867  *     4     1     2
+     8       C          1.37203164  *  118.9790450  *   -5.2061665  *     6     3     1
+     9       O          1.27272986  *  117.5277235  *  -46.8680482  *     3     1     2
+    10       H          1.09863002  *  116.2180457  *   47.8869647  *     4     1     2
+    11       H          1.09664473  *  121.0342412  * -178.0599266  *     7     4     1
+    12       H          1.09643687  *  119.0706321  *  175.7917420  *     6     3     1
+    13       H          1.10236485  *  120.5208497  * -179.9913864  *     8     6     3
+    14      Al          1.79515622  *  150.6254664  *   29.7867139  *     9     3     1
+    15      Cl          2.02427867  *  116.4466262  * -111.4123810  *    14     9     3
+    16      Cl          2.02952322  *  114.0480492  *   98.7779376  *    14     9     3
+    17       H          1.13994436  *  102.2383149  * -117.6114653  *     1     2     3
+    18       C          1.49015665  *  116.5071780  *   50.4428700  *     2     1     3
+    19       H          1.16528823  *  112.8484343  *   38.6169723  *    18     2     1
+    20       H          1.17073519  *  110.2938827  *  -98.4568683  *    18     2     1
+    21       H          1.13783847  *  109.2966310  *  151.2524905  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.700000000     0.000000000     0.000000000
+   3    C       -0.535403932     1.376322043     0.000000000
+   4    C       -0.498375815    -0.837363297    -1.105498562
+   5    O        2.227905903    -0.689953049    -0.806228155
+   6    C       -1.580468455     1.781685442    -0.855513788
+   7    C       -1.483405420    -0.411256807    -1.929933007
+   8    C       -2.049932671     0.899536629    -1.795666770
+   9    O       -0.029529541     2.204280679     0.823660669
+  10    H       -0.040523012    -1.830939491    -1.206320606
+  11    H       -1.868832683    -1.054617897    -2.730034247
+  12    H       -1.982612438     2.797335481    -0.761126140
+  13    H       -2.865961179     1.189847190    -2.477594571
+  14   Al        1.360516723     2.793645521     1.794745786
+  15   Cl        1.204881116     2.597058107     3.803435677
+  16   Cl        2.361704814     4.343665803     0.949746354
+  17    H       -0.241643546    -0.516327119     0.987161510
+  18    C        2.365071704     0.849241650     1.028122114
+  19    H        1.816176626     0.828868515     2.055835976
+  20    H        2.690807738     1.872142216     0.561012533
+  21    H        3.375463307     0.397694285     1.292489584
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -33.87835 -33.38371 -31.78330 -29.79255 -27.82130 -27.17197 -27.03159 -26.28026
+ -23.89124 -22.61534 -21.46365 -20.21704 -18.99824 -18.46500 -18.26263 -17.89498
+ -17.19568 -16.66004 -16.33218 -16.06336 -15.57707 -15.27522 -14.91637 -14.67310
+ -14.20353 -14.05155 -13.65733 -13.45938 -13.20948 -12.98406 -12.56179 -12.06431
+ -12.02337 -11.23862  -2.84281  -1.16603  -0.99499  -0.23607  -0.03294   0.30365
+   0.42513   0.70128   1.10969   1.42905   1.62620   2.07705   2.43730   2.49291
+   2.53885   2.84657   3.03427   3.31984   3.48054   3.84091   3.89097   4.11349
+   4.45961   4.57475   4.92904   5.02829  16.63543  16.80070  17.43692  18.41802
+  18.78321  69.05774  69.19691  69.50090  69.75073  69.80551  69.97165  69.99156
+  70.36929  70.63648  70.91240
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.410628        4.4106     1.10533     3.30530
+    2          C           0.567361        3.4326     1.13754     2.29510
+    3          C           0.661239        3.3388     1.11630     2.22246
+    4          C           0.028038        3.9720     1.11036     2.86160
+    5          O          -0.371616        6.3716     1.86973     4.50188
+    6          C          -0.390300        4.3903     1.08199     3.30831
+    7          C          -0.271761        4.2718     1.08586     3.18590
+    8          C           0.153342        3.8467     1.12309     2.72357
+    9          O          -0.542368        6.5424     1.65945     4.88292
+   10          H           0.196444        0.8036     0.80356
+   11          H           0.205527        0.7945     0.79447
+   12          H           0.226746        0.7733     0.77325
+   13          H           0.197785        0.8022     0.80222
+   14         Al           0.486946        2.5131     0.21934     1.33825     0.95547
+   15         Cl          -0.176732        7.1767     1.95503     5.21858     0.00312
+   16         Cl          -0.190842        7.1908     1.95530     5.23234     0.00320
+   17          H           0.281060        0.7189     0.71894
+   18          C          -0.450713        4.4507     1.04098     3.40973
+   19          H           0.255691        0.7443     0.74431
+   20          H           0.263801        0.7362     0.73620
+   21          H           0.280978        0.7190     0.71902
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -3.242    -7.318    -4.148     9.015
+ HYBRID        -0.235     0.248     0.260     0.429
+ SUM           -3.477    -7.070    -3.888     8.786
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.10533   1.11241   1.03788   1.15500
+    2  C   1.13754   0.80706   0.72955   0.75849
+    3  C   1.11630   0.75127   0.79849   0.67270
+    4  C   1.11036   0.92623   1.04930   0.88606
+    5  O   1.86973   1.71882   1.38828   1.39477
+    6  C   1.08199   1.08552   1.14908   1.07371
+    7  C   1.08586   1.04616   1.04170   1.09804
+    8  C   1.12309   0.90522   0.92951   0.88884
+    9  O   1.65945   1.67511   1.64237   1.56544
+   10  H   0.80356
+   11  H   0.79447
+   12  H   0.77325
+   13  H   0.80222
+   14 Al   0.21934   0.39698   0.43745   0.50382   0.15536   0.19951   0.22225   0.19688   0.18146
+   15 Cl   1.95503   1.81543   1.82301   1.58014   0.00043   0.00085   0.00030   0.00106   0.00048
+   16 Cl   1.95530   1.77300   1.66567   1.79368   0.00097   0.00036   0.00069   0.00045   0.00073
+   17  H   0.71894
+   18  C   1.04098   1.20895   1.13183   1.06895
+   19  H   0.74431
+   20  H   0.73620
+   21  H   0.71902
+ ********************************************************************************
+
+                 REACTION COORDINATE =       1.8000  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    71.715 HEAT: -61.88118
+ CYCLE:     2 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    46.783 HEAT: -62.51004
+ CYCLE:     3 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    10.111 HEAT: -62.71412
+ CYCLE:     4 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.004 HEAT: -62.80493
+ CYCLE:     5 TIME:   0.199 TIME LEFT:  2.00D  GRAD.:     4.552 HEAT: -62.80559
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.576 HEAT: -62.81156
+ CYCLE:     7 TIME:   0.234 TIME LEFT:  2.00D  GRAD.:     2.827 HEAT: -62.81394
+ CYCLE:     8 TIME:   0.086 TIME LEFT:  2.00D  GRAD.:     6.452 HEAT: -62.81800
+ CYCLE:     9 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     5.417 HEAT: -62.83380
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     4.475 HEAT: -62.90669
+ CYCLE:    11 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     7.213 HEAT: -63.01996
+ CYCLE:    12 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     4.284 HEAT: -63.05741
+ CYCLE:    13 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     5.602 HEAT: -63.10905
+ CYCLE:    14 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.637 HEAT: -63.12794
+ CYCLE:    15 TIME:   0.109 TIME LEFT:  2.00D  GRAD.:     4.176 HEAT: -63.13650
+ CYCLE:    16 TIME:   0.152 TIME LEFT:  2.00D  GRAD.:     1.786 HEAT: -63.12936
+ CYCLE:    17 TIME:   0.129 TIME LEFT:  2.00D  GRAD.:    11.731 HEAT: -63.12276
+ CYCLE:    18 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     1.477 HEAT: -63.15622
+ CYCLE:    19 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     1.735 HEAT: -63.14901
+ CYCLE:    20 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     1.432 HEAT: -63.14816
+ CYCLE:    21 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.085 HEAT: -63.14721
+ CYCLE:    22 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     0.827 HEAT: -63.15655
+
+     GRADIENT =  0.82694 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:21 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -63.15655 KCAL/MOL =    -264.24700 KJ/MOL
+          VAN DER WAALS AREA      =        226.22 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.29069 EV
+          COSMO AREA              =        226.22 SQUARE ANGSTROMS
+          COSMO VOLUME            =        244.09 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.82694          =       0.18045 PER ATOM
+          FOR REACTION COORDINATE =          1.80000 ANGSTROMS
+          REACTION GRADIENT       =         46.86649 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         11.152551 EV
+          HOMO LUMO ENERGIES (EV) =        -11.153 -2.854
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.06187
+            H    21    H    12     5.52283
+            H    17   Cl    16     4.34650
+          SCF CALCULATIONS        =         40
+ 
+          WALL-CLOCK TIME         =         11.547 SECONDS
+          COMPUTATION TIME        =         19.562 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.80000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.46430945  *  107.6957669  *    0.0000000        1     2     0
+     4       C          1.46329338  *  108.4363051  *  124.6462570  *     1     2     3
+     5       O          1.17587288  *  114.3165618  * -126.7233795  *     2     1     3
+     6       C          1.40938606  *  122.7454468  *  124.6093142  *     3     1     2
+     7       C          1.35604857  *  121.5259678  * -123.2958971  *     4     1     2
+     8       C          1.37325206  *  118.7001779  *   -2.2275879  *     6     3     1
+     9       O          1.27915390  *  117.2959288  *  -54.5512448  *     3     1     2
+    10       H          1.09813864  *  116.5600711  *   57.2215774  *     4     1     2
+    11       H          1.09602288  *  120.9897177  * -179.4914673  *     7     4     1
+    12       H          1.09542767  *  119.3235145  *  178.2485093  *     6     3     1
+    13       H          1.10191384  *  120.4395766  * -179.9358999  *     8     6     3
+    14      Al          1.78592088  *  149.7934459  *   36.6474090  *     9     3     1
+    15      Cl          2.02612669  *  116.9063012  * -110.8796030  *    14     9     3
+    16      Cl          2.02956842  *  115.4286983  *   98.0477948  *    14     9     3
+    17       H          1.12569043  *   99.9051869  * -118.5876991  *     1     2     3
+    18       C          1.47977942  *  114.1718915  *   54.2762107  *     2     1     3
+    19       H          1.16553020  *  112.7717399  *   39.5377698  *    18     2     1
+    20       H          1.17132219  *  110.5971714  *  -97.8066281  *    18     2     1
+    21       H          1.14064529  *  109.2132948  *  152.0319305  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.800000000     0.000000000     0.000000000
+   3    C       -0.445095421     1.395024100     0.000000000
+   4    C       -0.462766858    -0.789197861    -1.142033756
+   5    O        2.284198335    -0.640738424    -0.858884901
+   6    C       -1.318249267     1.916646723    -0.975644021
+   7    C       -1.288985252    -0.262693652    -2.079596662
+   8    C       -1.734668830     1.095582511    -1.994599143
+   9    O        0.004673932     2.154264034     0.926011310
+  10    H       -0.113563662    -1.829031587    -1.194105134
+  11    H       -1.636857987    -0.864332470    -2.927111525
+  12    H       -1.638150396     2.961968504    -0.905448459
+  13    H       -2.416404137     1.473945848    -2.773246854
+  14   Al        1.340996655     2.651119997     2.001599117
+  15   Cl        1.125767888     2.251177884     3.976165460
+  16   Cl        2.405582906     4.263776150     1.380999238
+  17    H       -0.193639332    -0.530617447     0.973718583
+  18    C        2.405933435     0.788255610     1.096013181
+  19    H        1.834528624     0.671315427     2.105112871
+  20    H        2.710536897     1.854041390     0.717446061
+  21    H        3.427542675     0.350669540     1.352732243
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -34.11206 -33.40494 -31.70161 -29.92837 -27.70220 -27.08758 -27.05637 -26.26082
+ -23.66626 -22.58547 -21.59301 -20.15837 -18.94430 -18.50776 -18.18709 -17.85533
+ -17.24482 -16.67688 -16.29445 -16.05489 -15.64611 -15.38747 -14.90472 -14.67140
+ -14.18759 -14.03346 -13.69329 -13.49141 -13.19404 -12.98394 -12.55180 -12.01577
+ -11.90736 -11.15255  -2.85387  -1.23256  -0.97865  -0.48016  -0.08555   0.28819
+   0.43086   0.74010   1.23457   1.34337   1.68087   2.11924   2.38793   2.57552
+   2.70036   2.78315   3.11312   3.21358   3.54637   3.95447   3.99858   4.12216
+   4.53152   4.62677   4.98033   5.07808  16.66413  16.78621  17.40787  18.47201
+  18.83035  69.07409  69.22332  69.51641  69.77818  69.81800  69.98124  70.01457
+  70.39261  70.66288  70.94595
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.432284        4.4323     1.11016     3.32212
+    2          C           0.581184        3.4188     1.15144     2.26738
+    3          C           0.644376        3.3556     1.11330     2.24232
+    4          C           0.024905        3.9751     1.10864     2.86645
+    5          O          -0.322754        6.3228     1.86712     4.45563
+    6          C          -0.385622        4.3856     1.08225     3.30338
+    7          C          -0.272268        4.2723     1.08571     3.18656
+    8          C           0.142303        3.8577     1.12156     2.73614
+    9          O          -0.546344        6.5463     1.65845     4.88790
+   10          H           0.192764        0.8072     0.80724
+   11          H           0.203288        0.7967     0.79671
+   12          H           0.223922        0.7761     0.77608
+   13          H           0.196340        0.8037     0.80366
+   14         Al           0.488100        2.5119     0.21865     1.33763     0.95562
+   15         Cl          -0.182882        7.1829     1.95524     5.22450     0.00315
+   16         Cl          -0.191596        7.1916     1.95540     5.23301     0.00319
+   17          H           0.266407        0.7336     0.73359
+   18          C          -0.445398        4.4454     1.03901     3.40639
+   19          H           0.260334        0.7397     0.73967
+   20          H           0.268375        0.7316     0.73162
+   21          H           0.286851        0.7131     0.71315
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -1.554    -7.006    -5.091     8.799
+ HYBRID        -0.433     0.236     0.204     0.534
+ SUM           -1.988    -6.770    -4.887     8.583
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.11016   1.14475   1.03218   1.14519
+    2  C   1.15144   0.77915   0.71598   0.77224
+    3  C   1.11330   0.70656   0.82841   0.70735
+    4  C   1.10864   0.89186   1.06808   0.90651
+    5  O   1.86712   1.69530   1.38142   1.37891
+    6  C   1.08225   1.11660   1.14518   1.04159
+    7  C   1.08571   1.06007   1.03126   1.09522
+    8  C   1.12156   0.84203   0.95031   0.94381
+    9  O   1.65845   1.67100   1.67791   1.53899
+   10  H   0.80724
+   11  H   0.79671
+   12  H   0.77608
+   13  H   0.80366
+   14 Al   0.21865   0.40022   0.44269   0.49472   0.15769   0.20263   0.21691   0.19291   0.18548
+   15 Cl   1.95524   1.81627   1.82022   1.58801   0.00038   0.00089   0.00042   0.00098   0.00048
+   16 Cl   1.95540   1.76733   1.65529   1.81039   0.00093   0.00043   0.00055   0.00065   0.00063
+   17  H   0.73359
+   18  C   1.03901   1.21300   1.13147   1.06192
+   19  H   0.73967
+   20  H   0.73162
+   21  H   0.71315
+ ********************************************************************************
+
+                 REACTION COORDINATE =       1.9000  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    69.167 HEAT: -57.54562
+ CYCLE:     2 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    19.680 HEAT: -58.77448
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.138 HEAT: -58.83558
+ CYCLE:     4 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     3.065 HEAT: -58.91172
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     2.655 HEAT: -59.01690
+ CYCLE:     6 TIME:   0.215 TIME LEFT:  2.00D  GRAD.:     2.220 HEAT: -59.01902
+ CYCLE:     7 TIME:   0.398 TIME LEFT:  2.00D  GRAD.:     1.992 HEAT: -59.02053
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:23 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -59.02075 KCAL/MOL =    -246.94281 KJ/MOL
+          VAN DER WAALS AREA      =        225.97 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.30275 EV
+          COSMO AREA              =        225.97 SQUARE ANGSTROMS
+          COSMO VOLUME            =        244.94 CUBIC ANGSTROMS
+          GRADIENT NORM           =          1.99236          =       0.43477 PER ATOM
+          FOR REACTION COORDINATE =          1.90000 ANGSTROMS
+          REACTION GRADIENT       =         36.84067 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.994255 EV
+          HOMO LUMO ENERGIES (EV) =        -10.994 -2.818
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.06724
+            H    21    H    12     5.44439
+            H    17   Cl    16     4.31013
+          SCF CALCULATIONS        =         31
+ 
+          WALL-CLOCK TIME         =         12.742 SECONDS
+          COMPUTATION TIME        =         21.875 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          1.90000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.44824229  *  106.0457542  *    0.0000000        1     2     0
+     4       C          1.45136476  *  107.7915610  *  124.0049350  *     1     2     3
+     5       O          1.16629964  *  111.1698650  * -126.8472782  *     2     1     3
+     6       C          1.40887936  *  122.9063242  *  121.2871615  *     3     1     2
+     7       C          1.36068102  *  121.3325041  * -119.6845462  *     4     1     2
+     8       C          1.37504880  *  118.4099156  *   -1.0504786  *     6     3     1
+     9       O          1.28723135  *  117.4170364  *  -56.9397244  *     3     1     2
+    10       H          1.09764369  *  117.1343263  *   60.7879602  *     4     1     2
+    11       H          1.09508407  *  120.9427179  * -179.7270605  *     7     4     1
+    12       H          1.09403388  *  119.5554501  *  178.9099546  *     6     3     1
+    13       H          1.10115917  *  120.3503945  *  179.4736823  *     8     6     3
+    14      Al          1.77167522  *  150.2712391  *   40.1295421  *     9     3     1
+    15      Cl          2.02715753  *  117.9969231  * -110.2157068  *    14     9     3
+    16      Cl          2.03028077  *  116.5431499  *   96.4165447  *    14     9     3
+    17       H          1.11690876  *   95.8190266  * -118.9507617  *     1     2     3
+    18       C          1.46838575  *  112.0705588  *   54.3351226  *     2     1     3
+    19       H          1.16625714  *  113.0225901  *   41.0890855  *    18     2     1
+    20       H          1.17185089  *  110.5025458  *  -96.3718214  *    18     2     1
+    21       H          1.14401101  *  109.1359406  *  153.4119889  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        1.900000000     0.000000000     0.000000000
+   3    C       -0.400301256     1.391820617     0.000000000
+   4    C       -0.443471854    -0.772876644    -1.145623885
+   5    O        2.321190640    -0.652210810    -0.870330019
+   6    C       -1.202210153     1.957609315    -1.010824573
+   7    C       -1.207714994    -0.214261649    -2.123036061
+   8    C       -1.603629264     1.155591309    -2.053124446
+   9    O        0.034920929     2.133745998     0.957649692
+  10    H       -0.142498071    -1.827726869    -1.184706448
+  11    H       -1.542503793    -0.804558312    -2.982498351
+  12    H       -1.487049520     3.011973844    -0.946855061
+  13    H       -2.238079815     1.562490212    -2.855905420
+  14   Al        1.338160281     2.625245994     2.052559747
+  15   Cl        1.155693042     2.161781026     4.017572104
+  16   Cl        2.427751295     4.245575744     1.496355709
+  17    H       -0.113239658    -0.537862506     0.972299271
+  18    C        2.451743183     0.793396636     1.105557748
+  19    H        1.873425385     0.643938390     2.107239575
+  20    H        2.718853037     1.874722612     0.741386116
+  21    H        3.488332851     0.391282329     1.374903506
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -34.61725 -33.23843 -31.58287 -30.09604 -27.54863 -27.08090 -26.98104 -26.23909
+ -23.45028 -22.52718 -21.77430 -20.08108 -18.97704 -18.52680 -18.08792 -17.78113
+ -17.31791 -16.71445 -16.29037 -16.03965 -15.71516 -15.47483 -14.84516 -14.66443
+ -14.16350 -14.02232 -13.69707 -13.51257 -13.13086 -12.98382 -12.54874 -11.98349
+ -11.72185 -10.99425  -2.81820  -1.34962  -0.94426  -0.72733  -0.09111   0.29429
+   0.45266   0.82425   1.08011   1.39875   1.86819   2.23928   2.30032   2.67908
+   2.74349   2.94996   3.03182   3.28566   3.65996   3.85698   4.10571   4.32355
+   4.65158   4.71321   5.06825   5.16199  16.70277  16.77919  17.38942  18.56102
+  18.93593  69.09084  69.24849  69.53637  69.79892  69.84025  70.00178  70.04600
+  70.42686  70.69519  70.99017
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.466901        4.4669     1.10941     3.35749
+    2          C           0.601786        3.3982     1.16218     2.23603
+    3          C           0.621993        3.3780     1.10764     2.27036
+    4          C           0.024957        3.9750     1.10663     2.86842
+    5          O          -0.257288        6.2573     1.86548     4.39181
+    6          C          -0.376833        4.3768     1.08255     3.29428
+    7          C          -0.274679        4.2747     1.08501     3.18967
+    8          C           0.121582        3.8784     1.11823     2.76018
+    9          O          -0.552804        6.5528     1.65436     4.89845
+   10          H           0.187972        0.8120     0.81203
+   11          H           0.199895        0.8001     0.80010
+   12          H           0.219665        0.7803     0.78034
+   13          H           0.193699        0.8063     0.80630
+   14         Al           0.488580        2.5114     0.21764     1.33839     0.95539
+   15         Cl          -0.187168        7.1872     1.95538     5.22864     0.00315
+   16         Cl          -0.195115        7.1951     1.95557     5.23634     0.00320
+   17          H           0.254859        0.7451     0.74514
+   18          C          -0.436800        4.4368     1.03699     3.39981
+   19          H           0.266117        0.7339     0.73388
+   20          H           0.272562        0.7274     0.72744
+   21          H           0.293921        0.7061     0.70608
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.226    -7.180    -5.315     8.936
+ HYBRID        -0.636     0.222     0.157     0.692
+ SUM           -0.410    -6.957    -5.158     8.671
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.10941   1.18981   1.03050   1.13718
+    2  C   1.16218   0.74473   0.71613   0.77517
+    3  C   1.10764   0.70446   0.84326   0.72265
+    4  C   1.10663   0.87786   1.07278   0.91778
+    5  O   1.86548   1.66052   1.37132   1.35996
+    6  C   1.08255   1.12327   1.13996   1.03105
+    7  C   1.08501   1.06649   1.02915   1.09404
+    8  C   1.11823   0.83567   0.96025   0.96426
+    9  O   1.65436   1.67554   1.68652   1.53639
+   10  H   0.81203
+   11  H   0.80010
+   12  H   0.78034
+   13  H   0.80630
+   14 Al   0.21764   0.40152   0.44306   0.49382   0.15591   0.20248   0.21672   0.19239   0.18788
+   15 Cl   1.95538   1.81850   1.81869   1.59144   0.00037   0.00090   0.00044   0.00096   0.00048
+   16 Cl   1.95557   1.76646   1.65463   1.81525   0.00092   0.00045   0.00051   0.00072   0.00060
+   17  H   0.74514
+   18  C   1.03699   1.21845   1.12688   1.05448
+   19  H   0.73388
+   20  H   0.72744
+   21  H   0.70608
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.0000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    47.025 HEAT: -55.64671
+ CYCLE:     2 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    45.878 HEAT: -55.65715
+ CYCLE:     3 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    44.227 HEAT: -55.66549
+ CYCLE:     4 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    42.215 HEAT: -55.67581
+ CYCLE:     5 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    39.685 HEAT: -55.68950
+ CYCLE:     6 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    36.441 HEAT: -55.70539
+ CYCLE:     7 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    30.153 HEAT: -55.73375
+ CYCLE:     8 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    19.331 HEAT: -55.76835
+ CYCLE:     9 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     5.072 HEAT: -55.84000
+ CYCLE:    10 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     4.671 HEAT: -55.84385
+ CYCLE:    11 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     4.559 HEAT: -55.85200
+ CYCLE:    12 TIME:   0.078 TIME LEFT:  2.00D  GRAD.:    29.704 HEAT: -55.96616
+ CYCLE:    13 TIME:   0.086 TIME LEFT:  2.00D  GRAD.:    16.387 HEAT: -56.01561
+ CYCLE:    14 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    13.586 HEAT: -56.02800
+ CYCLE:    15 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     6.896 HEAT: -56.15012
+ CYCLE:    16 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.996 HEAT: -56.20240
+ CYCLE:    17 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     5.196 HEAT: -56.23651
+ CYCLE:    18 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     4.012 HEAT: -56.23936
+ CYCLE:    19 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     3.116 HEAT: -56.24536
+ CYCLE:    20 TIME:   0.105 TIME LEFT:  2.00D  GRAD.:     3.340 HEAT: -56.25205
+ CYCLE:    21 TIME:   0.184 TIME LEFT:  2.00D  GRAD.:     1.144 HEAT: -56.25290
+ CYCLE:    22 TIME:   0.270 TIME LEFT:  2.00D  GRAD.:     1.018 HEAT: -56.25460
+ CYCLE:    23 TIME:   0.293 TIME LEFT:  2.00D  GRAD.:     0.907 HEAT: -56.25127
+
+     GRADIENT =  0.90715 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:24 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -56.25127 KCAL/MOL =    -235.35533 KJ/MOL
+          VAN DER WAALS AREA      =        225.05 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.36868 EV
+          COSMO AREA              =        225.05 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.40 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.90715          =       0.19796 PER ATOM
+          FOR REACTION COORDINATE =          2.00000 ANGSTROMS
+          REACTION GRADIENT       =         16.62237 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.814800 EV
+          HOMO LUMO ENERGIES (EV) =        -10.815 -2.768
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.01682
+            H    12    H    21     5.28949
+           Cl    16    H    10     4.24463
+          SCF CALCULATIONS        =         45
+ 
+          WALL-CLOCK TIME         =         14.437 SECONDS
+          COMPUTATION TIME        =         25.281 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.00000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.43023816  *  102.0664062  *    0.0000000        1     2     0
+     4       C          1.43693070  *  107.2593460  *  122.2907012  *     1     2     3
+     5       O          1.15531654  *  107.0047032  * -123.5703897  *     2     1     3
+     6       C          1.40748861  *  123.0431505  *  113.9035379  *     3     1     2
+     7       C          1.36752311  *  121.1585660  * -110.6180416  *     4     1     2
+     8       C          1.37797962  *  118.1701234  *    1.2167143  *     6     3     1
+     9       O          1.29882816  *  117.5293976  *  -62.7260709  *     3     1     2
+    10       H          1.09683210  *  117.7298758  *   69.1432729  *     4     1     2
+    11       H          1.09403430  *  120.7470712  *  178.7367061  *     7     4     1
+    12       H          1.09275663  *  119.7891022  * -179.2207753  *     6     3     1
+    13       H          1.09972088  *  120.2584757  *  179.4642421  *     8     6     3
+    14      Al          1.75626499  *  150.0574476  *   42.9382999  *     9     3     1
+    15      Cl          2.03102987  *  118.6949543  * -105.3270165  *    14     9     3
+    16      Cl          2.03095245  *  118.8139491  *   97.9229796  *    14     9     3
+    17       H          1.10640666  *   92.0362047  * -119.8381330  *     1     2     3
+    18       C          1.45586567  *  109.6008906  *   57.8801715  *     2     1     3
+    19       H          1.16499649  *  113.5625587  *   41.4763963  *    18     2     1
+    20       H          1.17081536  *  111.1558799  *  -96.8561571  *    18     2     1
+    21       H          1.14927480  *  108.5148156  *  153.2757894  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.000000000     0.000000000     0.000000000
+   3    C       -0.298984466     1.398638435     0.000000000
+   4    C       -0.426333534    -0.733064975    -1.160010900
+   5    O        2.337872556    -0.610915192    -0.920533034
+   6    C       -0.926925767     2.049205972    -1.078645345
+   7    C       -1.029796412    -0.102823288    -2.212981665
+   8    C       -1.289800351     1.293310617    -2.172158980
+   9    O        0.091651363     2.096030322     1.023720072
+  10    H       -0.247662122    -1.815155614    -1.174047659
+  11    H       -1.333196495    -0.664301473    -3.101577010
+  12    H       -1.118887475     3.123739283    -1.027206782
+  13    H       -1.790420065     1.764860446    -3.030300386
+  14   Al        1.320289647     2.496023342     2.213224290
+  15   Cl        1.080392883     1.841607762     4.120911933
+  16   Cl        2.505241481     4.113603164     1.890590540
+  17    H       -0.039311731    -0.550146576     0.959129313
+  18    C        2.488393744     0.729215990     1.161576708
+  19    H        1.890911160     0.506181042     2.136505836
+  20    H        2.752941707     1.835778809     0.885276679
+  21    H        3.527797960     0.323334147     1.436770059
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -35.43117 -33.00135 -31.42934 -30.34156 -27.38834 -27.10369 -26.85455 -26.20419
+ -23.27433 -22.45919 -22.03295 -19.98555 -19.06641 -18.68859 -18.05557 -17.66210
+ -17.39346 -16.77716 -16.39493 -15.98462 -15.86483 -15.50742 -14.76651 -14.63776
+ -14.11445 -14.00203 -13.68892 -13.54240 -13.05191 -12.97814 -12.55389 -11.92957
+ -11.54218 -10.81480  -2.76792  -1.61394  -0.93356  -0.87666  -0.11381   0.29736
+   0.45038   0.65443   1.00822   1.54777   2.02275   2.19872   2.44687   2.58007
+   2.73935   2.91332   3.27628   3.47170   3.67425   3.79820   4.29124   4.51036
+   4.81851   4.85114   5.17553   5.25983  16.72353  16.81116  17.37179  18.69337
+  19.07417  69.09976  69.26574  69.55554  69.81299  69.86148  70.01030  70.07902
+  70.46441  70.72753  71.03679
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.493329        4.4933     1.10386     3.38947
+    2          C           0.619675        3.3803     1.17184     2.20849
+    3          C           0.575060        3.4249     1.09883     2.32611
+    4          C           0.014418        3.9856     1.10342     2.88216
+    5          O          -0.159110        6.1591     1.86507     4.29404
+    6          C          -0.357022        4.3570     1.08298     3.27405
+    7          C          -0.269706        4.2697     1.08449     3.18522
+    8          C           0.084118        3.9159     1.11266     2.80322
+    9          O          -0.558920        6.5589     1.65100     4.90792
+   10          H           0.183158        0.8168     0.81684
+   11          H           0.195325        0.8047     0.80467
+   12          H           0.213697        0.7863     0.78630
+   13          H           0.190016        0.8100     0.80998
+   14         Al           0.484804        2.5152     0.21700     1.34359     0.95460
+   15         Cl          -0.194708        7.1947     1.95574     5.23579     0.00317
+   16         Cl          -0.193400        7.1934     1.95568     5.23454     0.00318
+   17          H           0.237811        0.7622     0.76219
+   18          C          -0.427504        4.4275     1.03419     3.39331
+   19          H           0.273117        0.7269     0.72688
+   20          H           0.279255        0.7207     0.72074
+   21          H           0.303245        0.6968     0.69675
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     2.769    -7.308    -5.939     9.815
+ HYBRID        -0.837     0.247     0.075     0.876
+ SUM            1.933    -7.060    -5.864     9.379
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.10386   1.22920   1.03082   1.12945
+    2  C   1.17184   0.70343   0.71017   0.79488
+    3  C   1.09883   0.71304   0.86472   0.74835
+    4  C   1.10342   0.86123   1.08492   0.93601
+    5  O   1.86507   1.60257   1.36286   1.32862
+    6  C   1.08298   1.13270   1.13162   1.00972
+    7  C   1.08449   1.07499   1.02214   1.08808
+    8  C   1.11266   0.82074   0.97971   1.00277
+    9  O   1.65100   1.68674   1.70330   1.51788
+   10  H   0.81684
+   11  H   0.80467
+   12  H   0.78630
+   13  H   0.80998
+   14 Al   0.21700   0.40859   0.44565   0.48936   0.15556   0.20359   0.21244   0.19147   0.19154
+   15 Cl   1.95574   1.82005   1.81024   1.60550   0.00035   0.00092   0.00059   0.00083   0.00049
+   16 Cl   1.95568   1.75555   1.65440   1.82458   0.00088   0.00052   0.00039   0.00091   0.00048
+   17  H   0.76219
+   18  C   1.03419   1.22192   1.13456   1.03683
+   19  H   0.72688
+   20  H   0.72074
+   21  H   0.69675
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.0500  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    20.621 HEAT: -55.38464
+ CYCLE:     2 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    25.010 HEAT: -55.41557
+ CYCLE:     3 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     9.135 HEAT: -55.53588
+ CYCLE:     4 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    12.551 HEAT: -55.54386
+ CYCLE:     5 TIME:   0.074 TIME LEFT:  2.00D  GRAD.:     4.380 HEAT: -55.54284
+ CYCLE:     6 TIME:   0.207 TIME LEFT:  2.00D  GRAD.:     3.016 HEAT: -55.54264
+ CYCLE:     7 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     3.778 HEAT: -55.60387
+ CYCLE:     8 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     5.896 HEAT: -55.67314
+ CYCLE:     9 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     2.728 HEAT: -55.67933
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     1.976 HEAT: -55.68799
+ CYCLE:    11 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     3.984 HEAT: -55.69028
+ CYCLE:    12 TIME:   0.184 TIME LEFT:  2.00D  GRAD.:     2.068 HEAT: -55.69287
+ CYCLE:    13 TIME:   0.199 TIME LEFT:  2.00D  GRAD.:     2.294 HEAT: -55.69248
+ CYCLE:    14 TIME:   0.246 TIME LEFT:  2.00D  GRAD.:     1.568 HEAT: -55.69590
+ CYCLE:    15 TIME:   0.316 TIME LEFT:  2.00D  GRAD.:     1.030 HEAT: -55.69754
+ CYCLE:    16 TIME:   0.375 TIME LEFT:  2.00D  GRAD.:     0.510 HEAT: -55.69713
+
+     GRADIENT =  0.50981 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:26 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -55.69713 KCAL/MOL =    -233.03678 KJ/MOL
+          VAN DER WAALS AREA      =        224.57 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.42822 EV
+          COSMO AREA              =        224.57 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.13 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.50981          =       0.11125 PER ATOM
+          FOR REACTION COORDINATE =          2.05000 ANGSTROMS
+          REACTION GRADIENT       =          6.47748 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.735608 EV
+          HOMO LUMO ENERGIES (EV) =        -10.736 -2.726
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.01422
+            H    12    H    21     5.26485
+           Cl    16    H    10     4.23866
+          SCF CALCULATIONS        =         52
+ 
+          WALL-CLOCK TIME         =         16.445 SECONDS
+          COMPUTATION TIME        =         29.156 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.05000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.42263119  *   98.9868627  *    0.0000000        1     2     0
+     4       C          1.42982124  *  107.6291465  *  121.2595304  *     1     2     3
+     5       O          1.15040094  *  104.5569637  * -118.2003052  *     2     1     3
+     6       C          1.40645096  *  123.0908200  *  111.6691604  *     3     1     2
+     7       C          1.37126132  *  121.0472729  * -106.4520386  *     4     1     2
+     8       C          1.37947527  *  118.0763302  *    1.6904963  *     6     3     1
+     9       O          1.30462072  *  117.6014251  *  -64.1917615  *     3     1     2
+    10       H          1.09643113  *  118.0493946  *   73.4939990  *     4     1     2
+    11       H          1.09360361  *  120.6094907  *  178.8088026  *     7     4     1
+    12       H          1.09230170  *  119.8654467  * -178.8354282  *     6     3     1
+    13       H          1.09895178  *  120.1890705  *  179.3915300  *     8     6     3
+    14      Al          1.74755483  *  150.9492029  *   42.3378405  *     9     3     1
+    15      Cl          2.03212609  *  119.6806937  * -102.3424387  *    14     9     3
+    16      Cl          2.03196580  *  119.1941131  *   99.3042882  *    14     9     3
+    17       H          1.10174645  *   90.6225785  * -120.4893983  *     1     2     3
+    18       C          1.45040202  *  108.6520375  *   62.9378016  *     2     1     3
+    19       H          1.16378894  *  114.3156943  *   36.1295840  *    18     2     1
+    20       H          1.17230447  *  111.1591110  * -102.5563119  *    18     2     1
+    21       H          1.15117685  *  108.3285551  *  147.9310860  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.050000000     0.000000000     0.000000000
+   3    C       -0.222226365     1.405167229     0.000000000
+   4    C       -0.433028142    -0.707111640    -1.164846998
+   5    O        2.339144551    -0.526176816    -0.981303061
+   6    C       -0.771929287     2.095652348    -1.095062234
+   7    C       -0.964310799    -0.041428928    -2.239538984
+   8    C       -1.141676107     1.364098087    -2.204597121
+   9    O        0.180513839     2.080827110     1.040826249
+  10    H       -0.327160794    -1.798375978    -1.174617960
+  11    H       -1.275339960    -0.587507340    -3.134540701
+  12    H       -0.902212654     3.179007626    -1.045156400
+  13    H       -1.583983002     1.867038982    -3.075866354
+  14   Al        1.372123487     2.423100242     2.272436343
+  15   Cl        1.093504534     1.730175685     4.162347318
+  16   Cl        2.630711560     3.998761690     2.023173249
+  17    H       -0.011971390    -0.558969927     0.949344273
+  18    C        2.513867522     0.625213707     1.223764992
+  19    H        1.855526089     0.399568571     2.156543388
+  20    H        2.874393258     1.723322484     1.027611787
+  21    H        3.507037211     0.129845697     1.529432527
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -35.83450 -32.88408 -31.35391 -30.45638 -27.31455 -27.11390 -26.80014 -26.18624
+ -23.20862 -22.43778 -22.13730 -19.93378 -19.08181 -18.80454 -18.08345 -17.61346
+ -17.41647 -16.83773 -16.42988 -16.03283 -15.86508 -15.50314 -14.73399 -14.61342
+ -14.08308 -13.99850 -13.67541 -13.55570 -13.01724 -12.96871 -12.55324 -11.90562
+ -11.45771 -10.73561  -2.72597  -1.74140  -0.99292  -0.86400  -0.11324   0.24626
+   0.41034   0.57065   1.07399   1.60952   2.03289   2.19128   2.49936   2.57037
+   2.63908   3.00182   3.41411   3.56141   3.59710   3.86469   4.38806   4.57759
+   4.89215   4.93085   5.22552   5.30376  16.69708  16.86937  17.36979  18.76134
+  19.15408  69.11287  69.28196  69.57358  69.82837  69.88128  70.02595  70.10273
+  70.49296  70.75487  71.06923
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.495876        4.4959     1.10030     3.39558
+    2          C           0.626192        3.3738     1.17678     2.19702
+    3          C           0.544909        3.4551     1.09426     2.36084
+    4          C           0.005045        3.9950     1.10157     2.89338
+    5          O          -0.110123        6.1101     1.86525     4.24488
+    6          C          -0.344051        4.3441     1.08329     3.26076
+    7          C          -0.263824        4.2638     1.08445     3.17938
+    8          C           0.061714        3.9383     1.10952     2.82877
+    9          O          -0.561558        6.5616     1.64783     4.91373
+   10          H           0.181175        0.8188     0.81882
+   11          H           0.193000        0.8070     0.80700
+   12          H           0.210852        0.7891     0.78915
+   13          H           0.188418        0.8116     0.81158
+   14         Al           0.483642        2.5164     0.21649     1.34589     0.95398
+   15         Cl          -0.197537        7.1975     1.95591     5.23845     0.00318
+   16         Cl          -0.195393        7.1954     1.95576     5.23645     0.00318
+   17          H           0.228974        0.7710     0.77103
+   18          C          -0.421807        4.4218     1.03333     3.38848
+   19          H           0.275950        0.7240     0.72405
+   20          H           0.283141        0.7169     0.71686
+   21          H           0.307159        0.6928     0.69284
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     3.675    -7.742    -5.955    10.436
+ HYBRID        -0.878     0.292     0.024     0.926
+ SUM            2.797    -7.450    -5.931     9.925
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.10030   1.23961   1.03044   1.12552
+    2  C   1.17678   0.68556   0.69541   0.81605
+    3  C   1.09426   0.73149   0.87272   0.75663
+    4  C   1.10157   0.86132   1.08979   0.94227
+    5  O   1.86525   1.57083   1.36971   1.30434
+    6  C   1.08329   1.12974   1.12764   1.00338
+    7  C   1.08445   1.07546   1.01860   1.08532
+    8  C   1.10952   0.82641   0.98825   1.01411
+    9  O   1.64783   1.68884   1.71072   1.51418
+   10  H   0.81882
+   11  H   0.80700
+   12  H   0.78915
+   13  H   0.81158
+   14 Al   0.21649   0.41489   0.44169   0.48931   0.15708   0.20346   0.21272   0.18959   0.19112
+   15 Cl   1.95591   1.81955   1.80886   1.61003   0.00035   0.00090   0.00063   0.00081   0.00050
+   16 Cl   1.95576   1.74662   1.66200   1.82783   0.00090   0.00056   0.00036   0.00092   0.00044
+   17  H   0.77103
+   18  C   1.03333   1.21297   1.15608   1.01943
+   19  H   0.72405
+   20  H   0.71686
+   21  H   0.69284
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.1000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    16.884 HEAT: -55.26693
+ CYCLE:     2 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    11.644 HEAT: -55.28715
+ CYCLE:     3 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    14.915 HEAT: -55.31507
+ CYCLE:     4 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.458 HEAT: -55.35087
+ CYCLE:     5 TIME:   0.094 TIME LEFT:  2.00D  GRAD.:    11.800 HEAT: -55.36286
+ CYCLE:     6 TIME:   0.098 TIME LEFT:  2.00D  GRAD.:     8.393 HEAT: -55.37246
+ CYCLE:     7 TIME:   0.113 TIME LEFT:  2.00D  GRAD.:     4.523 HEAT: -55.36935
+ CYCLE:     8 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     0.627 HEAT: -55.36907
+
+     GRADIENT =  0.62674 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:27 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -55.36913 KCAL/MOL =    -231.66445 KJ/MOL
+          VAN DER WAALS AREA      =        223.66 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.46723 EV
+          COSMO AREA              =        223.66 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.90 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.62674          =       0.13677 PER ATOM
+          FOR REACTION COORDINATE =          2.10000 ANGSTROMS
+          REACTION GRADIENT       =         -1.13523 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.669696 EV
+          HOMO LUMO ENERGIES (EV) =        -10.670 -2.683
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.12873
+            H    12    H    21     5.30825
+           Cl    16    H    10     4.09249
+          SCF CALCULATIONS        =         14
+ 
+          WALL-CLOCK TIME         =         17.020 SECONDS
+          COMPUTATION TIME        =         30.203 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.10000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.41653532  *   96.7107316  *    0.0000000        1     2     0
+     4       C          1.42336693  *  108.5706538  *  120.7929644  *     1     2     3
+     5       O          1.14606044  *  102.3156329  * -112.5453987  *     2     1     3
+     6       C          1.40493835  *  123.1381170  *  111.5077044  *     3     1     2
+     7       C          1.37493795  *  120.9821988  * -104.3986050  *     4     1     2
+     8       C          1.38124564  *  118.0157883  *    1.7999158  *     6     3     1
+     9       O          1.31062316  *  117.6759743  *  -63.8186378  *     3     1     2
+    10       H          1.09615482  *  118.2655204  *   75.7263363  *     4     1     2
+    11       H          1.09320867  *  120.4359424  *  178.7697780  *     7     4     1
+    12       H          1.09185059  *  120.0039519  * -178.7381962  *     6     3     1
+    13       H          1.09824960  *  120.1386591  *  179.1258327  *     8     6     3
+    14      Al          1.73842060  *  151.7769519  *   47.6098127  *     9     3     1
+    15      Cl          2.02930442  *  123.0904843  * -106.9299493  *    14     9     3
+    16      Cl          2.03620707  *  117.2677749  *   91.6787415  *    14     9     3
+    17       H          1.09882156  *   88.8391327  * -120.9081146  *     1     2     3
+    18       C          1.44514721  *  107.3208024  *   68.5574473  *     2     1     3
+    19       H          1.16156300  *  115.3292804  *   26.1118307  *    18     2     1
+    20       H          1.17095434  *  111.3533085  * -113.0760636  *    18     2     1
+    21       H          1.15311232  *  108.3373666  *  137.8397015  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.100000000     0.000000000     0.000000000
+   3    C       -0.165531725     1.406830327     0.000000000
+   4    C       -0.453305122    -0.690733857    -1.159040394
+   5    O        2.344451209    -0.429305046    -1.034115722
+   6    C       -0.683636448     2.119189215    -1.094515448
+   7    C       -0.956572787    -0.005630573    -2.239692744
+   8    C       -1.081619278     1.401877844    -2.205782107
+   9    O        0.271928657     2.071248709     1.041589985
+  10    H       -0.392981186    -1.785191971    -1.167863155
+  11    H       -1.283645268    -0.543900022    -3.133222138
+  12    H       -0.770083833     3.206562549    -1.046726401
+  13    H       -1.504949791     1.922165366    -3.075405221
+  14   Al        1.494512424     2.437240861     2.222032634
+  15   Cl        1.365904319     1.864250840     4.164510131
+  16   Cl        2.795357391     3.940798961     1.782425247
+  17    H        0.022261654    -0.564307884     0.942586791
+  18    C        2.530251394     0.504342880     1.284123224
+  19    H        1.778212351     0.350274348     2.155862160
+  20    H        3.065258395     1.540482966     1.177749851
+  21    H        3.412829240    -0.141180282     1.650216406
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -36.21360 -32.78702 -31.29238 -30.58511 -27.24216 -27.12919 -26.75343 -26.17804
+ -23.16113 -22.45037 -22.21944 -19.87648 -19.08551 -18.92079 -18.15184 -17.59320
+ -17.42745 -16.88944 -16.49895 -16.08116 -15.84113 -15.49434 -14.71259 -14.60087
+ -14.05907 -14.01739 -13.67564 -13.55313 -13.00893 -12.93229 -12.56368 -11.89937
+ -11.38684 -10.66970  -2.68339  -1.86138  -1.03850  -0.85221  -0.11437   0.06190
+   0.38017   0.55422   1.13567   1.64669   2.01611   2.14616   2.40590   2.57727
+   2.69714   3.08081   3.52024   3.55660   3.64352   3.92336   4.47582   4.63118
+   4.95442   4.99917   5.27082   5.34261  16.59405  16.95911  17.39788  18.77583
+  19.27499  69.10033  69.26412  69.57043  69.79753  69.88906  70.04705  70.09634
+  70.51625  70.76924  71.08891
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.494531        4.4945     1.09729     3.39724
+    2          C           0.629374        3.3706     1.18055     2.19008
+    3          C           0.515852        3.4841     1.09025     2.39389
+    4          C          -0.003887        4.0039     1.09999     2.90390
+    5          O          -0.065207        6.0652     1.86560     4.19960
+    6          C          -0.331529        4.3315     1.08360     3.24793
+    7          C          -0.257785        4.2578     1.08441     3.17338
+    8          C           0.041444        3.9586     1.10664     2.85192
+    9          O          -0.562415        6.5624     1.64478     4.91763
+   10          H           0.179408        0.8206     0.82059
+   11          H           0.190889        0.8091     0.80911
+   12          H           0.208496        0.7915     0.79150
+   13          H           0.187149        0.8129     0.81285
+   14         Al           0.478142        2.5219     0.21679     1.35281     0.95226
+   15         Cl          -0.187174        7.1872     1.95573     5.22830     0.00314
+   16         Cl          -0.205757        7.2058     1.95613     5.24639     0.00323
+   17          H           0.222836        0.7772     0.77716
+   18          C          -0.424750        4.4247     1.03311     3.39164
+   19          H           0.281497        0.7185     0.71850
+   20          H           0.283656        0.7163     0.71634
+   21          H           0.314291        0.6857     0.68571
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     3.810    -8.758    -5.259    10.903
+ HYBRID        -0.958     0.355     0.017     1.022
+ SUM            2.852    -8.403    -5.242    10.307
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.09729   1.24392   1.03020   1.12313
+    2  C   1.18055   0.67273   0.68113   0.83622
+    3  C   1.09025   0.75620   0.87638   0.76132
+    4  C   1.09999   0.86665   1.09159   0.94566
+    5  O   1.86560   1.53999   1.37983   1.27978
+    6  C   1.08360   1.12199   1.12453   1.00142
+    7  C   1.08441   1.07366   1.01704   1.08268
+    8  C   1.10664   0.84180   0.99287   1.01724
+    9  O   1.64478   1.68443   1.71431   1.51890
+   10  H   0.82059
+   11  H   0.80911
+   12  H   0.79150
+   13  H   0.81285
+   14 Al   0.21679   0.42059   0.43183   0.50039   0.15789   0.20052   0.22012   0.18553   0.18821
+   15 Cl   1.95573   1.82079   1.81539   1.59212   0.00039   0.00085   0.00048   0.00096   0.00046
+   16 Cl   1.95613   1.74328   1.67618   1.82693   0.00100   0.00052   0.00049   0.00073   0.00049
+   17  H   0.77716
+   18  C   1.03311   1.20010   1.18915   1.00238
+   19  H   0.71850
+   20  H   0.71634
+   21  H   0.68571
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.1500  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.027 TIME LEFT:  2.00D  GRAD.:    28.077 HEAT: -55.26685
+ CYCLE:     2 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    21.424 HEAT: -55.56398
+ CYCLE:     3 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    16.297 HEAT: -55.56547
+ CYCLE:     4 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     9.443 HEAT: -55.59562
+ CYCLE:     5 TIME:   0.172 TIME LEFT:  2.00D  GRAD.:     4.956 HEAT: -55.58896
+ CYCLE:     6 TIME:   0.188 TIME LEFT:  2.00D  GRAD.:     3.825 HEAT: -55.58850
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:28 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -55.59558 KCAL/MOL =    -232.61190 KJ/MOL
+          VAN DER WAALS AREA      =        224.40 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.52877 EV
+          COSMO AREA              =        224.40 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.15 CUBIC ANGSTROMS
+          GRADIENT NORM           =          9.44313          =       2.06066 PER ATOM
+          FOR REACTION COORDINATE =          2.15000 ANGSTROMS
+          REACTION GRADIENT       =         -5.57147 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.600501 EV
+          HOMO LUMO ENERGIES (EV) =        -10.601 -2.631
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.16780
+            H    12    H    21     5.31144
+           Cl    16    H    10     4.04420
+          SCF CALCULATIONS        =         23
+ 
+          WALL-CLOCK TIME         =         17.898 SECONDS
+          COMPUTATION TIME        =         31.844 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE        GRADIENT
+      1          3  C    BOND            1.411401      3.131403  KCAL/ANGSTROM
+      2          3  C    ANGLE          95.990489      2.224299  KCAL/RADIAN  
+      3          4  C    BOND            1.418944      1.425344  KCAL/ANGSTROM
+      4          4  C    ANGLE         108.268804     -1.824912  KCAL/RADIAN  
+      5          4  C    DIHEDRAL      120.658556      3.452415  KCAL/RADIAN  
+      6          5  O    BOND            1.142629      0.367339  KCAL/ANGSTROM
+      7          5  O    ANGLE         100.075260      0.359517  KCAL/RADIAN  
+      8          5  O    DIHEDRAL      247.952901      0.016470  KCAL/RADIAN  
+      9          6  C    BOND            1.404903      1.448001  KCAL/ANGSTROM
+     10          6  C    ANGLE         123.138170      3.649684  KCAL/RADIAN  
+     11          6  C    DIHEDRAL      111.311195     -0.219720  KCAL/RADIAN  
+     12          7  C    BOND            1.377957     -0.084337  KCAL/ANGSTROM
+     13          7  C    ANGLE         120.911386      1.825809  KCAL/RADIAN  
+     14          7  C    DIHEDRAL      255.808450     -0.262926  KCAL/RADIAN  
+     15          8  C    BOND            1.382351     -0.379610  KCAL/ANGSTROM
+     16          8  C    ANGLE         117.979072      1.979321  KCAL/RADIAN  
+     17          8  C    DIHEDRAL      361.801774      0.022752  KCAL/RADIAN  
+     18          9  O    BOND            1.313943      0.478103  KCAL/ANGSTROM
+     19          9  O    ANGLE         117.754544      3.659213  KCAL/RADIAN  
+     20          9  O    DIHEDRAL      296.174530     -1.802828  KCAL/RADIAN  
+     21         10  H    BOND            1.095755      0.177957  KCAL/ANGSTROM
+     22         10  H    ANGLE         118.527379      0.071251  KCAL/RADIAN  
+     23         10  H    DIHEDRAL       76.195374     -0.029523  KCAL/RADIAN  
+     24         11  H    BOND            1.092765      0.086226  KCAL/ANGSTROM
+     25         11  H    ANGLE         120.465990      0.119871  KCAL/RADIAN  
+     26         11  H    DIHEDRAL      179.400925      0.281304  KCAL/RADIAN  
+     27         12  H    BOND            1.091576      0.108161  KCAL/ANGSTROM
+     28         12  H    ANGLE         120.075751      0.138817  KCAL/RADIAN  
+     29         12  H    DIHEDRAL      181.059407     -0.062991  KCAL/RADIAN  
+     30         13  H    BOND            1.097754      0.171357  KCAL/ANGSTROM
+     31         13  H    ANGLE         120.120819      0.012059  KCAL/RADIAN  
+     32         13  H    DIHEDRAL      178.498021     -0.500003  KCAL/RADIAN  
+     33         14 Al    BOND            1.734056      1.607669  KCAL/ANGSTROM
+     34         14 Al    ANGLE         207.823571     -2.911137  KCAL/RADIAN  
+     35         14 Al    DIHEDRAL      231.235500      0.675317  KCAL/RADIAN  
+     36         15 Cl    BOND            2.029838      0.465131  KCAL/ANGSTROM
+     37         15 Cl    ANGLE         123.988508      0.158418  KCAL/RADIAN  
+     38         15 Cl    DIHEDRAL      250.681201     -0.067685  KCAL/RADIAN  
+     39         16 Cl    BOND            2.038286      1.218113  KCAL/ANGSTROM
+     40         16 Cl    ANGLE         117.176364      0.075907  KCAL/RADIAN  
+     41         16 Cl    DIHEDRAL       87.816483      0.599188  KCAL/RADIAN  
+     42         17  H    BOND            1.096142     -0.245831  KCAL/ANGSTROM
+     43         17  H    ANGLE          86.877207     -0.106668  KCAL/RADIAN  
+     44         17  H    DIHEDRAL      238.782457     -0.080791  KCAL/RADIAN  
+     45         18  C    BOND            1.440697     -0.532172  KCAL/ANGSTROM
+     46         18  C    ANGLE         106.385464      0.947767  KCAL/RADIAN  
+     47         18  C    DIHEDRAL       69.177625      0.857635  KCAL/RADIAN  
+     48         19  H    BOND            1.160581     -0.165844  KCAL/ANGSTROM
+     49         19  H    ANGLE         115.521485     -0.196332  KCAL/RADIAN  
+     50         19  H    DIHEDRAL       24.228325      0.324723  KCAL/RADIAN  
+     51         20  H    BOND            1.171747      0.629075  KCAL/ANGSTROM
+     52         20  H    ANGLE         111.660945     -0.014836  KCAL/RADIAN  
+     53         20  H    DIHEDRAL      244.583698     -0.602643  KCAL/RADIAN  
+     54         21  H    BOND            1.155380      0.242918  KCAL/ANGSTROM
+     55         21  H    ANGLE         108.246207     -0.030182  KCAL/RADIAN  
+     56         21  H    DIHEDRAL      135.763469      0.138500  KCAL/RADIAN  
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.15000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.41140071  *   95.9904889  *    0.0000000        1     2     0
+     4       C          1.41894365  *  108.2688039  *  120.6585564  *     1     2     3
+     5       O          1.14262888  *  100.0752600  * -112.0470990  *     2     1     3
+     6       C          1.40490295  *  123.1381701  *  111.3111955  *     3     1     2
+     7       C          1.37795718  *  120.9113861  * -104.1915499  *     4     1     2
+     8       C          1.38235064  *  117.9790724  *    1.8017736  *     6     3     1
+     9       O          1.31394281  *  117.7545435  *  -63.8254705  *     3     1     2
+    10       H          1.09575550  *  118.5273789  *   76.1953738  *     4     1     2
+    11       H          1.09276499  *  120.4659899  *  179.4009246  *     7     4     1
+    12       H          1.09157625  *  120.0757507  * -178.9405929  *     6     3     1
+    13       H          1.09775365  *  120.1208186  *  178.4980205  *     8     6     3
+    14      Al          1.73405563  *  152.1764288  *   51.2355001  *     9     3     1
+    15      Cl          2.02983767  *  123.9885079  * -109.3187990  *    14     9     3
+    16      Cl          2.03828610  *  117.1763635  *   87.8164831  *    14     9     3
+    17       H          1.09614203  *   86.8772066  * -121.2175428  *     1     2     3
+    18       C          1.44069731  *  106.3854639  *   69.1776248  *     2     1     3
+    19       H          1.16058096  *  115.5214851  *   24.2283252  *    18     2     1
+    20       H          1.17174697  *  111.6609449  * -115.4163016  *    18     2     1
+    21       H          1.15537974  *  108.2462068  *  135.7634691  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.150000000     0.000000000     0.000000000
+   3    C       -0.147298536     1.403693383     0.000000000
+   4    C       -0.444804031    -0.687079381    -1.159082564
+   5    O        2.349893331    -0.422292792    -1.042742634
+   6    C       -0.652658991     2.122883729    -1.095960009
+   7    C       -0.941937873     0.002433649    -2.243608132
+   8    C       -1.055969808     1.409702251    -2.209335891
+   9    O        0.298950371     2.065763898     1.043537379
+  10    H       -0.390711130    -1.781425361    -1.171769132
+  11    H       -1.273430970    -0.533509796    -3.136363575
+  12    H       -0.729174477     3.210720935    -1.048061035
+  13    H       -1.479162970     1.934112916    -3.075917724
+  14   Al        1.533405929     2.462465384     2.194926258
+  15   Cl        1.475091774     1.925244822     4.151513722
+  16   Cl        2.832543029     3.950229382     1.691526493
+  17    H        0.059713484    -0.567274612     0.936034807
+  18    C        2.556417925     0.491327792     1.291909519
+  19    H        1.781183472     0.355903399     2.144915937
+  20    H        3.126836255     1.511318885     1.206868029
+  21    H        3.412706081    -0.179633204     1.681119332
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -36.51448 -32.68899 -31.21891 -30.64321 -27.18489 -27.11561 -26.69882 -26.15862
+ -23.13536 -22.45214 -22.22234 -19.83368 -19.12046 -18.98537 -18.20265 -17.56956
+ -17.41247 -16.90499 -16.55205 -16.09421 -15.80482 -15.46275 -14.70171 -14.56609
+ -14.03844 -14.00643 -13.67292 -13.52476 -12.98834 -12.90160 -12.56919 -11.87930
+ -11.31551 -10.60050  -2.63095  -1.95867  -1.04915  -0.83067  -0.14984  -0.06538
+   0.37437   0.55743   1.19899   1.68877   1.97220   2.13633   2.37650   2.54745
+   2.81067   3.15455   3.49443   3.64500   3.71626   3.98860   4.55931   4.68669
+   5.00827   5.06578   5.31535   5.38074  16.54028  16.98465  17.38663  18.79571
+  19.32497  69.10738  69.26975  69.58041  69.79769  69.90509  70.06798  70.10662
+  70.53775  70.78810  71.10883
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.491344        4.4913     1.09453     3.39682
+    2          C           0.630888        3.3691     1.18350     2.18561
+    3          C           0.494082        3.5059     1.08681     2.41911
+    4          C          -0.014069        4.0141     1.09844     2.91563
+    5          O          -0.028096        6.0281     1.86599     4.16210
+    6          C          -0.321531        4.3215     1.08400     3.23754
+    7          C          -0.252384        4.2524     1.08462     3.16777
+    8          C           0.023314        3.9767     1.10448     2.87220
+    9          O          -0.562740        6.5627     1.64297     4.91977
+   10          H           0.176964        0.8230     0.82304
+   11          H           0.188742        0.8113     0.81126
+   12          H           0.206054        0.7939     0.79395
+   13          H           0.185682        0.8143     0.81432
+   14         Al           0.476811        2.5232     0.21679     1.35609     0.95031
+   15         Cl          -0.186100        7.1861     1.95574     5.22723     0.00314
+   16         Cl          -0.208559        7.2086     1.95627     5.24906     0.00323
+   17          H           0.218194        0.7818     0.78181
+   18          C          -0.426586        4.4266     1.03297     3.39362
+   19          H           0.285431        0.7146     0.71457
+   20          H           0.286251        0.7137     0.71375
+   21          H           0.318995        0.6810     0.68100
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     4.418    -9.146    -5.006    11.324
+ HYBRID        -0.989     0.354     0.005     1.051
+ SUM            3.428    -8.793    -5.002    10.681
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.09453   1.24660   1.03034   1.11988
+    2  C   1.18350   0.66338   0.68156   0.84067
+    3  C   1.08681   0.77679   0.87769   0.76463
+    4  C   1.09844   0.87544   1.09068   0.94950
+    5  O   1.86599   1.51571   1.37932   1.26707
+    6  C   1.08400   1.11581   1.12195   0.99977
+    7  C   1.08462   1.07052   1.01658   1.08066
+    8  C   1.10448   0.85791   0.99452   1.01977
+    9  O   1.64297   1.68555   1.71373   1.52049
+   10  H   0.82304
+   11  H   0.81126
+   12  H   0.79395
+   13  H   0.81432
+   14 Al   0.21679   0.42199   0.43023   0.50387   0.15703   0.19916   0.22182   0.18430   0.18799
+   15 Cl   1.95574   1.82230   1.81754   1.58738   0.00040   0.00085   0.00044   0.00100   0.00045
+   16 Cl   1.95627   1.74444   1.67937   1.82526   0.00101   0.00050   0.00053   0.00068   0.00051
+   17  H   0.78181
+   18  C   1.03297   1.20083   1.19738   0.99541
+   19  H   0.71457
+   20  H   0.71375
+   21  H   0.68100
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.2000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    23.227 HEAT: -55.84925
+ CYCLE:     2 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    21.996 HEAT: -55.85150
+ CYCLE:     3 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    19.044 HEAT: -55.85579
+ CYCLE:     4 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    15.323 HEAT: -55.85983
+ CYCLE:     5 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    10.361 HEAT: -55.86435
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.793 HEAT: -55.86747
+ CYCLE:     7 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.359 HEAT: -55.86875
+ CYCLE:     8 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     5.335 HEAT: -55.87560
+ CYCLE:     9 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.977 HEAT: -55.90488
+ CYCLE:    10 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     3.619 HEAT: -55.95849
+ CYCLE:    11 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     3.226 HEAT: -55.95964
+ CYCLE:    12 TIME:   0.102 TIME LEFT:  2.00D  GRAD.:    20.197 HEAT: -55.96771
+ CYCLE:    13 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     3.757 HEAT: -56.02609
+ CYCLE:    14 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     3.025 HEAT: -56.04380
+ CYCLE:    15 TIME:   0.055 TIME LEFT:  2.00D  GRAD.:     1.713 HEAT: -56.06492
+ CYCLE:    16 TIME:   0.102 TIME LEFT:  2.00D  GRAD.:     1.698 HEAT: -56.07164
+ CYCLE:    17 TIME:   0.180 TIME LEFT:  2.00D  GRAD.:     1.504 HEAT: -56.07670
+ CYCLE:    18 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:     0.633 HEAT: -56.06730
+
+     GRADIENT =  0.63262 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:29 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -56.06730 KCAL/MOL =    -234.58559 KJ/MOL
+          VAN DER WAALS AREA      =        224.78 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.59845 EV
+          COSMO AREA              =        224.78 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.42 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.63262          =       0.13805 PER ATOM
+          FOR REACTION COORDINATE =          2.20000 ANGSTROMS
+          REACTION GRADIENT       =        -10.04642 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.535988 EV
+          HOMO LUMO ENERGIES (EV) =        -10.536 -2.574
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.17025
+            H    21    H    12     5.27198
+            H    10   Cl    16     4.09786
+          SCF CALCULATIONS        =         35
+ 
+          WALL-CLOCK TIME         =         19.180 SECONDS
+          COMPUTATION TIME        =         34.406 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.20000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.40753564  *   96.0247157  *    0.0000000        1     2     0
+     4       C          1.41402504  *  109.0446312  *  120.9815824  *     1     2     3
+     5       O          1.13950855  *   96.9363675  * -115.1339649  *     2     1     3
+     6       C          1.40333174  *  123.2647715  *  112.2534062  *     3     1     2
+     7       C          1.38046498  *  120.8804201  * -104.3358658  *     4     1     2
+     8       C          1.38361346  *  117.8751748  *    1.3194756  *     6     3     1
+     9       O          1.31786473  *  117.7446050  *  -63.4440245  *     3     1     2
+    10       H          1.09529908  *  118.6888665  *   75.7306587  *     4     1     2
+    11       H          1.09244674  *  120.2646358  *  178.7730438  *     7     4     1
+    12       H          1.09093198  *  120.1495050  * -179.0753596  *     6     3     1
+    13       H          1.09702617  *  120.0250309  *  179.4732457  *     8     6     3
+    14      Al          1.72730296  *  152.9163285  *   53.4095233  *     9     3     1
+    15      Cl          2.03177922  *  123.8410294  * -110.0104576  *    14     9     3
+    16      Cl          2.03757310  *  117.9221026  *   86.4000478  *    14     9     3
+    17       H          1.09500394  *   84.2303896  * -121.2281705  *     1     2     3
+    18       C          1.43640213  *  106.5742829  *   66.1845594  *     2     1     3
+    19       H          1.16225429  *  115.2215921  *   27.9700904  *    18     2     1
+    20       H          1.17271785  *  111.4514246  * -111.2868658  *    18     2     1
+    21       H          1.15554625  *  108.3487319  *  139.5693453  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.200000000     0.000000000     0.000000000
+   3    C       -0.147731366     1.399761420     0.000000000
+   4    C       -0.461402842    -0.688045952    -1.145934983
+   5    O        2.337614972    -0.480448114    -1.024066142
+   6    C       -0.670433435     2.118610179    -1.085992167
+   7    C       -0.969895334     0.000585460    -2.228942707
+   8    C       -1.082590405     1.403843203    -2.196677097
+   9    O        0.306439517     2.064609319     1.043299342
+  10    H       -0.409109013    -1.782018470    -1.158956548
+  11    H       -1.305059019    -0.540006539    -3.117123701
+  12    H       -0.748440800     3.205643841    -1.036948798
+  13    H       -1.504675518     1.929482673    -3.062132880
+  14   Al        1.538706659     2.497385149     2.173696743
+  15   Cl        1.518350045     1.956303221     4.131997730
+  16   Cl        2.811692113     4.005390288     1.666614232
+  17    H        0.110079214    -0.564826176     0.931604847
+  18    C        2.609745482     0.555908579     1.259494090
+  19    H        1.860971546     0.403394490     2.135229260
+  20    H        3.111871194     1.606664991     1.121479991
+  21    H        3.513696092    -0.050208783     1.647800895
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -36.77565 -32.58884 -31.16536 -30.72420 -27.17239 -27.08489 -26.65736 -26.14840
+ -23.15716 -22.43577 -22.19886 -19.81553 -19.22082 -19.03376 -18.24244 -17.55160
+ -17.38208 -16.94252 -16.60113 -16.11132 -15.76395 -15.42971 -14.69196 -14.52852
+ -14.03451 -13.98930 -13.67290 -13.48739 -12.97316 -12.87251 -12.56151 -11.86135
+ -11.24928 -10.53599  -2.57423  -2.04094  -1.04385  -0.79547  -0.27512  -0.06599
+   0.37917   0.56880   1.26933   1.74052   1.90834   2.17133   2.35909   2.50637
+   2.91685   3.23322   3.44350   3.74797   3.79287   4.05404   4.64614   4.72849
+   5.06376   5.12371   5.36224   5.42061  16.59047  17.01655  17.40137  18.87312
+  19.39156  69.13092  69.29780  69.60943  69.83634  69.92231  70.07258  70.13866
+  70.55937  70.81340  71.13752
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.486168        4.4862     1.09213     3.39404
+    2          C           0.632773        3.3672     1.18568     2.18155
+    3          C           0.475187        3.5248     1.08383     2.44098
+    4          C          -0.020996        4.0210     1.09702     2.92397
+    5          O           0.004206        5.9958     1.86624     4.12955
+    6          C          -0.313053        4.3131     1.08388     3.22918
+    7          C          -0.249303        4.2493     1.08393     3.16538
+    8          C           0.007475        3.9925     1.10180     2.89072
+    9          O          -0.562531        6.5625     1.64085     4.92169
+   10          H           0.175661        0.8243     0.82434
+   11          H           0.186721        0.8133     0.81328
+   12          H           0.203645        0.7964     0.79636
+   13          H           0.183986        0.8160     0.81601
+   14         Al           0.476468        2.5235     0.21561     1.35584     0.95208
+   15         Cl          -0.193155        7.1932     1.95597     5.23404     0.00315
+   16         Cl          -0.208872        7.2089     1.95628     5.24935     0.00324
+   17          H           0.212750        0.7872     0.78725
+   18          C          -0.420903        4.4209     1.03205     3.38885
+   19          H           0.288069        0.7119     0.71193
+   20          H           0.288090        0.7119     0.71191
+   21          H           0.319949        0.6801     0.68005
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     5.247    -9.231    -5.127    11.791
+ HYBRID        -1.002     0.326     0.032     1.054
+ SUM            4.245    -8.905    -5.095    11.103
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.09213   1.24629   1.02987   1.11788
+    2  C   1.18568   0.65631   0.69122   0.83401
+    3  C   1.08383   0.79602   0.87807   0.76689
+    4  C   1.09702   0.88251   1.09024   0.95122
+    5  O   1.86624   1.49729   1.37002   1.26224
+    6  C   1.08388   1.10853   1.11964   1.00101
+    7  C   1.08393   1.06949   1.01726   1.07863
+    8  C   1.10180   0.87382   0.99570   1.02121
+    9  O   1.64085   1.68902   1.71068   1.52198
+   10  H   0.82434
+   11  H   0.81328
+   12  H   0.79636
+   13  H   0.81601
+   14 Al   0.21561   0.41973   0.43306   0.50305   0.15660   0.19919   0.22112   0.18566   0.18951
+   15 Cl   1.95597   1.82528   1.81856   1.59019   0.00040   0.00086   0.00044   0.00101   0.00044
+   16 Cl   1.95628   1.74867   1.67557   1.82511   0.00101   0.00048   0.00053   0.00071   0.00052
+   17  H   0.78725
+   18  C   1.03205   1.20797   1.18192   0.99897
+   19  H   0.71193
+   20  H   0.71191
+   21  H   0.68005
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.3000  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    49.390 HEAT: -56.45974
+ CYCLE:     2 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:    11.041 HEAT: -57.17792
+ CYCLE:     3 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    12.675 HEAT: -57.37536
+ CYCLE:     4 TIME:   0.121 TIME LEFT:  2.00D  GRAD.:    14.384 HEAT: -57.38332
+ CYCLE:     5 TIME:   0.160 TIME LEFT:  2.00D  GRAD.:    11.773 HEAT: -57.39117
+ CYCLE:     6 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     7.002 HEAT: -57.42494
+ CYCLE:     7 TIME:   0.137 TIME LEFT:  2.00D  GRAD.:     6.414 HEAT: -57.43184
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:30 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -57.43184 KCAL/MOL =    -240.29481 KJ/MOL
+          VAN DER WAALS AREA      =        224.61 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.70688 EV
+          COSMO AREA              =        224.61 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.57 CUBIC ANGSTROMS
+          GRADIENT NORM           =          6.41414          =       1.39968 PER ATOM
+          FOR REACTION COORDINATE =          2.30000 ANGSTROMS
+          REACTION GRADIENT       =        -15.80060 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.445516 EV
+          HOMO LUMO ENERGIES (EV) =        -10.446 -2.472
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.21802
+            H    21    H    12     5.28322
+            H    10   Cl    16     4.05968
+          SCF CALCULATIONS        =         18
+ 
+          WALL-CLOCK TIME         =         19.867 SECONDS
+          COMPUTATION TIME        =         35.750 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE        GRADIENT
+      1          3  C    BOND            1.403179     -0.615617  KCAL/ANGSTROM
+      2          3  C    ANGLE          93.779236     -3.093082  KCAL/RADIAN  
+      3          4  C    BOND            1.406674     -0.320768  KCAL/ANGSTROM
+      4          4  C    ANGLE         111.469525      0.312863  KCAL/RADIAN  
+      5          4  C    DIHEDRAL      120.947695     -0.557502  KCAL/RADIAN  
+      6          5  O    BOND            1.135318      0.529466  KCAL/ANGSTROM
+      7          5  O    ANGLE          91.386979     -0.898099  KCAL/RADIAN  
+      8          5  O    DIHEDRAL      246.697082     -0.306355  KCAL/RADIAN  
+      9          6  C    BOND            1.400635     -0.541751  KCAL/ANGSTROM
+     10          6  C    ANGLE         123.241659     -0.097355  KCAL/RADIAN  
+     11          6  C    DIHEDRAL      114.354529     -0.626162  KCAL/RADIAN  
+     12          7  C    BOND            1.384770     -0.271621  KCAL/ANGSTROM
+     13          7  C    ANGLE         120.834340     -0.652524  KCAL/RADIAN  
+     14          7  C    DIHEDRAL      256.620039      0.062865  KCAL/RADIAN  
+     15          8  C    BOND            1.385885      0.310848  KCAL/ANGSTROM
+     16          8  C    ANGLE         117.918325      0.184944  KCAL/RADIAN  
+     17          8  C    DIHEDRAL      360.636740     -0.494261  KCAL/RADIAN  
+     18          9  O    BOND            1.322843      0.316366  KCAL/ANGSTROM
+     19          9  O    ANGLE         117.915231     -0.646851  KCAL/RADIAN  
+     20          9  O    DIHEDRAL      298.870104      2.657352  KCAL/RADIAN  
+     21         10  H    BOND            1.094302     -0.332758  KCAL/ANGSTROM
+     22         10  H    ANGLE         118.954733     -0.066470  KCAL/RADIAN  
+     23         10  H    DIHEDRAL       76.822337      0.084684  KCAL/RADIAN  
+     24         11  H    BOND            1.091929     -0.046678  KCAL/ANGSTROM
+     25         11  H    ANGLE         120.406891      0.808273  KCAL/RADIAN  
+     26         11  H    DIHEDRAL      178.548927     -0.155743  KCAL/RADIAN  
+     27         12  H    BOND            1.090757      0.070190  KCAL/ANGSTROM
+     28         12  H    ANGLE         120.086831     -0.352290  KCAL/RADIAN  
+     29         12  H    DIHEDRAL      180.733184      0.135014  KCAL/RADIAN  
+     30         13  H    BOND            1.095790     -0.120101  KCAL/ANGSTROM
+     31         13  H    ANGLE         120.038187      0.207894  KCAL/RADIAN  
+     32         13  H    DIHEDRAL      179.959785      0.098218  KCAL/RADIAN  
+     33         14 Al    BOND            1.720723      2.071661  KCAL/ANGSTROM
+     34         14 Al    ANGLE         204.665297      1.398885  KCAL/RADIAN  
+     35         14 Al    DIHEDRAL      235.474655      0.500163  KCAL/RADIAN  
+     36         15 Cl    BOND            2.034487      0.553438  KCAL/ANGSTROM
+     37         15 Cl    ANGLE         124.658665     -0.190492  KCAL/RADIAN  
+     38         15 Cl    DIHEDRAL      248.557476      0.228587  KCAL/RADIAN  
+     39         16 Cl    BOND            2.040529      0.522661  KCAL/ANGSTROM
+     40         16 Cl    ANGLE         117.876570      0.056096  KCAL/RADIAN  
+     41         16 Cl    DIHEDRAL       83.037993      0.147929  KCAL/RADIAN  
+     42         17  H    BOND            1.092225      0.111597  KCAL/ANGSTROM
+     43         17  H    ANGLE          79.987290     -0.661971  KCAL/RADIAN  
+     44         17  H    DIHEDRAL      238.173079      0.156978  KCAL/RADIAN  
+     45         18  C    BOND            1.430085      0.755517  KCAL/ANGSTROM
+     46         18  C    ANGLE         106.144040     -3.059409  KCAL/RADIAN  
+     47         18  C    DIHEDRAL       68.265980      0.039608  KCAL/RADIAN  
+     48         19  H    BOND            1.164388      0.416510  KCAL/ANGSTROM
+     49         19  H    ANGLE         115.191096     -0.311616  KCAL/RADIAN  
+     50         19  H    DIHEDRAL       24.166148      0.605808  KCAL/RADIAN  
+     51         20  H    BOND            1.173095      0.136363  KCAL/ANGSTROM
+     52         20  H    ANGLE         112.186841      0.568382  KCAL/RADIAN  
+     53         20  H    DIHEDRAL      244.329674      0.633125  KCAL/RADIAN  
+     54         21  H    BOND            1.158140      0.405464  KCAL/ANGSTROM
+     55         21  H    ANGLE         108.820506      0.406807  KCAL/RADIAN  
+     56         21  H    DIHEDRAL      135.210684     -0.151155  KCAL/RADIAN  
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.30000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.40317936  *   93.7792363  *    0.0000000        1     2     0
+     4       C          1.40667412  *  111.4695254  *  120.9476950  *     1     2     3
+     5       O          1.13531831  *   91.3869789  * -113.3029183  *     2     1     3
+     6       C          1.40063509  *  123.2416586  *  114.3545294  *     3     1     2
+     7       C          1.38476967  *  120.8343405  * -103.3799612  *     4     1     2
+     8       C          1.38588471  *  117.9183252  *    0.6367397  *     6     3     1
+     9       O          1.32284303  *  117.9152313  *  -61.1298956  *     3     1     2
+    10       H          1.09430161  *  118.9547325  *   76.8223366  *     4     1     2
+    11       H          1.09192913  *  120.4068913  *  178.5489271  *     7     4     1
+    12       H          1.09075747  *  120.0868305  * -179.2668156  *     6     3     1
+    13       H          1.09578954  *  120.0381872  *  179.9597851  *     8     6     3
+    14      Al          1.72072285  *  155.3347031  *   55.4746549  *     9     3     1
+    15      Cl          2.03448670  *  124.6586653  * -111.4425240  *    14     9     3
+    16      Cl          2.04052901  *  117.8765701  *   83.0379929  *    14     9     3
+    17       H          1.09222453  *   79.9872904  * -121.8269212  *     1     2     3
+    18       C          1.43008523  *  106.1440397  *   68.2659804  *     2     1     3
+    19       H          1.16438776  *  115.1910962  *   24.1661476  *    18     2     1
+    20       H          1.17309480  *  112.1868412  * -115.6703262  *    18     2     1
+    21       H          1.15813994  *  108.8205059  *  135.2106837  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.300000000     0.000000000     0.000000000
+   3    C       -0.092486776     1.400128032     0.000000000
+   4    C       -0.514851595    -0.673195408    -1.122705602
+   5    O        2.327480363    -0.448991575    -1.042400622
+   6    C       -0.625124682     2.134405587    -1.067198191
+   7    C       -1.030693421     0.030997823    -2.197696836
+   8    C       -1.092959925     1.433605705    -2.167510030
+   9    O        0.429849619     2.055289581     1.023641400
+  10    H       -0.505611403    -1.767393259    -1.134609327
+  11    H       -1.406928639    -0.498080284    -3.075667593
+  12    H       -0.661243863     3.223432825    -1.017529911
+  13    H       -1.517306368     1.973186218    -3.021639811
+  14   Al        1.679761334     2.511113262     2.114894170
+  15   Cl        1.724097044     2.027384588     4.090540152
+  16   Cl        2.979859831     3.967721929     1.521772157
+  17    H        0.189901395    -0.567217357     0.913868889
+  18    C        2.697639579     0.508675479     1.276039106
+  19    H        1.912046238     0.383257133     2.126281533
+  20    H        3.272808559     1.527227300     1.187245845
+  21    H        3.548835356    -0.155921120     1.694447067
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -37.15922 -32.43834 -31.07529 -30.83019 -27.16375 -27.00762 -26.60357 -26.12845
+ -23.19264 -22.41176 -22.17386 -19.76804 -19.30129 -19.13216 -18.36236 -17.53645
+ -17.35368 -16.94434 -16.65065 -16.11976 -15.71675 -15.37851 -14.68731 -14.46983
+ -14.02929 -13.95494 -13.67300 -13.43364 -12.94665 -12.81623 -12.55957 -11.84691
+ -11.15485 -10.44552  -2.47204  -2.16686  -1.03519  -0.75569  -0.49759  -0.07145
+   0.39203   0.58480   1.36810   1.76914   1.85759   2.11223   2.34806   2.50981
+   3.06926   3.33258   3.40744   3.88293   3.89757   4.15186   4.76729   4.78109
+   5.14470   5.20852   5.42529   5.47514  16.53787  17.08000  17.43218  18.90981
+  19.46663  69.16660  69.33306  69.65024  69.87071  69.96367  70.11491  70.17879
+  70.60342  70.85758  71.18378
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.464630        4.4646     1.08846     3.37617
+    2          C           0.630941        3.3691     1.18854     2.18052
+    3          C           0.440556        3.5594     1.07928     2.48016
+    4          C          -0.035230        4.0352     1.09447     2.94076
+    5          O           0.053012        5.9470     1.86701     4.07998
+    6          C          -0.298676        4.2987     1.08396     3.21471
+    7          C          -0.241212        4.2412     1.08386     3.15735
+    8          C          -0.017632        4.0176     1.09845     2.91919
+    9          O          -0.563991        6.5640     1.63701     4.92698
+   10          H           0.173269        0.8267     0.82673
+   11          H           0.184160        0.8158     0.81584
+   12          H           0.200386        0.7996     0.79961
+   13          H           0.182013        0.8180     0.81799
+   14         Al           0.475455        2.5245     0.21513     1.35810     0.95132
+   15         Cl          -0.197652        7.1977     1.95621     5.23827     0.00317
+   16         Cl          -0.214592        7.2146     1.95655     5.25480     0.00325
+   17          H           0.202595        0.7974     0.79740
+   18          C          -0.424558        4.4246     1.03095     3.39361
+   19          H           0.296465        0.7035     0.70353
+   20          H           0.293523        0.7065     0.70648
+   21          H           0.325797        0.6742     0.67420
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     5.784    -9.880    -4.754    12.396
+ HYBRID        -0.963     0.385     0.039     1.038
+ SUM            4.821    -9.495    -4.716    11.646
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.08846   1.23333   1.02833   1.11451
+    2  C   1.18854   0.65082   0.68781   0.84189
+    3  C   1.07928   0.82521   0.88071   0.77425
+    4  C   1.09447   0.89624   1.09058   0.95395
+    5  O   1.86701   1.46575   1.37204   1.24219
+    6  C   1.08396   1.09583   1.11643   1.00245
+    7  C   1.08386   1.06645   1.01600   1.07491
+    8  C   1.09845   0.89875   0.99951   1.02092
+    9  O   1.63701   1.67880   1.71324   1.53494
+   10  H   0.82673
+   11  H   0.81584
+   12  H   0.79961
+   13  H   0.81799
+   14 Al   0.21513   0.42470   0.42718   0.50622   0.15735   0.19839   0.22336   0.18174   0.19047
+   15 Cl   1.95621   1.82805   1.82358   1.58664   0.00042   0.00085   0.00039   0.00107   0.00043
+   16 Cl   1.95655   1.74683   1.68575   1.82222   0.00105   0.00045   0.00059   0.00062   0.00053
+   17  H   0.79740
+   18  C   1.03095   1.20713   1.19785   0.98863
+   19  H   0.70353
+   20  H   0.70648
+   21  H   0.67420
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.4000  ANGSTROMS 
+
+ ********************************************************************************
+ GEOMETRY TOO UNSTABLE FOR EXTRAPOLATION TO BE USED
+ - THE LAST GEOMETRY IS BEING USED TO START THE NEXT CALCULATION
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    43.859 HEAT: -58.25422
+ CYCLE:     2 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    42.291 HEAT: -58.26520
+ CYCLE:     3 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    41.342 HEAT: -58.26961
+ CYCLE:     4 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    40.297 HEAT: -58.26924
+ CYCLE:     5 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    39.410 HEAT: -58.27405
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    38.317 HEAT: -58.28018
+ CYCLE:     7 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:    36.102 HEAT: -58.29135
+ CYCLE:     8 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    31.536 HEAT: -58.34236
+ CYCLE:     9 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    22.475 HEAT: -58.38038
+ CYCLE:    10 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    11.705 HEAT: -58.40849
+ CYCLE:    11 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    10.830 HEAT: -58.42945
+ CYCLE:    12 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     9.233 HEAT: -58.45675
+ CYCLE:    13 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     6.703 HEAT: -58.74487
+ CYCLE:    14 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     5.027 HEAT: -58.75494
+ CYCLE:    15 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     3.148 HEAT: -58.83502
+ CYCLE:    16 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.085 HEAT: -58.84248
+ CYCLE:    17 TIME:   0.168 TIME LEFT:  2.00D  GRAD.:     2.397 HEAT: -58.91341
+ CYCLE:    18 TIME:   0.141 TIME LEFT:  2.00D  GRAD.:     1.992 HEAT: -58.91986
+ CYCLE:    19 TIME:   0.059 TIME LEFT:  2.00D  GRAD.:     9.698 HEAT: -58.95087
+ CYCLE:    20 TIME:   0.051 TIME LEFT:  2.00D  GRAD.:     2.757 HEAT: -58.95418
+ CYCLE:    21 TIME:   0.086 TIME LEFT:  2.00D  GRAD.:     2.244 HEAT: -58.98921
+ CYCLE:    22 TIME:   0.199 TIME LEFT:  2.00D  GRAD.:     1.396 HEAT: -58.98869
+ CYCLE:    23 TIME:   0.312 TIME LEFT:  2.00D  GRAD.:     0.936 HEAT: -58.98719
+
+     GRADIENT =  0.93642 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:31 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -58.98719 KCAL/MOL =    -246.80242 KJ/MOL
+          VAN DER WAALS AREA      =        225.31 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.76608 EV
+          COSMO AREA              =        225.31 SQUARE ANGSTROMS
+          COSMO VOLUME            =        248.10 CUBIC ANGSTROMS
+          GRADIENT NORM           =          0.93642          =       0.20434 PER ATOM
+          FOR REACTION COORDINATE =          2.40000 ANGSTROMS
+          REACTION GRADIENT       =        -13.80250 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.391124 EV
+          HOMO LUMO ENERGIES (EV) =        -10.391 -2.416
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.23151
+            H    21    H    12     5.31192
+            H    10   Cl    16     4.04803
+          SCF CALCULATIONS        =         44
+ 
+          WALL-CLOCK TIME         =         21.559 SECONDS
+          COMPUTATION TIME        =         39.109 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.40000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.40096707  *   92.5409767  *    0.0000000        1     2     0
+     4       C          1.40227154  *  112.8882408  *  120.8779723  *     1     2     3
+     5       O          1.13249158  *   87.2610906  * -112.3664310  *     2     1     3
+     6       C          1.39894550  *  123.4378203  *  116.3148858  *     3     1     2
+     7       C          1.38822144  *  120.7192380  * -103.7531583  *     4     1     2
+     8       C          1.38797165  *  117.6951937  *    0.2074115  *     6     3     1
+     9       O          1.32637978  *  117.5364622  *  -59.2373547  *     3     1     2
+    10       H          1.09445986  *  119.2154394  *   76.6409355  *     4     1     2
+    11       H          1.09173467  *  119.9742682  *  178.8746120  *     7     4     1
+    12       H          1.09006229  *  120.4060760  * -179.8307708  *     6     3     1
+    13       H          1.09559496  *  119.8331046  *  179.8818660  *     8     6     3
+    14      Al          1.71115563  *  157.7463244  *   55.7613769  *     9     3     1
+    15      Cl          2.03556490  *  125.1323438  * -111.4299226  *    14     9     3
+    16      Cl          2.04114955  *  118.2324444  *   82.5307220  *    14     9     3
+    17       H          1.09010102  *   77.2286871  * -122.3814942  *     1     2     3
+    18       C          1.42593446  *  106.4087978  *   68.8986607  *     2     1     3
+    19       H          1.16394424  *  115.0340288  *   23.0817325  *    18     2     1
+    20       H          1.17173895  *  112.2893342  * -116.2851341  *    18     2     1
+    21       H          1.15754825  *  109.1606245  *  134.4190505  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.400000000     0.000000000     0.000000000
+   3    C       -0.062110298     1.399589600     0.000000000
+   4    C       -0.545392316    -0.662999258    -1.108758173
+   5    O        2.345884135    -0.430453181    -1.046096897
+   6    C       -0.613289161     2.146751645    -1.046422115
+   7    C       -1.082590205     0.053252955    -2.169682276
+   8    C       -1.125873129     1.453269701    -2.133990857
+   9    O        0.511679321     2.038859083     1.010635114
+  10    H       -0.549829352    -1.757283657    -1.127846307
+  11    H       -1.487397295    -0.475041629    -3.035084284
+  12    H       -0.633529988     3.235457937    -0.995977003
+  13    H       -1.567579755     2.003413469    -2.972182609
+  14   Al        1.757144843     2.503394996     2.088167296
+  15   Cl        1.827144967     2.037304529     4.068415795
+  16   Cl        3.063771225     3.951663449     1.486887445
+  17    H        0.240977980    -0.569364711     0.897816061
+  18    C        2.802810452     0.492453991     1.276135528
+  19    H        2.011284361     0.375494583     2.121459812
+  20    H        3.388919443     1.504009222     1.197367282
+  21    H        3.644253455    -0.182765194     1.695624120
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -37.38665 -32.33904 -31.04448 -30.88433 -27.16694 -26.95480 -26.56022 -26.11146
+ -23.20254 -22.36752 -22.15228 -19.74471 -19.34870 -19.19407 -18.42040 -17.51852
+ -17.33601 -16.94357 -16.69086 -16.13246 -15.68719 -15.34530 -14.68070 -14.45117
+ -14.02809 -13.93154 -13.67968 -13.39125 -12.92978 -12.78652 -12.55318 -11.82486
+ -11.08895 -10.39112  -2.41634  -2.22652  -1.00975  -0.73197  -0.61942  -0.04868
+   0.40623   0.60026   1.43566   1.76027   1.86140   2.10338   2.34569   2.52585
+   3.16979   3.37878   3.42585   3.95614   3.97392   4.21454   4.82641   4.84205
+   5.19835   5.26348   5.46598   5.50729  16.55303  17.13024  17.44301  18.98155
+  19.55423  69.19842  69.36612  69.68445  69.90235  69.99965  70.14797  70.21472
+  70.64843  70.90247  71.22674
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.443212        4.4432     1.08665     3.35656
+    2          C           0.626118        3.3739     1.19010     2.18378
+    3          C           0.418955        3.5810     1.07747     2.50357
+    4          C          -0.045068        4.0451     1.09360     2.95147
+    5          O           0.081970        5.9180     1.86719     4.05084
+    6          C          -0.289633        4.2896     1.08401     3.20562
+    7          C          -0.236434        4.2364     1.08372     3.15271
+    8          C          -0.032744        4.0327     1.09625     2.93649
+    9          O          -0.559132        6.5591     1.63259     4.92655
+   10          H           0.172123        0.8279     0.82788
+   11          H           0.182383        0.8176     0.81762
+   12          H           0.198409        0.8016     0.80159
+   13          H           0.180841        0.8192     0.81916
+   14         Al           0.473026        2.5270     0.21444     1.36095     0.95158
+   15         Cl          -0.201313        7.2013     1.95633     5.24181     0.00318
+   16         Cl          -0.217950        7.2180     1.95665     5.25805     0.00325
+   17          H           0.196815        0.8032     0.80319
+   18          C          -0.426227        4.4262     1.03067     3.39556
+   19          H           0.297718        0.7023     0.70228
+   20          H           0.295481        0.7045     0.70452
+   21          H           0.327875        0.6721     0.67213
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     6.218   -10.149    -4.723    12.805
+ HYBRID        -0.914     0.378     0.027     0.989
+ SUM            5.305    -9.771    -4.696    12.069
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.08665   1.21885   1.02673   1.11098
+    2  C   1.19010   0.65275   0.68642   0.84461
+    3  C   1.07747   0.84075   0.88408   0.77875
+    4  C   1.09360   0.90512   1.09043   0.95591
+    5  O   1.86719   1.44408   1.37442   1.23234
+    6  C   1.08401   1.08724   1.11381   1.00457
+    7  C   1.08372   1.06443   1.01500   1.07328
+    8  C   1.09625   0.91598   1.00135   1.01917
+    9  O   1.63259   1.66808   1.71650   1.54197
+   10  H   0.82788
+   11  H   0.81762
+   12  H   0.80159
+   13  H   0.81916
+   14 Al   0.21444   0.42705   0.42658   0.50732   0.15754   0.19747   0.22518   0.17982   0.19156
+   15 Cl   1.95633   1.82998   1.82536   1.58647   0.00043   0.00085   0.00037   0.00109   0.00043
+   16 Cl   1.95665   1.74727   1.68828   1.82251   0.00105   0.00044   0.00061   0.00062   0.00054
+   17  H   0.80319
+   18  C   1.03067   1.20676   1.20405   0.98475
+   19  H   0.70228
+   20  H   0.70452
+   21  H   0.67213
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.5000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:    22.172 HEAT: -60.09921
+ CYCLE:     2 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:    10.620 HEAT: -60.41131
+ CYCLE:     3 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     3.843 HEAT: -60.51442
+ CYCLE:     4 TIME:   0.188 TIME LEFT:  2.00D  GRAD.:     2.050 HEAT: -60.52024
+ CYCLE:     5 TIME:   0.062 TIME LEFT:  2.00D  GRAD.:     1.867 HEAT: -60.52919
+ CYCLE:     6 TIME:   0.152 TIME LEFT:  2.00D  GRAD.:     1.507 HEAT: -60.53455
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:32 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -60.53456 KCAL/MOL =    -253.27658 KJ/MOL
+          VAN DER WAALS AREA      =        226.63 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.81911 EV
+          COSMO AREA              =        226.63 SQUARE ANGSTROMS
+          COSMO VOLUME            =        249.01 CUBIC ANGSTROMS
+          GRADIENT NORM           =          1.50746          =       0.32895 PER ATOM
+          FOR REACTION COORDINATE =          2.50000 ANGSTROMS
+          REACTION GRADIENT       =        -12.74048 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.348312 EV
+          HOMO LUMO ENERGIES (EV) =        -10.348 -2.372
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.22664
+            H    21    H    12     5.32399
+            H    10   Cl    16     4.06806
+          SCF CALCULATIONS        =         26
+ 
+          WALL-CLOCK TIME         =         22.504 SECONDS
+          COMPUTATION TIME        =         40.984 SECONDS
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.50000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.40027069  *   90.7737276  *    0.0000000        1     2     0
+     4       C          1.39864356  *  115.9529705  *  120.9116670  *     1     2     3
+     5       O          1.13116842  *   83.0430873  * -111.9176706  *     2     1     3
+     6       C          1.39650067  *  123.5704786  *  119.6094244  *     3     1     2
+     7       C          1.39111548  *  120.6430125  * -104.2552545  *     4     1     2
+     8       C          1.39021873  *  117.5827480  *   -0.1031603  *     6     3     1
+     9       O          1.32852370  *  117.3142804  *  -56.0099488  *     3     1     2
+    10       H          1.09397338  *  119.4013837  *   76.1926540  *     4     1     2
+    11       H          1.09163597  *  119.7591244  *  178.9059160  *     7     4     1
+    12       H          1.08952749  *  120.6016026  * -179.9800198  *     6     3     1
+    13       H          1.09510587  *  119.7216550  *  179.7207987  *     8     6     3
+    14      Al          1.70499945  *  161.7693094  *   52.2159779  *     9     3     1
+    15      Cl          2.03747080  *  124.7817176  * -108.4618312  *    14     9     3
+    16      Cl          2.04231440  *  118.7702583  *   85.8395161  *    14     9     3
+    17       H          1.08848564  *   73.9421567  * -123.2947195  *     1     2     3
+    18       C          1.42288101  *  107.4472634  *   69.2727357  *     2     1     3
+    19       H          1.16483160  *  114.8762329  *   23.3366775  *    18     2     1
+    20       H          1.17188632  *  112.7605620  * -116.0633639  *    18     2     1
+    21       H          1.15796385  *  109.4106425  *  134.5606085  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.500000000     0.000000000     0.000000000
+   3    C       -0.018908812     1.400143014     0.000000000
+   4    C       -0.612092930    -0.646046811    -1.078966904
+   5    O        2.362989601    -0.419126966    -1.041682641
+   6    C       -0.604187979     2.164521530    -1.011626361
+   7    C       -1.187385951     0.087941068    -2.111198473
+   8    C       -1.194798987     1.485748599    -2.071415992
+   9    O        0.632698667     2.018619534     0.978708188
+  10    H       -0.642607835    -1.739325582    -1.103218261
+  11    H       -1.645522051    -0.431144425    -2.955195302
+  12    H       -0.590717713     3.252867760    -0.962726590
+  13    H       -1.668112496     2.050467506    -2.881554088
+  14   Al        1.864228017     2.488027592     2.060380341
+  15   Cl        1.903018811     2.032586294     4.045916982
+  16   Cl        3.183472183     3.934965964     1.479852752
+  17    H        0.301083469    -0.574206144     0.874320900
+  18    C        2.926619349     0.480417642     1.269561024
+  19    H        2.147868080     0.357301215     2.127011578
+  20    H        3.515503228     1.491023168     1.197382156
+  21    H        3.773066370    -0.198763783     1.673442574
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -37.50854 -32.24839 -31.02379 -30.91629 -27.16766 -26.91324 -26.53744 -26.10293
+ -23.21041 -22.32646 -22.13730 -19.72456 -19.38931 -19.23501 -18.46138 -17.48889
+ -17.32477 -16.94737 -16.71498 -16.13296 -15.66503 -15.31665 -14.67461 -14.43765
+ -14.02414 -13.91100 -13.67898 -13.35494 -12.91673 -12.76218 -12.54625 -11.81786
+ -11.03134 -10.34831  -2.37188  -2.25535  -0.97425  -0.71839  -0.67738  -0.01864
+   0.42482   0.60107   1.49593   1.74635   1.87435   2.10251   2.34777   2.53340
+   3.24327   3.38605   3.47308   4.01263   4.03564   4.26921   4.85598   4.90175
+   5.24297   5.30657   5.50086   5.53598  16.57862  17.16376  17.46372  19.03335
+  19.59852  69.23096  69.40113  69.71799  69.94161  70.03042  70.17200  70.25058
+  70.67900  70.93652  71.26053
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.420434        4.4204     1.08506     3.33537
+    2          C           0.624515        3.3755     1.19042     2.18507
+    3          C           0.402348        3.5977     1.07621     2.52145
+    4          C          -0.050536        4.0505     1.09277     2.95776
+    5          O           0.098462        5.9015     1.86750     4.03404
+    6          C          -0.283612        4.2836     1.08384     3.19977
+    7          C          -0.232256        4.2323     1.08362     3.14864
+    8          C          -0.043334        4.0433     1.09471     2.94863
+    9          O          -0.558905        6.5589     1.62825     4.93066
+   10          H           0.170975        0.8290     0.82902
+   11          H           0.181282        0.8187     0.81872
+   12          H           0.196752        0.8032     0.80325
+   13          H           0.179947        0.8201     0.82005
+   14         Al           0.472769        2.5272     0.21379     1.36090     0.95255
+   15         Cl          -0.206763        7.2068     1.95653     5.24705     0.00319
+   16         Cl          -0.220940        7.2209     1.95679     5.26091     0.00324
+   17          H           0.190266        0.8097     0.80973
+   18          C          -0.427285        4.4273     1.02977     3.39751
+   19          H           0.299867        0.7001     0.70013
+   20          H           0.297620        0.7024     0.70238
+   21          H           0.329261        0.6707     0.67074
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     6.516   -10.349    -4.733    13.114
+ HYBRID        -0.808     0.375     0.010     0.891
+ SUM            5.707    -9.974    -4.724    12.425
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.08506   1.20095   1.02505   1.10937
+    2  C   1.19042   0.65702   0.68450   0.84355
+    3  C   1.07621   0.84690   0.88818   0.78637
+    4  C   1.09277   0.91206   1.09016   0.95555
+    5  O   1.86750   1.42931   1.37654   1.22819
+    6  C   1.08384   1.07827   1.11176   1.00974
+    7  C   1.08362   1.06386   1.01337   1.07140
+    8  C   1.09471   0.93140   1.00379   1.01343
+    9  O   1.62825   1.65008   1.72294   1.55764
+   10  H   0.82902
+   11  H   0.81872
+   12  H   0.80325
+   13  H   0.82005
+   14 Al   0.21379   0.42834   0.42619   0.50636   0.15756   0.19611   0.22726   0.17857   0.19305
+   15 Cl   1.95653   1.83186   1.82709   1.58810   0.00043   0.00086   0.00037   0.00108   0.00044
+   16 Cl   1.95679   1.74676   1.68953   1.82462   0.00104   0.00045   0.00060   0.00062   0.00052
+   17  H   0.80973
+   18  C   1.02977   1.20608   1.20693   0.98451
+   19  H   0.70013
+   20  H   0.70238
+   21  H   0.67074
+ ********************************************************************************
+
+                 REACTION COORDINATE =       2.6000  ANGSTROMS 
+
+ ********************************************************************************
+ CYCLE:     1 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    13.902 HEAT: -61.60942
+ CYCLE:     2 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:    12.946 HEAT: -61.61063
+ CYCLE:     3 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:    11.209 HEAT: -61.61261
+ CYCLE:     4 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     9.716 HEAT: -61.60498
+ CYCLE:     5 TIME:   0.043 TIME LEFT:  2.00D  GRAD.:     8.901 HEAT: -61.60671
+ CYCLE:     6 TIME:   0.031 TIME LEFT:  2.00D  GRAD.:     8.257 HEAT: -61.60895
+ CYCLE:     7 TIME:   0.035 TIME LEFT:  2.00D  GRAD.:     7.437 HEAT: -61.61439
+ CYCLE:     8 TIME:   0.047 TIME LEFT:  2.00D  GRAD.:     6.123 HEAT: -61.62488
+ CYCLE:     9 TIME:   0.039 TIME LEFT:  2.00D  GRAD.:     4.020 HEAT: -61.73580
+ CYCLE:    10 TIME:   0.102 TIME LEFT:  2.00D  GRAD.:     3.725 HEAT: -61.73879
+
+     TRUST RADIUS NOW LESS THAN  0.00010 OPTIMIZATION TERMINATING
+      THE GEOMETRY MAY NOT BE COMPLETELY OPTIMIZED
+      (TO CONTINUE, ADD 'LET DDMIN=0.0' TO THE KEYWORD LINE)
+
+ -------------------------------------------------------------------------------
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:33 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -61.73865 KCAL/MOL =    -258.31453 KJ/MOL
+          VAN DER WAALS AREA      =        228.08 SQUARE ANGSTROMS
+
+          DIELECTRIC ENERGY       =         -2.85550 EV
+          COSMO AREA              =        228.08 SQUARE ANGSTROMS
+          COSMO VOLUME            =        249.77 CUBIC ANGSTROMS
+          GRADIENT NORM           =          3.72454          =       0.81276 PER ATOM
+          FOR REACTION COORDINATE =          2.60000 ANGSTROMS
+          REACTION GRADIENT       =        -12.53933 KCAL/ANGSTROM
+          IONIZATION POTENTIAL    =         10.298141 EV
+          HOMO LUMO ENERGIES (EV) =        -10.298 -2.348
+          NO. OF FILLED LEVELS    =         34
+          MOLECULAR WEIGHT        =        234.0375         POINT GROUP:  C1  
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.19924
+            H    21    H    12     5.32564
+            H    10   Cl    16     4.10576
+          SCF CALCULATIONS        =         23
+ 
+          WALL-CLOCK TIME         =         23.328 SECONDS
+          COMPUTATION TIME        =         42.641 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE        GRADIENT
+      1          3  C    BOND            1.400200      0.063702  KCAL/ANGSTROM
+      2          3  C    ANGLE          88.583215     -0.765173  KCAL/RADIAN  
+      3          4  C    BOND            1.396044     -0.301852  KCAL/ANGSTROM
+      4          4  C    ANGLE         120.687343     -0.086139  KCAL/RADIAN  
+      5          4  C    DIHEDRAL      121.089134     -0.743166  KCAL/RADIAN  
+      6          5  O    BOND            1.130242     -0.099878  KCAL/ANGSTROM
+      7          5  O    ANGLE          78.733327      0.068051  KCAL/RADIAN  
+      8          5  O    DIHEDRAL      248.056883     -0.110113  KCAL/RADIAN  
+      9          6  C    BOND            1.394830     -0.420366  KCAL/ANGSTROM
+     10          6  C    ANGLE         123.612638     -0.247318  KCAL/RADIAN  
+     11          6  C    DIHEDRAL      124.218353      0.269075  KCAL/RADIAN  
+     12          7  C    BOND            1.393017      0.309253  KCAL/ANGSTROM
+     13          7  C    ANGLE         120.619070     -0.315014  KCAL/RADIAN  
+     14          7  C    DIHEDRAL      255.093345      0.272397  KCAL/RADIAN  
+     15          8  C    BOND            1.391554      0.419456  KCAL/ANGSTROM
+     16          8  C    ANGLE         117.567855     -0.005036  KCAL/RADIAN  
+     17          8  C    DIHEDRAL      359.705634     -0.021170  KCAL/RADIAN  
+     18          9  O    BOND            1.328812     -0.138074  KCAL/ANGSTROM
+     19          9  O    ANGLE         117.104812      0.751789  KCAL/RADIAN  
+     20          9  O    DIHEDRAL      308.380060      1.011612  KCAL/RADIAN  
+     21         10  H    BOND            1.093393     -0.228626  KCAL/ANGSTROM
+     22         10  H    ANGLE         119.504393      0.125887  KCAL/RADIAN  
+     23         10  H    DIHEDRAL       75.472536      0.081422  KCAL/RADIAN  
+     24         11  H    BOND            1.091496      0.050590  KCAL/ANGSTROM
+     25         11  H    ANGLE         119.754871      0.047029  KCAL/RADIAN  
+     26         11  H    DIHEDRAL      178.679191     -0.411913  KCAL/RADIAN  
+     27         12  H    BOND            1.089295     -0.042251  KCAL/ANGSTROM
+     28         12  H    ANGLE         120.674288      0.056957  KCAL/RADIAN  
+     29         12  H    DIHEDRAL      180.257522      0.331464  KCAL/RADIAN  
+     30         13  H    BOND            1.094536     -0.119528  KCAL/ANGSTROM
+     31         13  H    ANGLE         119.699740      0.024473  KCAL/RADIAN  
+     32         13  H    DIHEDRAL      179.498784     -0.274742  KCAL/RADIAN  
+     33         14 Al    BOND            1.699957      0.557689  KCAL/ANGSTROM
+     34         14 Al    ANGLE         192.691328     -1.123650  KCAL/RADIAN  
+     35         14 Al    DIHEDRAL      224.798593      0.092828  KCAL/RADIAN  
+     36         15 Cl    BOND            2.039972      0.052064  KCAL/ANGSTROM
+     37         15 Cl    ANGLE         123.677929     -0.805208  KCAL/RADIAN  
+     38         15 Cl    DIHEDRAL      257.495812     -0.429580  KCAL/RADIAN  
+     39         16 Cl    BOND            2.043137      0.223246  KCAL/ANGSTROM
+     40         16 Cl    ANGLE         119.502168     -0.157861  KCAL/RADIAN  
+     41         16 Cl    DIHEDRAL       92.906004      0.459966  KCAL/RADIAN  
+     42         17  H    BOND            1.087141      0.086502  KCAL/ANGSTROM
+     43         17  H    ANGLE          70.137359     -0.041615  KCAL/RADIAN  
+     44         17  H    DIHEDRAL      235.346073      0.947612  KCAL/RADIAN  
+     45         18  C    BOND            1.420838     -0.020508  KCAL/ANGSTROM
+     46         18  C    ANGLE         109.419048     -1.090360  KCAL/RADIAN  
+     47         18  C    DIHEDRAL       69.201061      1.517225  KCAL/RADIAN  
+     48         19  H    BOND            1.166302      0.284717  KCAL/ANGSTROM
+     49         19  H    ANGLE         114.738979     -0.213674  KCAL/RADIAN  
+     50         19  H    DIHEDRAL       24.814833      1.116634  KCAL/RADIAN  
+     51         20  H    BOND            1.173243      0.155908  KCAL/ANGSTROM
+     52         20  H    ANGLE         113.514688      0.937594  KCAL/RADIAN  
+     53         20  H    DIHEDRAL      244.951153      0.175471  KCAL/RADIAN  
+     54         21  H    BOND            1.158590      0.414012  KCAL/ANGSTROM
+     55         21  H    ANGLE         109.603845     -0.411613  KCAL/RADIAN  
+     56         21  H    DIHEDRAL      135.619114      0.189873  KCAL/RADIAN  
+
+
+
+
+  ATOM    CHEMICAL      BOND LENGTH      BOND ANGLE     TWIST ANGLE 
+ NUMBER    SYMBOL       (ANGSTROMS)      (DEGREES)       (DEGREES) 
+   (I)                     NA:I           NB:NA:I       NC:NB:NA:I       NA    NB    NC 
+     1       C          0.00000000       0.0000000       0.0000000        0     0     0
+     2       C          2.60000000  +    0.0000000       0.0000000        1     0     0
+     3       C          1.40019987  *   88.5832146  *    0.0000000        1     2     0
+     4       C          1.39604433  *  120.6873428  *  121.0891338  *     1     2     3
+     5       O          1.13024244  *   78.7333275  * -111.9431171  *     2     1     3
+     6       C          1.39482955  *  123.6126382  *  124.2183535  *     3     1     2
+     7       C          1.39301702  *  120.6190703  * -104.9066554  *     4     1     2
+     8       C          1.39155448  *  117.5678549  *   -0.2943660  *     6     3     1
+     9       O          1.32881207  *  117.1048120  *  -51.6199402  *     3     1     2
+    10       H          1.09339288  *  119.5043935  *   75.4725360  *     4     1     2
+    11       H          1.09149592  *  119.7548715  *  178.6791915  *     7     4     1
+    12       H          1.08929491  *  120.6742883  * -179.7424779  *     6     3     1
+    13       H          1.09453601  *  119.6997403  *  179.4987843  *     8     6     3
+    14      Al          1.69995728  *  167.3086721  *   44.7985929  *     9     3     1
+    15      Cl          2.03997169  *  123.6779292  * -102.5041883  *    14     9     3
+    16      Cl          2.04313726  *  119.5021676  *   92.9060043  *    14     9     3
+    17       H          1.08714143  *   70.1373592  * -124.6539274  *     1     2     3
+    18       C          1.42083795  *  109.4190479  *   69.2010612  *     2     1     3
+    19       H          1.16630200  *  114.7389786  *   24.8148335  *    18     2     1
+    20       H          1.17324277  *  113.5146879  * -115.0488469  *    18     2     1
+    21       H          1.15859047  *  109.6038454  *  135.6191141  *    18     2     1
+
+                             CARTESIAN COORDINATES
+
+   1    C        0.000000000     0.000000000     0.000000000
+   2    C        2.600000000     0.000000000     0.000000000
+   3    C        0.034620013     1.399771817     0.000000000
+   4    C       -0.712475352    -0.619928762    -1.028108447
+   5    O        2.379178077    -0.414216231    -1.028158828
+   6    C       -0.599320016     2.187830065    -0.960538240
+   7    C       -1.339770902     0.138332255    -2.014027785
+   8    C       -1.296066794     1.534069252    -1.972251929
+   9    O        0.783782166     1.986861139     0.927266792
+  10    H       -0.782016683    -1.710816415    -1.053329866
+  11    H       -1.874880131    -0.361582468    -2.823414423
+  12    H       -0.537553513     3.274489994    -0.916737449
+  13    H       -1.813397931     2.118551926    -2.739557331
+  14   Al        1.994116165     2.476785594     2.015807286
+  15   Cl        1.963619864     2.046987820     4.009755210
+  16   Cl        3.318034590     3.930590245     1.460738013
+  17    H        0.369374099    -0.581393524     0.841083135
+  18    C        3.072392652     0.475823528     1.252684171
+  19    H        2.327902115     0.337196543     2.139688546
+  20    H        3.657603762     1.489928923     1.177738778
+  21    H        3.937311627    -0.199716481     1.624023274
+
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   C1  
+
+
+                  EIGENVALUES  
+ -37.58441 -32.16787 -31.00621 -30.92640 -27.15845 -26.86815 -26.51960 -26.09230
+ -23.20723 -22.28235 -22.11959 -19.69384 -19.42175 -19.27236 -18.48625 -17.44641
+ -17.31123 -16.94782 -16.71201 -16.13219 -15.63803 -15.28240 -14.66131 -14.41458
+ -14.00687 -13.88327 -13.66712 -13.32024 -12.90648 -12.72853 -12.53577 -11.81492
+ -10.97303 -10.29814  -2.34757  -2.26693  -0.92338  -0.74292  -0.65549   0.03284
+   0.46333   0.60244   1.55895   1.74545   1.89966   2.10862   2.37233   2.55286
+   3.31034   3.38316   3.52486   4.06846   4.09275   4.32837   4.88749   4.96008
+   5.28809   5.34863   5.53607   5.56604  16.62753  17.20777  17.50824  19.09081
+  19.63175  69.27467  69.44778  69.75827  69.99615  70.06769  70.19729  70.29413
+  70.70780  70.97056  71.29543
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       d-Pop       
+    1          C          -0.400332        4.4003     1.08381     3.31652
+    2          C           0.625968        3.3740     1.18988     2.18415
+    3          C           0.393163        3.6068     1.07543     2.53140
+    4          C          -0.053350        4.0533     1.09191     2.96144
+    5          O           0.105722        5.8943     1.86749     4.02679
+    6          C          -0.280910        4.2809     1.08350     3.19741
+    7          C          -0.230570        4.2306     1.08345     3.14712
+    8          C          -0.050533        4.0505     1.09363     2.95691
+    9          O          -0.557034        6.5570     1.62326     4.93378
+   10          H           0.169762        0.8302     0.83024
+   11          H           0.180385        0.8196     0.81961
+   12          H           0.195018        0.8050     0.80498
+   13          H           0.179037        0.8210     0.82096
+   14         Al           0.473911        2.5261     0.21332     1.35826     0.95452
+   15         Cl          -0.215776        7.2158     1.95681     5.25579     0.00317
+   16         Cl          -0.222178        7.2222     1.95688     5.26208     0.00322
+   17          H           0.184202        0.8158     0.81580
+   18          C          -0.429962        4.4300     1.02888     3.40108
+   19          H           0.303923        0.6961     0.69608
+   20          H           0.301009        0.6990     0.69899
+   21          H           0.328545        0.6715     0.67146
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     6.774   -10.453    -4.697    13.313
+ HYBRID        -0.658     0.355    -0.010     0.748
+ SUM            6.116   -10.098    -4.707    12.710
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz      x^2-y^2     xz        z^2       yz        xy
+    1  C   1.08381   1.18144   1.02446   1.11062
+    2  C   1.18988   0.66326   0.68244   0.83845
+    3  C   1.07543   0.84067   0.89374   0.79700
+    4  C   1.09191   0.91868   1.08949   0.95327
+    5  O   1.86749   1.41850   1.37876   1.22953
+    6  C   1.08350   1.06889   1.10983   1.01869
+    7  C   1.08345   1.06641   1.01111   1.06959
+    8  C   1.09363   0.94612   1.00677   1.00401
+    9  O   1.62326   1.62258   1.73222   1.57897
+   10  H   0.83024
+   11  H   0.81961
+   12  H   0.80498
+   13  H   0.82096
+   14 Al   0.21332   0.42794   0.42641   0.50391   0.15727   0.19457   0.22976   0.17778   0.19514
+   15 Cl   1.95681   1.83392   1.83013   1.59174   0.00043   0.00086   0.00036   0.00106   0.00046
+   16 Cl   1.95688   1.74712   1.68874   1.82622   0.00103   0.00046   0.00059   0.00062   0.00052
+   17  H   0.81580
+   18  C   1.02888   1.20426   1.20770   0.98912
+   19  H   0.69608
+   20  H   0.69899
+   21  H   0.67146
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:            23.33 SECONDS
+
+ == MOPAC DONE ==

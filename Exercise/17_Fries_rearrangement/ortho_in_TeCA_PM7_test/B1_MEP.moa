@@ -1,0 +1,1020 @@
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:16 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -70.70995 KCAL/MOL =    -295.85045 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.37584 EV
+          GRADIENT NORM           =          1.98347          =       0.43283 PER ATOM
+          FOR REACTION COORDINATE =            1.4500 ANGSTROMS
+          REACTION GRADIENT       =        -57.398707 KCAL/ANGSTROM
+          DIPOLE                  =          9.99762 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         11.362728 EV
+          HOMO LUMO ENERGIES (EV) =        -11.363 -2.877
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        225.92 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.12 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     7.99815
+            H    21    H    12     5.77106
+            H    17   Cl    16     4.26927
+          SCF CALCULATIONS        =         78
+          WALL-CLOCK TIME         =          6.316 SECONDS
+          COMPUTATION TIME        =         10.359 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.45000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.50541656 +1  113.1271448 +1    0.0000000 +0     1     2     0
+  C     1.49644415 +1  113.4734955 +1  129.6325035 +1     1     2     3
+  O     1.20445636 +1  122.4892876 +1 -119.0970353 +1     2     1     3
+  C     1.40948652 +1  122.3583945 +1  141.4377860 +1     3     1     2
+  C     1.34939793 +1  122.0997559 +1 -139.3324112 +1     4     1     2
+  C     1.36990233 +1  119.6237463 +1   -6.7731577 +1     6     3     1
+  O     1.26509529 +1  117.2799894 +1  -38.2676925 +1     3     1     2
+  H     1.09883210 +1  115.3357311 +1   42.5579701 +1     4     1     2
+  H     1.09809876 +1  120.8623408 +1 -177.6738531 +1     7     4     1
+  H     1.09832523 +1  118.6413463 +1  174.7829921 +1     6     3     1
+  H     1.10290681 +1  120.6369740 +1 -179.3908492 +1     8     6     3
+ Al     1.82053230 +1  148.7240001 +1    4.7737322 +1     9     3     1
+ Cl     2.01953990 +1  115.2693964 +1  -99.1453583 +1    14     9     3
+ Cl     2.02748870 +1  111.7293226 +1  113.2073388 +1    14     9     3
+  H     1.17274800 +1  108.6005793 +1 -116.3372994 +1     1     2     3
+  C     1.52063898 +1  118.2736393 +1   61.2822865 +1     2     1     3
+  H     1.16342690 +1  114.0496772 +1   20.6823087 +1    18     2     1
+  H     1.16764567 +1  110.6385615 +1 -116.6121970 +1    18     2     1
+  H     1.13282025 +1  108.7519041 +1  133.3815535 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:17 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -72.33589 KCAL/MOL =    -302.65337 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.35895 EV
+          GRADIENT NORM           =         22.09812          =       4.82220 PER ATOM
+          FOR REACTION COORDINATE =            1.5000 ANGSTROMS
+          REACTION GRADIENT       =         -7.200025 KCAL/ANGSTROM
+          DIPOLE                  =          9.87161 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         11.348435 EV
+          HOMO LUMO ENERGIES (EV) =        -11.348 -2.866
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        226.45 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.80 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     7.99730
+            H    21    H    12     5.80154
+            H    17   Cl    16     4.27386
+          SCF CALCULATIONS        =         12
+          WALL-CLOCK TIME         =          6.793 SECONDS
+          COMPUTATION TIME        =         11.188 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.50000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.50461888 +1  113.0563509 +1    0.0000000 +0     1     2     0
+  C     1.49603622 +1  113.4608485 +1  129.6207098 +1     1     2     3
+  O     1.20376476 +1  122.4621312 +1 -119.0996767 +1     2     1     3
+  C     1.40946727 +1  122.3503872 +1  141.4383042 +1     3     1     2
+  C     1.34944055 +1  122.0939893 +1 -139.3334393 +1     4     1     2
+  C     1.36992979 +1  119.6176766 +1   -6.7748871 +1     6     3     1
+  O     1.26506438 +1  117.2239507 +1  -38.2383585 +1     3     1     2
+  H     1.09881034 +1  115.3364195 +1   42.5565929 +1     4     1     2
+  H     1.09808970 +1  120.8628726 +1 -177.6736478 +1     7     4     1
+  H     1.09832547 +1  118.6411091 +1  174.7830881 +1     6     3     1
+  H     1.10289809 +1  120.6368476 +1 -179.3910568 +1     8     6     3
+ Al     1.82037586 +1  148.6924818 +1    4.7869142 +1     9     3     1
+ Cl     2.01947650 +1  115.2714123 +1  -99.1429587 +1    14     9     3
+ Cl     2.02744952 +1  111.7307627 +1  113.2066195 +1    14     9     3
+  H     1.17242302 +1  108.5860548 +1 -116.3369372 +1     1     2     3
+  C     1.52036641 +1  118.2169750 +1   61.2707151 +1     2     1     3
+  H     1.16338078 +1  114.0490762 +1   20.6843987 +1    18     2     1
+  H     1.16753568 +1  110.6404029 +1 -116.6025714 +1    18     2     1
+  H     1.13278989 +1  108.7526101 +1  133.3832752 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:19 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -71.89496 KCAL/MOL =    -300.80851 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.33188 EV
+          GRADIENT NORM           =          0.86558          =       0.18889 PER ATOM
+          FOR REACTION COORDINATE =            1.6000 ANGSTROMS
+          REACTION GRADIENT       =         29.667937 KCAL/ANGSTROM
+          DIPOLE                  =          9.12185 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         11.302858 EV
+          HOMO LUMO ENERGIES (EV) =        -11.303 -2.858
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        226.46 SQUARE ANGSTROMS
+          COSMO VOLUME            =        242.77 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.10061
+            H    21    H    12     5.65568
+            H    17   Cl    16     4.38291
+          SCF CALCULATIONS        =         49
+          WALL-CLOCK TIME         =          8.918 SECONDS
+          COMPUTATION TIME        =         14.469 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.60000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.48777689 +1  112.6569039 +1    0.0000000 +0     1     2     0
+  C     1.48290478 +1  110.7722939 +1  128.1955299 +1     1     2     3
+  O     1.19319367 +1  118.6385592 +1 -130.7218472 +1     2     1     3
+  C     1.40998037 +1  122.4899357 +1  135.8035927 +1     3     1     2
+  C     1.35151727 +1  121.8748421 +1 -135.4459709 +1     4     1     2
+  C     1.37121867 +1  119.2539991 +1   -5.1829765 +1     6     3     1
+  O     1.26927471 +1  117.4861751 +1  -45.3889738 +1     3     1     2
+  H     1.09894833 +1  115.8648089 +1   45.9452828 +1     4     1     2
+  H     1.09732577 +1  120.9544705 +1 -178.0163623 +1     7     4     1
+  H     1.09733561 +1  118.9001114 +1  176.0325447 +1     6     3     1
+  H     1.10252563 +1  120.5628370 +1 -179.7253238 +1     8     6     3
+ Al     1.80312497 +1  149.9448441 +1   27.3515735 +1     9     3     1
+ Cl     2.02289525 +1  116.7279630 +1 -111.4053582 +1    14     9     3
+ Cl     2.02935611 +1  113.0306415 +1   99.6404238 +1    14     9     3
+  H     1.15221355 +1  104.8273128 +1 -117.1672239 +1     1     2     3
+  C     1.50136579 +1  117.8793946 +1   50.2864331 +1     2     1     3
+  H     1.16481510 +1  112.8697661 +1   37.6367592 +1    18     2     1
+  H     1.17046642 +1  110.1121671 +1  -99.3490565 +1    18     2     1
+  H     1.13575787 +1  109.1835554 +1  150.3254436 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:20 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -67.87086 KCAL/MOL =    -283.97169 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.30497 EV
+          GRADIENT NORM           =          0.85002          =       0.18549 PER ATOM
+          FOR REACTION COORDINATE =            1.7000 ANGSTROMS
+          REACTION GRADIENT       =         47.995410 KCAL/ANGSTROM
+          DIPOLE                  =          8.78613 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         11.238618 EV
+          HOMO LUMO ENERGIES (EV) =        -11.239 -2.843
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        226.39 SQUARE ANGSTROMS
+          COSMO VOLUME            =        243.18 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.09127
+            H    21    H    12     5.64526
+            H    17   Cl    16     4.39609
+          SCF CALCULATIONS        =         26
+          WALL-CLOCK TIME         =          9.957 SECONDS
+          COMPUTATION TIME        =         16.453 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.70000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.47679374 +1  111.2565652 +1    0.0000000 +0     1     2     0
+  C     1.47366306 +1  109.7665426 +1  127.1422208 +1     1     2     3
+  O     1.18521040 +1  116.4496457 +1 -130.5562139 +1     2     1     3
+  C     1.41010042 +1  122.4528649 +1  134.0291818 +1     3     1     2
+  C     1.35334483 +1  121.6167342 +1 -133.3928867 +1     4     1     2
+  C     1.37203164 +1  118.9790450 +1   -5.2061665 +1     6     3     1
+  O     1.27272986 +1  117.5277235 +1  -46.8680482 +1     3     1     2
+  H     1.09863002 +1  116.2180457 +1   47.8869647 +1     4     1     2
+  H     1.09664473 +1  121.0342412 +1 -178.0599266 +1     7     4     1
+  H     1.09643687 +1  119.0706321 +1  175.7917420 +1     6     3     1
+  H     1.10236485 +1  120.5208497 +1 -179.9913864 +1     8     6     3
+ Al     1.79515622 +1  150.6254664 +1   29.7867139 +1     9     3     1
+ Cl     2.02427867 +1  116.4466262 +1 -111.4123810 +1    14     9     3
+ Cl     2.02952322 +1  114.0480492 +1   98.7779376 +1    14     9     3
+  H     1.13994436 +1  102.2383149 +1 -117.6114653 +1     1     2     3
+  C     1.49015665 +1  116.5071780 +1   50.4428700 +1     2     1     3
+  H     1.16528823 +1  112.8484343 +1   38.6169723 +1    18     2     1
+  H     1.17073519 +1  110.2938827 +1  -98.4568683 +1    18     2     1
+  H     1.13783847 +1  109.2966310 +1  151.2524905 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:21 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -63.15655 KCAL/MOL =    -264.24700 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.29069 EV
+          GRADIENT NORM           =          0.82694          =       0.18045 PER ATOM
+          FOR REACTION COORDINATE =            1.8000 ANGSTROMS
+          REACTION GRADIENT       =         46.866487 KCAL/ANGSTROM
+          DIPOLE                  =          8.58254 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         11.152551 EV
+          HOMO LUMO ENERGIES (EV) =        -11.153 -2.854
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        226.22 SQUARE ANGSTROMS
+          COSMO VOLUME            =        244.09 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.06187
+            H    21    H    12     5.52283
+            H    17   Cl    16     4.34650
+          SCF CALCULATIONS        =         40
+          WALL-CLOCK TIME         =         11.547 SECONDS
+          COMPUTATION TIME        =         19.562 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.80000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.46430945 +1  107.6957669 +1    0.0000000 +0     1     2     0
+  C     1.46329338 +1  108.4363051 +1  124.6462570 +1     1     2     3
+  O     1.17587288 +1  114.3165618 +1 -126.7233795 +1     2     1     3
+  C     1.40938606 +1  122.7454468 +1  124.6093142 +1     3     1     2
+  C     1.35604857 +1  121.5259678 +1 -123.2958971 +1     4     1     2
+  C     1.37325206 +1  118.7001779 +1   -2.2275879 +1     6     3     1
+  O     1.27915390 +1  117.2959288 +1  -54.5512448 +1     3     1     2
+  H     1.09813864 +1  116.5600711 +1   57.2215774 +1     4     1     2
+  H     1.09602288 +1  120.9897177 +1 -179.4914673 +1     7     4     1
+  H     1.09542767 +1  119.3235145 +1  178.2485093 +1     6     3     1
+  H     1.10191384 +1  120.4395766 +1 -179.9358999 +1     8     6     3
+ Al     1.78592088 +1  149.7934459 +1   36.6474090 +1     9     3     1
+ Cl     2.02612669 +1  116.9063012 +1 -110.8796030 +1    14     9     3
+ Cl     2.02956842 +1  115.4286983 +1   98.0477948 +1    14     9     3
+  H     1.12569043 +1   99.9051869 +1 -118.5876991 +1     1     2     3
+  C     1.47977942 +1  114.1718915 +1   54.2762107 +1     2     1     3
+  H     1.16553020 +1  112.7717399 +1   39.5377698 +1    18     2     1
+  H     1.17132219 +1  110.5971714 +1  -97.8066281 +1    18     2     1
+  H     1.14064529 +1  109.2132948 +1  152.0319305 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:23 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -59.02075 KCAL/MOL =    -246.94281 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.30275 EV
+          GRADIENT NORM           =          1.99236          =       0.43477 PER ATOM
+          FOR REACTION COORDINATE =            1.9000 ANGSTROMS
+          REACTION GRADIENT       =         36.840667 KCAL/ANGSTROM
+          DIPOLE                  =          8.67070 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.994255 EV
+          HOMO LUMO ENERGIES (EV) =        -10.994 -2.818
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        225.97 SQUARE ANGSTROMS
+          COSMO VOLUME            =        244.94 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.06724
+            H    21    H    12     5.44439
+            H    17   Cl    16     4.31013
+          SCF CALCULATIONS        =         31
+          WALL-CLOCK TIME         =         12.742 SECONDS
+          COMPUTATION TIME        =         21.875 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     1.90000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.44824229 +1  106.0457542 +1    0.0000000 +0     1     2     0
+  C     1.45136476 +1  107.7915610 +1  124.0049350 +1     1     2     3
+  O     1.16629964 +1  111.1698650 +1 -126.8472782 +1     2     1     3
+  C     1.40887936 +1  122.9063242 +1  121.2871615 +1     3     1     2
+  C     1.36068102 +1  121.3325041 +1 -119.6845462 +1     4     1     2
+  C     1.37504880 +1  118.4099156 +1   -1.0504786 +1     6     3     1
+  O     1.28723135 +1  117.4170364 +1  -56.9397244 +1     3     1     2
+  H     1.09764369 +1  117.1343263 +1   60.7879602 +1     4     1     2
+  H     1.09508407 +1  120.9427179 +1 -179.7270605 +1     7     4     1
+  H     1.09403388 +1  119.5554501 +1  178.9099546 +1     6     3     1
+  H     1.10115917 +1  120.3503945 +1  179.4736823 +1     8     6     3
+ Al     1.77167522 +1  150.2712391 +1   40.1295421 +1     9     3     1
+ Cl     2.02715753 +1  117.9969231 +1 -110.2157068 +1    14     9     3
+ Cl     2.03028077 +1  116.5431499 +1   96.4165447 +1    14     9     3
+  H     1.11690876 +1   95.8190266 +1 -118.9507617 +1     1     2     3
+  C     1.46838575 +1  112.0705588 +1   54.3351226 +1     2     1     3
+  H     1.16625714 +1  113.0225901 +1   41.0890855 +1    18     2     1
+  H     1.17185089 +1  110.5025458 +1  -96.3718214 +1    18     2     1
+  H     1.14401101 +1  109.1359406 +1  153.4119889 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:24 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -56.25127 KCAL/MOL =    -235.35533 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.36868 EV
+          GRADIENT NORM           =          0.90715          =       0.19796 PER ATOM
+          FOR REACTION COORDINATE =            2.0000 ANGSTROMS
+          REACTION GRADIENT       =         16.622368 KCAL/ANGSTROM
+          DIPOLE                  =          9.37927 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.814800 EV
+          HOMO LUMO ENERGIES (EV) =        -10.815 -2.768
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        225.05 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.40 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.01682
+            H    12    H    21     5.28949
+           Cl    16    H    10     4.24463
+          SCF CALCULATIONS        =         45
+          WALL-CLOCK TIME         =         14.437 SECONDS
+          COMPUTATION TIME        =         25.281 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.00000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.43023816 +1  102.0664062 +1    0.0000000 +0     1     2     0
+  C     1.43693070 +1  107.2593460 +1  122.2907012 +1     1     2     3
+  O     1.15531654 +1  107.0047032 +1 -123.5703897 +1     2     1     3
+  C     1.40748861 +1  123.0431505 +1  113.9035379 +1     3     1     2
+  C     1.36752311 +1  121.1585660 +1 -110.6180416 +1     4     1     2
+  C     1.37797962 +1  118.1701234 +1    1.2167143 +1     6     3     1
+  O     1.29882816 +1  117.5293976 +1  -62.7260709 +1     3     1     2
+  H     1.09683210 +1  117.7298758 +1   69.1432729 +1     4     1     2
+  H     1.09403430 +1  120.7470712 +1  178.7367061 +1     7     4     1
+  H     1.09275663 +1  119.7891022 +1 -179.2207753 +1     6     3     1
+  H     1.09972088 +1  120.2584757 +1  179.4642421 +1     8     6     3
+ Al     1.75626499 +1  150.0574476 +1   42.9382999 +1     9     3     1
+ Cl     2.03102987 +1  118.6949543 +1 -105.3270165 +1    14     9     3
+ Cl     2.03095245 +1  118.8139491 +1   97.9229796 +1    14     9     3
+  H     1.10640666 +1   92.0362047 +1 -119.8381330 +1     1     2     3
+  C     1.45586567 +1  109.6008906 +1   57.8801715 +1     2     1     3
+  H     1.16499649 +1  113.5625587 +1   41.4763963 +1    18     2     1
+  H     1.17081536 +1  111.1558799 +1  -96.8561571 +1    18     2     1
+  H     1.14927480 +1  108.5148156 +1  153.2757894 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:26 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -55.69713 KCAL/MOL =    -233.03678 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.42822 EV
+          GRADIENT NORM           =          0.50981          =       0.11125 PER ATOM
+          FOR REACTION COORDINATE =            2.0500 ANGSTROMS
+          REACTION GRADIENT       =          6.477478 KCAL/ANGSTROM
+          DIPOLE                  =          9.92486 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.735608 EV
+          HOMO LUMO ENERGIES (EV) =        -10.736 -2.726
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        224.57 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.13 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.01422
+            H    12    H    21     5.26485
+           Cl    16    H    10     4.23866
+          SCF CALCULATIONS        =         52
+          WALL-CLOCK TIME         =         16.449 SECONDS
+          COMPUTATION TIME        =         29.156 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.05000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.42263119 +1   98.9868627 +1    0.0000000 +0     1     2     0
+  C     1.42982124 +1  107.6291465 +1  121.2595304 +1     1     2     3
+  O     1.15040094 +1  104.5569637 +1 -118.2003052 +1     2     1     3
+  C     1.40645096 +1  123.0908200 +1  111.6691604 +1     3     1     2
+  C     1.37126132 +1  121.0472729 +1 -106.4520386 +1     4     1     2
+  C     1.37947527 +1  118.0763302 +1    1.6904963 +1     6     3     1
+  O     1.30462072 +1  117.6014251 +1  -64.1917615 +1     3     1     2
+  H     1.09643113 +1  118.0493946 +1   73.4939990 +1     4     1     2
+  H     1.09360361 +1  120.6094907 +1  178.8088026 +1     7     4     1
+  H     1.09230170 +1  119.8654467 +1 -178.8354282 +1     6     3     1
+  H     1.09895178 +1  120.1890705 +1  179.3915300 +1     8     6     3
+ Al     1.74755483 +1  150.9492029 +1   42.3378405 +1     9     3     1
+ Cl     2.03212609 +1  119.6806937 +1 -102.3424387 +1    14     9     3
+ Cl     2.03196580 +1  119.1941131 +1   99.3042882 +1    14     9     3
+  H     1.10174645 +1   90.6225785 +1 -120.4893983 +1     1     2     3
+  C     1.45040202 +1  108.6520375 +1   62.9378016 +1     2     1     3
+  H     1.16378894 +1  114.3156943 +1   36.1295840 +1    18     2     1
+  H     1.17230447 +1  111.1591110 +1 -102.5563119 +1    18     2     1
+  H     1.15117685 +1  108.3285551 +1  147.9310860 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:27 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -55.36913 KCAL/MOL =    -231.66445 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.46723 EV
+          GRADIENT NORM           =          0.62674          =       0.13677 PER ATOM
+          FOR REACTION COORDINATE =            2.1000 ANGSTROMS
+          REACTION GRADIENT       =         -1.135227 KCAL/ANGSTROM
+          DIPOLE                  =         10.30689 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.669696 EV
+          HOMO LUMO ENERGIES (EV) =        -10.670 -2.683
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        223.66 SQUARE ANGSTROMS
+          COSMO VOLUME            =        245.90 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.12873
+            H    12    H    21     5.30825
+           Cl    16    H    10     4.09249
+          SCF CALCULATIONS        =         14
+          WALL-CLOCK TIME         =         17.023 SECONDS
+          COMPUTATION TIME        =         30.203 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.10000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.41653532 +1   96.7107316 +1    0.0000000 +0     1     2     0
+  C     1.42336693 +1  108.5706538 +1  120.7929644 +1     1     2     3
+  O     1.14606044 +1  102.3156329 +1 -112.5453987 +1     2     1     3
+  C     1.40493835 +1  123.1381170 +1  111.5077044 +1     3     1     2
+  C     1.37493795 +1  120.9821988 +1 -104.3986050 +1     4     1     2
+  C     1.38124564 +1  118.0157883 +1    1.7999158 +1     6     3     1
+  O     1.31062316 +1  117.6759743 +1  -63.8186378 +1     3     1     2
+  H     1.09615482 +1  118.2655204 +1   75.7263363 +1     4     1     2
+  H     1.09320867 +1  120.4359424 +1  178.7697780 +1     7     4     1
+  H     1.09185059 +1  120.0039519 +1 -178.7381962 +1     6     3     1
+  H     1.09824960 +1  120.1386591 +1  179.1258327 +1     8     6     3
+ Al     1.73842060 +1  151.7769519 +1   47.6098127 +1     9     3     1
+ Cl     2.02930442 +1  123.0904843 +1 -106.9299493 +1    14     9     3
+ Cl     2.03620707 +1  117.2677749 +1   91.6787415 +1    14     9     3
+  H     1.09882156 +1   88.8391327 +1 -120.9081146 +1     1     2     3
+  C     1.44514721 +1  107.3208024 +1   68.5574473 +1     2     1     3
+  H     1.16156300 +1  115.3292804 +1   26.1118307 +1    18     2     1
+  H     1.17095434 +1  111.3533085 +1 -113.0760636 +1    18     2     1
+  H     1.15311232 +1  108.3373666 +1  137.8397015 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:28 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -55.59558 KCAL/MOL =    -232.61190 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.52877 EV
+          GRADIENT NORM           =          9.44313          =       2.06066 PER ATOM
+          FOR REACTION COORDINATE =            2.1500 ANGSTROMS
+          REACTION GRADIENT       =         -5.571466 KCAL/ANGSTROM
+          DIPOLE                  =         10.68088 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.600501 EV
+          HOMO LUMO ENERGIES (EV) =        -10.601 -2.631
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        224.40 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.15 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.16780
+            H    12    H    21     5.31144
+           Cl    16    H    10     4.04420
+          SCF CALCULATIONS        =         23
+          WALL-CLOCK TIME         =         17.902 SECONDS
+          COMPUTATION TIME        =         31.844 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.15000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.41140071 +1   95.9904889 +1    0.0000000 +0     1     2     0
+  C     1.41894365 +1  108.2688039 +1  120.6585564 +1     1     2     3
+  O     1.14262888 +1  100.0752600 +1 -112.0470990 +1     2     1     3
+  C     1.40490295 +1  123.1381701 +1  111.3111955 +1     3     1     2
+  C     1.37795718 +1  120.9113861 +1 -104.1915499 +1     4     1     2
+  C     1.38235064 +1  117.9790724 +1    1.8017736 +1     6     3     1
+  O     1.31394281 +1  117.7545435 +1  -63.8254705 +1     3     1     2
+  H     1.09575550 +1  118.5273789 +1   76.1953738 +1     4     1     2
+  H     1.09276499 +1  120.4659899 +1  179.4009246 +1     7     4     1
+  H     1.09157625 +1  120.0757507 +1 -178.9405929 +1     6     3     1
+  H     1.09775365 +1  120.1208186 +1  178.4980205 +1     8     6     3
+ Al     1.73405563 +1  152.1764288 +1   51.2355001 +1     9     3     1
+ Cl     2.02983767 +1  123.9885079 +1 -109.3187990 +1    14     9     3
+ Cl     2.03828610 +1  117.1763635 +1   87.8164831 +1    14     9     3
+  H     1.09614203 +1   86.8772066 +1 -121.2175428 +1     1     2     3
+  C     1.44069731 +1  106.3854639 +1   69.1776248 +1     2     1     3
+  H     1.16058096 +1  115.5214851 +1   24.2283252 +1    18     2     1
+  H     1.17174697 +1  111.6609449 +1 -115.4163016 +1    18     2     1
+  H     1.15537974 +1  108.2462068 +1  135.7634691 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:29 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -56.06730 KCAL/MOL =    -234.58559 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.59845 EV
+          GRADIENT NORM           =          0.63262          =       0.13805 PER ATOM
+          FOR REACTION COORDINATE =            2.2000 ANGSTROMS
+          REACTION GRADIENT       =        -10.046424 KCAL/ANGSTROM
+          DIPOLE                  =         11.10311 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.535988 EV
+          HOMO LUMO ENERGIES (EV) =        -10.536 -2.574
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        224.78 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.42 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.17025
+            H    21    H    12     5.27198
+            H    10   Cl    16     4.09786
+          SCF CALCULATIONS        =         35
+          WALL-CLOCK TIME         =         19.184 SECONDS
+          COMPUTATION TIME        =         34.406 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.20000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.40753564 +1   96.0247157 +1    0.0000000 +0     1     2     0
+  C     1.41402504 +1  109.0446312 +1  120.9815824 +1     1     2     3
+  O     1.13950855 +1   96.9363675 +1 -115.1339649 +1     2     1     3
+  C     1.40333174 +1  123.2647715 +1  112.2534062 +1     3     1     2
+  C     1.38046498 +1  120.8804201 +1 -104.3358658 +1     4     1     2
+  C     1.38361346 +1  117.8751748 +1    1.3194756 +1     6     3     1
+  O     1.31786473 +1  117.7446050 +1  -63.4440245 +1     3     1     2
+  H     1.09529908 +1  118.6888665 +1   75.7306587 +1     4     1     2
+  H     1.09244674 +1  120.2646358 +1  178.7730438 +1     7     4     1
+  H     1.09093198 +1  120.1495050 +1 -179.0753596 +1     6     3     1
+  H     1.09702617 +1  120.0250309 +1  179.4732457 +1     8     6     3
+ Al     1.72730296 +1  152.9163285 +1   53.4095233 +1     9     3     1
+ Cl     2.03177922 +1  123.8410294 +1 -110.0104576 +1    14     9     3
+ Cl     2.03757310 +1  117.9221026 +1   86.4000478 +1    14     9     3
+  H     1.09500394 +1   84.2303896 +1 -121.2281705 +1     1     2     3
+  C     1.43640213 +1  106.5742829 +1   66.1845594 +1     2     1     3
+  H     1.16225429 +1  115.2215921 +1   27.9700904 +1    18     2     1
+  H     1.17271785 +1  111.4514246 +1 -111.2868658 +1    18     2     1
+  H     1.15554625 +1  108.3487319 +1  139.5693453 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:30 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -57.43184 KCAL/MOL =    -240.29481 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.70688 EV
+          GRADIENT NORM           =          6.41414          =       1.39968 PER ATOM
+          FOR REACTION COORDINATE =            2.3000 ANGSTROMS
+          REACTION GRADIENT       =        -15.800600 KCAL/ANGSTROM
+          DIPOLE                  =         11.64591 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.445516 EV
+          HOMO LUMO ENERGIES (EV) =        -10.446 -2.472
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        224.61 SQUARE ANGSTROMS
+          COSMO VOLUME            =        247.57 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.21802
+            H    21    H    12     5.28322
+            H    10   Cl    16     4.05968
+          SCF CALCULATIONS        =         18
+          WALL-CLOCK TIME         =         19.871 SECONDS
+          COMPUTATION TIME        =         35.750 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.30000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.40317936 +1   93.7792363 +1    0.0000000 +0     1     2     0
+  C     1.40667412 +1  111.4695254 +1  120.9476950 +1     1     2     3
+  O     1.13531831 +1   91.3869789 +1 -113.3029183 +1     2     1     3
+  C     1.40063509 +1  123.2416586 +1  114.3545294 +1     3     1     2
+  C     1.38476967 +1  120.8343405 +1 -103.3799612 +1     4     1     2
+  C     1.38588471 +1  117.9183252 +1    0.6367397 +1     6     3     1
+  O     1.32284303 +1  117.9152313 +1  -61.1298956 +1     3     1     2
+  H     1.09430161 +1  118.9547325 +1   76.8223366 +1     4     1     2
+  H     1.09192913 +1  120.4068913 +1  178.5489271 +1     7     4     1
+  H     1.09075747 +1  120.0868305 +1 -179.2668156 +1     6     3     1
+  H     1.09578954 +1  120.0381872 +1  179.9597851 +1     8     6     3
+ Al     1.72072285 +1  155.3347031 +1   55.4746549 +1     9     3     1
+ Cl     2.03448670 +1  124.6586653 +1 -111.4425240 +1    14     9     3
+ Cl     2.04052901 +1  117.8765701 +1   83.0379929 +1    14     9     3
+  H     1.09222453 +1   79.9872904 +1 -121.8269212 +1     1     2     3
+  C     1.43008523 +1  106.1440397 +1   68.2659804 +1     2     1     3
+  H     1.16438776 +1  115.1910962 +1   24.1661476 +1    18     2     1
+  H     1.17309480 +1  112.1868412 +1 -115.6703262 +1    18     2     1
+  H     1.15813994 +1  108.8205059 +1  135.2106837 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:31 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -58.98719 KCAL/MOL =    -246.80242 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.76608 EV
+          GRADIENT NORM           =          0.93642          =       0.20434 PER ATOM
+          FOR REACTION COORDINATE =            2.4000 ANGSTROMS
+          REACTION GRADIENT       =        -13.802496 KCAL/ANGSTROM
+          DIPOLE                  =         12.06907 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.391124 EV
+          HOMO LUMO ENERGIES (EV) =        -10.391 -2.416
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        225.31 SQUARE ANGSTROMS
+          COSMO VOLUME            =        248.10 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.23151
+            H    21    H    12     5.31192
+            H    10   Cl    16     4.04803
+          SCF CALCULATIONS        =         44
+          WALL-CLOCK TIME         =         21.563 SECONDS
+          COMPUTATION TIME        =         39.141 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.40000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.40096707 +1   92.5409767 +1    0.0000000 +0     1     2     0
+  C     1.40227154 +1  112.8882408 +1  120.8779723 +1     1     2     3
+  O     1.13249158 +1   87.2610906 +1 -112.3664310 +1     2     1     3
+  C     1.39894550 +1  123.4378203 +1  116.3148858 +1     3     1     2
+  C     1.38822144 +1  120.7192380 +1 -103.7531583 +1     4     1     2
+  C     1.38797165 +1  117.6951937 +1    0.2074115 +1     6     3     1
+  O     1.32637978 +1  117.5364622 +1  -59.2373547 +1     3     1     2
+  H     1.09445986 +1  119.2154394 +1   76.6409355 +1     4     1     2
+  H     1.09173467 +1  119.9742682 +1  178.8746120 +1     7     4     1
+  H     1.09006229 +1  120.4060760 +1 -179.8307708 +1     6     3     1
+  H     1.09559496 +1  119.8331046 +1  179.8818660 +1     8     6     3
+ Al     1.71115563 +1  157.7463244 +1   55.7613769 +1     9     3     1
+ Cl     2.03556490 +1  125.1323438 +1 -111.4299226 +1    14     9     3
+ Cl     2.04114955 +1  118.2324444 +1   82.5307220 +1    14     9     3
+  H     1.09010102 +1   77.2286871 +1 -122.3814942 +1     1     2     3
+  C     1.42593446 +1  106.4087978 +1   68.8986607 +1     2     1     3
+  H     1.16394424 +1  115.0340288 +1   23.0817325 +1    18     2     1
+  H     1.17173895 +1  112.2893342 +1 -116.2851341 +1    18     2     1
+  H     1.15754825 +1  109.1606245 +1  134.4190505 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:32 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -60.53456 KCAL/MOL =    -253.27658 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.81911 EV
+          GRADIENT NORM           =          1.50746          =       0.32895 PER ATOM
+          FOR REACTION COORDINATE =            2.5000 ANGSTROMS
+          REACTION GRADIENT       =        -12.740476 KCAL/ANGSTROM
+          DIPOLE                  =         12.42461 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.348312 EV
+          HOMO LUMO ENERGIES (EV) =        -10.348 -2.372
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        226.63 SQUARE ANGSTROMS
+          COSMO VOLUME            =        249.01 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.22664
+            H    21    H    12     5.32399
+            H    10   Cl    16     4.06806
+          SCF CALCULATIONS        =         26
+          WALL-CLOCK TIME         =         22.504 SECONDS
+          COMPUTATION TIME        =         40.984 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.50000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.40027069 +1   90.7737276 +1    0.0000000 +0     1     2     0
+  C     1.39864356 +1  115.9529705 +1  120.9116670 +1     1     2     3
+  O     1.13116842 +1   83.0430873 +1 -111.9176706 +1     2     1     3
+  C     1.39650067 +1  123.5704786 +1  119.6094244 +1     3     1     2
+  C     1.39111548 +1  120.6430125 +1 -104.2552545 +1     4     1     2
+  C     1.39021873 +1  117.5827480 +1   -0.1031603 +1     6     3     1
+  O     1.32852370 +1  117.3142804 +1  -56.0099488 +1     3     1     2
+  H     1.09397338 +1  119.4013837 +1   76.1926540 +1     4     1     2
+  H     1.09163597 +1  119.7591244 +1  178.9059160 +1     7     4     1
+  H     1.08952749 +1  120.6016026 +1 -179.9800198 +1     6     3     1
+  H     1.09510587 +1  119.7216550 +1  179.7207987 +1     8     6     3
+ Al     1.70499945 +1  161.7693094 +1   52.2159779 +1     9     3     1
+ Cl     2.03747080 +1  124.7817176 +1 -108.4618312 +1    14     9     3
+ Cl     2.04231440 +1  118.7702583 +1   85.8395161 +1    14     9     3
+  H     1.08848564 +1   73.9421567 +1 -123.2947195 +1     1     2     3
+  C     1.42288101 +1  107.4472634 +1   69.2727357 +1     2     1     3
+  H     1.16483160 +1  114.8762329 +1   23.3366775 +1    18     2     1
+  H     1.17188632 +1  112.7605620 +1 -116.0633639 +1    18     2     1
+  H     1.15796385 +1  109.4106425 +1  134.5606085 +1    18     2     1
+ 
+
+
+                     SUMMARY OF  PM7 CALCULATION
+
+                                                       MOPAC2016 (Version: 22.066W)
+                                                       Tue May 10 09:58:33 2022
+
+           Empirical Formula: C8 H8 O2 Al Cl2  =    21 atoms
+
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+          HEAT OF FORMATION       =        -61.73865 KCAL/MOL =    -258.31453 KJ/MOL
+          DIELECTRIC ENERGY       =         -2.85550 EV
+          GRADIENT NORM           =          3.72454          =       0.81276 PER ATOM
+          FOR REACTION COORDINATE =            2.6000 ANGSTROMS
+          REACTION GRADIENT       =        -12.539329 KCAL/ANGSTROM
+          DIPOLE                  =         12.70972 DEBYE   POINT GROUP:  C1  
+          NO. OF FILLED LEVELS    =         34
+          CHARGE ON SYSTEM        =          1
+          IONIZATION POTENTIAL    =         10.298141 EV
+          HOMO LUMO ENERGIES (EV) =        -10.298 -2.348
+          MOLECULAR WEIGHT        =        234.0375
+          COSMO AREA              =        228.08 SQUARE ANGSTROMS
+          COSMO VOLUME            =        249.77 CUBIC ANGSTROMS
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+           Cl    15    H    11     8.19924
+            H    21    H    12     5.32564
+            H    10   Cl    16     4.10576
+          SCF CALCULATIONS        =         23
+          WALL-CLOCK TIME         =         23.332 SECONDS
+          COMPUTATION TIME        =         42.641 SECONDS
+
+
+          FINAL GEOMETRY OBTAINED
+ PM7 CHARGE=1 EPS=8.2 EF
+ ortho
+ (in 1,1,2,2-tetrachloroethane (TeCA))
+  C     0.00000000 +0    0.0000000 +0    0.0000000 +0     0     0     0
+  C     2.60000000 -1    0.0000000 +0    0.0000000 +0     1     0     0
+  C     1.40019987 +1   88.5832146 +1    0.0000000 +0     1     2     0
+  C     1.39604433 +1  120.6873428 +1  121.0891338 +1     1     2     3
+  O     1.13024244 +1   78.7333275 +1 -111.9431171 +1     2     1     3
+  C     1.39482955 +1  123.6126382 +1  124.2183535 +1     3     1     2
+  C     1.39301702 +1  120.6190703 +1 -104.9066554 +1     4     1     2
+  C     1.39155448 +1  117.5678549 +1   -0.2943660 +1     6     3     1
+  O     1.32881207 +1  117.1048120 +1  -51.6199402 +1     3     1     2
+  H     1.09339288 +1  119.5043935 +1   75.4725360 +1     4     1     2
+  H     1.09149592 +1  119.7548715 +1  178.6791915 +1     7     4     1
+  H     1.08929491 +1  120.6742883 +1 -179.7424779 +1     6     3     1
+  H     1.09453601 +1  119.6997403 +1  179.4987843 +1     8     6     3
+ Al     1.69995728 +1  167.3086721 +1   44.7985929 +1     9     3     1
+ Cl     2.03997169 +1  123.6779292 +1 -102.5041883 +1    14     9     3
+ Cl     2.04313726 +1  119.5021676 +1   92.9060043 +1    14     9     3
+  H     1.08714143 +1   70.1373592 +1 -124.6539274 +1     1     2     3
+  C     1.42083795 +1  109.4190479 +1   69.2010612 +1     2     1     3
+  H     1.16630200 +1  114.7389786 +1   24.8148335 +1    18     2     1
+  H     1.17324277 +1  113.5146879 +1 -115.0488469 +1    18     2     1
+  H     1.15859047 +1  109.6038454 +1  135.6191141 +1    18     2     1
+ 
