@@ -36,3 +36,6 @@
 - Jmol (https://sourceforge.net/projects/jmol/files/Jmol/)
 - xmol (http://www.xmol.org/)
 - Avocute (https://github.com/RyokoKuga/Avocute) (Tkinter)
+
+## JMol
+- Jmol-14.30.2-binary.zip: https://sourceforge.net/projects/jmol/files/Jmol/Version%2014.30/Jmol%2014.30.2/
