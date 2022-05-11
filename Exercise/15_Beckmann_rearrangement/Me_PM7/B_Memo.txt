@@ -1,8 +1,8 @@
 Ph
          : heat of formation
-Reactions: 133.644 kcal/mol
+Reactants: 133.644 kcal/mol
 TS       : 167.904 kcal/mol
 Products :  92.346 kcal/mol
 
-Activation energy = E(TS) - E(Reactions)
+Activation energy = E(TS) - E(Reactants)
   = 167.904 - 133.644 = 32.260 [kcal/mol]

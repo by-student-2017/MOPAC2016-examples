@@ -1,8 +1,8 @@
 cis in water
          :  heat of formation
-Reactions:  -6.136 kcal/mol
+Reactants:  -6.136 kcal/mol
 TS       :  -5.650 kcal/mol
 Products : -47.188 kcal/mol
 
-Activation energy = E(TS) - E(Reactions)
+Activation energy = E(TS) - E(Reactants)
   = -5.650 - -6.136 = 0.486 [kcal/mol]

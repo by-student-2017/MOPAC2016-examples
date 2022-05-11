@@ -20,6 +20,6 @@ REM "C:\Program Files\MOPAC\MOPAC2016.exe" %Series%3_NLLSQ.mop
 
 start %JMol% %Series%4_IRC_products.xyz
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%5_IRC_reactions.mop
+"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%5_IRC_reactants.mop
 
-%JMol% %Series%4_IRC_reactions.xyz
+%JMol% %Series%4_IRC_reactants.xyz

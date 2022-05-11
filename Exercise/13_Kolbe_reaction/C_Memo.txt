@@ -1,9 +1,9 @@
 
 C: Radical
          :  heat of formation
-Reactions: -54.994 kcal/mol
+Reactants: -54.994 kcal/mol
 TS       : -47.600 kcal/mol
 Products : -76.726 kcal/mol
 
-Activation energy = E(TS) - E(Reactions)
+Activation energy = E(TS) - E(Reactants)
   = -47.600 - -54.994 = 7.394 [kcal/mol]

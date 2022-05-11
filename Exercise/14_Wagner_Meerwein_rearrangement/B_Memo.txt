@@ -1,10 +1,10 @@
 
          : heat of formation
-Reactions: 200.140 kcal/mol
+Reactants: 200.140 kcal/mol
 TS       : 206.849 kcal/mol
 Products : 168.101 kcal/mol
 
-Activation energy = E(TS) - E(Reactions)
+Activation energy = E(TS) - E(Reactants)
   = 206.849 - 200.140 = 6.709 [kcal/mol]
 
 Note

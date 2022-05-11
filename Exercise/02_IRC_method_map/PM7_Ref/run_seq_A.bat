@@ -22,6 +22,6 @@ type %Series%3_TS.arc | find /v "Transition States" > %Series%3_TSm.arc
 
 start %JMol% %Series%5_IRC_products.xyz
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%5_IRC_reactions.mop
+"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%5_IRC_reactants.mop
 
-%JMol% %Series%5_IRC_reactions.xyz
+%JMol% %Series%5_IRC_reactants.xyz
