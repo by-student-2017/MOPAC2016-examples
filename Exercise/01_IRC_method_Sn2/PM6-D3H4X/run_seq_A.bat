@@ -21,7 +21,7 @@ type %Series%2_TS.arc | find /v "Transition States" > %Series%2_TSm.arc
 
 %MOPAC_EXE% %Series%4_IRC_products.mop
 
-%JMol_EXE% %Series%4_IRC_products.xyz
+start %JMol_EXE% %Series%4_IRC_products.xyz
 
 %MOPAC_EXE% %Series%4_IRC_reactions.mop
 
