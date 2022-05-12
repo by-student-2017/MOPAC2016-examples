@@ -1,20 +1,28 @@
 set Series=A
 
-set JMol=C:\jmol-14.30.2\Jmol.jar
+set JMol_EXE=C:\jmol-14.30.2\Jmol.jar
+
+REM mopac2016 version case
+set MOPAC_EXE="C:\Program Files\MOPAC\MOPAC2016.exe"
+
+REM open-mopac version case
+REM set MOPAC_EXE="C:\Program Files\MOPAC\bin\mopac.exe"
 
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%1_MEP.mop
+%MOPAC_EXE% %Series%1_MEP.mop
 
 pause
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%2_TS.mop
+%MOPAC_EXE% %Series%2_TS.mop
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%3_FORCE.mop
+type %Series%2_TS.arc | find /v "Transition States" > %Series%2_TSm.arc
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%4_IRC_products.mop
+%MOPAC_EXE% %Series%3_FORCE.mop
 
-%JMol% %Series%4_IRC_products.xyz
+%MOPAC_EXE% %Series%4_IRC_products.mop
 
-"C:\Program Files\MOPAC\MOPAC2016.exe" %Series%5_IRC_reactants.mop
+%JMol_EXE% %Series%4_IRC_products.xyz
 
-%JMol% %Series%4_IRC_reactants.xyz
+%MOPAC_EXE% %Series%4_IRC_reactions.mop
+
+%JMol_EXE% %Series%4_IRC_reactions.xyz
