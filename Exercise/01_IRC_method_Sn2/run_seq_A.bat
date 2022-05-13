@@ -2,11 +2,11 @@ set Series=A
 
 set JMol_EXE=C:\jmol-14.30.2\Jmol.jar
 
-REM mopac2016 version case
-set MOPAC_EXE="C:\Program Files\MOPAC\MOPAC2016.exe"
+set MOPAC2016_EXE="C:\Program Files\MOPAC\MOPAC2016.exe"
+set MOPAC_EXE="C:\Program Files\MOPAC\bin\mopac.exe"
 
-REM open-mopac version case
-REM set MOPAC_EXE="C:\Program Files\MOPAC\bin\mopac.exe"
+if exist %MOPAC_EXE% ( set MOPAC_EXE = %MOPAC_EXE% ) 
+if exist %MOPAC2016_EXE% ( set MOPAC_EXE = %MOPAC_EXE% ) 
 
 
 %MOPAC_EXE% %Series%1_MEP.mop
