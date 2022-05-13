@@ -15,15 +15,12 @@ pause
 
 %MOPAC_EXE% %Series%2_TS.mop
 
-type %Series%2_TS.arc | find /v "Transition States" > %Series%2_TSm.arc
-
 %MOPAC_EXE% %Series%3_FORCE.mop
 
 %MOPAC_EXE% %Series%4_IRC_products.mop
 
 start %JMol_EXE% %Series%4_IRC_products.xyz
 
-%MOPAC_EXE% %Series%4_IRC_reactions.mop
+%MOPAC_EXE% %Series%4_IRC_reactants.mop
 
-%JMol_EXE% %Series%4_IRC_reactions.xyz
-
+%JMol_EXE% %Series%4_IRC_reactants.xyz

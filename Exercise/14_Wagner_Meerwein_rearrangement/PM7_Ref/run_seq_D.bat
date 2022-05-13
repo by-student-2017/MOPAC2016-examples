@@ -15,7 +15,7 @@ pause
 
 %MOPAC_EXE% %Series%2_TS.mop
 
-type %Series%2_TS.arc | find /v "Transition States" > %Series%2_TSm.arc
+REM type %Series%2_TS.arc | find /v "Transition States" > %Series%2_TSm.arc
 
 %MOPAC_EXE% %Series%3_FORCE.mop
 
