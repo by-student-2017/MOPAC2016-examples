@@ -1,0 +1,22 @@
+Aromaticity Stabilization Energy: ASE
+
+X1 + X2 = 2 * X3 + ASE(kcal/mol)
+
+FINAL HEAT OF FORMATION (kcal/mol)
+ASE = 2*X3 - X1 - X2
+
+"NICS(ppm) vs. ASE(kcal/mol)" shows a strong correlation (r=0.96)
+
+References
+ X :ASE(PM6), NICS 
+CH-:  -1.97, -14.3
+NH : -10.45, -15.1
+S  :  -3.07, -13.6
+O  :  -5.01, -12.3
+SiH-: -0.33,  -6.7
+PH :   0.47,  -5.3
+CH2:   1.79,  -3.2
+AlH:   6.12,   6.5
+BH :  12.1 ,  17.5
+SiH+: 11.58,  12.8
+ (r=0.95)

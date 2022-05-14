@@ -1,0 +1,17 @@
+Structure and properties of alkanes
+
+Section B1 (PM6)
+  n-Butane conformation analysis
+  
+  A (180) -26.04453 kcal/mol (trans)
+  B (120) -24.55771 kcal/mol (gauche)
+  C (0.1) -22.53137 kcal/mol (cis)
+  
+  R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
+  Partition function = state sum = exp(-(HOF(A)-HOF(A))/RT) + exp(-(HOF(B)-HOF(A))/RT) + exp(-(HOF(C)-HOF(A))/RT) 
+                     = 1.083861
+  A (298 K) = exp(-(HOF(A)-HOF(A))/RT) / Partition function * 100 = 92.26 %
+  B (298 K) = exp(-(HOF(B)-HOF(A))/RT) / Partition function * 100 =  7.49 %
+  C (298 K) = exp(-(HOF(C)-HOF(A))/RT) / Partition function * 100 =  0.24 %
+  
+  1H NMR (experimental): A 72%. B 28%

@@ -1,0 +1,21 @@
+
+Experimental
+H2(g) : 0 kcal/mol
+O2(g) : 0 kcal/mol
+N2(g) : 0 kcal/mol
+HCl(g): -21.69370 kcal/mol, ionicity 21%
+HF(g) : -65.30050 kcal/mol, ionicity 40%
+Data: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7727379&Mask=8
+
+FINAL HEAT OF FORMATION
+PM6
+H2 : -25.73196 KCAL/MOL
+O2 : -16.75499 KCAL/MO
+N2 :  40.56887 KCAL/MOL
+HCl: -32.00154 KCAL/MOL
+HF : -63.61235 KCAL/MOL, Net Atomic charge 27% (CHARGE: 0.270578)
+  (EPS: electrostatic potential 24% (CHARGE: 0.2444))
+
+Note
+  The difference from the experimental value becomes the error in the calculation.
+  It can be seen that the error is particularly large for diatomic molecules.
