@@ -5,8 +5,8 @@ set JMol_EXE=C:\jmol-14.30.2\Jmol.jar
 set MOPAC2016_EXE="C:\Program Files\MOPAC\MOPAC2016.exe"
 set MOPAC_EXE="C:\Program Files\MOPAC\bin\mopac.exe"
 
-if exist %MOPAC_EXE% ( set MOPAC_EXE=%MOPAC_EXE% ) 
-if exist %MOPAC2016_EXE% ( set MOPAC_EXE=%MOPAC_EXE% )  
+REM if exist %MOPAC_EXE% ( set MOPAC_EXE=%MOPAC_EXE% ) 
+if exist %MOPAC2016_EXE% ( set MOPAC_EXE=%MOPAC2016_EXE% ) 
 
 
 %MOPAC_EXE% %Series%1_MEP.mop
