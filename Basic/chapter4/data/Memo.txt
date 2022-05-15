@@ -1,0 +1,3 @@
+Z: Electronic attractive group
+C: Pie conjugated group
+X: Electron donating group
