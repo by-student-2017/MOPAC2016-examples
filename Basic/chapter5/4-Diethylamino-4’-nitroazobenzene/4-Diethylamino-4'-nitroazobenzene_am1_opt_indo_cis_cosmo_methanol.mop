@@ -43,4 +43,4 @@ AM1 BONDS EF PRECISE EPS=32.6
    H  1.087242  1  119.304226  1  179.426764  1       19      18      17   
   
 EPS=32.6 OLDGEO OLDFPC INDO CIS C.I.=6 MECI
-# calculate the excited states
+# calculate the excited states, MECI(default: C.A.S=(2,1))
