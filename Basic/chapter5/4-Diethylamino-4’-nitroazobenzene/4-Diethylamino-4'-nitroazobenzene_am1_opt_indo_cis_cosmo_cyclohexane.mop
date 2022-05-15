@@ -1,5 +1,5 @@
-PM7 BONDS EF PRECISE EPS=32.6
-4-Diethylamino-4'-nitroazobenzene in methanol
+AM1 BONDS EF PRECISE EPS=2.0243
+4-Diethylamino-4'-nitroazobenzene in cyclohexane
 
    C  0.000000  1    0.000000  1    0.000000  1        0       0       0   
    C  1.517320  1    0.000000  1    0.000000  1        1       0       0   
@@ -42,5 +42,5 @@ PM7 BONDS EF PRECISE EPS=32.6
    H  1.088936  1  121.382703  1  180.125891  1       18      17      16   
    H  1.087242  1  119.304226  1  179.426764  1       19      18      17   
   
-EPS=32.6 OLDGEO OLDFPC INDO CIS C.I.=6 MECI
-# calculate the excited states, MECI(default: C.A.S=(2,1))
+EPS=2.0243 OLDGEO OLDFPC INDO CIS C.I.=6 MECI
+# calculate the excited states
