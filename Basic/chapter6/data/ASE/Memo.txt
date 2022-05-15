@@ -3,7 +3,7 @@ Aromaticity Stabilization Energy: ASE
 X1 + X2 = 2 * X3 + ASE(kcal/mol)
 
 FINAL HEAT OF FORMATION (kcal/mol)
-ASE = 2*X3 - X1 - X2
+ASE = X1 + X2 - 2*X3
 
 "NICS(ppm) vs. ASE(kcal/mol)" shows a strong correlation (r=0.96)
 
