@@ -78,7 +78,7 @@ B2C (cis)
   G = H -T*S = ENTHALPY - T*ENTROPY
   G(A) (180) =(4285.5763 - 74.2080*298)/1000 = -17.8284077 kcal/mol (trans)
   G(B) (120) =(4362.9667 - 73.5805*298)/1000 = -17.5640223 kcal/mol (gauche)
-  G(C) (0.1) =(1480.4688 - 38.0983*298)/1000 =  -9.8728246  kcal/mol (cis)
+  G(C) (0.1) =(1480.4688 - 38.0983*298)/1000 =  -9.8728246 kcal/mol (cis)
   
   R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
   Partition function = state sum = exp(-(G(A)-G(A))/RT) + exp(-(G(B)-G(A))/RT) + exp(-(G(C)-G(A))/RT) 
@@ -89,3 +89,75 @@ B2C (cis)
   
   1H NMR (experimental): A 72%. B 28%
 -------------------------------------------------------------------------------
+Section B4 (PM7) test
+  n-Butane conformation analysis
+
+B2A (trans)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.1235D+02                  1817.8736    13.2859    11.0959
+         ROT.     0.2525D+05                   888.2813     2.9808    23.1246
+         INT.     0.3120D+06                  2706.1549    16.2667    34.2205
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+         TOT.                      -27.894    4186.6237    21.2347    72.3189
+
+
+B2B (gauche)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.1426D+02                  1925.1764    13.6657    11.7413
+         ROT.     0.2699D+05                   888.2813     2.9808    23.2564
+         INT.     0.3848D+06                  2813.4577    16.6465    34.9977
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+         TOT.                      -26.635    4293.9266    21.6145    73.0960
+
+
+B2C (cis)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.8765D+01                  1827.1906    13.5797    10.4453
+         ROT.     0.2661D+05                   888.2813     2.9808    23.2286
+         INT.     0.2332D+06                  2715.4719    16.5605    33.6739
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+         TOT.                      -24.433    4195.9408    21.5285    71.7722
+
+
+  A (180) -27.894 kcal/mol (trans)
+  B (120) -26.635 kcal/mol (gauche)
+  C (0.1) -24.433 kcal/mol (cis)
+  
+  R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
+  Partition function = state sum = exp(-(HOF(A)-HOF(A))/RT) + exp(-(HOF(B)-HOF(A))/RT) + exp(-(HOF(C)-HOF(A))/RT) 
+                     = 1.122207395
+  A (298 K) = exp(-(HOF(A)-HOF(A))/RT) / Partition function * 100 = 89.11 %
+  B (298 K) = exp(-(HOF(B)-HOF(A))/RT) / Partition function * 100 = 10.63 %
+  C (298 K) = exp(-(HOF(C)-HOF(A))/RT) / Partition function * 100 =  0.26 %
+  
+  1H NMR (experimental): A 72%. B 28%
+  -----------------------------------------------------------------------------
+  T = 298 K
+  G = H -T*S = ENTHALPY - T*ENTROPY
+  G(A) (180) =(4186.6237 - 72.3189*298)/1000 = -17.3644085 kcal/mol (trans)
+  G(B) (120) =(4293.9266 - 73.0960*298)/1000 = -17.4886814 kcal/mol (gauche)
+  G(C) (0.1) =(4195.9408 - 71.7722*298)/1000 = -17.1921748 kcal/mol (cis)
+  
+  R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
+  Partition function = state sum = exp(-(G(A)-G(A))/RT) + exp(-(G(B)-G(A))/RT) + exp(-(G(C)-G(A))/RT) 
+                     = 2.981123324
+  A (298 K) = exp(-(G(A)-G(A))/RT) / Partition function * 100 = 33.54 %
+  B (298 K) = exp(-(G(B)-G(A))/RT) / Partition function * 100 = 41.37 %
+  C (298 K) = exp(-(G(C)-G(A))/RT) / Partition function * 100 = 25.07 %
+  
+  1H NMR (experimental): A 72%. B 28%
