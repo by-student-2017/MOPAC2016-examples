@@ -1,4 +1,3 @@
-
 Experimental
 H2(g) : 0 kcal/mol
 O2(g) : 0 kcal/mol
