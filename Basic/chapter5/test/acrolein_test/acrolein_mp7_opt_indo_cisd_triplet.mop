@@ -11,4 +11,4 @@ PM7 BONDS EF PRECISE
    H  1.102575  1  116.394896  1  360.000000  1        3       2       1   
 
 OLDGEO INDO CISD C.I.=4 MECI TRIPLET
-# calculate the excited states
+# calculate the excited states, MECI(default: C.A.S=(2,1))

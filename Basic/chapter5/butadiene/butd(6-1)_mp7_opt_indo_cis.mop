@@ -13,4 +13,4 @@ H        1.09000  1    120.00000  1      0.00000  1      4     3     2
 H        1.09000  1    120.00000  1    180.00000  1      4     3     2 
 
 OLDGEO INDO CIS C.I.=6 MECI
-# calculate the excited states
+# calculate the excited states, MECI(default: C.A.S=(2,1))

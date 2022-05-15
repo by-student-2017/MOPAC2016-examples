@@ -99,4 +99,4 @@ beta-carotene
    H  1.093550  1  113.604307  1   62.347737  1       40      26      25   
 
 OLDGEO INDO CIS C.I.=8 MECI
-# calculate the excited states
+# calculate the excited states, MECI(default: C.A.S=(2,1))

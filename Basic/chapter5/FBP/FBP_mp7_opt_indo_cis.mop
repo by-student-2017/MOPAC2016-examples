@@ -41,4 +41,4 @@ free base porphin, FBP
  H          0.98988000  1   45.0755900  1    0.0034100  1     3     2     1     
 
 OLDGEO OLDFPC INDO CIS C.I.=8 MECI
-# calculate the excited states
+# calculate the excited states, MECI(default: C.A.S=(2,1))
