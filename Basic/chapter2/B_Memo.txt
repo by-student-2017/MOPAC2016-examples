@@ -1,5 +1,5 @@
 Structure and properties of alkanes
-
+-------------------------------------------------------------------------------
 Section B1 (PM6)
   n-Butane conformation analysis
   
@@ -15,3 +15,77 @@ Section B1 (PM6)
   C (298 K) = exp(-(HOF(C)-HOF(A))/RT) / Partition function * 100 =  0.24 %
   
   1H NMR (experimental): A 72%. B 28%
+-------------------------------------------------------------------------------
+Section B2 (PM6)
+  n-Butane conformation analysis
+
+B2A (trans)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.2078D+02                  2065.5485    14.3090    12.9601
+         ROT.     0.2557D+05                   888.2813     2.9808    23.1496
+         INT.     0.5313D+06                  2953.8298    17.2899    36.1097
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+         TOT.                      -26.045    4434.2986    22.2579    74.2080
+
+
+B2B (gauche)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.1615D+02                  1994.2166    14.1906    12.2197
+         ROT.     0.2707D+05                   888.2813     2.9808    23.2624
+         INT.     0.4370D+06                  2882.4979    17.1714    35.4821
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+         TOT.                      -24.558    4362.9667    22.1394    73.5805
+
+
+B2C (cis)
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.1042D+02                  1916.8261    14.1478    11.0897
+         ROT.     0.2676D+05                   888.2813     2.9808    23.2394
+         INT.     0.2788D+06                  2805.1074    17.1286    34.3292
+         TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
+
+         TOT.                      -22.531    4285.5763    22.0967    72.4275
+
+  A (180) -26.045 kcal/mol (trans)
+  B (120) -24.558 kcal/mol (gauche)
+  C (0.1) -22.531 kcal/mol (cis)
+  
+  R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
+  Partition function = state sum = exp(-(HOF(A)-HOF(A))/RT) + exp(-(HOF(B)-HOF(A))/RT) + exp(-(HOF(C)-HOF(A))/RT) 
+                     = 1.08382
+  A (298 K) = exp(-(HOF(A)-HOF(A))/RT) / Partition function * 100 = 92.26 %
+  B (298 K) = exp(-(HOF(B)-HOF(A))/RT) / Partition function * 100 =  7.49 %
+  C (298 K) = exp(-(HOF(C)-HOF(A))/RT) / Partition function * 100 =  0.24 %
+  
+  1H NMR (experimental): A 72%. B 28%
+  -----------------------------------------------------------------------------
+  T = 298 k
+  G = H -T*S = ENTHALPY - T*ENTROPY
+  G(A) (180) =(4285.5763 - 74.2080*298)/1000 = -17.8284077 kcal/mol (trans)
+  G(B) (120) =(4362.9667 - 73.5805*298)/1000 = -17.5640223 kcal/mol (gauche)
+  G(C) (0.1) =(1480.4688 - 38.0983*298)/1000 =  -9.8728246  kcal/mol (cis)
+  
+  R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
+  Partition function = state sum = exp(-(G(A)-G(A))/RT) + exp(-(G(B)-G(A))/RT) + exp(-(G(C)-G(A))/RT) 
+                     = 1.639893358
+  A (298 K) = exp(-(G(A)-G(A))/RT) / Partition function * 100 = 60.98 %
+  B (298 K) = exp(-(G(B)-G(A))/RT) / Partition function * 100 = 39.02 %
+  C (298 K) = exp(-(G(C)-G(A))/RT) / Partition function * 100 =  0.00009 %
+  
+  1H NMR (experimental): A 72%. B 28%
+-------------------------------------------------------------------------------
