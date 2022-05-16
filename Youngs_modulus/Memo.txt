@@ -1,0 +1,7 @@
+E = sigma/epsilon = (F/A)/(dL/L) = K(L/A)
+dH = (K/2)*(dL)^2 + B*dL + C
+B and C = constant
+
+Exp.: 253-358 N/m^2*10^-9
+
+calc.: 362 N/m^2*10^-9

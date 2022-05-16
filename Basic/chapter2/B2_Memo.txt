@@ -58,7 +58,6 @@ B2C (cis)
          ROT.     0.2676D+05                   888.2813     2.9808    23.2394
          INT.     0.2788D+06                  2805.1074    17.1286    34.3292
          TRA.     0.4284D+27                  1480.4688     4.9680    38.0983
-
          TOT.                      -22.531    4285.5763    22.0967    72.4275
 
   A (180) -26.045 kcal/mol (trans)
@@ -75,17 +74,17 @@ B2C (cis)
   1H NMR (experimental): A 72%. B 28%
   -----------------------------------------------------------------------------
   T = 298 K
-  G = H -T*S = ENTHALPY - T*ENTROPY
-  G(A) (180) =(4285.5763 - 74.2080*298)/1000 = -17.8284077 kcal/mol (trans)
-  G(B) (120) =(4362.9667 - 73.5805*298)/1000 = -17.5640223 kcal/mol (gauche)
-  G(C) (0.1) =(1480.4688 - 38.0983*298)/1000 =  -9.8728246  kcal/mol (cis)
+  G = H -T*S = ENTHALPY(=H.O.F.) - T*ENTROPY
+  G(A) (180) = -26.045 - 74.2080*298/1000 = -48.158984 kcal/mol (trans)
+  G(B) (120) = -24.558 - 73.5805*298/1000 = -46.484989 kcal/mol (gauche)
+  G(C) (0.1) = -22.531 - 72.4275*298/1000 = -44.114395 kcal/mol (cis)
   
   R = 8.31446261815324 J/mol/K = 0.001987204258640831635 kcal/mol/K
   Partition function = state sum = exp(-(G(A)-G(A))/RT) + exp(-(G(B)-G(A))/RT) + exp(-(G(C)-G(A))/RT) 
-                     = 1.639893358
-  A (298 K) = exp(-(G(A)-G(A))/RT) / Partition function * 100 = 60.98 %
-  B (298 K) = exp(-(G(B)-G(A))/RT) / Partition function * 100 = 39.02 %
-  C (298 K) = exp(-(G(C)-G(A))/RT) / Partition function * 100 =  0.00009 %
+                     = 1.060282826
+  A (298 K) = exp(-(G(A)-G(A))/RT) / Partition function * 100 = 94.31 %
+  B (298 K) = exp(-(G(B)-G(A))/RT) / Partition function * 100 =  5.58 %
+  C (298 K) = exp(-(G(C)-G(A))/RT) / Partition function * 100 =  0.10 %
   
   1H NMR (experimental): A 72%. B 28%
 -------------------------------------------------------------------------------
