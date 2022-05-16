@@ -1,0 +1,41 @@
+Experimental data
+Name, Lambda(max)[nm], epsilon(max), transition
+ethane       , 135,      , (s-s*)
+water        , 167,  7000, (n-s*)
+methanol     , 183,   500, (n-s*)
+ethylene     , 165, 10000, (pi-pi*)
+acetylene    , 170,  6000, (pi-pi*)
+acetone      , 150       , (pi-pi*)
+acetone      , 188,  1860, (n-s*)
+acetone      , 279,    15, (n-pi*)
+butadiene    , 217, 21000, (pi-pi*) 
+acrolein     , 210, 11500, (pi-pi*)
+acrolein     , 315,    14, (n-pi*)
+benzene      , 180, 60000, (pi-pi*)
+benzene      , 200,  8000, (pi-pi*)
+benzene      , 255,   215, (pi-pi*)
+styrene      , 244, 12000, (pi-pi*)
+styrene      , 282,   450, (pi-pi*)
+toluene      , 208,  2460, (pi-pi*)
+toluene      , 262,   174, (pi-pi*)
+hexatriene   , 258
+beta-carotene, 452
+
+4-Diethylamino-4'-nitroazobenzene
+  in cyclohexane, 457.5 nm (2.71 eV)
+  in methanol   , 488.1 nm (2.54 eV)
+------------------------------------------------
+MOPAC INDO
+Name, Lambda(max)[nm], epsilon(max)
+butadiene    , 210.1
+acetone      , 146.6
+acrolein     , 198.2
+benzene      , 182.1
+toluene      , 210.3
+toluene      , 268.9
+hexatriene   , 251.9
+beta-carotene, 418.5
+
+4-Diethylamino-4'-nitroazobenzene
+  in cyclohexane, 423.4 nm (2.93 eV)
+  in methanol   , 453.9 nm (2.73 eV)

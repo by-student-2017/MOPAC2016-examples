@@ -1,0 +1,7 @@
+Experimental
+
+In cyclohexane
+2.71 eV
+
+In methanol
+2.54 eV
