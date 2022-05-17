@@ -1,7 +1,71 @@
-E = sigma/epsilon = (F/A)/(dL/L) = K(L/A)
+Young's_modulus E [GPa] = sigma/epsilon = (F/A)/(dL/L) = K(L/A)
 dH = (K/2)*(dL)^2 + B*dL + C
 B and C = constant
 
-Exp.: 253-358 N/m^2*10^-9
 
-calc.: 362 N/m^2*10^-9
+Low density polyethylene
+Exp.: density = 0.910-0.965 [g/cm^3]
+
+
+MOLECULAR WEIGHT        =         84.1608 [g/mol]
+Empirical Formula: C6 H12  =    18 atoms
+V = 84.1608/0.9375 [cm^3/mol] = 89.77152 * 10^-6 [m^3/mol]
+A = V/L0 = 89.77152 * 10^-6 / (7.74692800 * 10^-10) = 11.58801528 * 10^4 [m^2/mol]
+L/A = (7.74692800 * 10^-10)/(11.58801528 * 10^4) = 6.68529 * 10^-15 [mol/m]
+
+
+L0 = 7.74692800
+  polyethylene_L0.mop
+  FINAL HEAT OF FORMATION =        -26.53828 KCAL/MOL =    -111.03615 KJ/MOL
+
+dL1 = d(L1 - L0) = 0.003*L0
+  polyethylene_dL1.mop
+  FINAL HEAT OF FORMATION =        -25.34754 KCAL/MOL =    -106.05411 KJ/MOL
+  dH1 = -106.05411 - -111.03615 = 4.98204 KJ/MOL
+
+
+dL2 = d(L2 - L0) = 0.006*L0
+  polyethylene_dL2.mop
+  FINAL HEAT OF FORMATION =        -23.95905 KCAL/MOL =    -100.24465 KJ/MOL
+  dH2 = -100.24465 - -111.03615 = 10.7915 KJ/MOL
+
+dL3 = d(L3 - L0) = 0.009*L0
+  polyethylene_dL3.mop
+  FINAL HEAT OF FORMATION =        -22.41422 KCAL/MOL =     -93.78111 KJ/MOL
+  dH3 =  -93.78111 - -111.03615 = 17.25504 KJ/MOL
+
+
+dH1 = (K/2)*(dL1)^2 + B*dL1 + C =  4.98204 KJ/MOL = (K/2)*(0.003*L0)^2 + B*0.003*L0 + C
+dH2 = (K/2)*(dL2)^2 + B*dL2 + C = 10.79150 KJ/MOL = (K/2)*(0.006*L0)^2 + B*0.006*L0 + C
+dH3 = (K/2)*(dL3)^2 + B*dL3 + C = 17.25504 KJ/MOL = (K/2)*(0.009*L0)^2 + B*0.009*L0 + C
+
+
+ddH21 = dH2 - dH1  = (K/2)*L0^2*(0.006^2-0.003^2) + B*(0.006-0.003)*L0
+                   = (K/2)*L0^2*0.000027 + B*0.003*L0
+
+ddH32 = dH3 - dH2  = (K/2)*L0^2*(0.009^2-0.006^2) + B*(0.009-0.006)*L0
+                   = (K/2)*L0^2*0.000045 + B*0.003*L0
+
+
+ddH32 - ddH21      = (K/2)*L0^2*(0.000045-0.000027)
+                   = (K/2)*(7.74692800*7.74692800*0.000018)
+                   = K*0.001080268
+                   = dH3 - dH2 - dH2 + dH1 = dH3 - 2*dH2 + dH1
+                   = 17.25504 - 2*10.7915 + 4.98204 = 0.65408 [kJ/mol]
+                   
+                 K = 0.65408/0.001080268 = 605.479381 [(kJ/mol)/(Angstrom^2)]
+                   = 605.479381 [(kNm/mol)/(10^-20 m^2)]
+                   = 605.479381 * 10^20 [(N/m)/mol]
+                   
+
+E = K*(L/A)        = 605.479381 * 10^20 [(N/m)/mol] * 6.68529 * 10^-15 [mol/m]
+                   = 605.479381 * 6.68529 * 10^5 = 4047.805251 * 10^5 [N/m^2]
+                   = 0.4047 * 10^9 [Pa] = 0.4047 [GPa]
+                   
+LDPE(Low density polyethylene)
+Young's_modulus, E = about 0.4 [GPa] (Experimental data) 
+(https://atomica.jaea.go.jp/data/fig/fig_pict_08-04-02-15-02.html)
+
+
+[1] H. E. Klei and J. J. P. Stewart, Int. J. Quant. Chem., Quant. Chem. Symp., 20 (1986) 529.
+  https://doi.org/10.1002/qua.560300746
