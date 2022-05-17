@@ -5,7 +5,7 @@ B and C = constant
 
 Low density polyethylene
 Exp.: density = 0.910-0.965 [g/cm^3]
-
+dmean = (0.910 + 0.965)/2 = 0.9375 [g/cm^3]
 
 MOLECULAR WEIGHT        =         84.1608 [g/mol]
 Empirical Formula: C6 H12  =    18 atoms
