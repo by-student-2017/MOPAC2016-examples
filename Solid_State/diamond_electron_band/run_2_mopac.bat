@@ -1,4 +1,8 @@
 
-REM "C:\Program Files\MOPAC\bin\mopac.exe" diamond.mop
+set MOPAC2016_EXE="C:\Program Files\MOPAC\MOPAC2016.exe"
+set MOPAC_EXE="C:\Program Files\MOPAC\bin\mopac.exe"
 
-"C:\Program Files\MOPAC\mopac2016.exe" diamond.mop
+REM if exist %MOPAC_EXE% ( set MOPAC_EXE=%MOPAC_EXE% ) 
+if exist %MOPAC2016_EXE% ( set MOPAC_EXE=%MOPAC2016_EXE% )  
+
+%MOPAC_EXE% diamond.mop
