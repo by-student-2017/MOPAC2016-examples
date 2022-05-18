@@ -33,4 +33,4 @@ AM1 BONDS EF PRECISE
    H  1.087543  1  119.112271  1  179.532060  1       16      15      14   
 
 OLDGEO INDO CIS C.I.=8 MECI
-# calculate the excited states, MECI(default: C.A.S=(2,1))
+# calculate the excited states, MECI(default: C.A.S.=(2,1))
