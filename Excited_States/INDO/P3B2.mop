@@ -132,5 +132,5 @@ P3B2, S. Ghosh et al., J. Chem. Theory Comput. 13 (2017) 4410-4420.: https://doi
    H  1.083145  1  125.374092  1  180.000000  1      127     123     120   
    H  1.083145  1  128.464628  1  180.000000  1      128     127     123   
   
-OLDGEO INDO CIS C.I.=(160,80) MECI
+OLDGEO INDO CIS C.I.=(160,80) MECI MAXCI=7000 WRTCI=7000
 # calculate the excited states, MECI(default: C.A.S.=(2,1))
