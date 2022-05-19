@@ -164,5 +164,5 @@ f-coronene, S. Ghosh et al., J. Chem. Theory Comput. 13 (2017) 4410-4420.: https
    H  1.083119  1  125.548005  1  180.000000  1      159     155     152   
    H  1.083119  1  128.394285  1  180.000000  1      160     159     155   
   
-OLDGEO INDO CIS C.I.=8 MECI MAXCI=7000 WRTCI=7000
+OLDGEO INDO CIS C.I.=8 MECI
 # calculate the excited states, MECI(default: C.A.S.=(2,1))
