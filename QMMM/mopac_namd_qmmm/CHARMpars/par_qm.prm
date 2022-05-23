@@ -1,0 +1,33 @@
+
+NONBONDED 
+!
+!V(Lennard-Jones) = Eps,i,j[(Rmin,i,j/ri,j)**12 - 2(Rmin,i,j/ri,j)**6]
+!
+!epsilon: kcal/mole, Eps,i,j = sqrt(eps,i * eps,j)
+!Rmin/2: A, Rmin,i,j = Rmin/2,i + Rmin/2,j
+!
+!atom  ignored    epsilon      Rmin/2
+!
+!qm corrected parameters
+qC      0.000000  -0.002000     2.680000
+qH      0.000000  -0.008000     1.494500
+qN      0.000000  -0.100000     2.150000
+qO      0.000000  -0.001000     2.370000
+qS      0.000000  -0.008000     2.680000
+
+!par_all36_prot
+!C      0.000000  -0.110000     2.000000
+!H      0.000000  -0.046000     0.224500
+!N      0.000000  -0.200000     1.850000
+!O      0.000000  -0.120000     1.700000
+!S      0.000000  -0.450000     2.000000
+
+!toppar_water_ions_namd
+!HT       0.0       -0.046     0.5245
+!OT       0.0       -0.1521    1.7682
+
+BONDS
+qC  CT1     250.000     1.4900 
+NH1  qC     320.000     1.4300
+
+END
