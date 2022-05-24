@@ -1,5 +1,5 @@
 anisole
-C(03) is max value. Electrophile attack.
+C(04) is max value at HOMO. Electrophile attack.
 
 HOMO LUMO ENERGIES (EV) =         -9.114  0.350
 
@@ -43,7 +43,7 @@ HOMO LUMO ENERGIES (EV) =         -9.114  0.350
 
 --------------------------------------------------------------------------------------------
 2-Ethoxynaphthalene
-C(02) is max value. Electrophile attack.
+C(02) is max value at HOMO. Electrophile attack.
 
 HOMO LUMO ENERGIES (EV) =         -8.586 -0.405
 
