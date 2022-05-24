@@ -1,0 +1,21 @@
+
+No5.mop
+C(01) is max value at HOMO. Electrophile attack.
+
+No6.mop
+C(01) is max value at HOMO. Electrophile attack.
+
+No7.mop
+C(01) is max value at HOMO. Electrophile attack.
+
+No8.mop
+C(01) is max value at HOMO. Electrophile attack.
+
+No9.mop
+C(01) is max value at HOMO. Electrophile attack.
+
+No10.mop
+N(01) is max value at HOMO. Electrophile attack.
+
+No11.mop
+N(01) is max value at HOMO. Electrophile attack.
