@@ -1,0 +1,71 @@
+-------------------------------------------------------------------------
+MOPAC-22.0.1
+
+INDO (INDO/S-CIS, ZINDO):
+  H,
+  Li, Be,                                         B,  C,  N,  O,  F,  Ne,
+  Na, Mg,                                         Al, Si, P,  S,  Cl, Ar,
+  K,  Ca, Sc, Ti, V,  Cr, Mn, Fe, Co, Ni, Cu, Zn,         As, Se, Br,
+      Sr, Y,  Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd,                 I,
+                                          Au
+
+RM1: 
+  H, C ,N, O, F, P, S, Cl, Br, I,
+  La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu
+  La3+ sparkle
+
+AM1:
+  H,                                                                  He,
+  Li, Be,                                         B,  C,  N,  O,  F,  Ne,
+  Na, Mg,                                         Al, Si, P,  S,  Cl, Ar,
+  K,  Ca,                                     Zn, Ga, Ge, As, Se, Br, Kr,
+  Rb, Sr,         Mo,                             In, Sn, Sb, Te, I,  Xe,
+  Cs, Ba,                                     Hg, Tl, Pb, Bi
+  La3+ sparkle
+
+PM3:
+  H,                                                                  He,
+  Li, Be,                                         B,  C,  N,  O,  F,  Ne,
+  Na, Mg,                                         Al, Si, P,  S,  Cl, Ar,
+  K,  Ca,                                     Zn, Ga, Ge, As, Se, Br, Kr,
+  Rb, Sr,                                     Cd, In, Sn, Sb, Te, I,  Xe,
+  Cs, Ba,                                     Hg, Tl, Pb, Bi
+  La3+ sparkle
+
+PM6:
+  Everything except "58-70, 84-end"
+  La3+ sparkle
+
+PM7:
+  Everything except "58-70, 84-end"
+  La3+ sparkle
+
+PM8:
+  Everything except "58-70, 84-end"
+  Do not exist "parameters_for_PM8_Sparkles_C.F90"
+-------------------------------------------------------------------------
+MOPAC 2016
+
+AM1: H, Li, Be, C, N, O, F,
+  Na, Mg, Al, Si, P, S, Cl,
+  K, Ca, Zn, Ga, Ge, As, Se, Br,
+  Rb, Sr, Mo, Cd, In, Sn, Sb, Te, I,
+  Cs, Ba, Hg, Tl, Pb, Bi,
+  La3+ sparkle
+
+PM3: H, Li, Be, B, C, N, O, F,
+  Na, Mg, Al, Si, P, S, Cl,
+  K, Ca, Zn, Ga, Ge, As, Se, Br,
+  Rb, Sr, Cd, In, Sn, Sb, Te, I,
+  Cs, Ba, Hg, Tl, Pb, Bi,
+  La3+ sparkle
+
+RM1: H, C, N, O, F, P, S, Cl, Br, I
+  La3+ sparkle
+
+PM6: Everything except "58-70, 84-end"
+  La3+ sparkle
+
+PM7: Everything except "58-70, 84-end"
+  La3+ sparkle
+-------------------------------------------------------------------------
