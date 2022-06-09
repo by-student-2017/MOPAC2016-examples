@@ -1,0 +1,1 @@
+sed "s/,/ /g" Book1.csv | awk '{printf "%2s %12.5f  %i %12.5f  %i %12.5f  %i %10.5f \n", $1,$2,$3,$4,$5,$6,$7,$8}' > results.txt
